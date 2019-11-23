@@ -487,6 +487,20 @@ extemporaneous a 临时的(ex 出+tempor 时间)
 
 maditerraneous a 地中海的(medi 中间+terr 土地
 
+## la. animus anima 思想、灵魂、生命
+
+animal
+
+animus 基本态度；敌意；女性人格的男性基质
+
+animosity 憎恶
+
+animation 活泼；动画制作
+
+animadvert v 批评，非难
+
+animadversion 批评，非难
+
 ## ann, enn=year,表示”年,一年”
 
 annual 一年一度的(ann+ual)
@@ -787,6 +801,12 @@ appreciative a 感谢的,赞赏的(appreciate 欣赏)
 
 affirmative a 肯定的(affirm 肯定)
 
+## a孤立词
+
+ape n猿；->v模仿
+
+austere a 严肃朴素(el. αὔω 'to singe'，使口燥于酒果也) -> austerity, austerely
+
 
 
 # B
@@ -837,8 +857,21 @@ brace v 支持,使坚固的 n. 支持物
 
 bracelet n 手镯(brace+let 小东西=带在手上的小东西=手镯) 
 
-embrace v 拥抱,包括(em 进入+brace=进入两臂=拥抱
+embrace v 拥抱,包括(em 进入+brace=进入两臂=拥抱)
 
+## braid, *bregdaną 扭
+
+braid n 辫子 v 编辫子
+
+upbraid v 叱骂、谴责（up向上）
+
+bridle n 马勒 v 抑制（感情等）
+
+embroidery n 刺绣（实非来自braid，只是受影响）（em-，使扭）
+
+## b孤立词
+
+bogus a 伪造的
 
 
 # C
@@ -990,6 +1023,18 @@ carnivorous 食肉类的
 reincarnate 再具肉体,转生
 
 carcass 尸体,残骸
+
+## cast=pure,表示”纯洁”; la. castus a, castigare v;
+
+caste n 种姓制度
+
+castigate v 惩罚,严厉批评(cast igate表动词=使…纯洁=惩罚[错误])
+
+chaste a 纯洁的(chast=cast)（O.Fr.）
+
+chastise v 严惩
+
+chasten v 惩罚；抑制
 
 ## ced, ceed, cess=go,表示”行走,前进”
 
@@ -4979,9 +5024,7 @@ manufacture v/n 制造,加工(manu+ fact 做+ure=用手做=制造)
 
 manumit v 解放,释放(manu+mit 放=把手放了=释放) 
 
-maintain v 保持,维持(main[=man 手]+tain 拿=用手拿住=保
-
-持
+maintain v 保持,维持(main[=man 手]+tain 拿=用手拿住=保持
 
 ## mark= sign,表示”记号,符号”
 
@@ -7401,9 +7444,15 @@ solace n 安慰(sol+ace=给人太阳=安慰)
 
 console v 安慰(con 共同+sole=共同的太阳=安慰)
 
-## son=sound,表示”声音”
+## son=sound,表示”声音”; la. sonus, sonare, prp. sonans, pp. sonitus; 
 
 sonic a 声音的,声波的
+
+sonorous a 响亮
+
+sonority n 洪亮度
+
+sonata n 奏鸣曲（it. pp., 区别于 cantata）
 
 supersonic a 超音速的(super 超+sonic)
 
@@ -7418,6 +7467,24 @@ consonance n 调和,共鸣(con+son+ance)
 resonant a 有回声的,共鸣的(re 回+son+ant=有回声的) 
 
 resonance n 反响,共鸣(re+son+ance
+
+## la. spargere 撒、喷
+
+sparse a 稀疏
+
+sparge n/v 喷水
+
+asperse v 诽谤；洒圣水于(ad+)
+
+aspersion n 诽谤
+
+disperse v 分散、驱散(dis 离+)
+
+dispersion 
+
+intersperse vt 散置、点缀
+
+interspersion 
 
 ## speci=look, kind, 表示”外观,种类”
 
@@ -7709,9 +7776,45 @@ stratify v 使成层,使分层
 
 prostrate v 使俯卧,使沮丧(pro 前+strate=前[后]回一贯层次上=俯卧)
 
-substratal a 基础的,基本的(sub 下面+strat+al=在下面一层=
+substratal a 基础的,基本的(sub 下面+strat+al=在下面一层=基础的
 
-基础的
+## strain,striet,string=tighten,表示"拉紧"; la. stringere, prp. stringens, pp. strictus
+
+strain v 尽力拉,工作过度
+
+constrain a 强迫,强制(con一起 strain=拉到一起=限制,强制)
+
+constraint n 约束,强迫
+
+distrain v 扣押财产(dis分开 strain=把财产拉走)
+
+overstrain a 过度紧张(over过分 strain)
+
+restrain v 抑制,限制(re回 strain
+
+restraint n 抑制,限制
+
+strict n 严厉的,严格的
+
+stricture a 谴责,非难(stict严厉 ure=严厉=谴责)
+
+constrict n 压缩,收缩(con一起 strict=拉回来=限制)
+
+constriction v 收缩
+
+restrict a 限制,限定(re回 strict=拉回来=限制)
+
+restrction n 限制
+
+stringent n 紧迫的(string ent=拉紧的=紧迫的)
+
+stringency a 紧急,严厉(sting ency)
+
+constringe n 使收缩(con一起 stringe=拉到一起=收缩)
+
+constringent v 收缩性的
+
+astringent a 收敛的止血的；严厉的 n 止血药
 
 ## sult=leap,表示”跳”
 
@@ -7841,9 +7944,7 @@ superintend 监督(super+intend 关心=在上面关心=监督)
 
 supersede 淘汰,取代(super+sede 坐=坐上去=淘汰(以前的东西))
 
-superstition 迷信(super+stit 站+ion=站在人(理智)之上的东西
-
-=迷信
+superstition 迷信(super+stit 站+ion=站在人(理智)之上的东西=迷信
 
 ## sym-,syn-表示”共同,相同”
 
@@ -7866,6 +7967,10 @@ synthesis 合成(syn+thesis 放=放在一起=合成)
 synopsis 摘要,概要(syn+ops 选择+is=共同选出=摘要)
 
 syndrome 综合症状(syn+drome 跑=跑到一起=综合症
+
+## s孤立词
+
+slur nv 诽谤；连音符；含糊音
 
 
 
@@ -7893,9 +7998,7 @@ contagious a 传染的(con+tag+ious)
 
 contiguous a 邻近的,接近的(con 共同+tig+uous 互相接触=毗邻的)
 
-contingent a 依条件而定的(con 共同+ting+ent=(根据)大家接
-
-触到的情况而定)
+contingent a 依条件而定的(con 共同+ting+ent=(根据)大家接触到的情况而定)
 
 contingency a 偶然,意外事故(con+ting+ency=两件事接触= 两车相撞=意外事故)
 
@@ -8173,7 +8276,7 @@ text n 课文,原文(文章为作者所编)
 
 textile n 纺织品(text+ile=编织出的物品)
 
-textile n 结构,质地(text+ure=编制状态=结构)
+texture n 结构,质地(text+ure=编制状态=结构)
 
 context n 上下文(con 共同+text=共同编织在一起的=上下文) 
 
@@ -8801,12 +8904,6 @@ versatility n 多才多艺
 
 vertical a 垂直(vert+ical[下垂的东西]) 
 
-avert v 避开(a 离开+vert=转开=避开)
-
-advertise v 做广告(at 一再+vert+ise=转来转去做广告) 
-
-advertisement n 广告
-
 convert v 转化,改造(con 共同+vert=共同转=转化) 
 
 conversion n 转化,(宗教的)改变
@@ -8833,13 +8930,21 @@ revert v 恢复原状(re 回+ert=转回来=恢复)
 
 reversion n 恢复原状
 
-averse a 反感的(a 坏+vers+e=往坏转=反感的) 
+avert v 避开(ab 离开+vert=转开=避开)
+
+averse a 反感的(a 坏+vers+e=往坏转=反感的) (to sth)
 
 aversion n 反感
 
 adverse a 逆反,不辛
 
 adversary n 敌手,对手(ad+ers 逆反+ary 人=逆反之人=对手) 
+
+animadversion n 批评，非难
+
+advertise v 做广告(at 一再+vert+ise=转来转去做广告) 
+
+advertisement n 广告
 
 anniversary n 周年纪念日(anni 年+vers+ary=一年转一次= 纪念日)
 
@@ -8871,9 +8976,7 @@ transversal a 横断的(taans 横+vers+al=横着转=横断的)
 
 universe n 宇宙(uni 一个+vers+e=统一旋转=宇宙) 
 
-university n 大学(uni+vers+ity=由宇宙引申为知识,知识之地
-
-=大学)
+university n 大学(uni+vers+ity=由宇宙引申为知识,知识之地=大学)
 
 vertigo n 眩晕(vert+igo=go around 转着走=眩晕)
 
