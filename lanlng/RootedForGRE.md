@@ -1,3 +1,10 @@
+*一些原则：*
+
+- 以 GRE 需要的词汇为主，会加入一些简单词便于联想而不标词义
+- Pusto添加的词源一般都给出原始语言对应的单词。拉丁词源动词标现在时主动态不定式、现在分词prp、过去分词pp
+- 来自同一原始印欧语词源的合并至该词源，并将同一原始印欧语词源不同路径进入英语的单词归入同一个子分类（第三级标题）
+
+
 
 # A
 
@@ -109,7 +116,7 @@ debilitate v 削弱力量,使衰弱(de 去掉+abilit+ate=去掉能力= 使衰弱
 
 debility n 体弱,虚弱(de 去掉+ability 能力)
 
-##-acle 表名词,”…物品,状态”
+## -acle 表名词,”…物品,状态”
 
 receptacle n 容器(recept 接受)
 
@@ -123,9 +130,7 @@ pinnacle n 尖塔(pinn 尖+acle)
 
 obstacle n 障碍(ob 在+sta{=stand 站}+acle=站在中间的物品=障碍)
 
-debacle n 解冻,崩溃(de 去掉+bacle[=block]+acle=去掉大块
-
-东西=解冰块
+debacle n 解冻,崩溃(de 去掉+bacle[=block]+acle=去掉大块东西=解冰块
 
 ## acid, acri, acrid, acu=sour, sharp, 表示”尖,酸,锐利”
 
@@ -174,34 +179,6 @@ tenacious a 固执的(ten 拿住,参考:tenable 防守得住的)
 sequacious a 前后连贯的(sequ=secu 跟随,参考:persecute 迫害)
 
 voracious a 贪婪的(vor 吃,参考:omnivorous 无所不吃的)
-
-## act=to do, to drive,表示”行动,做”
-
-act 行为
-
-acting 演技
-
-activity 活动(act+ivity 状态=活动状态)
-
-activate 使…活动,起动(act+ivate 使…=使…活动)
-
-actualize 实现(actual 实际的+ize 化=实际化=实现)
-
-enact 实施,颁布(en+act=使(法律)动=实施法律)
-
-exact 强求,精确的(ex 出+act=[要求]做出来=强求)
-
-exacting 苛求的(exact+ing)
-
-interact 相互作用(inter 相互+act=相互动=相互作用)
-
-react 反应,反抗(re 反+act=反动,反应)
-
-transact 做交易,办理(trans 横+act=横向动=互相贸易或交易)
-
-counteract 抵抗,抵消(counter 反+act=反着动=力量对抗=抵消)
-
-inactivity 不活跃(in 不+activity 活跃)
 
 ## -acy 表名词,”=性质,状态”
 
@@ -279,32 +256,6 @@ cavalcade n 骑 兵 队 (caval 马 +cade)
 
 renegade n 叛徒(renege 背信弃义)
 
-## ag=do, act, 表示”做,代理做”
-
-agenda 议事日程(ag+enda 表示复数=做的事情=议程)
-
-agile 灵活的,敏捷的(ag+ile 能…的=能做的=灵活的)
-
-agitate 鼓动,搅动(ag+itate 表动作=反复作=鼓动)
-
-agitation 鼓动,煽动(agitate+ion)
-
-agitator 鼓动者(agitate+or 人=鼓动的人)
-
-agitating 使人不安的(agitate+ing)
-
-agent 作用因素,代理人(ag+ent 表人或物=做的人=代理人)
-
-agency 代理处(ag+ency 表示机构或状态=代理机构)
-
-coagent 合作者(co 共同+agent=共同做的人)
-
-counteragent 反作用剂,反抗力(counter+agent 作用因素=反作用=反抗力)
-
-reagent 反应力,试剂(re 再+agent 作用=再次作用=反应,引申
-
-为化学试剂
-
 ## -age 名词反缀
 
 (1)	表示”状态,总称” 
@@ -367,13 +318,9 @@ agony n 痛苦
 
 agonize v 感到苦恼(agon+ize)
 
-antagonize v 反对,对抗(ant[=anti 反]+agon+ize=反过来斗争
+antagonize v 反对,对抗(ant[=anti 反]+agon+ize=反过来斗争=对抗)
 
-=对抗)
-
-antagonist n 对手(ant[=anti 反]+agon+ist=反过来斗争之人
-
-=对手)
+antagonist n 对手(ant[=anti 反]+agon+ist=反过来斗争之人=对手)
 
 ## alt=high,表示”高”
 
@@ -415,9 +362,7 @@ amicable 友好的,温和的(am+ic+able=能爱(你)的=友好的)
 
 amity 友好,和睦(am+ity 状态=爱的状态=和睦)
 
-enmity 敌意,仇恨(en 进入+am+ity=合成enmity,爱太多的成为
-
-恨)
+enmity 敌意,仇恨(en 进入+am+ity=合成enmity,爱太多的成为恨)
 
 ## -an 表名词和形容词,”…地方.…人
 
@@ -869,6 +814,18 @@ bridle n 马勒 v 抑制（感情等）
 
 embroidery n 刺绣（实非来自braid，只是受影响）（em-，使扭）
 
+## bu=ox,表示”牛”
+
+bull n 公牛
+
+bully v 欺负(别人)(象公牛一样吓唬别人)
+
+bucolic a 牧场的,田园的(buc olie表形容词)
+
+buffalo n 公牛(可能是bull的变体)
+
+bugle n 军号,喇叭(bull angle的组合)
+
 ## b孤立词
 
 bogus a 伪造的
@@ -1268,9 +1225,7 @@ preclude v 预防,杜绝(pre 预先+clude=预先关好=预防)
 
 preclusion n 预防,排除(preclude 的名词)
 
-recluse n 隐士,遁世者(re 返回+cluse=返回[家中]关起来=隐
-
-居)
+recluse n 隐士,遁世者(re 返回+cluse=返回[家中]关起来=隐居)
 
 reclusive a 隐居的(recluse+ive)
 
@@ -1358,9 +1313,7 @@ compact 紧密的,合同(com+pact 压紧=全部压紧=紧密的)
 
 comfort 安慰(com+fort 加强=[精神]强大=安慰)
 
-commodious 宽敞的(com+mod 动+ious=共同动=有动的地方
-
-=宽敞的)
+commodious 宽敞的(com+mod 动+ious=共同动=有动的地方=宽敞的)
 
 compete 比赛(com+pete 追求=一起追=比赛)
 
@@ -1384,9 +1337,7 @@ conflict 冲突(con+flict 打=一起打斗=冲突)
 
 confluence 汇流(con+flu 流+ence=共同流=汇流)
 
-congregate 集合的,聚集的(con+greg 集合+ate=集合到一起=
-
-聚集的)
+congregate 集合的,聚集的(con+greg 集合+ate=集合到一起=聚集的)
 
 console 安慰(con+sole 安慰=一起安慰)
 
@@ -1416,9 +1367,7 @@ corpuscle n 血球(corp+uscle 小东西=小球体=血球)
 
 corpulent a 肥胖的(corp+ulent 多…的=多身体的=肥胖的) 
 
-incorporate v 结合,合并(in 进入+corporate 团体的=进入团体
-
-=结合)
+incorporate v 结合,合并(in 进入+corporate 团体的=进入团体=结合)
 
 incorporeal a 无形体的(in 无+corporeal 有形的=无形的)
 
@@ -1574,13 +1523,9 @@ cult n 崇拜,教派(cult=[对精神的]培养=崇拜,引申为教派)
 
 incult a (土地)未耕的(in 无=cult 耕种=无耕种的)
 
-occult a 奥秘的,神秘的(oc+cult 教派=在教派内不让别人知道
+occult a 奥秘的,神秘的(oc+cult 教派=在教派内不让别人知道=奥秘的)
 
-=奥秘的)
-
-agriculture n 农业,农学(agri 田地]+culture 文化,引申为养殖业
-
-=农业)
+agriculture n 农业,农学(agri 田地]+culture 文化,引申为养殖业=农业)
 
 arboriculture n 树木栽培(arbori 树木+ckulrure) 
 
@@ -1596,64 +1541,6 @@ curt (说话)短而粗暴的
 
 curtail v 截短,缩短(讲话 节目等)
 
-## cur(r),curs, cours=run, 表示”跑,发生”
-
-current n 流动的,n.潮流(currr+cnt=跑的=流动的) 
-
-currency n 流传,流通的货币(跑来跑去的钱=流通货币)
-
-curriculum v 课程(表)(curr+iculum 表名词=学员跑来跑去的
-
-[依据]=课表)
-
-concur a 同时发生(con 共同+cur=共同跑=同时发生) 
-
-concurrent v 同时的,共同的(concur+rent=同时的) 
-
-incur n 招惹,蒙受(in 进入+curs=跑进来=招惹} 
-
-incursion a 侵入,袭击(in 进入+curs+ive)
-
-incursive v 侵略的,入侵的(in+curs+ive)
-
-occur n 发生,出现(oc 反复+cur=反复跑=[反复]发生) 
-
-occurrence v 出现,产生(occur+r+ence)
-
-recur a 再发生,重现(re 再次+cur=再次跑来)
-
-recurrent a 一 再 发 生 的 (recur+r+ent) 
-
-cursory a 草率的(curs+ory=跑过去=草率的)
-
-cursive v (字)草写的(curs+ive=象跑=样写=草写) 
-
-excurse n 远足,旅游(ex 出+curse=跑出去=远足) 
-
-excursion a 远足,游览(excurse+ion)
-
-excursive n 离题的,散漫的(ex+curs+ive=[思想]跑出去,里离题的)
-
-precursor n 先驱,先兆(pre+curs+or=先跑者=先驱) 
-
-course n 路程,课程
-
-concourse n 汇合,合流(con 共同+course=共同跑=汇合) 
-
-courser n 跑者,猎犬(course+er=跑的人或物)
-
-intercourse n 交流,性交(inter 在…..之间+course=在二者之间跑=交流)
-
-recourse n 依赖,求助(re 回+course=跑回来=求助) 
-
-scour v 搜索,巡视(scour=course)
-
-succor n 救助,救援(suc 下面+course=跑下去救助) 
-
-courier n 信使(cour+ier=跑的人=信使)
-
-coarse a 粗糙的(coarse=course 跑过去=粗糙的)
-
 ## cuss = shake,表示”摇动”
 
 concussion n 冲击,震荡(con 全部+cuss+ion=全部摇动=震荡) 
@@ -1662,9 +1549,7 @@ discuss n 讨论(dis 分散+cuss=分散敲击[问题]=讨论)
 
 percussion n 撞击,震动(per 从头到尾+cuss+ion=一直摇动= 震动)
 
-repercussion n 反响,影响(re 一再+percussion=一再引起震动
-
-=产生的影响,后果)
+repercussion n 反响,影响(re 一再+percussion=一再引起震动=产生的影响,后果)
 
 ## -cy 表名词,也作-acy,”性质,状态” 
 
@@ -1717,24 +1602,6 @@ digress 离题(di+gress 走=走开=离题)
 divide 分开(di+vide 分开=分开)
 
 divorce 离婚(di+vorce=vert 转=从(丈夫身边)转开=离婚,参考:divert 转开)
-
-## 父,祖-patr(i); part(o); pater
-
-patriarch[patri 父,祖arch 首脑,长]家长,族长
-
-patriarchal[见上,-al…的]家长的,族长的,家长似的
-
-patriot[patri 祖=祖国,-ot 名词字尾,表示人]爱祖国者,爱国主义者
-
-patriotic(见上,-otic 形容词字尾,…的)爱国的
-
-patriotism[见上,-ism 主义]爱国主义,爱国心
-
-unpatriotic(un-不,见上)不爱国的
-
-paternal(pater 父,-n-,-al…的)父亲的,父系的
-
-paternalism[见上,-ism 表示行为,现象]家长式统治,家长作风
 
 ## 母-matr(i); mater; metro
 
@@ -1814,9 +1681,7 @@ addict v 耽溺,上瘾(ad 一再+dict 说=说了还说=耽溺)
 
 addiction n 耽溺,嗜好(addict+ion)
 
-interdict v 禁止n. 禁令(inter 在中间+ dict=在中间说,不让做
-
-=禁止)
+interdict v 禁止n. 禁令(inter 在中间+ dict=在中间说,不让做=禁止)
 
 valediction n 告别赠言(vale 再见+dict +ion =说再见) 
 
@@ -1932,13 +1797,15 @@ androgyne[andro 男人,gyn 女人]具有男妇两性的人,阴阳人
 
 androgynism[andro 男,gyn 女,-ism 表性质状态]半男半女
 
-##男-(2)vir
+## 男-(2)vir
 
 virile[vir 男,ile 形容词字尾,…的]男的,男性的,男子的,有男子气概的,有男性生殖力的
 
 virilism[见上,-ism 表示现象]男性现象
 
-virility[见上,-ity 表示性质]男子气概,男生殖力,男子的成年女-(1)gyn(o); gynec(o)
+virility[见上,-ity 表示性质]男子气概,男生殖力,男子的成年
+
+## 女-(1)gyn(o); gynec(o)
 
 gynecology[gyneco 妇女,-logy…学]妇科学,妇科
 
@@ -2164,13 +2031,9 @@ redeem v 赎回,买回(red=[re 回]+eem[=em]=拿回=赎回)
 
 redemption n 赎回,买回(redeem 的名词)
 
-premium n 奖品,奖金(pre 前面+em+ium=在前面[的人]拿到
+premium n 奖品,奖金(pre 前面+em+ium=在前面[的人]拿到=奖品)
 
-=奖品)
-
-peremptory a 专横的,武断的(per 全部+empt+ory=全部拿了
-
-=武断的)
+peremptory a 专横的,武断的(per 全部+empt+ory=全部拿了=武断的)
 
 preempt v 以先买权取得,先发制人(pre 预先+empt=预先拿= 先发制人)
 
@@ -3184,30 +3047,6 @@ genteel a 高雅的,有礼貌的(gent+eel=出身好的=高雅的,gentle”温柔
 
 engender v 产生(en 使+gender 产生=使产生)
 
-## gest,gister=carry,bring,表示”带来,产生”
-
-gesture n 姿势,手势(gest+ure=带来信息的动作=手势) 
-
-gesticulate v 做手势(gest[=gesture]+iculate 表动作) 
-
-congest v 充满,拥挤(con 共同+gest=带到一起=拥挤)
-
-congestion n 拥挤,稠密(congest+ion)
-
-digest v 消化,摘要(di 分开+gest=分开带=[把营养]带到身体= 消化)
-
-digestion n 消化(digest+ion)
-
-indigestion n 消化不良(in 不+digestion 消化)
-
-suggest v 提议,建议(sug 在下面+gest=从下面带上来=建议) 
-
-suggestion n 建议,暗示(suggest+ion)
-
-register v/n 登记,注册(re 再次+gister=再次带来=[学员]注册, 登记)
-
-registration n 记录,注册(register+ation=registration)
-
 ## gloss,glot=tongue 表示”舌头”,引申为”词语”
 
 diglossia n 双语制的(di 二+gloss+ia) 
@@ -3351,6 +3190,156 @@ inhalation n 吸入,吸气(inhale+ation)
 exhale v 呼气(ex 出 +hal+e)
 
 halitosis n 口臭(halit[=hal]+osis 表示病=呼吸病=口臭
+
+## PIE *h₂eǵ- "to drive"
+
+podagra n 足痛风（πούς (“foot”) +‎ ἄγρᾱ (“hunting”)）
+
+### *h₂eǵ- 的后代：el. ᾰ̓́γω; la. agere prp. agens pp. actus; act=to do, to drive,表示”行动,做”; ag=do, act, 表示”做,代理做”
+
+act 行为
+
+acting 演技
+
+activity 活动(act+ivity 状态=活动状态)
+
+activate 使…活动,起动(act+ivate 使…=使…活动)
+
+actualize 实现(actual 实际的+ize 化=实际化=实现)
+
+enact 实施,颁布(en+act=使(法律)动=实施法律)
+
+exact 强求,精确的(ex 出+act=[要求]做出来=强求)
+
+exacting 苛求的(exact+ing)
+
+interact 相互作用(inter 相互+act=相互动=相互作用)
+
+react 反应,反抗(re 反+act=反动,反应)
+
+transact 做交易,办理(trans 横+act=横向动=互相贸易或交易)
+
+counteract 抵抗,抵消(counter 反+act=反着动=力量对抗=抵消)
+
+inactivity 不活跃(in 不+activity 活跃)
+
+agenda 议事日程(ag+enda 表示复数=做的事情=议程)
+
+agile 灵活的,敏捷的(ag+ile 能…的=能做的=灵活的)
+
+agitate 鼓动,搅动(ag+itate 表动作=反复作=鼓动)
+
+agitation 鼓动,煽动(agitate+ion)
+
+agitator 鼓动者(agitate+or 人=鼓动的人)
+
+agitating 使人不安的(agitate+ing)
+
+agent 作用因素,代理人(ag+ent 表人或物=做的人=代理人)
+
+agency 代理处(ag+ency 表示机构或状态=代理机构)
+
+coagent 合作者(co 共同+agent=共同做的人)
+
+counteragent 反作用剂,反抗力(counter+agent 作用因素=反作用=反抗力)
+
+reagent 反应力,试剂(re 再+agent 作用=再次作用=反应,引申为化学试剂
+
+ambiguous a 模棱两可(游移、犹豫->含混)
+
+cogent a 令人信服、强有力（la. cogere 收集、强迫）
+
+coact v 协作
+
+coagulum n 凝结物
+
+examine v (la. examinare)
+
+examination
+
+protagonist n 主角
+
+purge v 净化 (pūrus (“clean, pure”) +‎ agō (“make”))
+
+*la. agere 后缀形式 -igare 可以跟在跟多词后面表示做、使*
+
+navigate v 导航、驾驶
+
+mitigate v 使缓和、减轻
+
+fumigate v 烟熏消毒
+
+litigation n 诉讼
+
+transigent a 妥协的
+
+variegate v 使斑驳、使多样化
+
+### *h₂eǵ- 的后代：*h₂éǵros 田地
+
+acre
+
+*de. Acker 田野*
+
+*la. ager 田地*
+
+agriculture n (field + cultivation 耕地也)
+
+### *h₂eǵ- 的后代：*h₂eḱs- "axis"
+
+axle n 轮轴
+
+axis n 轴
+
+*de. Achse n 轴*
+
+*de. Achsel n 肩*
+
+aisle n 过道 (la. ala 翼，教堂的翼)
+
+axilla n 腋窝
+
+alar a 翼的
+
+alinasal a 鼻翼的
+
+alate a 有翼、有翼状物
+
+### *h₂eǵ- 可能的后代：*h₂ǵ-es- ; la. gerere prp. gerens pp. gestus; gest,gister=carry,bring,表示”带来,产生”
+
+cast (Gmc. *kas- "throw, raise")
+
+gesture n 姿势,手势(gest+ure=带来信息的动作=手势) 
+
+gesticulate v 做手势(gest[=gesture]+iculate 表动作) 
+
+congest v 充满,拥挤(con 共同+gest=带到一起=拥挤)
+
+congestion n 拥挤,稠密(congest+ion)
+
+digest v 消化,摘要(di 分开+gest=分开带=[把营养]带到身体= 消化)(dī-(for dis- (“apart”))+gerō)
+
+digestion n 消化(digest+ion)
+
+indigestion n 消化不良(in 不+digestion 消化)
+
+suggest v 提议,建议(sug 在下面+gest=从下面带上来=建议) 
+
+suggestion n 建议,暗示(suggest+ion)
+
+register v/n 登记,注册(re 再次+gister=再次带来=[学员]注册, 登记)
+
+registration n 记录,注册(register+ation=registration)
+
+gerund n 动名词
+
+exaggerate v (ad(“to, toward”)+‎gerere(“to carry”),添油加醋太多hh)
+
+### *h₂eǵ- 的后代：*h₂ǵ-tó-s，从高卢语 ambaxtos 进入日耳曼、罗曼
+
+*de. Amt 机关、部门*
+
+ambassador n 大使 (la. ambactus 借高卢语但构词逻辑同 la. ambi + agere)
 
 ## her,hes=stick,表示”粘附”
 
@@ -3774,9 +3763,7 @@ incorrigible 积习难改的(in+corrigible 可改正的)
 
 inconstant 多变的,无常的(in+constant 稳定的)
 
-indifferent 冷漠的(in+different 不同的=同与不同的”事不关已”
-
-=冷漠的)
+indifferent 冷漠的(in+different 不同的=同与不同的”事不关已”=冷漠的)
 
 innocuous 无害的(in+noc 毒害+ous=无害的)
 
@@ -3904,9 +3891,7 @@ propulsion n 推进(propulse 推进,pro+pulse 冲动)
 
 expansion n 扩张(expanse 扩大,ex 出+panse 扩展)
 
-apprehension n 担忧,逮捕(apprehend 担心,逮捕,ap+prehend
-
-抓住)
+apprehension n 担忧,逮捕(apprehend 担心,逮捕,ap+prehend抓住)
 
 aversion n 嫌恶,憎恨(averse 逆反的,反对的,a 反+verse 转) 
 
@@ -3938,9 +3923,7 @@ consolation n 安 慰 (console 安 慰 ,con+sole 安 慰 )
 
 resignation n 辞职,听从(re 后退+sign 签字…辞去职位)
 
-lucubration n 刻苦研究(lucubrate 刻苦攻读,luc 灯光+ubr 工作
-
-+ation)
+lucubration n 刻苦研究(lucubrate 刻苦攻读,luc 灯光+ubr 工作+ation)
 
 inflation n 通货膨胀(inflate 充气,膨胀,in+flate 气)
 
@@ -4598,9 +4581,7 @@ adjunct n 附属物,助手(ad 增加+junct=加上连接=附属物,助手)
 
 conjunction n 结合,连接词(con 共同+junct+ion=共同连上=结合)
 
-conjuncture n ( 事情同时发生的) 关头,危机时刻(con 共同
-
-+juncture 连接点=所有事连到一起=关键时刻)
+conjuncture n ( 事情同时发生的) 关头,危机时刻(con 共同+juncture 连接点=所有事连到一起=关键时刻)
 
 disjunction n 分离,折断(dis 分开+junction=连接分开=分离)
 
@@ -4629,6 +4610,96 @@ subjoin v (在末尾)添加,增补(sub 在下面+join=在下面接上=增补
 
 
 # K
+
+
+
+## PIE *ḱers- "to run"
+
+hurry
+
+horse
+
+*de. Ross 骏马、蠢驴*
+
+rush
+
+### *ḱers- 的后代：la. carrus 借自高卢语， 
+
+car
+
+*de. Karre 手推车*
+
+career
+
+carrack n (15至18世纪初军舰商船两用的)大帆船
+
+charge (la. carricare)
+
+surcharge n/v 附加费
+
+discharge n/v 卸货，放电，开除，履行
+
+cargo n 货物
+
+caricature n/v 漫画（放大特征），讽刺画，夸张的描述
+
+### *ḱers- 的后代：cur(r),curs, cours=run, 表示”跑,发生”; la. currere prp. currens pp. cursus, currus n;
+
+current n 流动的,n.潮流(currr+cnt=跑的=流动的) 
+
+currency n 流传,流通的货币(跑来跑去的钱=流通货币)
+
+curriculum v 课程(表)(curr+iculum 表名词=学员跑来跑去的[依据]=课表)
+
+concur a 同时发生(con 共同+cur=共同跑=同时发生) 
+
+concurrent v 同时的,共同的(concur+rent=同时的) 
+
+incur n 招惹,蒙受(in 进入+curs=跑进来=招惹} 
+
+incursion a 侵入,袭击(in 进入+curs+ive)
+
+incursive v 侵略的,入侵的(in+curs+ive)
+
+occur n 发生,出现(oc 反复+cur=反复跑=[反复]发生) 
+
+occurrence v 出现,产生(occur+r+ence)
+
+recur a 再发生,重现(re 再次+cur=再次跑来)
+
+recurrent a 一 再 发 生 的 (recur+r+ent) 
+
+cursory a 草率的(curs+ory=跑过去=草率的)
+
+cursive v (字)草写的(curs+ive=象跑=样写=草写) 
+
+excurse n 远足,旅游(ex 出+curse=跑出去=远足) 
+
+excursion a 远足,游览(excurse+ion)
+
+excursive n 离题的,散漫的(ex+curs+ive=[思想]跑出去,里离题的)
+
+precursor n 先驱,先兆(pre+curs+or=先跑者=先驱) 
+
+course n 路程,课程
+
+concourse n 汇合,合流(con 共同+course=共同跑=汇合) 
+
+courser n 跑者,猎犬(course+er=跑的人或物)
+
+intercourse n 交流,性交(inter 在…..之间+course=在二者之间跑=交流)
+
+recourse n 依赖,求助(re 回+course=跑回来=求助) 
+
+scour v 搜索,巡视(scour=course)
+
+succor n 救助,救援(suc 下面+course=跑下去救助) 
+
+courier n 信使(cour+ier=跑的人=信使)
+
+coarse a 粗糙的(coarse=course 跑过去=粗糙的)
+
+curule a （古罗马显示权威）贵人凳的；（古罗马集会时）最高军衔的
 
 
 
@@ -4700,9 +4771,7 @@ lavatory n 洗手间(lav+atory 场所=冲洗的地方=洗手间)
 
 diluvial a 大洪水的(di 分开+luv+ial=冲开=水很大=大洪水的) 
 
-antediluvian a 远古的(ante 前+diluvian 大洪水的=大洪水前的
-
-=远古的)
+antediluvian a 远古的(ante 前+diluvian 大洪水的=大洪水前的=远古的)
 
 ablution n 沐浴,净化(ab 去掉+lut+ion=洗掉[脏东西]=沐浴) 
 
@@ -4810,15 +4879,11 @@ elicit v 引出,得出(e 出+lic+it 动词后缀,如,solicit 恳请)
 
 ## linqu=leave,表示”离开”
 
-delinquent a 有过失的,犯法的(de 一再+linqu+ent=一再离开
-
-[ 正 道 ]= 有 过 失 ) 
+delinquent a 有过失的,犯法的(de 一再+linqu+ent=一再离开[ 正 道 ]= 有 过 失 ) 
 
 delinquency n 失职,过失
 
-relinquish v 放弃,防开(re 远+linqu+ish=远离=放弃:re 表示”
-
-远”,如 remote 遥远的
+relinquish v 放弃,防开(re 远+linqu+ish=远离=放弃:re 表示”远”,如 remote 遥远的
 
 ## log,logu=speak,表示”说话”
 
@@ -4898,9 +4963,7 @@ illustrate v 说明,阐明(il 不断+lustr+ate=不断给光明=说明)
 
 illustration a 插图说明(illustrate+ion)
 
-illustrious n 辉煌的,著名的(il 一再+lustr+ious 一再光明=辉煌
-
-的)
+illustrious n 辉煌的,著名的(il 一再+lustr+ious 一再光明=辉煌的)
 
 ## lud,lus=play,表示”玩,戏剧”
 
@@ -5078,9 +5141,7 @@ matrimony n 结婚,婚姻(matri+mony 状态=有母亲状态=婚姻)
 
 matron n 主妇,保姆(matr+on=母亲,主妇)
 
-metropolis n 大城市,首府(metro[=matro]+polis 城市=母亲城
-
-=首府)
+metropolis n 大城市,首府(metro[=matro]+polis 城市=母亲城=首府)
 
 matrix n 母体,子宫(matri+x=母亲=母体)
 
@@ -5260,9 +5321,7 @@ minute n 一分钟a. 微小的,细微的(min+ute)
 
 minutia n 细微末节(minute 小+ia=小事件=琐事)
 
-minuscule a 极小的(min+uscule 表形容词或名词=小的=极小
-
-的)
+minuscule a 极小的(min+uscule 表形容词或名词=小的=极小的)
 
 ## mis-表示”错误,坏”
 
@@ -5318,9 +5377,7 @@ submission n 屈服(sub 下面+miss+ion=放在下面=屈服)
 
 submissive a 服从的(sub+miss+ive)
 
-transmission n 转送,传达(trans 横+miss+ion=横着送=传送过
-
-去)
+transmission n 转送,传达(trans 横+miss+ion=横着送=传送过去)
 
 premise n 前提(pre 预先+mise=预先送出=前提)
 
@@ -5368,13 +5425,9 @@ modulate v 调整,调节(mod+ulate=对模式进行调整=调整)
 
 accommodate v 与…符合,容纳(ac+com 共同+mod+ate=方式相同=与…符合)
 
-commodious v 宽敞的,便利的(com 共同+mod 模式,范围
+commodious v 宽敞的,便利的(com 共同+mod 模式,范围+ious=大家都有范围=宽敞的)
 
-+ious=大家都有范围=宽敞的)
-
-commodity n 商品(com 共同+mod+ity=有共同模式的东西=
-
-商品)
+commodity n 商品(com 共同+mod+ity=有共同模式的东西=商品)
 
 outmoded a 过时的,旧式的(out 出+mod+ed=模式出了时代= 过时的
 
@@ -5494,9 +5547,7 @@ remount v 重新登上(re 再+mount=再次登上)
 
 paramount a 最高的,首要的(para 类似+mount=类似高山=最高的)
 
-mountebank n 江湖骗子(mounte+bank(即 bench)=登上长椅
-
-[卖假药]=江湖骗子)
+mountebank n 江湖骗子(mounte+bank(即 bench)=登上长椅（假装有不倒神功卖假药）=江湖骗子)
 
 tantamount a 同等的,相等的(tant 相等+a+mount 数量
 
@@ -5512,9 +5563,7 @@ communize v 共产化(commune 公社+ize=公社化,共产化)
 
 communal a 公共的(com+mun+al=公共的)
 
-community n 社区,社会(commune 公共的+ity 状态=公共状态
-
-=社会,社区)
+community n 社区,社会(commune 公共的+ity 状态=公共状态=社会,社区)
 
 communicate v 交流,通知(commune 交流+ic+ate=[大家]交谈=交流)
 
@@ -5534,7 +5583,7 @@ mutability n 易变(mutable+ity)
 
 mutate v 变化,变异(mut+ate=变化) 
 
-mutiny n 叛 乱 , 兵 变 (mut+iny) 
+mutiny n 叛乱 , 兵变 (mut+iny) 
 
 mutinous a 叛乱的(mutiny 兵变+ous)
 
@@ -5550,9 +5599,7 @@ permute v 改变…次序(per 全部+mute 变=全部变=改变次序)
 
 permutation n 改变,互换(permute+ation)
 
-transmute v 使变形,使变化(trans 横进去+mute 变=变过去=
-
-变形
+transmute v 使变形,使变化(trans 横进去+mute 变=变过去=变形
 
 
 
@@ -5590,13 +5637,11 @@ nocuous a 有毒害的(noc+uous… 的= 有害的 )
 
 innocuous a (语言等) 不伤害人的 (in 无 + noc + uous= 无伤害的 )
 
-innocuity n 无害,无毒( innocuous 的名词 )
+innocuity n 无害,无毒(innocuous 的名词 )
 
-noxious a 有毒的 ( nox + ious)
+noxious a 有毒的 (nox + ious)
 
-obnoxious a 令人讨厌的 (ob 坏 + nox+ious = 又坏又毒 =
-
-令人讨厌的 )
+obnoxious a 令人讨厌的 (ob 坏 + nox+ious = 又坏又毒 =令人讨厌的 )
 
 ## nom(y)=a field of knowledge, 表示”某一领域的知识” 
 
@@ -5610,9 +5655,7 @@ autonomy n 自治,独立(auto 自己+ nomy 系统,统治= 自己统治)
 
 economy n 经济(学)( eco 环境,经济 + nomy,参考:ecology 生态学 )
 
-antinomy n 自相矛盾(anti 反+ nomy 理论= 相反理论 =自
-
-相矛盾)
+antinomy n 自相矛盾(anti 反+ nomy 理论= 相反理论 =自相矛盾)
 
 ## nounce,nunci= speak,表示”讲话,说出” 
 
@@ -5768,7 +5811,7 @@ aptitude 适应能力,才能(apt+itude 表示状态=有能力的状态)
 
 aptly 适当地(apt+ly)
 
-adapt 使适应,适应(环境)(ad 一再+apt=一再适应(环境))
+adapt 使适应,适应(环境)(ad +apt)
 
 adaptable 有适应能力的(adapt 适应+able 能…的)
 
@@ -5906,9 +5949,7 @@ compare v 比较,对照(com 共同+pare=平等放在一起=比较)
 
 comparison n 比较,对照(com+pari+son)
 
-nonpareil a 无与伦比的(non 无+par+eil=无平等的=无与伦比
-
-的)
+nonpareil a 无与伦比的(non 无+par+eil=无平等的=无与伦比的)
 
 ## path=feeling, suffering, illness,表示”感情,痛苦,病”
 
@@ -5929,26 +5970,6 @@ pathology n 病理学(path+o+logy 学科=病的学科=病理学)
 psychopath n 精神病人(psycho 精神+path=精神病人)
 
 electropathy n 电疗法(electro 电+pathy=用电治病=电疗)
-
-## patr(i)=father,表示”父亲”
-
-patriarch n 家长,大主教(patri+arch 统治) 
-
-patriarchy n 父 权 政 治 (patri+archy) 
-
-patron n 帮助人,恩人(像父亲一样的人) 
-
-patronize v 赞助,光顾(patron+ize)
-
-patrimony n 家传,遗产(patri+mony 状态或物质=父亲留下的物品=遗产)
-
-patriot n 爱国者(祖国比喻成父亲) 
-
-patriotism n 爱国主义(patriot 爱国者+ism)
-
-expatriate v 把…逐出国外(ex 出+patri 父亲,祖国+ate=(逐)出祖国)
-
-repatriate v 把…遣返回国(re 重新+patri 祖国+ate=重进祖国
 
 ## ped=foot, 表示”脚”
 
@@ -5975,6 +5996,128 @@ impediment n 阻碍,阻碍物(impede 妨碍+i+ment)
 expedient a 方便的,权宜的(ex 出+ped+ient=能把脚跨出去= 方便的)
 
 podiatrist n 足病医生(pod[=ped 脚]+iatrist 专家)
+
+## PIE *peh₂- "保护，牧羊"
+
+feed
+
+food
+
+fodder n 饲料、秣
+
+*de. Futter n 饲料*
+
+### PIE *peh₂- 的后代：la. parere prp. parens pp. paritum 出现、可见;
+
+appear (ad+)
+
+appearance
+
+transparent
+
+### PIE *peh₂- 的后代：la. pascere prp. pascens pp. pastus 养育、支持;
+
+pasture n 牧场
+
+pastor n 牧师
+
+pastoral a 田园的，牧师的
+
+repast n 餐、饭食(re 重复)
+
+pabulum n 食物、精神食粮
+
+pabular a 食品的、可食的
+
+### PIE *peh₂- 的后代 *ph₂tḗr 父(*peh₂- +‎ *-tḗr (agent suffix)) 
+
+father
+
+fatherly
+
+padre n 神父、从军牧师
+
+compadre n 密友
+
+compere n 司会者
+
+patriarch[patri 父,祖arch 首脑,长]家长,族长
+
+patriarchal[见上,-al…的]家长的,族长的,家长似的
+
+patriot[patri 祖=祖国,-ot 名词字尾,表示人]爱祖国者,爱国主义者
+
+patriotic(见上,-otic 形容词字尾,…的)爱国的
+
+patriotism[见上,-ism 主义]爱国主义,爱国心
+
+unpatriotic(un-不,见上)不爱国的
+
+paternal(pater 父,-n-,-al…的)父亲的,父系的
+
+paternalism[见上,-ism 表示行为,现象]家长式统治,家长作风
+
+patriarchy n 父 权 政 治 (patri+archy) 
+
+patron n 帮助人,恩人(像父亲一样的人) 
+
+patronize v 赞助,光顾(patron+ize)
+
+patrimony n 家传,遗产(patri+mony 状态或物质=父亲留下的物品=遗产)
+
+expatriate v 把…逐出国外(ex 出+patri 父亲,祖国+ate=(逐)出祖国)
+
+repatriate v 把…遣返回国(re 重新+patri 祖国+ate=重进祖国
+
+### PIE *peh₂- 的后代 *peh₂nts 的后代 el. πᾶς (词缀形 παν-)
+
+pan-, pant-, panto-, panta- 所有
+
+panoply n 全部的或华丽的展示，全副甲胄(πᾰνοπλῐ́ᾱ,  πᾶς + ὅπλον("armour") + -ῐ́ᾱ)
+
+pancreas n 胰腺（all flesh，因为它组成成分单一）
+
+panorama n 全景 （+ὅρᾱμᾰ (hórāma, “view”).）
+
+### PIE *peh₂- 的后代 la. panis n
+
+*es. pan; fr. pain; ja. パン*
+
+pannier n 单车两侧的挂篮、马两侧的驮篮
+
+### PIE *peh₂- 的后代 la. penes (介词)在x掌控下监护下, penitus a/ad 内
+
+penetrate (penetrare, 类比 intrare)
+
+## PIE *peh₃- "to drink"
+
+poculiform a 杯状
+
+### *peh₃- 的后代 *ph₃-tó-s 的后代：la. potare prp. potans pp. potus; pot=drink,表示”喝”
+
+potable a 可饮用的(pot able)
+
+potation n 畅饮,大喝(pot ation)
+
+potion n 一副药水(pot ion=喝下去的[药水])
+
+poison
+
+### *peh₃- 的后代 *píph₃eti 的后代：la. bibere prp. bibens pp. bibitus;
+
+*es. beber; fr. boire*
+
+imbibe v 喝入,饮
+
+bibulous a 吸水的,喜喝酒的
+
+bib n 围嘴
+
+beverage n 饮料
+
+bevvy n 饮料（尤指含酒精）
+
+winebibber n 酒徒
 
 ## pel,puls= drive, push, 表示”驱动,推”
 
@@ -6044,15 +6187,11 @@ expensive a 昂贵的(ex+pens+ive=要花钱的=昂贵的)
 
 pension n 年金,养老金(pens+ion=用心花费的)
 
-compensate v 赔偿,报酬(com 全部+pens+ate=花费的钱全部
-
-[拿回来]=赔偿)
+compensate v 赔偿,报酬(com 全部+pens+ate=花费的钱全部[拿回来]=赔偿)
 
 recompense v/n 回报,报答(re 回+compense 报酬=回报) 
 
-dispense v 分配,分送(dis 分开+pense=分开花费=分配,分送
-
-[财物])
+dispense v 分配,分送(dis 分开+pense=分开花费=分配,分送[财物])
 
 dispensable a 可分配的,不重要的(dispense+able=能分送出去=不重要的)
 
@@ -6062,7 +6201,9 @@ propensity n 倾向,习性(pro 前+pens+ity=重量偏向一边=倾向)
 
 pensive a 思考的(pens+ive=称重量=衡量=思考) 
 
-perpendicular v 考虑,细思(per 全部+pend=全部衡量) 
+perpend v 考虑,细思(per 全部+pend=全部衡量) 
+
+perpendicular a 垂直的（仔细衡量的工具+形容词化）
 
 ponder v 沉思(pond 重+er=分出轻重=沉思) 
 
@@ -6118,15 +6259,13 @@ petitioner n 请愿者(petition+er)
 
 appetite n 欲望,胃口(ap 加强动作+pet+ite=一再追求=有胃口)
 
-appetizer n 开 胃 食 品 (appet 胃 口 +izer 东 西 ) 
+appetizer n 开胃食品 (appet 胃口 +izer 东 西 ) 
 
 centripetal a 向心的(centri 中心+per+al=追求中心的)
 
 compete v 竞争,竞赛(com 共同+pete=共同追求[一个目标]= 竞争)
 
-competent a 资格的,能力的(compete+ent=竞争的[能力]=有
-
-资格的)
+competent a 资格的,能力的(compete+ent=竞争的[能力]=有资格的)
 
 competence n 资格,能力(compete+ence=竞争的[能力]=资格)
 
@@ -6144,9 +6283,7 @@ perpetual a 永久的(per+pet+ual)
 
 petulant a (脾气)暴躁的(pet+ulant 多…的=追求太多,导致脾气不好)
 
-propitiate v 获宠爱,抚慰(pro 前+pit[=pet]+iate=追到前面去
-
-=获宠爱)
+propitiate v 获宠爱,抚慰(pro 前+pit[=pet]+iate=追到前面去=获宠爱)
 
 propitious a 幸运的,吉祥的(pro 前+pit+ious=在[别人]前面追到=幸运的)
 
@@ -6176,9 +6313,7 @@ complacent a 自满的,自得的(com 加强语气+plac+ent=被取悦=自满的)
 
 placebo n 安慰药(plac+ebo 药品=平静的药=安慰药) 
 
-complaisant a 讨好的(com 加强语气+plais[=plac]+ant=让
-
-[别人]满意=讨好的
+complaisant a 讨好的(com 加强语气+plais[=plac]+ant=让[别人]满意=讨好的
 
 ## plant=plant,表示”种植”
 
@@ -6220,9 +6355,7 @@ accomplish v 成就,完成(ac+com+pli+ish=全部弄满=完成)
 
 accomplished a 有成就的,有造诣的(accomplish+ed) 
 
-compliment v 赞扬,恭维(com 全部+pli+ment=[让人]+分满足
-
-=恭维[别人]
+compliment v 赞扬,恭维(com 全部+pli+ment=[让人]+分满足=恭维[别人]
 
 ## plex= fold,表示”重叠”
 
@@ -6234,9 +6367,7 @@ complexity n 复杂性(complex+ity)
 
 duplex a 二重的,双倍的(du 二+plex=二次重叠=二重的) 
 
-complexion n 面色,表情(com 全部+plex+ion=全部表情重叠
-
-于面部=面色)
+complexion n 面色,表情(com 全部+plex+ion=全部表情重叠于面部=面色)
 
 perplex v 使复杂,迷惑( per 从头到尾+plex=始终重叠=迷惑)
 
@@ -6279,6 +6410,2898 @@ comply v 同意,答应(com 共同+ply=[观点]共同叠在一起=同意)
 imply v 暗示,意味(im 进入+ply=重叠表达=暗示[表面一层意思,后面一层意思])
 
 reply v 回答(re 反+ply=叠回去=回答)
+
+supply v 供应,补给(sup 在下面+ply=重叠下去=供应[下去]) 
+
+pliable a 易弯的,柔顺的(pli+able=易折叠的)
+
+supplicant n 恳求者a. 哀求的(sub 下+plic+ant=折叠膝盖
+
+## plor=cry,weep, 表示”喊,哭”
+
+deplore v 悲叹,痛惜(de 坏+plore=不好的喊哭=悲叹) 
+
+deplorable a 悲惨的(deplore+able)
+
+explore v 探索,钻研(ex 出+plore=喊出来=探索[奥秘]) 
+
+exploration n 探索(explore+ation)
+
+implore v 乞求,恳求(im 进入+plore=进入哭喊状态=乞求)
+
+## ploy=use,invlve,表示”用,参与”
+
+employ v 雇佣,运用(em 进入+ploy=进入用的状态=雇佣) 
+
+employment n 雇佣,就业(employ+ment)
+
+deploy v 调度,部署(部队)(de 加强+ploy=加强使用[部队]=调度)
+
+ploy n (取胜的)策略,手法
+
+## polic,polis, polit=state, city,表示”国家,城市”
+
+police n 警察( 管理城市的人) policy n 政策(对国家的管理) 
+
+politics n 政治(polit+ics)
+
+politician n 政客(polit+ician 人=爱国家之人=政客) 
+
+cosmopolitism n 世界主义(cosmo 宇宙,世界+polit+ism=大同世界)
+
+polis n 古希腊城邦
+
+metropolis n 大都市(metro 母亲+ polis=母亲城=大城市) 
+
+cosmopolis n 国际都市(cosmo 世界,宇宙+polis=世界性城市
+
+## pon, pound= put, 表示”放置”
+
+component a 组成的n. 部分(com 共同+pon+ent=共同的放到一起=组成的)
+
+opponent v 对立的n. 对手(op 反+pon+ent=反着放=对立的) 
+
+propone v 提议,提出(pro 向前+pone=[把意思]向前放=提议) 
+
+proponent n 提议者(propone+ent)
+
+exponent n 讲解者(ex 出+pon+ent=把[内容]放出来=讲解) 
+
+compound n 化合物(com 全部+pound 放=全部放到一起=化合物)
+
+postpone v 推迟(post 后+pone=向后放=推迟)
+
+expound v 详细说明(ex 出+pound=把[意义]说出来=详细说明)
+
+impound v 把…围住,扣押( im 进+pound=放进去=围住)
+
+propound v 提出,提议(pro 向前+pound=向前放=提出)
+
+## port=carry,表示”拿,运”
+
+portable a 可携带的(port+able 能…的) 
+
+portage n 搬运,运费(port+age 费用=运费) porter n 搬运工(port+er)
+
+portfolio n 文件夹,投资组合(port+folio 树叶,页=拿树叶[书页] 的东西=文件夹)
+
+comport v 举止,行为(com 共同+port 拿,动作=[一个人]的全部动作=举止)
+
+comportment n 举止(comport+ment)
+
+disport v/n 娱乐(dis 分开+port=拿来分心的东西=娱乐) 
+
+deport v 移送,放逐,举止(de 去掉+port=拿出来=放逐) 
+
+deportation n 驱逐出境(deport+ation)
+
+deportment n 举止行为(deport+ment)
+
+export v 出口(ex 出+port 拿,引申为港口=拿出港口=出口) 
+
+import v 进口,意味着(im 进+port=拿进港口)
+
+importance n 重要性(import+ance=带有意义的状态=重要性)
+
+purport n 要领,大意(pur[=per 全部]+port=全部拿到一起=要领,大意)
+
+support v 支持(sup 下面+port=下面带来的[力量]=支持)
+
+transport v 运输( trans 转移+port=移动着拿=运输) 
+
+transportation n 运输(业)(transport+ation)
+
+## pos, posit=put, 表示”放”
+
+pose v 做姿态
+
+compose v 组成,作曲,使镇定(com 一起+pose=放到一起=组成)
+
+composure n 镇静,沉着(com 一起+pos+ure=[精神]放到一起=镇静)
+
+depose v 免职,沉淀(de 去掉+pose 放,职位=去掉职位=免职,de 下去+pose=放下去=沉淀)
+
+discompose v 使不安(dis 不+compose 不镇静=使不安)
+
+dispose v 处理,排列(dis 分开=pose=分开[排好]=排列) 
+
+disposed a 愿意的(听任处理=心甘情愿的)
+
+indisposed a 不愿意的(in 不+disposed 情愿的) 
+
+expose v 暴露,揭露(ex 出+pose=放出来=暴露)
+
+impose v 强加,征税(im 进+pose=放进去=强加) 
+
+juxtapose v 并列,并置(juxta 并排+pose=并排放) 
+
+opposite a 相对的(op 对+pos+ite=放到对面=相对的) 
+
+repose n 休息,睡眠(re 再+pose=再放下[工作]=休息) 
+
+transpose v 互换位置(trans 转移+pose=[互相]移放)
+
+proposal n 建议,提议(pro 向前+pos+al=向前放=提建议) 
+
+purpose n 目的,意图(pur 始终+pose=始终放的东西=目的) 
+
+position n 立场(posit+ion=放出的[立场],posit 本身是一个单词,意为”认为,肯定”)
+
+positive a 肯定的,积极的(posit 肯定+ive)
+
+apposite a 适当的,得体的(ap 加强动作+posite=放到(合适的位置)=适当的)
+
+apposition n 并置,同位(ap+posit+ion=放在[一起]=并置) 
+
+composition n 作文,组合(com 一起+posit+ion=放到一起=组合=作文)
+
+composite n 合成物(com 一起+posite=放到一起=合成物) 
+
+deposit v 储存 n. 矿藏(de 下面+posit=放下不用=储存) 
+
+depositary n 贮藏所(deposit+ary)
+
+deposition n 免职,沉淀(见depose)
+
+disposition n 性情,安排(dis 分开+posit+ion=分开放=安排,引申为人的喜好,心情)
+
+exposition n 展览,解释(见expose) 
+
+imposition n 征税,强加(见 impose)
+
+repository n 仓库(re 重新+posit+ory=重新放东西之地=仓库) 
+
+supposition n 推测,猜想(sup 在下面+posit+ion=放在下面的[想法]=推测)
+
+## prais, preci= value, 表示”价值”
+
+appraise v 评估(ap 加强动作+praise=给以价值=评估) 
+
+appraisal n 评估,评价(appraise+al)
+
+precious a 珍贵的(prec+ious=有价值的)
+
+appreciate v 评价,欣赏(ap+prec+iate=给以价值=评价,欣赏) 
+
+appreciative a 有欣赏力的(appreciate+ive)
+
+appreciable a 可估计的,可察觉到的(ap+prec+iable=能估计的)
+
+depreciate v 降价,贬值(de 去掉+prec+iate=去掉价值=贬值)
+
+depreciation n 贬值,轻视(depreciate+ion)
+
+## pre-表示”….前的,预先”
+
+preschool 学龄前的(pre+school 学校=上学前的)
+
+prehistory 史前(pre+history 历史)
+
+prefix 前缀(pre+fix 固定=固定在前面=前缀)
+
+preposition 前置词,介词(pre+position 位置=位置放在前面= 前置词)
+
+prepay 预付(pre+pay 付钱)
+
+prebuilt 预制的(pre+built 建造)
+
+preamble 前言,绪言(pre+amble 跑=跑在前面=前言)
+
+precaution 预防措施(pre+caution 小心=预先小心=预防) 
+
+precede (在时间上)先于,早于(pre+cede 走=走在前面=[时间上]先于)
+
+precedent 先例(pre+ced 走+ent=走在前面的东西=先例)
+
+precept 规范;格言(pre+cept 拿=以前拿好的[名言]=格言)
+
+precinct 区域,范围(pre+cinct 捆=预先捆好的=范围)
+
+precipice 峭壁(pre+cipice 头=在前面是尽头=峭壁)
+
+precipitation 降落,仓促(pre+cipit 头=ation=落在前头=降落, 下降)
+
+precise 精确的,精细的(pre+cise 切=预先切好的=精确的)
+
+preclude 妨碍;阻止(pre+clude 关闭=提前关闭=阻止)
+
+precocious 早熟的(pre+cocious 熟=提前煮熟=早熟的)
+
+predict 预言,预报(pre+dict 说=预先说=预言)
+
+predisposition 倾向,癖性(pre+disposition 性情=性情预定=癖性)
+
+preoccupation 全神贯注(pre+occup 占有+ation=优先占有(注意力) =全神贯注)
+
+prescient 有先见之明的(pre+scient 知道的=预先知道)
+
+prerogative 权利,特权(pre+rog 要求+ative=预先要求=(有)特权)
+
+## prehens, prehend= catch,表示”抓住”
+
+prehension n 抓住,理解(prehens+ion)
+
+apprehend v 理解,忧虑,逮捕(ap+prehend=[被]抓住=逮捕) 
+
+apprehensible a 可 理 解 的 (ap+prehens+ible) 
+
+apprehension n 理解,忧虑,逮捕(ap+prehens+ion)
+
+comprehend v 了解,包括(com 全部+prehend=全部抓住=包括,理解)
+
+comprehensive a 综合性的(com+prehens+ive=全部抓住的= 综合性的)
+
+comprehensible a 可 理 解 的 (prehens+ible) 
+
+misapprehend v 误解,误会(mis 不+apprehend 理解)
+
+reprehend v 责难,谴责(re 反+prehend=反过来抓住[别人的缺点])
+
+reprehensible a 应受责难的(re+prehens+ible
+
+## press= press, 表示”挤压” 
+
+pressing a 急迫的(press+ing) 
+
+pressure n 压力(press+ure)
+
+compress v 压缩,缩短(com 全部+press=全部压到一起) 
+
+compressible a 可 压 缩 的 (com+press+ible) 
+
+compression n 压缩,紧缩(com+press+ion)
+
+depress v 压下,使沮丧(de 向下+press=向下压=使情绪低下) 
+
+depressed a 感到压抑的(depress+ed)
+
+depression n 沮丧,萧条(depress+ion)
+
+express v 表达,特快(ex 把[思想]挤出来=表达) 
+
+expression n 表达,表情(express+ion)
+
+impress v 盖印,使感动(im 进+press=压进去=盖印=印入头脑=感动)
+
+impression n 印 象 , 感 想 (impress+ion) 
+
+impressive a 给人深刻印象的(impress+ive)
+
+oppress v 压迫,虐待(op 加强动作+press=拼命压=压迫)
+
+oppression n 压迫,苦难(oppress+ion)
+
+repress v 镇压,抑制(感情)(re 回+press=压回去=镇压) 
+
+suppress v 镇压,忍住(眼泪等)(sup 下去+press=压下去=忍住)
+
+suppression n 镇压,平定(suppress+ion)
+
+## pris= take, 表示”拿住,抓住”
+
+surprise v 吃惊( sur 突然+prise=突然被抓住=吃惊)
+
+apprise v 通知,报告(ap 加强动作+prise=抓住[信息]=通知[情况])
+
+comprise v 包括,含有(com 全部+prise=全部抓住=包括) 
+
+enterprise n 事业,进取心(enter 进入+prise 进入抓住[目标]= 事业)
+
+enterprising a 有事业心的(enterprise+ing)
+
+reprisal n 报复(re 反+prise+al=反过来抓住[别人]=报复) 
+
+prison n 监狱(抓人之地)
+
+imprison v 监禁(im 进入+prison 监狱)
+
+## priv=single, alone, 表示”单个” 
+
+private a 私人的(priv+ate=个人的) 
+
+privacy n 隐私(priv+acy)
+
+privation n 剥夺,缺乏(deprivation 的变体)
+
+privilege n 特权(privi+lege 法律=有个人法律=特权) 
+
+privy a 秘密的(priv+y)
+
+privity n 私事(priv+ity)
+
+deprive v 剥夺,夺去(de 去掉+prive=从个人身边拿走=剥夺) 
+
+deprivation n 剥夺,丧失(deprive+ation)
+
+## pro-
+
+① 表示”向前,在前”
+
+progress 进步(pro+gress 走=向前走)
+
+project 投射出;工程项目(pro+ject+扔+扔向前面=投射;引申为工程项目)
+
+prologue 前言,序言(pro+logue 说=在前面说=前言)
+
+promote 促进;提升(pro+mote 动=向前动=促进)
+
+protrude 向前突出(pro+trude 突出=向前突出)
+
+propel 推进(pro+pel 推=向前推)
+
+proficient 精通的;熟练的(pro+fici 做+ent=做在[别人] 前面= 精通)
+
+profile 侧面像;轮廓(pro+file 纱线=前面的线条)
+
+profess 公开表明,坦白(pro+fess 说=在前面说坦白) 
+
+prodigious (数量等)巨大的(pro=pro+ig=act 做=做在前面,做得多=大量的)
+
+proclivity 倾向性,癖性(pro+cliv 倾斜+ity=向前倾斜)
+
+procure (费心)取得,获得(pro+cure 关心=关心在前=[想要]获得)
+
+prominent 显著的,杰出的(pro+min 伸+ent=向前伸出=杰出的)
+
+prosecute 检举;指控(pro+secu 追随+ate=追随到[法院]前面=检举;指控)
+
+prospect 景象,前景(pro+spect 看=向前看=前景)
+
+provident 顾及未来的,有远见的(pro+vid 看+ent=向前看的= 有远见的)
+
+provoke 激怒,刺激(pro+voke 喊=在[你]前面喊=激怒[你])
+
+② 表示”很多…”
+
+procrastinate 拖延(pro+crastin 明天+ate=有许多明天明日复明日=拖延)
+
+procreate 生育(pro+create 创造=创造很多=生儿育女)
+
+profligate 浪费的,挥霍的(pro+flig 打出+ate=把钱不断的打出去=挥霍)
+
+proliferate 繁殖,增殖(pro+lifer 带来+ate=带来很多生命=繁殖)
+
+profit 利润,收益(pro+fit 做=做很多=做得好=利润)
+
+profuse 大量的,丰富的(pro+fuse 流=流很多=大量的)
+
+prolific 多产的,多育的(pro+lif 带来+ic=带来东西=多产的)
+
+prosperous 兴旺的,繁荣的(pro+sper 希望+ous=希望很多=兴旺的)
+
+③ 表示”赞同,亲…”
+
+pro-american 亲美的
+
+proslavery 赞成奴隶制的(pro+slavery 奴隶制)
+
+proabortionist 赞成堕胎者的(pro+abortion 堕胎+ist)
+
+## prob, prov= test, 表示”测试,证明”
+
+approbate v 许可,批准(ap 一再+prob+ate=一再证明[可行]= 批准)
+
+approbation n 称 赞 , 认 可 (approbate+ion) 
+
+disapprobation n 不称赞(dis 不+approbation) 
+
+probable a 可能的(prob+able=能证明的=可能的) 
+
+probability n 可能性(probable+ility)
+
+probation n 试验,检定(prob+ation=测试=试验) 
+
+probative a 试验的(prob+ative)
+
+reprobate v 责备 n. 恶棍(re 反+prob+ate=反证[别人不对]= 责备)
+
+reprobation n 拒绝,谴责(reprobate+ion)
+
+probity n 正直,刚正(prob+ity=[人]经得起证明和试验=正直) 
+
+probe v 探索,刺探
+
+approve v 赞成,承认(ap+prove=证明可行=赞成) 
+
+approval n 赞成(approve+al)
+
+disapprove v 不赞成(dis 不+approve 赞成) 
+
+disprove v 证明为假,反证(dis 反+prove=反证)
+
+reprove v 责备,训诫(re 反+prove=反对别人的证明=责备)
+
+## pud=feel shame,表示”感到羞耻”
+
+repudiate v 拒绝,抛弃(re 反+pud+iate=反过来让对方羞耻= 拒绝[别人])
+
+impudicity n 不谦虚,无耻(in 不+pud+icity=不羞耻=无耻)
+
+impudent a 无礼的(im 不+pud+ent 表形容词=不羞耻=无礼的)
+
+## pugn=fight,表示”打斗”
+
+impugn v 责难,抨击(im 进入+pugn=打进去=抨击) 
+
+repugnant a 厌恶的,反感的(re 反+pugn+ant=反打回来=反感的)
+
+repugnance n 反感(re+pugn+ance)
+
+pugnacious a 好斗的(pugn+acious 多…的=多打斗的)
+
+expugnable a 可克服的,可征服的(ex 出+pugn+able=能打出去的=可克服的
+
+## pur, purg=pure, 表示”纯洁”; la. purus 
+
+purity n 纯 净 , 纯 正 (pur+ity) 
+
+impure a 不 纯 的 (im 不 +pure) 
+
+impurity n 不纯,有罪(im+pur+ity)
+
+purify v 使清洁,使纯正(pur+ify 化=纯洁化)] 
+
+purist n 纯粹主义者(pur+ist)
+
+puritan n 清教徒(讲究道德纯洁之人) 
+
+purge v 净化 (pūrus (“clean, pure”) +‎ agō (“make”))
+
+purgation n 清洗,吃泻药(purg+ation=使干净) 
+
+purgative a 清洗的 n. 泻药(purg+ative)
+
+expurgate v 订正,删除(ex 出+purg+ate=清洗出去=删除)
+
+unpurged a 未净化的(un 没有+purg+ed=没有清洗的)
+
+## put =think, 表示”认为,思考”
+
+compute v 计算(com 一起+pute=放到一起[想]=计算,思考) 
+
+computable a 计算得出的(compute+able)
+
+computer n 计算机(compute+er)
+
+dispute v 反驳(dis 反+pute=过来思考=反驳) 
+
+disputable a 能反驳的(dispute+able)
+
+disputatious a 好争论的(dispute 反驳+atious=喜欢反驳的) 
+
+impute v 归咎于(im 进+pute=把…放进思考中=归因于) 
+
+repute n 名声,名誉(re 再+pute=再让人想起的东西=名声) 
+
+reputation n 名声(re+put+ation)
+
+disrepute n 坏名声(dis 不好+repute 名声=名声不好)
+
+
+
+# Q
+
+
+
+## quest,quir, quis, quer= seek, search, 表示”寻求,询问”
+
+quest n 探求,寻找
+
+inquest n 审问(in 进+quest=问进去=审问) 
+
+question n 疑问(quest+ion)
+
+request v/n 要求,恳请(re 再+quest=再寻求=要求)
+
+acquire v 获取(ac 加强动作+quire 寻求得到=获取) 
+
+acquirement n 获得,学识(acquire+ment)
+
+acquired a 后天习得的(acquire+ed)
+
+acquisitive a 贪得的(ac 不断+quis+itive=不断寻求=贪得的) 
+
+disquisition n 论文,探究(dis 分开+quis+ition=分开寻问=到处问=探究)
+
+inquire v 盘问,追究(in 进入+quire=问进去=盘问) 
+
+inquisition n 调查,审问(in 进入+quis+ition=进去问=调查) 
+
+require v 请求,命令(re 再+quire=再寻求=请求)
+
+requisite a 必要的n. 必需品(re 再+quis+ite=一再寻求的=必要的)
+
+prerequisite n 先决条件(pre 预先+requisite 必需品=先决条件)
+
+conquer v 征服(con 全部+quer=全部寻求到=征服) 
+
+conquest n 征服(con+quest)
+
+query n 质问,疑问(quer+y)
+
+## quiet, qui= still, 表 示 ” 静 ” 
+
+disquiet v 使…不安(dis 不+quiet) 
+
+quietude n 安静(quiet+ude 状态)
+
+quietus n 灭亡,死亡(quiet+us 表示名词=静的状态=死亡) 
+
+inquietude n 不安,焦心(in 不+quietude 安静)
+
+quiescence n 静止,沉寂(qui+escence 开始…的=产生静=静止)
+
+acquiesce v 默许(ac 给予+qui+esce=给予[对方]静的回答=默许)
+
+acquiescence n 默认,默许(ac+qui+escence)
+
+## quit= free, 表示”自由”
+
+quit v 停止,放弃(放弃[追求],获得自由) 
+
+quitclaim n 放弃权利(quit+claim 宣告) 
+
+acquit v 开释,免罪(ac 给予+quit=给予自由) 
+
+acquittal n 释放,还清(债)(acquit+t+al)
+
+requite v 报答,报应(re 回+quite 自由,释放=回到自由状态=报答了[别人]恩惠)
+
+requital n 报答,报应(requite+al)
+
+ubiquitous a 无处不在的(ubi 地方+quit+ous=自由地进入任何地方)
+
+
+
+# R
+
+
+
+## re-
+
+①表示”向后,相反,不”
+
+reflect 回想;反射(re+flect 弯曲=反弯曲=反射)
+
+retreat 后退,撤退(re+treat 拉=拉回来=撤退)
+
+retract 缩回;收回(re+tract 拉=拉回,缩回)
+
+resist 反抗,抵抗(re+sist 站=反着站=反抗)
+
+reverse 反转的,颠倒的(re+verse 转=反转的)
+
+revolt 反叛(re+volt 转=反过转=反叛)
+
+resent 忿恨,不满(re+sent 感觉=反感=不满)
+
+relinquish 不再采取行动,放弃(re+linqu 离开+ish=离开不再要=放弃)
+
+renegade 撤消, 取消(re+peal 呼吁=反呼吁=取消,参考:appeal 呼吁)
+
+repel 驱除,击退(re+pel 推=击退)
+
+repose 休息,躺下(re+plse 放=入下(工作)=休息)
+
+reprobate 道德败坏之人(re+prob 正直+ate=不正直=败坏)
+
+repugnant 令人厌恶的(re+pugn 打+ant=[把人]打回去=(行为)令人厌恶的)
+
+resonant 回响的,洪亮的(re+son 声音+ant=声音回过来=回响的)
+
+②表示”一再,重新”
+
+resplendent 辉湟的(re+splend 光辉+ent=再光辉=辉煌的)
+
+reappear 再出现(re+appear 出现)
+
+rearrange 重新安排(re+arrange 安排)
+
+reassure 消除某人疑虑(re+assure 放心)
+
+recapitulate 重述,概括(re+capit 头+ulate=重新把头拿出来= 概括要点)
+
+recidivism 重新犯罪(re+cidiv 掉下+ism=再次掉入罪行)
+
+reclaim 取回,回收(re+claim 喊=喊回来=取回,引申为开垦荒地)
+
+recommend 赞扬,推荐(re+commend 赞扬=一再赞扬)
+
+recompense 报酬,赔偿(re+compense 补偿)
+
+refurbish 刷新,擦亮(re+furbish 装饰=再装饰=刷新)
+
+regenerate 改过自新的(re+gener 产生+ate=重新产生生命= 改过自新的)
+
+reincarnate 化生,转生(re+in 入+carn 肉+ate=重新进入肉体= 产生)
+
+reinstate 重新恢复职位(re+in+state 国家,权力=重新进入权力)
+
+reiterate 重申(re+iterate 重说=反复重说)
+
+resurgence 复兴,再起(re+surg 浪浪潮+ence=重起浪潮=复兴)
+
+reverberate 起回声,反响(re+verber 震动+ate=重新震动=起回声)
+
+## rect=stright, right, 表示”正,直”
+
+correct a 正确的(cor 全部+rect=全部很正=正确的) 
+
+correctitude n 行为端正( correct+itude 状态) 
+
+rectify v 改正(rect+ify…化=使…正直=改正[错误]) 
+
+rectitude n 正直,正确(rect+itude)
+
+rectangle n 矩形(rect+angle 角=[四个角]都是直角=矩形)
+
+erect a 竖直a. 直立的(e 出+rect =直出来=竖直) 
+
+erection n 直立,竖立(erect+ion)
+
+## rid, ris= laugh,表示”笑”
+
+ridiculous a 可笑的(rid+ic+ulous 多…的=多笑的=可笑的) 
+
+ridicule v 嘲笑(red+ic+ule)
+
+deride v 嘲笑(de 向下+ride=贬低的笑=嘲笑) 
+
+derisive a 嘲笑的,可笑的(de+ris+ive)
+
+risible a 爱笑的(ris+ible 能笑的=爱笑的)
+
+risibility n 爱笑,能笑(risible+ility)
+
+## rod, ros= bite, 表示”咬”
+
+rodent n “啮齿动物(rao+ent,咬东西的动物)”
+
+rodenticide n 灭鼠药(rodent+icide 杀=杀啮齿动物) 
+
+corrode v 腐蚀,侵蚀(cor 全部+rode 咬=全部咬掉=腐蚀) 
+
+corrosive a 腐蚀性的(cor+ros+ive)
+
+corrosion n 腐蚀(cor+ros+ion)
+
+erode v 侵蚀(e 出+rode=咬出去=[水上]侵蚀掉) 
+
+erosion n 侵蚀,腐蚀(e+ros+ion
+
+## rog=ask, 表示”要求,问”
+
+arrogate v 霸占,擅取(ar+rog+ate=一再要求=霸占) 
+
+arrogant a 傲慢的(ar+rog+ant=一再要求的=傲慢的)
+
+arrogance n 傲慢(ar+rog+ance)
+
+abrogate v 取消,废止(ab 去掉+rog+ate=不再要求有=取消掉)
+
+derogate v 毁损,堕落(de 向下,坏+rog+ate=问下去=毁损掉) 
+
+derogatory a 贬低的(derogate+ory)
+
+interrogate v 审问(inter 在…中间+rog+ate=在[审问室]中问= 审问)
+
+prerogative n 特权(pre 预先+rog+ative=预先要求=特权) 
+
+prorogue n 休会,闭会(pro 前+rogue=提前问好[下一次开会日期]=休会)
+
+rogue n “无赖,骗子(无理要求者)”
+
+roguish [ˈrəugiʃ]a.捣蛋的，无赖的
+
+## rupt=break, 表示”断裂”
+
+rupture n 破裂,断绝(rupt+ure)
+
+abrupt a 突然的(ab 离开+rupt=断开=突然断开=突然的) 
+
+bankrupt a 破产的(bank 柜台+rupt=柜台断了=破产了) 
+
+bankruptcy n 破产(bank+rupt+cy)
+
+corrupt a 腐败的(cor 全部+rupt 断=全断了=腐败了) 
+
+corruption n 腐败(cor+rupt+ion)
+
+disrupt v 分裂,瓦解(dis 分开+rupt=分开断=分裂) 
+
+disruption n 分裂,瓦解(disrupt+ion)
+
+erupt v 爆发,喷出(e 出+rupt=断裂而喷出) 
+
+eruption n 爆发(erupt+ion)
+
+interrupt v 打断(inter 在…中间+rupt=在[讲话]中间打断)
+
+interruption n 打断,插嘴(interrupt+ion)
+
+
+
+# S
+
+
+
+## san, sanit= healthy,表示”健康的”
+
+sane a 神志清醒的
+
+sanity n 精神健全(san+ity)
+
+insane a 头脑不清的(in 不+sane 清醒的) 
+
+sanitary a 卫生的(sanit+ary=健康的=卫生的) 
+
+sanitation n 卫生(设备)(sanit+ation)
+
+sanative a 有疗效的(san+ative=有健康作用的)
+
+sanatorium n 疗养院(sanat[=sanat]+orium 场所=健康场所
+
+## scend, scens, scent=climb,表示”爬,攀”
+
+ascend v 登上,爬上(a 向上+scend)
+
+descend v 下降,传下(de 向下+scend=向下爬)
+
+condescend v 屈尊俯就(con 全部+descend=全身向下=屈尊俯就)
+
+condescension n “ 屈 尊 , 贬 低 (condescend, d 变 s+ion)” 
+
+transcend v 超越,胜过(trans 超过+scend=爬过去=超越) 
+
+descendant n 子孙,后代(descend 传下+ant 人=传下的人=后代)
+
+ascendancy n 权势,优势(ascend 上升+ancy=上升状态=优势)
+
+descent n 下降,下坡(de+scent)
+
+## scrib,script=write,表示”写”
+
+scribe n 书法家v. 划线
+
+scribble v 乱写,涂鸦(scrib+ble=写=乱写) 
+
+script n 原本,脚本
+
+scripture n 圣经,经典(script+ure=写出的[宗教作品]) 
+
+ascribe v 把…归于(a+scribe=把…写上去=归因于) 
+
+ascribable a 可归因于…的(ascribe+able)
+
+circumscribe v 立界限,限定(circum 环+scribe=画上一圈=限定)
+
+conscribe v 征募,招募(con 大家+scribe=大家写上[名字]=征兵)
+
+conscript n 壮丁,新兵(con+script)
+
+describe v 描写,叙述(de 着重+scribe=着重写=描写) 
+
+description n 描绘,形容(de+script+ion)
+
+inscribe v 铭刻(in 进入+scribe=刻写进去=铭刻) 
+
+inscription n 铭 刻 , 碑 文 (in+script+ion) 
+
+manuscript v 手抄本,原稿(manu 手+script)
+
+postscript n (信等)附言(post 后+script=写在后面=附言) 
+
+prescribe v 开药方,命令(pre 预先+scribe=预先写好药量) 
+
+prescript n 法令,命令(pre 预先+script=预先写下的命令) 
+
+prescription n 处方,命令(pre+script+ion)
+
+subscribe v 订阅,认购(sub 在下面+scribe=在下面写上名字= 签订单)
+
+subscriber n 订户,捐助人(sub+scrib+er)
+
+transcribe v 抄写,誊写(trans 横+scribe=写过去=誊写) 
+
+transcript n 副本,抄本(誊写的抄本)
+
+## se-表示”分开,离开,区别开”
+
+secede 正式退出(组织)(se+cede 走=走开=退出)
+
+seclude 和别人隔离,隐居(se+clude 关闭=分开关=隐居的)
+
+secrete 分泌,藏匿(se+crete 分辨=分辨开=分泌,藏起来,)
+
+sedition 煽动叛乱(sed=se+it 走+ion=分开走=煽动叛乱)
+
+seduce 勾引,诱惑(se+duce 引=引开=勾引别人)
+
+segregate 隔离(se+greg 群+ate=和人群分开=隔离)
+
+sever 切断,脱离(se+ver 分开=分离开=切断)
+
+select 选出(se+lect 选=选出分开)
+
+## secut,sequ= follow,表示”跟随”
+
+persecute v 迫害(per 始终+secute=从头跟到尾=迫害) 
+
+persecution n 迫害(per+secut+ion)
+
+consecutive a 连贯的,连续的(con 全部+secu+tive=一个接一个跟随)
+
+consecution n 连贯,一致(con +secut+ion)
+
+prosecute v 控告,起诉(pro 在前+secute=跟随到[法官]前面= 控告)
+
+sequence n 连续(sequ+ence=跟随=连续) 
+
+sequential a 连续的(sequ+ent+ial)
+
+consequence n 后果,结果(con 共同+sequ+ence=随之而来的全部东西=后果)
+
+subsequence n 随后发生(sub 在后面+sequ+ence=随在后面的)
+
+sequacious a 盲从的(sequ+acious 多…的=跟随太多=盲从的) 
+
+sequacity n 盲从(sequ+acity)
+
+obsequious a 谄媚的,奉承的(ob 用力+sequ+ious=拼命跟随别人=谄媚的)
+
+pursue v 追赶,追击
+
+sue v 控告,向…求婚
+
+## semin=vseed,表示”种子”
+
+disseminate v 散布,播种(dis 分开+semin+ate=把种子散开= 播种)
+
+inseminate v 播种子,使怀孕(in 进入+semin+ate=种子进入= 使…怀孕)
+
+seminal a 繁殖的,开创性的
+
+seminary n 神学院,研究班(semin+ary 表示场所=上帝的种子场=神学院)
+
+## sens, sent =feel, 表示”感觉”
+
+sense n 感觉
+
+sensible a 能感觉的,明智的(sens+ible) 
+
+sensibility n 敏感性,感情(sensible+ity) 
+
+sensitive a 敏感的(sens+itive)
+
+sensory a 感 觉 的 , 知 觉 的 (sens+ory) 
+
+sentiment n 感情(senti+ment=感觉=感情) 
+
+sentimental a 多感情的,感伤的(sentiment+al)
+
+nonsense n 无意义的话(non 无+sense 感觉,意义=无意义) 
+
+assent n 赞成,附和(as 一样+sent=感觉一样=赞成) 
+
+consent v 同意,答应(con 共同+sent=共同感觉=同意) 
+
+consentient a 同意的,一致的
+
+dissent v 持不同意见(dis 分开+sent=感觉不合=意见不同)
+
+dissension n 意 见 不 合 , 冲 突 (dis+sens+ion) 
+
+consensus n 一致意见(con 共同+sens+us=感觉一致) 
+
+presentiment n 预感(pre 预先+sentiment 感觉) 
+
+resent v 怨恨(re 反+sent=反感=怨恨)
+
+resentment n 愤怒,怨恨(resent+ment
+
+## serv=serve, keep,表示”服务,保持”
+
+service n 服务
+
+serviceable a 有用的,便利的(service 服务+able) 
+
+servile a 奴隶的(serv+ile=为[主人]服务的=奴隶的) 
+
+servility n “奴性,屈从(serv+ility,servile 的名词)” 
+
+servitude n 奴役(serv+itude 表示状态)
+
+servant n 仆人,公务员(serv+ant 表示人)
+
+deserve v 应受,值得(de 加强+serve=加强服务=值得[重视]) 
+
+deservedly ad 当然应受地
+
+disserve v 损害,伤害(dis 坏+serve=服务不好=损害) 
+
+conserve v 保存,保守(con 全部+serve=全部保持下来=保存) 
+
+conservation n 保存,保持(conserve+ation)
+
+conservative a 保守的(conserve+ative)
+
+observe v 观察,遵守(ob 加强动作+serve=一直保持=遵守,引申为观察)
+
+observation n 观 察 (observe+ation) 
+
+observance n 惯例,遵守(observe+ance)
+
+observatory n 天文台(observe 观察+atory 场所) 
+
+preserve v 保存,保藏(pre 预先+serve=预先保留=保存)
+
+reserve v 保留,预定n. 内向,沉默寡言(re 再+serve=再留住= 预定)
+
+reserved a 保留的,沉默的
+
+reservoir n 水库,贮藏所(reserve 保留+oir=保留[水]的地方)
+
+## sid=sit,表示”坐”
+
+dissidence n 意见不同(dis 分开+sid+ence=分开坐=意见不同)
+
+dissident a 持不同意见的(dis+sid+ent)
+
+reside v 居住(re 再+side=再坐[之地]=居住)
+
+residence n 居住,住宅(reside+ence)
+
+preside v 主持(pre 前面+side=在前面坐=主持)
+
+president n 总统,校长(pre+sid+ent 人=有前面坐的人=总统) 
+
+presidium n 主席团(preside+ium 表示地方或团体=前面坐的团体)
+
+subside v 沉淀,平息(sub 下+side=坐下去=沉淀)
+
+subsidiary a 补助的(sub 下+sid+iary=坐在下面[帮助别人]= 补助的)
+
+subsidy n 补助金(sub+sid+y)
+
+consider v 考虑(con 共同+sider 坐=坐在一起思考=考虑) 
+
+considerate a 考虑周到的(consider+ate)
+
+insidious a 阴险的(in 内+sid+ious=坐在内部的[坏人]=阴险的)
+
+residue n 残余,余渣(re 回+sidue=[不能用]重新坐回来=残余) 
+
+assiduous a 勤勉的,刻苦的(as 一再+sid+uous=一再坐着[学习]=勤勉的)
+
+sedate a 文静的(sed[=sid]+ate=坐着的=文静的) 
+
+sedulous a 勤勉的(sed+ulous 多…的=坐得多的=勤勉的)
+
+supersede v 代替,取代(super 在上面+sede=坐到上面去=取代)
+
+sedentary a 坐着的,久坐的(sed+ent+ary=坐着的
+
+## sign=mark,表示”记号,信号”
+
+signal n 信号
+
+signalize v 通知,发信号(signal 信号+ize)
+
+assign v 分配,指定(as+sign=不断给人信号=指定) 
+
+assignment n 分配,指定(assign+ment)
+
+signature n 签名,盖章(sign+ature=记号的东西=签名) 
+
+signet n 印,图章(sign+et 做记号=图章)
+
+signify v 表示,象征(sign+ify=用信号表示=象征)
+
+significance n 重要,意义(sign+ific 带有+ance=带有信号=[有] 意义)
+
+significant a 有意义的
+
+consign v 委托,寄存(con 共同+sign=共同做记号=把…委托[别人])
+
+consignment n 交付,委托(consign+ment)
+
+design n/v 计划,设计(de 着重+sign=着重做记号=设计) 
+
+designate v 指示,指定(de+sign+ate=着重指定) 
+
+designation n 指定,任命(designate+ion)
+
+ensign n 国旗,军舰旗(en 内+sign=内部标志=国旗) 
+
+insignia n 徽章,标识(in 内+sign+ia=内部标志物=国徽)
+
+resign v 辞职,放弃(re 再+sign=再做记号=再签字=[任职签一次],辞职签一次)
+
+resignation n 辞职,听天由命
+
+## simil, simul, sembl =alike,same,表示”相类似,一样”
+
+similar a 同样的,相似的
+
+similarity n 类似(similar 相似的+ity) simile n 直喻,明喻
+
+similitude a 类似,相像(simil+itude)
+
+assimilate v 同化,贯通(as 不断+simil+ate=不断相同=同化) 
+
+dissimilar a 不同的(dis 不+similar 相同的)
+
+dissimilation n 异 化 , 分 化 作 用 (dis+simil+ation) 
+
+facsimile n 誊写,摹写(fac 事实+simile=实际一样=誊写)
+
+verisimilar a 貌似真实的,逼真的(veri[very]+similar=非常相像的)
+
+simulate v 假装,模仿(simul+ate=做得相像=模仿) 
+
+simulation n 假装(wimulate+ion)
+
+simultaneous a 同时发生的(simult+相同+aneous=[时间]相同的)
+
+simultaneity n 同时性(simult+aneity)
+
+semblance n 类似,外观相像(sembl+ance=相同之处) 
+
+assemble v 集合,装配(as 不断+semble=不断使东西相同=组装[东西])
+
+dissemble v 假装,掩饰(dis 不+semble=不相同装做相同=掩饰)
+
+resemble v 类似, 像…一样(re 再+semble=再一样=类似)
+
+resemblance n 类似(resemble+ance
+
+## sinu=bend,表示”弯曲” 
+
+sinus n 海湾, 凹处(sinu+s) 
+
+sinuate a 弯曲的(sinu+ate) sinuation n 曲折(sinu+ation) 
+
+sinuous a 蜿蜒的(sinu+ous)
+
+insinuate v 暗示,巧妙巴结(in 进入+sinu+ate=进入弯曲=不直接表达=暗示)
+
+## sist= stand, 表示”站立”
+
+assist v 帮助,参加(as 加强动作+sist=站在一起=帮助) 
+
+assistant n 助手,助理(assist+ant=帮助之人)
+
+consist v 由…组成,与…一致(con 共同+sist=站到一起=组成) 
+
+consistence n 无矛盾,一致(consist+ence)
+
+desist v 停止(de 加强+sist=站着不动=停止) 
+
+exist v 存在,生存(ex+sist=站出来=活下来=存在) 
+
+existence n 存在,生存(exist+ence)
+
+insist v 坚持,硬要(in 进入+sist=站进去=坚持) 
+
+insistence n 坚持,强调(insist+ence)
+
+persist v 坚持到底(per 始终+sist=始终站着=坚持到底) 
+
+persistent a 坚持的,顽固的(persist+ent)
+
+resist v 反抗,对抗(re 反+sist=反进来站=反抗) 
+
+resistance n 反抗,抵抗力(resist+ance)
+
+irresistible a 不可抗拒的(ir 不+resist 反抗+ible=不可反抗的) 
+
+subsist v 生存,维持生活(sub 下面+sist=站下去=活下去=生存)
+
+subsistence n 生存,生计(subsist+ence)
+
+## soc=companion,表示”同伴”,引申为”社会”
+
+sociable a 爱社交的(soc+iable) social a 社会的
+
+socialism n 社会主义(social+ism 主义) sociality n 爱交际(social+ity)
+
+society n 社会,社团
+
+sociology n 社会学(soc+io+logy 学科)
+
+associate v 联合,联想(as 加强+soc+iate=成为社团=联合)
+
+association n 社团,联合(associate+ion)
+
+consociate a 联合的(con 共同+soc+iate=成为同一社会=联合的)
+
+dissociate v 分离,断绝关系(dis 分开+soci+ate=伙伴分开=分离)
+
+## sol=sun,表示”太阳”
+
+solar a 太阳的
+
+solarize v 晒太阳(solar 太阳的+ize)
+
+parasol n 遮阳伞(para 旁边+sol+太阳旁边=不晒太阳=遮阳伞)
+
+solarium n 日光浴室(solar+ium 地方)
+
+insolate v 曝晒(in 进入+sol+ate=放在太阳之中=曝晒) 
+
+solace n 安慰(sol+ace=给人太阳=安慰)
+
+console v 安慰(con 共同+sole=共同的太阳=安慰)
+
+## son=sound,表示”声音”; la. sonus, sonare, prp. sonans, pp. sonitus; 
+
+sonic a 声音的,声波的
+
+sonorous a 响亮
+
+sonority n 洪亮度
+
+sonata n 奏鸣曲（it. pp., 区别于 cantata）
+
+supersonic a 超音速的(super 超+sonic)
+
+dissonance n 不和谐(dis 不+son+ance=声音不一致) 
+
+dissonant a 不和谐的,嘈杂的
+
+consonant a 符合的,和音的(con 共同+son+ant=声音相同= 和音的)
+
+consonance n 调和,共鸣(con+son+ance)
+
+resonant a 有回声的,共鸣的(re 回+son+ant=有回声的) 
+
+resonance n 反响,共鸣(re+son+ance
+
+## la. spargere 撒、喷
+
+sparse a 稀疏
+
+sparge n/v 喷水
+
+asperse v 诽谤；洒圣水于(ad+)
+
+aspersion n 诽谤
+
+disperse v 分散、驱散(dis 离+)
+
+dispersion 
+
+intersperse vt 散置、点缀
+
+interspersion 
+
+## speci=look, kind, 表示”外观,种类”
+
+special a 特别的,专门的( speci 种类+al=[属于]种类的=特别的)
+
+specialty n 特 点 , 特 产 (special+ity) 
+
+specialize v 专门化,特殊化(special+ize)
+
+specific a 具体的(speci+fic 带来=带来外观的=具体的) 
+
+specification n 具体说明(specific+ation)
+
+species n 种类,物种
+
+specimen n 样本,标本(speci+men 物品)
+
+conspecific a 同种的(con 共同+specific)
+
+specious a 似是而非的(外观相似,而实质不是)
+
+## spect, spic= look, see,表示”看”
+
+aspect n 样子,容貌,方面(a 加强意义+spect=看的东西=外表, 容貌)
+
+circumspect a 慎重的(circum 周围+spect=看周围=小心的) 
+
+circumspection n 慎重,细心
+
+expect v 期待,盼望(ex 出+spect=看出去=期待) 
+
+expectation n 期待,希望(expect+ation)
+
+inspect v 检查,视察(in 内+spect=看进去=视察) 
+
+inspection n 视察,认真看(inspect+ion)
+
+perspective n 看法,眼界,透视(per 全部+spect+ive=全部看到=透视,看法)
+
+prospect n 展望,前景(pro 向前+spect=向前看=展望) 
+
+prospective a 将来的(prospect 前景+ive)
+
+prospectus n 计划书,大纲(pro+spect+us=向前看的东西=大纲)
+
+respect v/n 尊敬(re 再+spect=再看[一眼]=尊敬) 
+
+respectable a 可敬的(respect+able)
+
+respectful a 充满敬意的(respect+ful)
+
+respective a 各自的(re 回+spect+ive=回头看[自己]=各自的) 
+
+retrospect v 回顾,回想(retro 向后+spect 看=向后看=回顾) 
+
+retrospective a 回顾的,怀旧的
+
+suspect v 怀疑(sus 下面+spect=在下面看=怀疑) 
+
+suspicion n 怀疑(sus+spic+ion=在下面看=怀疑) 
+
+suspicious a 多疑的(sus+spic+ious)
+
+spectacle n 奇观,状观,(spect+acle 复)眼镜(spect+acle=看的东西=眼镜)
+
+spectacular a 奇妙的,惊人的(spect+acular…的,来自 spectacle奇观)
+
+spectator n 观众,旁观者(spect+ator 人=看的人=观众) 
+
+speculate v 思索,投机(spec+ulate=看准了=思考,投机) 
+
+speculation n 思索,投机(spec+ulate=看准了=思考,投机)
+
+auspice n 吉兆,前兆(au 鸟+spice=看到鸟[喜鹊]=吉兆) 
+
+auspicious a 吉兆的(auspice+ious)
+
+conspicuous a 显眼的,引人注目的(con 大家+spic+uous=大家都看见=显眼的)
+
+despicable a 可鄙的(de 向下+spic+able=向下看=看不起=可鄙视的)
+
+despise v 轻视,看不起(spis=spic)
+
+perspicacious a 有洞察力的(per 全部+spic+acious…的=全部都看到的)
+
+## sper=hope, 表示”希望”
+
+desperate a 绝望的(de 去掉+sper+ate=去掉希望=绝望的) 
+
+desperation n 绝望,拼命(desperate+ion)
+
+desperado n 亡命徒(de+sper+ado 人=无希望之人=亡命徒) 
+
+despair v 绝望(de 去掉+spair[=sper 希望])
+
+prosper v 繁荣( pro 前面+sper=希望在前面=繁荣) 
+
+prosperous a 繁荣的(prosper+ous)
+
+prosperity n 繁荣昌盛(prosper+ity)
+
+asperity n 粗糙,严厉(a 无+sper+ity=无希望=不给人希望=粗暴,严厉)
+
+## spir=breathe,表示”呼吸”
+
+spirit n 精神,情绪(有呼吸=有精神) 
+
+spirited a 精神饱满的
+
+spiritual a 精神的,宗教的
+
+aspire v 热望,立志(a 加强+spire=看到渴望的东西加强呼吸= 热望)
+
+aspiration n 渴望,热望(aspire+ation) 
+
+aspiring a 有抱负的(aspire+ing)
+
+conspire v 同谋(con 共同+spire=同呼吸=同谋) 
+
+conspiracy n 共谋,反叛(conspire+acy)
+
+expire v 断气,期满(ex 出+spire=只出气不进气=断气) 
+
+expiration n 断气,期满(expire+ation)
+
+inspire v 吸气,鼓励(in 进+spire=吸气进去,引申为鼓励)
+
+inspiration n 吸气,灵感(有灵气)
+
+perspire v 出汗(per 全部+spire=全身呼吸=出汗) 
+
+perspiration n 出汗
+
+respire v 呼吸,恢复精神(re 再+spire=再呼吸=恢复精神) 
+
+respiration n 呼吸
+
+transpire v 泄露(trans 交流+spire=互相呼吸=泄露)
+
+dispirit v 使沮丧(dis 去掉+spirit 精神)
+
+## spond, spons =promise,表示”承诺”
+
+despond v 丧气(de 去掉+spond=不再承诺=使人丧气) 
+
+despondent a 失望的(despond 丧气+ent )
+
+respond v 回答,反应(re 回+spond=承诺回去=回答) 
+
+respondent n 被告 a. 被告的(回答原告的人) 
+
+response n 回答,答应(respond 的名词)
+
+responsible a 有责任的(response 回应+ible=能回应的=负责任的)
+
+correspond v 符合,通信(cor 共同+respond 回答=两人互相回答=通信)
+
+correspondence n 通信,来往
+
+spontaneous a 自愿的,自发的(spont+aneous=自[内心]承诺=自愿的)
+
+## st, sta, stat, stan, stant, stin = stand, 表示”站,立”
+
+stable a 稳定的(st+able=能站的=稳定的) 
+
+stability n 稳定性(st+ability)
+
+stabilization n 稳定,安定(来自 stabilize 稳定)
+
+obstacle n 障碍(物)(ob 反+sta+acle=反着站的东西=障碍物) 
+
+circumstance n 环境(circum 周围+stance=站在周围的东西= 环境)
+
+instance n 情况,例子(in 内+stance=站在里面的东西=例子) 
+
+instant a 紧 急 的 (in+stant= 站 进 来 的 = 紧 急 的 ) 
+
+instantaneous a 同时发生的(instant 马上的+aneous=马上发生的=同时发生的)
+
+substance n 物质,本质(sub 下面+stance=站在下面的东西= 具体物质)
+
+substantial a 本质的,实在的(sub+stant+ial=本质的)
+
+substantiate v 证实(sub+stant+iate=[把理论]物质化=证实) 
+
+substantive a 根本的,实质的(sub+stant+ive)
+
+constant a 不变的,稳定的(con 始终+stant=始终站着=不变的)
+
+constancy n 不变,不屈不挠
+
+distant a 有距离的(dis 分开+stant=分开站=有距离的) 
+
+equidistance n 等距离(equi 平等+distance 距离)
+
+state n 国家,状态
+
+stateliness n 庄严,雄伟(state 国家+li[=ly]+ness=国家状态= 庄严)
+
+statement n 声明,陈述(state+ment=站着说话=声明立场) 
+
+stationary a 不动的,稳定的(station 站+ary=站着的=不动的) 
+
+stationery n 文具(station+ery)
+
+statue n 雕像(stat+ue=站着的[雕像]) 
+
+stature n 身长,身材(stat+ure)
+
+status n 状态,情况(stat+us)
+
+statute n 法令,法规(star+ure=站着不动的东西=法令)
+
+estate n 不动产,财产(e 出+state=站出来的东西=房子等不动产)
+
+static a 静止的
+
+statistics n 统计学(stat+istics 学科=站着去计算数据的学科= 统计学)
+
+apostasy n 背教,变节(apo 离开+stasy=站开了=背教) 
+
+apostate n 变节者(apo+state)
+
+obstinate a 顽固的(ob 反+stin+ate=[和别人]反着站=顽固的) 
+
+obstinacy n 顽固,顽强(ob+stin+acy)
+
+stagnant a 停滞的(stagn 站+ant=站着不走=停滞的)
+
+stamina n 耐力,持久力(stam[stan 站]+ina=站下去=[有]耐力) 
+
+steadfast a 坚定的,固定的(stead[=stand]+fast 稳固的) 
+
+homestead n 家园(home+stead[=stand]=站着的家=家园) 
+
+withstand v 抵抗,抵挡(with 反+stand=反着站=抵抗)
+
+## stall=place,表示”放”
+
+forestall v 预先制止(fore 预先+stall=预先放上东西=制止)
+
+install v 安装,就职(in 进+stall=放进去=安装)
+
+installment n 安装,分期付款(install 的名词)
+
+## sting ,stinct,stimul=priek 表示”刺,刺激”
+
+sting v 刺 n.刺针
+
+stingy a 小气的(sting+y=像刺一样[小的心胸]=小气的
+
+distinguish a 区别,辩出(dis 分开+stingu[=sting]+ish=把刺分开=区别)
+
+distinguished a 著名的,卓越的(区别=与众不同=著名的) 
+
+extinguish v 熄灭(ex+stingu+ish=把刺拿出去=刺引申为火焰=灭火)
+
+distinct a 清楚的,明显的(dis 分开+stinct=把刺分开=与众不同的=明显的)
+
+distinctive a 有区别的(distinct+ive) 
+
+distinction n 区别,优秀(distinct+ion)
+
+extinct a 灭绝的(ex+stinct,来自 extinguish,熄灭=灭绝的) 
+
+extinction n 灭绝
+
+instinct a 本能,本性(in 内+stinct=内在的刺激=本能) 
+
+stimulate v 刺激,鼓励(stimul+ate=刺激)
+
+stimulation n 刺激,鼓励
+
+instigate v 教唆,煽动(in 进入+stig[=stinct]+ate=刺激[别人] 内部=煽动)
+
+## strat=spread out 表示”扩散”,引申为”层次”
+
+strata n 层,地层(stratum 的复数,strat+um=层层扩散=层) 
+
+stratify v 使成层,使分层
+
+prostrate v 使俯卧,使沮丧(pro 前+strate=前[后]回一贯层次上=俯卧)
+
+substratal a 基础的,基本的(sub 下面+strat+al=在下面一层=基础的
+
+## strain,striet,string=tighten,表示"拉紧"; la. stringere, prp. stringens, pp. strictus
+
+strain v 尽力拉,工作过度
+
+constrain a 强迫,强制(con一起 strain=拉到一起=限制,强制)
+
+constraint n 约束,强迫
+
+distrain v 扣押财产(dis分开 strain=把财产拉走)
+
+overstrain a 过度紧张(over过分 strain)
+
+restrain v 抑制,限制(re回 strain
+
+restraint n 抑制,限制
+
+strict n 严厉的,严格的
+
+stricture a 谴责,非难(stict严厉 ure=严厉=谴责)
+
+constrict n 压缩,收缩(con一起 strict=拉回来=限制)
+
+constriction v 收缩
+
+restrict a 限制,限定(re回 strict=拉回来=限制)
+
+restrction n 限制
+
+stringent n 紧迫的(string ent=拉紧的=紧迫的)
+
+stringency a 紧急,严厉(sting ency)
+
+constringe n 使收缩(con一起 stringe=拉到一起=收缩)
+
+constringent v 收缩性的
+
+astringent a 收敛的止血的；严厉的 n 止血药
+
+## sult=leap,表示”跳”
+
+assault v 进攻,攻击(as 一再+sault=sult=一再跳起来=进攻) 
+
+desultory a 散漫的(de 分散+sult+ory=没有目标的跳=散漫的)
+
+exult v 欢腾,喜悦(ex 出+sult 跳=[高兴地]跳出来=欢腾)
+
+insult v 侮辱(in 进入+sult=踩到[别人的脸上]=侮辱[别人])
+
+result n 结果(re 反问+sult=反回来的东西=结果
+
+## sus-表示”在…下面”
+
+susceptible 易受感染的,易受影响的(sus+cept 拿+ible=能被拿下=易受影响)
+
+susceptive 有接受力的,敏感的(sus+cept 拿+ive=有拿下的能力=有接受力的)
+
+suspect 怀疑(sus+pect 看=在下面看一看=怀疑)
+
+suspend 悬挂,中止(sus+pend 挂=挂在下面=悬挂)
+
+suspense 担心,悬而不决(sus+pense 挂=一颗心挂着)
+
+suspire 叹息,渴望(sus+pire 呼吸=喝望)
+
+sustain 支撑,承受(sus+tain 握住=在下面握住=支撑)
+
+sustenance 生活资料,粮食(sus+ten 支撑+ance=支撑下去的东西=粮食,坚持)
+
+## suc-, suf-, sup-, sur-等在同辅音词根前表示”在…下面”
+
+succeed 成功(suc+ceed 走=从下走到上面=成功)
+
+succinct 简洁的,简明的(suc+cinct 捆=在下面先捆好=简洁的)
+
+succumb 屈从,死亡(suc+cumb 躺=躺下去=屈从,死亡)
+
+sufficient 足够的(suf+fici 做+ent=在下面先做好,用的时候=足够的)
+
+suffer 受苦(suf+fer 带=带到下面去=受苦)
+
+suffix 后缀(suf+fix 固定=在后面固定=后缀)
+
+suffocate 窒息(suf+foc 喉咙+ate=把(手)放喉咙下=窒息)
+
+suffuse 弥漫,染遍(suf+fuse 流=流下去=流遍,染遍)
+
+supplant 排挤,取代(sup+plant 种植=种在下面,把上面的取代)
+
+supplicant 哀求的恳求的(sup+plic 重量+ant=双膝重叠跪下= 哀求的)
+
+supplicate 恳求,乞求(sup+plic 重叠+ate=(膝盖)重叠跪下=恳求)
+
+support 支持(sup+port 带=带来支持)
+
+suppress 镇压,压制(sup+press 压=压下去)
+
+suppose 猜想,推测(sup+pose 放=放下去想=猜想)
+
+surreptitious 鬼鬼崇崇的(sur+rept 爬+itious=在下面爬=鬼鬼崇崇的)
+
+surrogate 代替品,代理人(sur+rog 要求+ate=要求下面(有人)= 代理人)
+
+surround 包围(sur+round 圆圈=在下面围一圈)
+
+surrounding 环境(surround+ing=被围起来的状态=环境)
+
+## sum, sumpt = take 表示”拿,取”
+
+consume v 消费,吃光(con 全部+sum+c=全部拿光=消费) 
+
+consumer n 消费者(consume 消费+er 人)
+
+consuming a 消耗性的
+
+assume a 承担,假装,假定(as 加强动作+sum+e=拿往=承担[责任])
+
+assumption n 假设,承担(as+sumpt+ion)
+
+resume v 拿回,恢复(自由等)(re 回+sun+e=拿回去,也可解释为重新拿起,继续)
+
+reassume v 取回,再担任(re 再+assume 承担)
+
+presume v 假定,自以为是(pre 预先+sum+e=预先拿往=假定) 
+
+presumption n 假定,专横(pre+sumpt+ion)
+
+sumptuous a 奢侈的(sumpt+uous=[把钱]拿出去=奢侈的)
+
+## super-
+
+① 表示”超级,超过,过度”
+
+supersized 超大型的(super+sized 有范围的)
+
+supersonic 超音速的(super+sonic 声音的)
+
+supernatural 超自然的(super+natural 自然的)
+
+superfluous 多余的(super+flu 流+ous=流出太多)
+
+supercilious 目中无人的(super+cili 眉毛+ous=在眉毛上看人= 目中无人)
+
+supersensitive 过度敏感的(super+sensitive 敏感的)
+
+supercharge 负载过重(super+chrage 收费,负担=负担过重)
+
+② 表示”在…上面”
+
+supervise 临视(super+vise 看=在上面看=临视)
+
+superstructure 上层建筑(super+structure 结构)
+
+superimpose 放…上面,强加(super+impose 放上去=在上面放=强加)
+
+superficial 肤浅的(super+fic 做+ial=在表面上做)
+
+superintend 监督(super+intend 关心=在上面关心=监督)
+
+supersede 淘汰,取代(super+sede 坐=坐上去=淘汰(以前的东西))
+
+superstition 迷信(super+stit 站+ion=站在人(理智)之上的东西=迷信
+
+## sym-,syn-表示”共同,相同”
+
+sympathy 同情(sym+pathy 感情)
+
+symphony 交响乐(sym+phony 声音)
+
+symmetry 对称(sym+metry 测量=两边测量一样=对称)
+
+symbiosis 共生(sym+bio 生命+sis=共同生命)
+
+symposium 专题讨论会(sym+pos 放+ium=放在一起(讨论)= 专题讨论)
+
+synchronous 同时发生的(syn+chron 时间+ous=共同时间的)
+
+synonym 同义词(syn+onym 名字=名字相同=同义词)
+
+synthesis 合成(syn+thesis 放=放在一起=合成)
+
+synopsis 摘要,概要(syn+ops 选择+is=共同选出=摘要)
+
+syndrome 综合症状(syn+drome 跑=跑到一起=综合症
+
+## s孤立词
+
+slur nv 诽谤；连音符；含糊音
+
+
+
+# T
+
+
+
+## tact,tag,tig,ting = touch 表示”接触”
+
+tactual a 触觉的(tact+ual) 
+
+tactility a 触觉(tact+ility)
+
+intact a 未触动的,完整的(in 没有+tact) 
+
+tact n 机智,圆滑(和人接触的能力)
+
+tactics n 战术,策略(tact+ics 学问=接触(别人)的学问=策略) 
+
+contact n 接触,联系(con 共同+tact=共同接触)
+
+contagion a 传染,感染(con 共同+tag+ion=共同接触到=传染) 
+
+contagious a 传染的(con+tag+ious)
+
+contiguous a 邻近的,接近的(con 共同+tig+uous 互相接触=毗邻的)
+
+contingent a 依条件而定的(con 共同+ting+ent=(根据)大家接触到的情况而定)
+
+contingency a 偶然,意外事故(con+ting+ency=两件事接触= 两车相撞=意外事故)
+
+tangible a 能触知的(tang+ible 能接触的)
+
+intangible a 不能触知的(in 不+tangible
+
+## tail=cut,表示”剪,割”
+
+tailor n 裁缝
+
+curtail v 缩短,削减(cur 短+tail=减短,参考,curt 简短失礼的) 
+
+detail n 琐事,详情(de 加强+tail=不断剪下去=琐事)
+
+retail v 零售(re 再+tail=再监一次=零售)
+
+entail v 使承担,把…遗传给(en 使+tail=把剪下的东西给别人)
+
+## tain ten tin= hold ,表示”拿住”
+
+attain v 获得(at 加强动作+tain=拿住了=获得) 
+
+attainable a 可达到的(attain+able=获得
+
+attainment n 成就,造诣(attain 获得+ment=获得的成就) 
+
+contain v 包含,包容(con 全部+tain=全部拿住=包容) 
+
+entertain v 招待,娱乐(enter 在中间+tain=在[工作]中间拿
+
+entertainment 娱乐,款待(entertain+ment)
+
+detain v 阻拦,拘留(de 加强动作+tain=拿住,拿下=拘留) 
+
+maintain v 维持,坚持(main[=man 手]+tain=用手拿住=坚持) 
+
+maintenance n 维护,坚持(main+len+ance,maintain 的
+
+pertain v 从属,相关(per 始终+tain=始终拿着=[两者]从属,相关)
+
+obtain v 获得,达到(ob 加强动作+tain=拿到=获得) 
+
+retain v 维持,保留(re 回+tain=拿回来=保留)
+
+sustain v 支持,赡养(sus 下面+tain=在下面拿住[撑住]=支持) 
+
+sustenance n 粮食,支持(sus+ten+ance,sustain 的名词) 
+
+tenable a 可守住的(ten+able=能拿住的)
+
+untenable a 不可防守的(un 不+tanable 可守住的) 
+
+tenacious a 固执的(ten+acious 多….的=拿住不放=固执的) 
+
+tenacity a 佃户,房客(ten+ant 人=拿[钱]租房之人)
+
+tenancy a 租赁(期限)
+
+tenure n 占有权,终身制(ten+ure=拿住状态=占有权) 
+
+content n 内容,容量[ken„tent]a.满足的(com 全部+ten=全部拿住=容量,引申为满足)
+
+discontent a 不满的(dis 不+content=不满足的)
+
+countenance 赞许,支持,形貌(coun[=con]+tent+ance=全部控制=容忍,不提议见,表示支持)
+
+retention n 保留,持久力(retain 的名词,re+tent+tion) 
+
+abstinence n 戒除,节制(abs 离开+tin+ence=不在拿住=戒除) 
+
+pertinent a 恰当的,相干的(pertain 的形容词:per+tin+ent) 
+
+impertinent a 不相干的,无理的(im 不+pertinent 恰当的) 
+
+continue v v.继续(con 全部+tin+ue=全部拿住=做事做到尾= 继续)
+
+continuation n 继续(con+tin+uation)
+
+continuous a a.连续不断的
+
+## tard=slow,表示”慢”
+
+tardy a 缓慢的,迟的
+
+tardiness n 拖拉(tardy 的名词)
+
+tardigrade a 行动缓慢的(tard+i+grade 步伐=步伐缓慢) 
+
+retard v 延迟,妨碍(re 一再+tard=一再慢下来=延迟
+
+## temn,tempt=scorn,表示”藐视”
+
+contemn v 藐视,轻视(con 共同+temn=大家一起看不起=藐视)
+
+contempt n 轻视(con 共同+tempt=大家共同看不起=轻视)
+
+contemptible a 可轻视的,下贱(contempt+ible) 
+
+contemptuous a 瞧不起人的(contempt+uous
+
+## tempt =try,表示”尝试”
+
+tempt v 诱惑,尝试
+
+attempt v 尝试,企图(at 一再+tempt=一再尝试)
+
+contempt v 藐视(con 共同+tempt=大家都能试一下=没什么了不起=藐视)
+
+temptation n 诱惑(tempt+ation=想尝试一下=诱惑)
+
+temptatious a 诱惑性的
+
+## temper, tempor =time,表示”时间”或时间引起的现象
+
+temporary a 临时的(tempor+ary=有时间性的=临时的) 
+
+temporal a 现世的,暂时的(tempor+al)
+
+temporize v 拖延以等待时机(temor+ize=时间化=挑战时间) 
+
+extempore a 即席的,临时的(ex 出+tempore=超出时间安排= 临时的)
+
+extemporaneous a 即 席 的 (ex+tempor+anecous) 
+
+extemporize v 即 席 演 讲 ( 演 奏 )(ex+tempor+ize) 
+
+contemporary a 当代的,同代的(con 共同+tempor+ary=时间相同=同代的)
+
+tempo n (音乐)拍子,速度(tempo+时间=按时间[快慢]做=速度,拍子)
+
+temper n 脾气,心情v.调和(temper 时间=不同的时间不同的心情=脾气)
+
+temperament n 气质,性情(temper 脾气+a+ment=脾气状态= 性情)
+
+temperate a 适度的,有节制的,(temper+ate=脾气[不坏]=有节制的)
+
+temperance n 节制,节欲
+
+tempest n 暴风雨(temp 时间引起天气变化+est=天气聚变= 暴风雨)
+
+tempestuous a 暴风雨般的,剧烈的(tempest+uous
+
+## tend tent, tens =stretch,表示”伸展”
+
+attend v 出席,看护(at 加强动作+tend=伸展出去=出席) 
+
+attendant a 出席的 n.随从(attend+ant 人)
+
+attention n 注意力(at+tent+ion=伸展出去[听别人讲]=注意力)
+
+attentive a 关心周到的(attend 看护+tive=看护到了=关心周到的)
+
+tend v 照看,倾向做
+
+tendence n 趋势,趋向(tend+cnce)
+
+tendency n 倾向(tend+ency=伸出去的状态=偏向一边=倾向) 
+
+contend v 竞争,争论(con 一起+tend=一起你拉我夺=争论) 
+
+extend v 延展,扩张(ex 出+tend=伸出去=扩张)
+
+extension n 延展,扩张,延期(ex+tens+ion)
+
+extensive a 广泛的,广阔的(ex 出+tens+ive=伸出去的=广泛的)
+
+extent n 范围,程度(ex 出+tent=伸出去的[范围]) 
+
+intend v 打算(in 内+tend=内心伸出=打算) 
+
+intended a 故意的,打算中的
+
+intent n 意图(intend 的名词)
+
+intention n 故意(intent 意图+ion=有意图,故意)
+
+intense a 强烈的,热烈的(in 不+tense=拉到了不能在拉的地方=紧张的,强烈的)
+
+intensify v 变猛烈,加强(in+tens+ify)
+
+pretend v 假装,借口(pre 提前+tend=提前伸出[想好借口]) 
+
+pretension n 自负,要求(pre 提前+tens+ion=提前摆出=种姿态=自负)
+
+pretentious a 自负的,虚伪的
+
+distend v 扩张,膨胀(dis 分开+tend=向四周延伸=膨胀) 
+
+tension n 紧张,张力(tens+ion=延展出的状态=紧张) 
+
+tensible a 可延展的(tens+ible=能延展出的)
+
+## tenu =thin ,表示”细,薄”
+
+tenuous a 稀薄的,细的(tenu+ous) 
+
+tenuity n 细薄,不结实(tenu+ity)
+
+attenuate v 弄薄,弄细(at 使+tenu+ate=使…..细薄=弄薄) 
+
+extenuate v 减轻,掩盖(罪行)(ex 出+tenu+ate=把重罪弄细薄出来=减轻[罪行])
+
+extenuating n 掩盖罪行的(extenuat+ing)
+
+## termin=limit ,表示”界限”
+
+terminal a 终结的 n.终端(termin+al)
+
+terminate v 终结,结束(termin+ate=定出界限=终结) 
+
+termination n 终结(termin+ation)
+
+terminology n 术语,专门名词(termin+o+logy 学科=定出界限的学科=下定义=术语[学])
+
+terminus n 终点(站)(termin+us=界限之点=终点)
+
+determine v 限定,决定(de 加强动作+termine=加强界限=下决心)
+
+determined a 下决心
+
+extermined a 消灭,根绝(ex 出+termin+ate=从界限中弄出来=根绝掉)
+
+interminable a 无穷无尽的(in 无+termin+adle=没有界限的= 无穷无尽的
+
+## terr=frighten 表示”恐,怕” 
+
+terrible a 可怕的(terr+ible) 
+
+terrify v 恐吓(terr+ify)
+
+terrific a 极好的(terr+iflc 带来=带来可怕=好到了让人害怕的地步=极好的)
+
+terrorist n 恐怖分子(terror 恐怖+ist+sit 表示人)
+
+deter v 吓住,威慑(de 不动+ter[=terr]=下得不动了=吓住) 
+
+deterrent a 威慑的 n. 阻化剂(deter+r+ent)
+
+determent n 制止(deter+ment)
+
+## terr=eartth 表示”土地” 
+
+terrain n 地形,地域(terr+ain) 
+
+terrace n 平台,梯田(terr+ace)
+
+territory n 领土,领域(terr+itory 表示场所 范围=地的范围=领土)
+
+territorial a 领土的(territory+al)
+
+extraterritoriality n 治外法权的(extra 外边+territorial 领地的+ity)
+
+extraterrestrial a 被陆地包围的(medi 中间+terr+nean=在陆地中间的)
+
+mediterranean n 地中海
+
+subterrane n 地下层,地下室(sud 下面+terr+ane=地下[室]) 
+
+subterranean a 地下的(sub 下面+terr+anean)
+
+inter v 埋葬(in 进+ter=进地=埋葬)
+
+disinter v 挖出(dis 出+inter 埋=把埋进去的挖出来
+
+## text=weave,表示”编织”
+
+text n 课文,原文(文章为作者所编) 
+
+textile n 纺织品(text+ile=编织出的物品)
+
+texture n 结构,质地(text+ure=编制状态=结构)
+
+context n 上下文(con 共同+text=共同编织在一起的=上下文) 
+
+pretext n 借口,托词(pre 预先+text=预先编好的=借口)
+
+## thesis,thet= setting ,表示”放置”
+
+thesis n 论文,命题(放好的研究主题)
+
+antithesis n 对立(anti 反+thesis=反着放=对立)
+
+hypothesis n 假说,前提(hypo 下面+thesis=放在下面,还不能作为正式理论=假说)
+
+parenthesis n 括号(par 平行+en 进+thesis=平行放进去=括号)
+
+synthesis n 综合(syn 共同+thesis=放到一起=综合)
+
+antithetical a 对立的(anti 反+thet 放+ical=反着放=对立) 
+
+synthetic a 综合的(syn 共同+thet+ic 放=放一起)
+
+## tim=fear,表示”害怕”
+
+timid a 胆怯的
+
+timidity n 胆怯,胆小(timid 胆怯的+ity)
+
+intimidate v 恐吓,威胁(im 使+timid+ate=使人胆小=恐吓) 
+
+intimidation n 恐吓
+
+timorous a 胆小的(tim+orus…..的=胆小的
+
+## tir=draw,表示”拉”
+
+entire a 完整的,完全的(en 进+tir=拉进去=不遗留在外=完整的)
+
+retire v 退休,撤退(re 回+tir+e=拉回去=退休) 
+
+retired a 退休的,隐退的
+
+tirade n 很长的演说(tir+ade=把[话]拉长=很长的演说)
+
+attire v 打扮,穿着(at 强调动作+tir+e=[把衣服]拉直=打扮
+
+## tort = twist 表示”扭曲”
+
+torsion n 扭转力(tors[=tort]+ion)
+
+torture n 折磨,拷问(tort+ure=扭曲[别人]=折磨) 
+
+tortuous a 曲折的(tort+uous=弯曲的)
+
+contort v 拧弯,曲解(con 全部+tort=全部扭曲=拧弯) 
+
+contortionist n 软体表演者(能把身边全部扭曲的人)
+
+distort v 曲解(dis 坏+tort=扭坏了=曲解)
+
+distortion n 歪曲(distort+ion)
+
+extort v 强夺(ex 出+tort=强扭出来=强夺) 
+
+extortion n 强夺,勒索
+
+retort v 反驳,报复(re 回+tort=返回来扭=反驳,报复) 
+
+retortion n 扭转,报复
+
+torment n 苦恼,拷问(tor[=tort]+ment=扭的状态=拷问:苦恼
+
+## tour, torn, tourn =turn, 表示”转,环绕”
+
+tour v n.旅游(转着玩) tourist n 旅游者(tour+ist)
+
+contour n 轮廊(con 全部+tour=全部转一圈=轮廊)
+
+detour n 迂路,曲折(de 加强动作+tour=转着走=语汇的路) 
+
+tournament n 锦标赛(tourn 转+a+ment=转着轮流比赛,锦标赛)
+
+tornado n 龙卷风(torn+ado=转着的风=龙卷风) 
+
+attorney n 律师(at+torn+er=玩的转的人=律师)
+
+tourniquet n 止血绷带(止血绷带紧紧环绕肢体)
+
+## tract =draw, 表示”拉,拖”
+
+abstract v 抽出 a. 抽象的(abs 离开+tract=拉出,抽出) 
+
+abstraction n 抽象,发呆(思想被拉走)
+
+attract v 吸引(at 加强动作+tract=不断拉=吸引) 
+
+attraction n 吸引力(attract+ion)
+
+attractive a 有吸引力的(attract+ive)
+
+contract n 契约 v. 收缩(con 共同+tract=共同拉[回去]=收缩, 对大家都有制约=合同)
+
+contraction n 收缩
+
+detract v 降低,贬损(de 坏+tract=拉坏=降低) 
+
+detraction n 毁谤,减损
+
+detractor n 毁谤者(detract 贬损+or 人)
+
+distract v 分散,使混乱(dis 分开+tract=[思想]被拉开=分心,分散)
+
+distracted a 心烦意乱的
+
+extract v 抽出,提炼出(ex 出+tract=拉出来=提炼出) 
+
+extraction n 提炼,抽出
+
+protract v 延长(pro 向前+tract 向前拉=延长) 
+
+protractile a 可延长的(protract+ile)
+
+retract v 缩进,退缩(re 向后+tract=向后拉=缩进) 
+
+retraction n 缩进,撤回
+
+subtract v 减去,扣除(sub 下+tract=拉下去=减去) 
+
+tractor n 拖拉机(tract+or=拉的东西=拖拉机) 
+
+tract n 一片土地,地带(拉长的一片地)
+
+tractable a 易管教的(tract+adle=能够拉[回来]=易管教的)
+
+## tox= poison 表示”毒” 
+
+toxin n 毒 素 (tox+in) 
+
+toxic a 有毒的(tox+ic)
+
+toxication n 中毒(toxic 有毒的+ation) 
+
+toxicology n 毒物学(toxic+o+logy 学科)
+
+intoxicate v 使陶醉,使中毒(in 使+toxic+ate=使中毒,陶醉[酒精中毒])
+
+detoxify n 解毒(de 去掉+tox+ify=去掉毒)
+
+## trans-
+
+① 表示”横过,越过”
+
+transcontinental 横贯大陆的(trans+continental 大陆的)
+
+transnormal 超出常规的(trans+noraml 正常的)
+
+transcend 超越,胜过(trans+scend 爬=爬过=超越)
+
+transgress 冒犯,违背(trans+gress 走=横着走=冒犯)
+
+transmit 传送,传播(trans+mit 送=横着送消息=传播)
+
+transparent 透明的(trans+par 平等+ent=横穿过去看得一样清楚=透明的)
+
+transect 横切,横断(trans+sect 切=横切)
+
+② 表示”变换,改变,转移”
+
+transplant 移植(trans+plant 种=转移过去=移植)
+
+transaction 交易,办理(trans+action 行动=交换行动=交易)
+
+transcribe 抄写,转录(trans+scribe 写=把写的东西移到(另一张纸上)=抄写)
+
+transfigure 改观,变形(trans+figure 形状=改变形状)
+
+transfuse 输血,充满(trans+fuse 流=(血)流过去=输血)
+
+transitory 短暂的(trans+it 走+ory=走过就变=输血)
+
+transmogrify 变得古怪,变形(trans+mogr 怪形状+ify=变成怪形状)
+
+## trench=cut,表示”切,割”
+
+trench n 壕沟(被雨水切割出来的沟)
+
+entrench v 用壕沟防护,确立…地位(en 在…里面+trench=在壕沟里面)
+
+trenchant a 一针见血的(trench+ant=象刀切进去一样
+
+## trop=turn,表示”转”
+
+trope n 转义,比喻(转出来的意义) 
+
+tropic n 回归线(太阳回转的地方) 
+
+tropical a 热带的(tropic+al)
+
+trophy n 奖品, 胜利纪念品( 经过轮番努力[turn again and again]而得到的东西
+
+## trud ,trus=push,表示”推”
+
+extrude v 挤出,冲出(ex 出+trud+e=往外推=冲出) 
+
+intrude v 硬挤进,侵入(in 进+trud+e=推进去=挤进) 
+
+intruder n 侵入者(in+trud+er)
+
+intrusion n 侵入,干涉(in+trus+ion)
+
+obtrude v 管闲事,插嘴(ob 加强动作+trud+e=硬推=管闲事)
+
+protrude v 伸出,突出(pro 向前+trud+e 推=向前推=伸出) 
+
+protrusion n 突出,隆起
+
+detrude v 推倒(de 下去+trud+e=向下推=推倒)
+
+abstruse n 深奥的(abs 离开+trus+e=离开[人的知识]理解不能推进=深奥的)
+
+## tuine = twine,表示”编织”
+
+twine v 缠绕n. 股线
+
+entwine v 纠缠(en 使+twine=使编织到一起=纠缠) 
+
+intertwine v 编织起来(inter 在中间+twine=互相编织在一起) 
+
+untwine v 解开(un 打开+twine=把编织在一起的解开)
+
+## turb= stir”表示”搅动”
+
+disturb v 扰乱,打扰(dis 分开+turb=搅开了=搅乱了) 
+
+disturbance n 骚动,动乱(disturb+ance)
+
+turbid a 混浊的(turb+id 表形容词=搅动的=混浊的) 
+
+turbine n 涡轮(turb+ine)
+
+turbulent a 骚乱的(turb+ulent 多….的=搅动太多=骚动的) 
+
+turbulence n 骚乱(turb+ulence)
+
+perturb v 骚乱(per 始终+turb=始终搅动=扰乱) 
+
+perturbative a 扰乱的 (perturb+ative)
+
+perturbative a 沉着的(im 不+perturb+able=不受扰乱[影响] 沉着的)
+
+turmoil n 混乱(tur[=turb]+moil 翻腾=搅动翻腾=混乱)
+
+## -ture 表名词,通常在单词或词根以 t 结尾时使用,表示”一般状态,行为”…ature”,”iture”
+
+miniature n 小画像,缩影(mini 小)
+
+legislature n 立法机关(legis 法律+lat 带来+ure) 
+
+fracture n 骨折,断裂(fract 断)
+
+conjecture n 推测(con 共同+ject 扔…一起猜) 
+
+expenditure n 支出(expend 花费)
+
+divestiture n 剥夺(divest 剥夺)
+
+horticulture n 园艺学(horti,来自 hortense 法国一喜欢花的女子+cult+ure)
+
+denture n 假 牙 (dent 牙 齿 ) 
+
+scripture n 经典著作(script 写,文学) 
+
+torture n 酷刑,折磨(tort 扭曲) 
+
+signature n 签 名 (sign 签 字 ) 
+
+mixture n 混合物(mix 混合)
+
+注:-ture 在 s 结尾的词根后变成-sure,如:
+
+censure n 责难(cens 评判+ure) 
+
+closure n 关闭(close 关闭)
+
+enclosure n 围占,包围(en 进入+close 关闭)
+
+composure n 镇定,沉着(com 共同+pos 放…精神放到一起) 
+
+fissure n 裂缝(fiss 分裂+ure)
+
+表名词,用在形容词后,把形容词变成名词
+
+specialty n 特长(special 特别) 
+
+safety n 安全(safe 安全)
+
+entirety n 整 体 (entire 完 整 ) 
+
+certainty n 肯定(certain 肯定的) 
+
+cruelty n 残酷(cruel 残酷的) 
+
+novelty n 新奇(novel 新的)
+
+frailty n 脆弱(frail 脆弱的)
+
+
+
+# U
+
+
+
+## uber=fruitful (果实)
+
+exuberant 茂盛的,多产的
+
+uberty 丰饶,多产,生育力
+
+## ultra-
+
+① 表示”极端”
+
+ultrapure 极纯的(ultra+pure 纯的)
+
+ultramilitant 极端好战的(ultra+militant 好斗的)
+
+ultraclean 极洁净的(ultra+clean 干净的)
+
+ultra-reactionary 极端反动的(ultra+reactionary 反动的)
+
+ultraliberal 极端自由主义的(ultra+liberal 自由的)
+
+② 表示”超出,超过”
+
+ultrasonic 超音速的(ultra+sonic 声音的)
+
+ultramodern 超现代化的(ultra+modern 现代化的)
+
+ultramundane 超俗的(ultra+mudane 俗气的)
+
+ultrared 红外线的(ultra+red 红色的) 
+
+ultraviolet 紫外线的(ultra+violet 紫色的)
+
+## un-
+
+① 表示”不,无,非,没有”
+
+unreal 不真实(un+real 真实的)
+
+unequal 不平等的(un+equal 平等的)
+
+unfortunate 不幸的(un+fortunate 幸运的)
+
+unabashed 不害臊的(un+abashed 难为情的)
+
+unassuming 不摆架子的(un+assuming 自以为是的)
+
+uncommitted 不承担责任的(un+committed 担责任的)
+
+unscrupulous 肆无忌惮的(un+scrupulosu 小心的)
+
+untoward 不幸的,逆境的(un+toward 顺利的=不顺的)
+
+unconditional 无条件的(un+conditional 有条件的)
+
+unlimited 无限的(un+limited 有限的)
+
+unambitious 无野心的(un+ambitious 有雄心的)
+
+unconscionable 无节制的(un+conscionabe 明智的)
+
+unfailing 无尽的,无穷的(un+failing 有尽头,失败的=没有尽头的)
+
+unofficial 非官方的(un+official 官方的)
+
+unjust 非正义的(un+just 公正的)
+
+unworldly 非尘世的(un+worldly 世俗的)
+
+uneducated 未受教育的(un+educated 有教养的)
+
+uncivilized 未开化的(un+civilized 文明的)
+
+undecided 未决定的(un+decided 决定的)
+
+unalloyed 未掺杂的(un+alloy 合金,混合+ed=没混合的)
+
+uncharted 图上没标明的(un+chared 图上标明的)
+
+② 表示”打开,解开,弄出”
+
+unlock 开锁(un+lock 锁)
+
+unbind 解开(un+bind 捆住)
+
+unbutton 解开钮扣(un+botton 钮扣)
+
+uncover 揭开盖子(un+cover 盖子)
+
+undress 脱衣服(un+dress 衣服)
+
+untomb 掘墓(un+tomb 墓)
+
+unearth 从地下挖出(un+earth 土地)
+
+unbosom 吐露(un+bosom 胸=打开心胸=吐露)
+
+unravel 解开,拆散(un+ravel 纠缠)
+
+## urb = city ,表示”城市”
+
+suburb n 郊区(sub 下面+urb=在城市下面=郊区) 
+
+suburbanite n 郊区居民(suburb+an+ite)
+
+urban a 城市的 都市的
+
+urbane a 文雅的,有礼貌的(有城市人的风度) 
+
+urbanity n 温文尔雅(urbane+ity)
+
+inurbane a 粗野的(in 不+unbane 文雅的)
+
+exurban a 城市远郊的(ex 出+urban 城市的=出城市=远郊的
+
+## us,ut = use,表示”用”
+
+usage n 用法,惯例(us+age 状态=用的状态=用法) 
+
+usual a 通常的,常用的
+
+unusual a 异常的(un 不+usual 通常的) 
+
+abuse v 滥用,谩骂(ab 坏+use=不好用=滥用) 
+
+abusive a 谩骂的(abuse+ive)
+
+disabuse v 纠正…错误(dis 去掉+abuse 滥用=去掉滥用=纠正错误)
+
+disuse v 废弃不用(dis 不+use=不用了) 
+
+misuse v 错用,虐待(mis 坏+use=用坏=错用) 
+
+utilize v 利用(ut+ilize)
+
+utility n 公用事业,有用(ut+ility)
+
+utilitarian a 功利主义的(utility+arian……的=有用为主=公里主义)
+
+utensil n 用具,器血(ut 用+ensil 表物品=用具)
+
+usurp v 篡夺,侵占(us+urp[=rape 枪掠]=枪过来用=篡夺
+
+
+
+# V
+
+
+
+## vac van void = empty, 表 示 ” 空 ” 
+
+vacuum n 空虚,真空(vac+uum 表名词) 
+
+vacuous a 空虚的,无意义的
+
+vacant a 空的,空闲的
+
+vacate v 弄空,退出(vac+ate 表动作=弄空) 
+
+vacation n 假期,休假(空出来不用干活)
+
+evacuate v 腾空,清除,撤离(e 出+vac+uate=空出去=撤空) 
+
+evacuation n 撤离,撤退
+
+vanity n 空虚,虚荣心(van+ity=心里空空=虚荣心) 
+
+vanish v 不见,消失(van+ish=空空=消失了)
+
+evanescent a 消失的,转瞬即逝的(e 出+van+escent 开始….. 的=开始空出去=消失的)
+
+evanescence n 消失,幻灭
+
+void a 空的,n.空虚
+
+avoid v 回 避 (a+void= 空 出 来 = 回 避 ) 
+
+avoidance n 避 免 , 无 效 (avoid+ance) 
+
+unavoidable a 不可避免的(un 不+avoid+able)
+
+devoid a 无的,缺…..的(de 加强意义+void=空的=无的
+
+## vag,vogr=wader,表示”漫游”
+
+vagary n 妄想,幻想(vag+ary=思想漫游=妄想)
+
+vagabond n 流浪的人(vaga+bond 倾向与…的=倾向于流浪的人)
+
+vagabondize v 过流浪生活(vagabond 流浪者+ize) 
+
+extravagant a 奢侈的,浪费的
+
+vague a 含糊的(vag+ue=漫游而思想不集中=含糊的)
+
+vagile a 漫游的(vag+ile)
+
+vagrant a 流浪的(vagr+ant=漫游的=流浪的)
+
+## vail,val = strong,表示”强壮”
+
+avail v 利用n.利益(a 使+vail=使….强壮=利用[力量]) 
+
+available a 有用的,有效的(avail+able)
+
+prevail v 克服,流行(pre 优先+vail=比…强大=克服,流行) 
+
+prevailing a 占优势的(prevail+ing)
+
+prevalence n 优势,盛行(prevail 的名词:pre+val+ence) 
+
+invalid a 虚弱的；无效 n.病人(in 不+val+id=不强壮的)
+
+invalidate v 使….无效(in 无+valid 有效的+ate=有效变无效) 
+
+invalidity n (因病)无工作能力(invalid+ity)
+
+convalescence n 恢复健康(con 全部+val+cscence=身体全部强壮起来=恢复健康)
+
+valor n 英勇(al+or=强壮状态=英勇) 
+
+valiant a 勇敢的(val+iant)
+
+valuable a 有价值的(val+uable=因为强壮,所以有价值) 
+
+devaluate v 减价,贬值(de 下降+val+uate=价值下降) 
+
+devaluation n 贬值(devaluate+ion)
+
+evaluate v 估价,评价(e 出+val+uate=出价值=估价) 
+
+invaluable a 无法估价的(in 不+val+uable=不能估价的) 
+
+undervalue v 低估,轻视(under 下面+aluce=在原有价值下面=低估)
+
+equivalence n 同值,等量(epui 平等+val+ence=同等价值)
+
+equivalent a 相等的
+
+## la. varius; vari = vary, change ,表示”变化”
+
+various a 不相同(ari ous)
+
+vary
+
+variform a 有种种形态的(vari form形状)
+
+variable a 易变的(vari able)
+
+variance n 变化,相异(vari able)
+
+variegate v 弄成杂色(vari eg[=ag做] ate=做出变化=弄成杂色)
+
+variegation n 色彩班驳(variegate ion)
+
+prevaricate v 说谎,支吾(pre预先 vari cate=预先想好了变化之词=说谎)
+
+variola n 天花
+
+## ven,vent=come,表示”来”
+
+venture v n.冒险,冒险做(vent+ure 来到[危险]=冒险) 
+
+venturesome a 冒险的(venture+some 有点…的) adventure n 冒 险 (ad 增 强 +venture 冒 险 ) 
+
+adventurous a 爱冒险的
+
+advent n 到来,出现(ad 加强动作+vent=来到)
+
+adventitious a 偶然的,不定的(advent 来到+itious=[突然]来到的=偶然的)
+
+convent n 女修道院(con 大家+vent=大家来[修道]=[女]修道院)
+
+convention n 集会,惯例(con 大家+vent+ion=大家来到=起= 集会)
+
+conventionality n 老一套,习俗(convention 习俗+ality 性质) 
+
+event n 事件(e 出+vent=出来的事=事件)
+
+eventful a 变故多的(event+ful=事件多=多变故的) 
+
+eventual a 最终的(event 事件+ual=出事[之后]=最终的) 
+
+eventuality n 不测事件(eventual+ity)
+
+invent v 发明,创造(in 进+vent=走进来=发明出) 
+
+inventive a 有创造能力的(invent+ive)
+
+prevent v 防止,阻止(pre 预先+vent=预先来到=抢先一步,防止别人)
+
+preventive a 预防性的
+
+convene v 召集,召唤(con 全部+ven+e=来到一起=召集) 
+
+convenience n 方便,便利(con 全部+ven 来+ience=全部能来没有障碍=方便)
+
+revenue n 收入,岁入(re 回+ven+ue=回来的东西=收入) 
+
+avenue n 大路,道路(让人可以走来走去)
+
+contravene v 违反(contra+en+e=反着来=违反) 
+
+covenant n 协议,契约(co 共同+ven+ant=共同走来=协议)
+
+intervene v 干涉,介入(inter 中间+ven+e=走到中间来=干涉)
+
+inventory n 清单,财产目录(in 进+vent+ory=进来的[全部财产]清单
+
+## venge=punish,表示”惩罚”,引申为”报仇”
+
+vengeful a 复仇心重(vengge+ful=充满惩罚的心的=复仇心重的)
+
+vengeance n 报仇(venge+vance) avenge v 报仇(a 加强动作+venge) 
+
+avenger n 报仇者(avenge+er)
+
+revenge v 报仇(re 反+venge=反惩罚=报仇)
+
+revengeful a 仇恨心切的(revenge+ful)
+
+## ver,ert=turn,表示”转”
+
+verse n 诗歌,韵文(转着反复说的话=诗歌)
+
+versed a 熟练的(会写诗歌,表示对语言运用的熟练) 
+
+version n 翻译,译文(vers+ion=从原文转出来=译文) 
+
+versatile a 多功能的,多才的(玩的转=有才能的) 
+
+versatility n 多才多艺
+
+vertical a 垂直(vert+ical[下垂的东西]) 
+
+convert v 转化,改造(con 共同+vert=共同转=转化) 
+
+conversion n 转化,(宗教的)改变
+
+inconvertible a 不能转化的(in 不+convert 转化+ible) 
+
+unconverted a 不变的,不悔改的(un 不+convert 转化+ed) 
+
+controvert v 反驳,攻击(contro 相反+vert=相反转=反驳) 
+
+controversy n 争论,议论
+
+incontrovertible a 不容争论的 (in 不+controvert 反驳+ible=不容反驳的)
+
+divert v 转向,消遣(di 偏离+vert 转偏离=转向) 
+
+diversion n 转向,娱乐
+
+invert v 翻过来,倒转(in 进+vert=转进去=倒转=倒置) 
+
+pervert v 颠倒,曲解(per 全部+vert=全部转=颠倒) 
+
+revert v 恢复原状(re 回+ert=转回来=恢复)
+
+reversion n 恢复原状
+
+avert v 避开(ab 离开+vert=转开=避开)
+
+averse a 反感的(a 坏+vers+e=往坏转=反感的) (to sth)
+
+aversion n 反感
+
+adverse a 逆反,不辛
+
+adversary n 敌手,对手(ad+ers 逆反+ary 人=逆反之人=对手) 
+
+animadversion n 批评，非难
+
+advertise v 做广告(at 一再+vert+ise=转来转去做广告) 
+
+advertisement n 广告
+
+anniversary n 周年纪念日(anni 年+vers+ary=一年转一次= 纪念日)
+
+converse v 谈话,交际(con 共同+vers+e=[两个齿轮对着]一起转=相反)
+
+conversation n 谈话
+
+conversant a 亲近的(con 共同+vers+ant=在一起转的=亲近的)
+
+diverse a 不同的(di 分开+vers+e=转开了=不同的) 
+
+diversify v 多样化(di 分开+vers+ify)
+
+diversity n 多样性
+
+inverse a 翻 转 的 (in 进 +vers+e= 转 进 去 = 翻 转 的 ) 
+
+malversation n 贪污,渎职(mal 坏 vers+ation=转坏了=做官做坏=贪污)
+
+perverse a 性情乖张的(per 全部+vers+e=和大家[反着]转= 乖张的)
+
+perversity n 性情乖张的
+
+reverse v 颠倒,逆转a.相反的(re 反+verse=反着转=颠倒) 
+
+irreversible a 不能改变的(ir 不+re+vers+ible=不能颠倒的) 
+
+transversal a 横断的(taans 横+vers+al=横着转=横断的) 
+
+universe n 宇宙(uni 一个+vers+e=统一旋转=宇宙) 
+
+university n 大学(uni+vers+ity=由宇宙引申为知识,知识之地=大学)
+
+vertigo n 眩晕(vert+igo=go around 转着走=眩晕)
+
+## vi,via, voy =way, 表示”道路”
+
+via n 道路 prve 经过
+
+viaduct n 高架桥(via+duct 引导=引导路的桥) 
+
+deviate v 越轨(de 偏离+via+ate=偏离道路=越轨) 
+
+deviation n 偏向
+
+devious a 误入歧途的(de 偏离+vi+ous)
+
+obviate v 排除,避免(cb 去掉+vi+ous=就在路上掉东西=排除障碍)
+
+obvious a 明显的(ob 加强状态+vi+ous=就在路上=明显的) 
+
+pervious a 能透过的,能了解的(per 穿过=vi+ous=道路穿过去能透过去的)
+
+perviousness n 浸透
+
+previous a 以前的(pne 以前+vi 路[引申为走]+ous=以前走过的=以前的)
+
+trivial a 琐碎的(tri 三+vi+al=三条路=没有一个目标=琐碎的) 
+
+triviality n 琐事(trivial+ity)
+
+convey v 运输,转达(con 共同+vey=共同用路=运输 0 
+
+conveyance n 运输(convey+ance)
+
+convoy v 护航,护送(con 一起+voy 走=一起走=护送)
+
+envoy n 使者,使节(en 进+voy 走=走进[别人的范围 =使者])
+
+## viv vit vig=life,表示”生命” 
+
+vivid a 活泼的,生动的(viv+id) 
+
+vivify v 给予生气,鼓励(viv+ify)
+
+vivisect v 活体解剖(vivi+sect 切割=活着切割)
+
+convivial a 欢乐的,欢宴的(con 共同+viv+ial=共同活跃=欢乐) 
+
+revive v 复活(re 再+viv+c=复活)
+
+revival n 复活
+
+survive v 存活,辛存(sur 在下面+viv+e=在[事故]下面或下来= 辛存)
+
+survival n 存活下来
+
+vivacious a 活泼的,有生气的(viv+acious=多….的=多生命的= 活泼的)
+
+vital a 有活力的,重要的(vit+al) 
+
+vitalism n 活力论(vital 有活力的+ism) 
+
+vitality n 活力(vital+izy)
+
+vitalize v 赋予生命(vital+ize)
+
+revitalize v 恢复生命,复兴(re 重新+vital+ize=重新活) 
+
+vitals n 重要器官,核心(有活力的东西)
+
+vitamin n 维生素(vit+a+min 素=生命要素=维生素)
+
+viable a 能活的(vi+able) 
+
+viability n 生存能力
+
+vigor n 精力
+
+vigorous a 精力旺盛的
+
+invigorate v 鼓励,使强壮(in 进入+vigor+ate=进入活动=鼓励)
+
+invigorating a 激发精神的
+
+vigilant a 警惕的(vigil[=vig]+ant=有生命的=警惕的) 
+
+vigilance n 警惕,警戒(vigil+ance)
+
+## voc, vok=call voice,表示”叫喊,声音”
+
+vocal a 声音的
+
+vocalist n 歌手(vocal 声音的+ist 人)
+
+vocation n 职业,使命(voc+ation=[受到]召唤=有职业) 
+
+avocation n 副业(a 不+vocation 职业=不是职业,是副业) 
+
+vocabulary n 词汇(vocabul[=vocable 词]+ary=词汇) 
+
+advocate v 拥护,倡议(ad 增强+voc+ate=增强声音=拥护) 
+
+advocator n 拥护者
+
+convoke v 召集(con 共同+vok+e=喊到一起) 
+
+convocation n 召 集 , 集 会 (con+voc+ation) 
+
+revoke v 取消,撤回(re 回+vok+e=喊回来=取消) 
+
+revocable a 可废除的(revoke+able)
+
+irrevocable a 不能改变的(ir 不+revocable=不可废除的) 
+
+vociferous a 喧闹的(voc+i+fer 带来+ous=带来声音的=喧闹的)
+
+evoke v 唤醒,唤起(e 出+vok+e=喊出[思想等]=唤醒) 
+
+equivoke n 双关语(equi 平等+vok+e=有两重声音[平等]=双关语)
+
+equivocal a 双关语,模陵两可的(equi 平等+voc+al=平等声音=模陵两可的)
+
+equivocate v 推脱,支吾说谎(equi+voc+ate)
+
+invoke v 请求,使[使[法规]生效(in 进+vok+e 喊进去=请求) 
+
+invocatory a 祈求的(in+voc+atory)
+
+provoke v 触怒,煽动(pro 前面+vok+e=到[别人]面前喊=激怒)
+
+provocative a 激怒人的,激发人的(pro+voe+ative)
+
+## vor=eat,表示”吃”
+
+voracious a 狼吞虎咽的(vor+acious 多…..的--吃多的) 
+
+voracity n 贪食(vor+acilty)
+
+devour v 吞吃(de 下去+vour[=vor]=吃下去=吞吃) 
+
+omnivorous a 杂食性的(omni 全部+vor+oue=什么都吃=杂食性的)
+
+herbivorous a 食草的(herbi 草+vor+ous=食草的) 
+
+carnivorous a 食肉的(carni 肉+vor+ous=食肉的)
+
+insectivorous a 食虫的(inseecti 昆虫+vor+ous=食昆虫的
+
+
+
+# W
+
+
+
+# X
+
+
+
+# Y
+
+
+
+## -y
+
+(1)	表形容词,加在名词后变成形容词
+
+flinty a 极硬的(flint 燧石)
+
+tardy a 迟缓的(tard 慢) 
+
+rainy a 下雨的(rain 雨) 
+
+windy a 有风的(wind 风) 
+
+sleepy a 想睡的(sleep 睡)
+
+homey a 像家一样的(home 家) 
+
+woody a 树木茂密的(wood 树木) 
+
+hilly a 多山的(hill 山)
+
+(2)	表名词,加在形容词或以 r 结尾的单词后
+
+difficulty n 困难(difficult 困难的) 
+
+dainty n 精美食品(dignity 的变体) 
+
+discovery n 发现(discover 发现)
+
+inquiry n 质询(inquire 询问) 
+
+mastery n 精通(master 掌握) 
+
+jealousy n 妒忌(jealous 妒忌的)
+
+(3)表名词,”人或小东西”常带有戏谑性和爱称
+
+fatty n 胖子(fat 胖)
+
+shorty n 矮子(short 矮) 
+
+oldy n 老 人 (old 老 ) 
+
+doggy n 小狗(dog 狗
+
+kitty n 小猫(kit 猫)
+
+granny n 奶奶(grandma”奶奶”的小孩叫法
+
+missy n 小姑娘(miss 小姐)
+
+
+
+# Z
+
+
+
+eply v 回答(re 反+ply=叠回去=回答)
 
 supply v 供应,补给(sup 在下面+ply=重叠下去=供应[下去]) 
 
@@ -7748,1451 +10771,4 @@ distinguished a 著名的,卓越的(区别=与众不同=著名的)
 
 extinguish v 熄灭(ex+stingu+ish=把刺拿出去=刺引申为火焰
 
-=灭火)
-
-distinct a 清楚的,明显的(dis 分开+stinct=把刺分开=与众不同的=明显的)
-
-distinctive a 有区别的(distinct+ive) 
-
-distinction n 区别,优秀(distinct+ion)
-
-extinct a 灭绝的(ex+stinct,来自 extinguish,熄灭=灭绝的) 
-
-extinction n 灭绝
-
-instinct a 本能,本性(in 内+stinct=内在的刺激=本能) 
-
-stimulate v 刺激,鼓励(stimul+ate=刺激)
-
-stimulation n 刺激,鼓励
-
-instigate v 教唆,煽动(in 进入+stig[=stinct]+ate=刺激[别人] 内部=煽动)
-
-## strat=spread out 表示”扩散”,引申为”层次”
-
-strata n 层,地层(stratum 的复数,strat+um=层层扩散=层) 
-
-stratify v 使成层,使分层
-
-prostrate v 使俯卧,使沮丧(pro 前+strate=前[后]回一贯层次上=俯卧)
-
-substratal a 基础的,基本的(sub 下面+strat+al=在下面一层=基础的
-
-## strain,striet,string=tighten,表示"拉紧"; la. stringere, prp. stringens, pp. strictus
-
-strain v 尽力拉,工作过度
-
-constrain a 强迫,强制(con一起 strain=拉到一起=限制,强制)
-
-constraint n 约束,强迫
-
-distrain v 扣押财产(dis分开 strain=把财产拉走)
-
-overstrain a 过度紧张(over过分 strain)
-
-restrain v 抑制,限制(re回 strain
-
-restraint n 抑制,限制
-
-strict n 严厉的,严格的
-
-stricture a 谴责,非难(stict严厉 ure=严厉=谴责)
-
-constrict n 压缩,收缩(con一起 strict=拉回来=限制)
-
-constriction v 收缩
-
-restrict a 限制,限定(re回 strict=拉回来=限制)
-
-restrction n 限制
-
-stringent n 紧迫的(string ent=拉紧的=紧迫的)
-
-stringency a 紧急,严厉(sting ency)
-
-constringe n 使收缩(con一起 stringe=拉到一起=收缩)
-
-constringent v 收缩性的
-
-astringent a 收敛的止血的；严厉的 n 止血药
-
-## sult=leap,表示”跳”
-
-assault v 进攻,攻击(as 一再+sault=sult=一再跳起来=进攻) 
-
-desultory a 散漫的(de 分散+sult+ory=没有目标的跳=散漫的)
-
-exult v 欢腾,喜悦(ex 出+sult 跳=[高兴地]跳出来=欢腾)
-
-insult v 侮辱(in 进入+sult=踩到[别人的脸上]=侮辱[别人])
-
-result n 结果(re 反问+sult=反回来的东西=结果
-
-## sus-表示”在…下面”
-
-susceptible 易受感染的,易受影响的(sus+cept 拿+ible=能被拿下=易受影响)
-
-susceptive 有接受力的,敏感的(sus+cept 拿+ive=有拿下的能力=有接受力的)
-
-suspect 怀疑(sus+pect 看=在下面看一看=怀疑)
-
-suspend 悬挂,中止(sus+pend 挂=挂在下面=悬挂)
-
-suspense 担心,悬而不决(sus+pense 挂=一颗心挂着)
-
-suspire 叹息,渴望(sus+pire 呼吸=喝望)
-
-sustain 支撑,承受(sus+tain 握住=在下面握住=支撑)
-
-sustenance 生活资料,粮食(sus+ten 支撑+ance=支撑下去的东西=粮食,坚持)
-
-## suc-, suf-, sup-, sur-等在同辅音词根前表示”在…下面”
-
-succeed 成功(suc+ceed 走=从下走到上面=成功)
-
-succinct 简洁的,简明的(suc+cinct 捆=在下面先捆好=简洁的)
-
-succumb 屈从,死亡(suc+cumb 躺=躺下去=屈从,死亡)
-
-sufficient 足够的(suf+fici 做+ent=在下面先做好,用的时候=足够的)
-
-suffer 受苦(suf+fer 带=带到下面去=受苦)
-
-suffix 后缀(suf+fix 固定=在后面固定=后缀)
-
-suffocate 窒息(suf+foc 喉咙+ate=把(手)放喉咙下=窒息)
-
-suffuse 弥漫,染遍(suf+fuse 流=流下去=流遍,染遍)
-
-supplant 排挤,取代(sup+plant 种植=种在下面,把上面的取代)
-
-supplicant 哀求的恳求的(sup+plic 重量+ant=双膝重叠跪下= 哀求的)
-
-supplicate 恳求,乞求(sup+plic 重叠+ate=(膝盖)重叠跪下=恳求)
-
-support 支持(sup+port 带=带来支持)
-
-suppress 镇压,压制(sup+press 压=压下去)
-
-suppose 猜想,推测(sup+pose 放=放下去想=猜想)
-
-surreptitious 鬼鬼崇崇的(sur+rept 爬+itious=在下面爬=鬼鬼
-
-崇崇的)
-
-surrogate 代替品,代理人(sur+rog 要求+ate=要求下面(有人)= 代理人)
-
-surround 包围(sur+round 圆圈=在下面围一圈)
-
-surrounding 环境(surround+ing=被围起来的状态=环境)
-
-## sum, sumpt = take 表示”拿,取”
-
-consume v 消费,吃光(con 全部+sum+c=全部拿光=消费) 
-
-consumer n 消费者(consume 消费+er 人)
-
-consuming a 消耗性的
-
-assume a 承担,假装,假定(as 加强动作+sum+e=拿往=承担
-
-[责任])
-
-assumption n 假设,承担(as+sumpt+ion)
-
-resume v 拿回,恢复(自由等)(re 回+sun+e=拿回去,也可解释为重新拿起,继续)
-
-reassume v 取回,再担任(re 再+assume 承担)
-
-presume v 假定,自以为是(pre 预先+sum+e=预先拿往=假定) 
-
-presumption n 假定,专横(pre+sumpt+ion)
-
-sumptuous a 奢侈的(sumpt+uous=[把钱]拿出去=奢侈的)
-
-## super-
-
-① 表示”超级,超过,过度”
-
-supersized 超大型的(super+sized 有范围的)
-
-supersonic 超音速的(super+sonic 声音的)
-
-supernatural 超自然的(super+natural 自然的)
-
-superfluous 多余的(super+flu 流+ous=流出太多)
-
-supercilious 目中无人的(super+cili 眉毛+ous=在眉毛上看人= 目中无人)
-
-supersensitive 过度敏感的(super+sensitive 敏感的)
-
-supercharge 负载过重(super+chrage 收费,负担=负担过重)
-
-② 表示”在…上面”
-
-supervise 临视(super+vise 看=在上面看=临视)
-
-superstructure 上层建筑(super+structure 结构)
-
-superimpose 放…上面,强加(super+impose 放上去=在上面放
-
-=强加)
-
-superficial 肤浅的(super+fic 做+ial=在表面上做)
-
-superintend 监督(super+intend 关心=在上面关心=监督)
-
-supersede 淘汰,取代(super+sede 坐=坐上去=淘汰(以前的东西))
-
-superstition 迷信(super+stit 站+ion=站在人(理智)之上的东西=迷信
-
-## sym-,syn-表示”共同,相同”
-
-sympathy 同情(sym+pathy 感情)
-
-symphony 交响乐(sym+phony 声音)
-
-symmetry 对称(sym+metry 测量=两边测量一样=对称)
-
-symbiosis 共生(sym+bio 生命+sis=共同生命)
-
-symposium 专题讨论会(sym+pos 放+ium=放在一起(讨论)= 专题讨论)
-
-synchronous 同时发生的(syn+chron 时间+ous=共同时间的)
-
-synonym 同义词(syn+onym 名字=名字相同=同义词)
-
-synthesis 合成(syn+thesis 放=放在一起=合成)
-
-synopsis 摘要,概要(syn+ops 选择+is=共同选出=摘要)
-
-syndrome 综合症状(syn+drome 跑=跑到一起=综合症
-
-## s孤立词
-
-slur nv 诽谤；连音符；含糊音
-
-
-
-# T
-
-
-
-## tact,tag,tig,ting = touch 表示”接触”
-
-tactual a 触觉的(tact+ual) 
-
-tactility a 触觉(tact+ility)
-
-intact a 未触动的,完整的(in 没有+tact) 
-
-tact n 机智,圆滑(和人接触的能力)
-
-tactics n 战术,策略(tact+ics 学问=接触(别人)的学问=策略) 
-
-contact n 接触,联系(con 共同+tact=共同接触)
-
-contagion a 传染,感染(con 共同+tag+ion=共同接触到=传染) 
-
-contagious a 传染的(con+tag+ious)
-
-contiguous a 邻近的,接近的(con 共同+tig+uous 互相接触=毗邻的)
-
-contingent a 依条件而定的(con 共同+ting+ent=(根据)大家接触到的情况而定)
-
-contingency a 偶然,意外事故(con+ting+ency=两件事接触= 两车相撞=意外事故)
-
-tangible a 能触知的(tang+ible 能接触的)
-
-intangible a 不能触知的(in 不+tangible
-
-## tail=cut,表示”剪,割”
-
-tailor n 裁缝
-
-curtail v 缩短,削减(cur 短+tail=减短,参考,curt 简短失礼的) 
-
-detail n 琐事,详情(de 加强+tail=不断剪下去=琐事)
-
-retail v 零售(re 再+tail=再监一次=零售)
-
-entail v 使承担,把…遗传给(en 使+tail=把剪下的东西给别人)
-
-## tain ten tin= hold ,表示”拿住”
-
-attain v 获得(at 加强动作+tain=拿住了=获得) 
-
-attainable a 可达到的(attain+able=获得
-
-attainment n 成就,造诣(attain 获得+ment=获得的成就) 
-
-contain v 包含,包容(con 全部+tain=全部拿住=包容) 
-
-entertain v 招待,娱乐(enter 在中间+tain=在[工作]中间拿
-
-entertainment 娱乐,款待(entertain+ment)
-
-detain v 阻拦,拘留(de 加强动作+tain=拿住,拿下=拘留) 
-
-maintain v 维持,坚持(main[=man 手]+tain=用手拿住=坚持) 
-
-maintenance n 维护,坚持(main+len+ance,maintain 的
-
-pertain v 从属,相关(per 始终+tain=始终拿着=[两者]从属,相关)
-
-obtain v 获得,达到(ob 加强动作+tain=拿到=获得) 
-
-retain v 维持,保留(re 回+tain=拿回来=保留)
-
-sustain v 支持,赡养(sus 下面+tain=在下面拿住[撑住]=支持) 
-
-sustenance n 粮食,支持(sus+ten+ance,sustain 的名词) 
-
-tenable a 可守住的(ten+able=能拿住的)
-
-untenable a 不可防守的(un 不+tanable 可守住的) 
-
-tenacious a 固执的(ten+acious 多….的=拿住不放=固执的) 
-
-tenacity a 佃户,房客(ten+ant 人=拿[钱]租房之人)
-
-tenancy a 租赁(期限)
-
-tenure n 占有权,终身制(ten+ure=拿住状态=占有权) 
-
-content n 内容,容量[ken„tent]a.满足的(com 全部+ten=全部拿住=容量,引申为满足)
-
-discontent a 不满的(dis 不+content=不满足的)
-
-countenance 赞许,支持,形貌(coun[=con]+tent+ance=全部控制=容忍,不提议见,表示支持)
-
-retention n 保留,持久力(retain 的名词,re+tent+tion) 
-
-abstinence n 戒除,节制(abs 离开+tin+ence=不在拿住=戒除) 
-
-pertinent a 恰当的,相干的(pertain 的形容词:per+tin+ent) 
-
-impertinent a 不相干的,无理的(im 不+pertinent 恰当的) 
-
-continue v v.继续(con 全部+tin+ue=全部拿住=做事做到尾= 继续)
-
-continuation n 继续(con+tin+uation)
-
-continuous a a.连续不断的
-
-## tard=slow,表示”慢”
-
-tardy a 缓慢的,迟的
-
-tardiness n 拖拉(tardy 的名词)
-
-tardigrade a 行动缓慢的(tard+i+grade 步伐=步伐缓慢) 
-
-retard v 延迟,妨碍(re 一再+tard=一再慢下来=延迟
-
-## temn,tempt=scorn,表示”藐视”
-
-contemn v 藐视,轻视(con 共同+temn=大家一起看不起=藐视)
-
-contempt n 轻视(con 共同+tempt=大家共同看不起=轻视)
-
-contemptible a 可轻视的,下贱(contempt+ible) 
-
-contemptuous a 瞧不起人的(contempt+uous
-
-## tempt =try,表示”尝试”
-
-tempt v 诱惑,尝试
-
-attempt v 尝试,企图(at 一再+tempt=一再尝试)
-
-contempt v 藐视(con 共同+tempt=大家都能试一下=没什么了不起=藐视)
-
-temptation n 诱惑(tempt+ation=想尝试一下=诱惑)
-
-temptatious a 诱惑性的
-
-## temper, tempor =time,表示”时间”或时间引起的现象
-
-temporary a 临时的(tempor+ary=有时间性的=临时的) 
-
-temporal a 现世的,暂时的(tempor+al)
-
-temporize v 拖延以等待时机(temor+ize=时间化=挑战时间) 
-
-extempore a 即席的,临时的(ex 出+tempore=超出时间安排= 临时的)
-
-extemporaneous a 即 席 的 (ex+tempor+anecous) 
-
-extemporize v 即 席 演 讲 ( 演 奏 )(ex+tempor+ize) 
-
-contemporary a 当代的,同代的(con 共同+tempor+ary=时间相同=同代的)
-
-tempo n (音乐)拍子,速度(tempo+时间=按时间[快慢]做=速度,拍子)
-
-temper n 脾气,心情v.调和(temper 时间=不同的时间不同的心情=脾气)
-
-temperament n 气质,性情(temper 脾气+a+ment=脾气状态= 性情)
-
-temperate a 适度的,有节制的,(temper+ate=脾气[不坏]=有节制的)
-
-temperance n 节制,节欲
-
-tempest n 暴风雨(temp 时间引起天气变化+est=天气聚变= 暴风雨)
-
-tempestuous a 暴风雨般的,剧烈的(tempest+uous
-
-## tend tent, tens =stretch,表示”伸展”
-
-attend v 出席,看护(at 加强动作+tend=伸展出去=出席) 
-
-attendant a 出席的 n.随从(attend+ant 人)
-
-attention n 注意力(at+tent+ion=伸展出去[听别人讲]=注意力)
-
-attentive a 关心周到的(attend 看护+tive=看护到了=关心周到的)
-
-tend v 照看,倾向做
-
-tendence n 趋势,趋向(tend+cnce)
-
-tendency n 倾向(tend+ency=伸出去的状态=偏向一边=倾向) 
-
-contend v 竞争,争论(con 一起+tend=一起你拉我夺=争论) 
-
-extend v 延展,扩张(ex 出+tend=伸出去=扩张)
-
-extension n 延展,扩张,延期(ex+tens+ion)
-
-extensive a 广泛的,广阔的(ex 出+tens+ive=伸出去的=广泛的)
-
-extent n 范围,程度(ex 出+tent=伸出去的[范围]) 
-
-intend v 打算(in 内+tend=内心伸出=打算) 
-
-intended a 故意的,打算中的
-
-intent n 意图(intend 的名词)
-
-intention n 故意(intent 意图+ion=有意图,故意)
-
-intense a 强烈的,热烈的(in 不+tense=拉到了不能在拉的地方=紧张的,强烈的)
-
-intensify v 变猛烈,加强(in+tens+ify)
-
-pretend v 假装,借口(pre 提前+tend=提前伸出[想好借口]) 
-
-pretension n 自负,要求(pre 提前+tens+ion=提前摆出=种姿态=自负)
-
-pretentious a 自负的,虚伪的
-
-distend v 扩张,膨胀(dis 分开+tend=向四周延伸=膨胀) 
-
-tension n 紧张,张力(tens+ion=延展出的状态=紧张) 
-
-tensible a 可延展的(tens+ible=能延展出的)
-
-## tenu =thin ,表示”细,薄”
-
-tenuous a 稀薄的,细的(tenu+ous) 
-
-tenuity n 细薄,不结实(tenu+ity)
-
-attenuate v 弄薄,弄细(at 使+tenu+ate=使…..细薄=弄薄) 
-
-extenuate v 减轻,掩盖(罪行)(ex 出+tenu+ate=把重罪弄细薄出来=减轻[罪行])
-
-extenuating n 掩盖罪行的(extenuat+ing)
-
-## termin=limit ,表示”界限”
-
-terminal a 终结的 n.终端(termin+al)
-
-terminate v 终结,结束(termin+ate=定出界限=终结) 
-
-termination n 终结(termin+ation)
-
-terminology n 术语,专门名词(termin+o+logy 学科=定出界限的学科=下定义=术语[学])
-
-terminus n 终点(站)(termin+us=界限之点=终点)
-
-determine v 限定,决定(de 加强动作+termine=加强界限=下
-
-决心)
-
-determined a 下决心
-
-extermined a 消灭,根绝(ex 出+termin+ate=从界限中弄出来
-
-=根绝掉)
-
-interminable a 无穷无尽的(in 无+termin+adle=没有界限的= 无穷无尽的
-
-## terr=frighten 表示”恐,怕” 
-
-terrible a 可怕的(terr+ible) 
-
-terrify v 恐吓(terr+ify)
-
-terrific a 极好的(terr+iflc 带来=带来可怕=好到了让人害怕的地步=极好的)
-
-terrorist n 恐怖分子(terror 恐怖+ist+sit 表示人)
-
-deter v 吓住,威慑(de 不动+ter[=terr]=下得不动了=吓住) 
-
-deterrent a 威慑的 n. 阻化剂(deter+r+ent)
-
-determent n 制止(deter+ment)
-
-## terr=eartth 表示”土地” 
-
-terrain n 地形,地域(terr+ain) 
-
-terrace n 平台,梯田(terr+ace)
-
-territory n 领土,领域(terr+itory 表示场所 范围=地的范围=领土)
-
-territorial a 领土的(territory+al)
-
-extraterritoriality n 治外法权的(extra 外边+territorial 领地的
-
-+ity)
-
-extraterrestrial a 被陆地包围的(medi 中间+terr+nean=在陆地中间的)
-
-mediterranean n 地中海
-
-subterrane n 地下层,地下室(sud 下面+terr+ane=地下[室]) 
-
-subterranean a 地下的(sub 下面+terr+anean)
-
-inter v 埋葬(in 进+ter=进地=埋葬)
-
-disinter v 挖出(dis 出+inter 埋=把埋进去的挖出来
-
-## text=weave,表示”编织”
-
-text n 课文,原文(文章为作者所编) 
-
-textile n 纺织品(text+ile=编织出的物品)
-
-texture n 结构,质地(text+ure=编制状态=结构)
-
-context n 上下文(con 共同+text=共同编织在一起的=上下文) 
-
-pretext n 借口,托词(pre 预先+text=预先编好的=借口)
-
-## thesis,thet= setting ,表示”放置”
-
-thesis n 论文,命题(放好的研究主题)
-
-antithesis n 对立(anti 反+thesis=反着放=对立)
-
-hypothesis n 假说,前提(hypo 下面+thesis=放在下面,还不能作为正式理论=假说)
-
-parenthesis n 括号(par 平行+en 进+thesis=平行放进去=括号)
-
-synthesis n 综合(syn 共同+thesis=放到一起=综合)
-
-antithetical a 对立的(anti 反+thet 放+ical=反着放=对立) 
-
-synthetic a 综合的(syn 共同+thet+ic 放=放一起)
-
-## tim=fear,表示”害怕”
-
-timid a 胆怯的
-
-timidity n 胆怯,胆小(timid 胆怯的+ity)
-
-intimidate v 恐吓,威胁(im 使+timid+ate=使人胆小=恐吓) 
-
-intimidation n 恐吓
-
-timorous a 胆小的(tim+orus…..的=胆小的
-
-## tir=draw,表示”拉”
-
-entire a 完整的,完全的(en 进+tir=拉进去=不遗留在外=完整的)
-
-retire v 退休,撤退(re 回+tir+e=拉回去=退休) 
-
-retired a 退休的,隐退的
-
-tirade n 很长的演说(tir+ade=把[话]拉长=很长的演说)
-
-attire v 打扮,穿着(at 强调动作+tir+e=[把衣服]拉直=打扮
-
-## tort = twist 表示”扭曲”
-
-torsion n 扭转力(tors[=tort]+ion)
-
-torture n 折磨,拷问(tort+ure=扭曲[别人]=折磨) 
-
-tortuous a 曲折的(tort+uous=弯曲的)
-
-contort v 拧弯,曲解(con 全部+tort=全部扭曲=拧弯) 
-
-contortionist n 软体表演者(能把身边全部扭曲的人)
-
-distort v 曲解(dis 坏+tort=扭坏了=曲解)
-
-distortion n 歪曲(distort+ion)
-
-extort v 强夺(ex 出+tort=强扭出来=强夺) 
-
-extortion n 强夺,勒索
-
-retort v 反驳,报复(re 回+tort=返回来扭=反驳,报复) 
-
-retortion n 扭转,报复
-
-torment n 苦恼,拷问(tor[=tort]+ment=扭的状态=拷问:苦恼
-
-## tour, torn, tourn =turn, 表示”转,环绕”
-
-tour v n.旅游(转着玩) tourist n 旅游者(tour+ist)
-
-contour n 轮廊(con 全部+tour=全部转一圈=轮廊)
-
-detour n 迂路,曲折(de 加强动作+tour=转着走=语汇的路) 
-
-tournament n 锦标赛(tourn 转+a+ment=转着轮流比赛,锦标赛)
-
-tornado n 龙卷风(torn+ado=转着的风=龙卷风) 
-
-attorney n 律师(at+torn+er=玩的转的人=律师)
-
-tourniquet n 止血绷带(止血绷带紧紧环绕肢体)
-
-## tract =draw, 表示”拉,拖”
-
-abstract v 抽出 a. 抽象的(abs 离开+tract=拉出,抽出) 
-
-abstraction n 抽象,发呆(思想被拉走)
-
-attract v 吸引(at 加强动作+tract=不断拉=吸引) 
-
-attraction n 吸引力(attract+ion)
-
-attractive a 有吸引力的(attract+ive)
-
-contract n 契约 v. 收缩(con 共同+tract=共同拉[回去]=收缩, 对大家都有制约=合同)
-
-contraction n 收缩
-
-detract v 降低,贬损(de 坏+tract=拉坏=降低) 
-
-detraction n 毁谤,减损
-
-detractor n 毁谤者(detract 贬损+or 人)
-
-distract v 分散,使混乱(dis 分开+tract=[思想]被拉开=分心,分散)
-
-distracted a 心烦意乱的
-
-extract v 抽出,提炼出(ex 出+tract=拉出来=提炼出) 
-
-extraction n 提炼,抽出
-
-protract v 延长(pro 向前+tract 向前拉=延长) 
-
-protractile a 可延长的(protract+ile)
-
-retract v 缩进,退缩(re 向后+tract=向后拉=缩进) 
-
-retraction n 缩进,撤回
-
-subtract v 减去,扣除(sub 下+tract=拉下去=减去) 
-
-tractor n 拖拉机(tract+or=拉的东西=拖拉机) 
-
-tract n 一片土地,地带(拉长的一片地)
-
-tractable a 易管教的(tract+adle=能够拉[回来]=易管教的)
-
-## tox= poison 表示”毒” 
-
-toxin n 毒 素 (tox+in) 
-
-toxic a 有毒的(tox+ic)
-
-toxication n 中毒(toxic 有毒的+ation) 
-
-toxicology n 毒物学(toxic+o+logy 学科)
-
-intoxicate v 使陶醉,使中毒(in 使+toxic+ate=使中毒,陶醉[酒精中毒])
-
-detoxify n 解毒(de 去掉+tox+ify=去掉毒)
-
-## trans-
-
-① 表示”横过,越过”
-
-transcontinental 横贯大陆的(trans+continental 大陆的)
-
-transnormal 超出常规的(trans+noraml 正常的)
-
-transcend 超越,胜过(trans+scend 爬=爬过=超越)
-
-transgress 冒犯,违背(trans+gress 走=横着走=冒犯)
-
-transmit 传送,传播(trans+mit 送=横着送消息=传播)
-
-transparent 透明的(trans+par 平等+ent=横穿过去看得一样清楚=透明的)
-
-transect 横切,横断(trans+sect 切=横切)
-
-② 表示”变换,改变,转移”
-
-transplant 移植(trans+plant 种=转移过去=移植)
-
-transaction 交易,办理(trans+action 行动=交换行动=交易)
-
-transcribe 抄写,转录(trans+scribe 写=把写的东西移到(另一张纸上)=抄写)
-
-transfigure 改观,变形(trans+figure 形状=改变形状)
-
-transfuse 输血,充满(trans+fuse 流=(血)流过去=输血)
-
-transitory 短暂的(trans+it 走+ory=走过就变=输血)
-
-transmogrify 变得古怪,变形(trans+mogr 怪形状+ify=变成怪形状)
-
-## trench=cut,表示”切,割”
-
-trench n 壕沟(被雨水切割出来的沟)
-
-entrench v 用壕沟防护,确立…地位(en 在…里面+trench=在壕沟里面)
-
-trenchant a 一针见血的(trench+ant=象刀切进去一样
-
-## trop=turn,表示”转”
-
-trope n 转义,比喻(转出来的意义) 
-
-tropic n 回归线(太阳回转的地方) 
-
-tropical a 热带的(tropic+al)
-
-trophy n 奖品, 胜利纪念品( 经过轮番努力[turn again and again]而得到的东西
-
-## trud ,trus=push,表示”推”
-
-extrude v 挤出,冲出(ex 出+trud+e=往外推=冲出) 
-
-intrude v 硬挤进,侵入(in 进+trud+e=推进去=挤进) 
-
-intruder n 侵入者(in+trud+er)
-
-intrusion n 侵入,干涉(in+trus+ion)
-
-obtrude v 管闲事,插嘴(ob 加强动作+trud+e=硬推=管闲事)
-
-protrude v 伸出,突出(pro 向前+trud+e 推=向前推=伸出) 
-
-protrusion n 突出,隆起
-
-detrude v 推倒(de 下去+trud+e=向下推=推倒)
-
-abstruse n 深奥的(abs 离开+trus+e=离开[人的知识]理解不能推进=深奥的)
-
-## tuine = twine,表示”编织”
-
-twine v 缠绕n. 股线
-
-entwine v 纠缠(en 使+twine=使编织到一起=纠缠) 
-
-intertwine v 编织起来(inter 在中间+twine=互相编织在一起) 
-
-untwine v 解开(un 打开+twine=把编织在一起的解开)
-
-## turb= stir”表示”搅动”
-
-disturb v 扰乱,打扰(dis 分开+turb=搅开了=搅乱了) 
-
-disturbance n 骚动,动乱(disturb+ance)
-
-turbid a 混浊的(turb+id 表形容词=搅动的=混浊的) 
-
-turbine n 涡轮(turb+ine)
-
-turbulent a 骚乱的(turb+ulent 多….的=搅动太多=骚动的) 
-
-turbulence n 骚乱(turb+ulence)
-
-perturb v 骚乱(per 始终+turb=始终搅动=扰乱) 
-
-perturbative a 扰乱的 (perturb+ative)
-
-perturbative a 沉着的(im 不+perturb+able=不受扰乱[影响] 沉着的)
-
-turmoil n 混乱(tur[=turb]+moil 翻腾=搅动翻腾=混乱)
-
-## -ture 表名词,通常在单词或词根以 t 结尾时使用,表示”一般状态,行为”…ature”,”iture”
-
-miniature n 小画像,缩影(mini 小)
-
-legislature n 立法机关(legis 法律+lat 带来+ure) 
-
-fracture n 骨折,断裂(fract 断)
-
-conjecture n 推测(con 共同+ject 扔…一起猜) 
-
-expenditure n 支出(expend 花费)
-
-divestiture n 剥夺(divest 剥夺)
-
-horticulture n 园艺学(horti,来自 hortense 法国一喜欢花的女子+cult+ure)
-
-denture n 假 牙 (dent 牙 齿 ) 
-
-scripture n 经典著作(script 写,文学) 
-
-torture n 酷刑,折磨(tort 扭曲) 
-
-signature n 签 名 (sign 签 字 ) 
-
-mixture n 混合物(mix 混合)
-
-注:-ture 在 s 结尾的词根后变成-sure,如:
-
-censure n 责难(cens 评判+ure) 
-
-closure n 关闭(close 关闭)
-
-enclosure n 围占,包围(en 进入+close 关闭)
-
-composure n 镇定,沉着(com 共同+pos 放…精神放到一起) 
-
-fissure n 裂缝(fiss 分裂+ure)
-
-表名词,用在形容词后,把形容词变成名词
-
-specialty n 特长(special 特别) 
-
-safety n 安全(safe 安全)
-
-entirety n 整 体 (entire 完 整 ) 
-
-certainty n 肯定(certain 肯定的) 
-
-cruelty n 残酷(cruel 残酷的) 
-
-novelty n 新奇(novel 新的)
-
-frailty n 脆弱(frail 脆弱的)
-
-
-
-# U
-
-
-
-## uber=fruitful (果实)
-
-exuberant 茂盛的,多产的
-
-uberty 丰饶,多产,生育力
-
-## ultra-
-
-① 表示”极端”
-
-ultrapure 极纯的(ultra+pure 纯的)
-
-ultramilitant 极端好战的(ultra+militant 好斗的)
-
-ultraclean 极洁净的(ultra+clean 干净的)
-
-ultra-reactionary 极端反动的(ultra+reactionary 反动的)
-
-ultraliberal 极端自由主义的(ultra+liberal 自由的)
-
-② 表示”超出,超过”
-
-ultrasonic 超音速的(ultra+sonic 声音的)
-
-ultramodern 超现代化的(ultra+modern 现代化的)
-
-ultramundane 超俗的(ultra+mudane 俗气的)
-
-ultrared 红外线的(ultra+red 红色的) 
-
-ultraviolet 紫外线的(ultra+violet 紫色的)
-
-## un-
-
-① 表示”不,无,非,没有”
-
-unreal 不真实(un+real 真实的)
-
-unequal 不平等的(un+equal 平等的)
-
-unfortunate 不幸的(un+fortunate 幸运的)
-
-unabashed 不害臊的(un+abashed 难为情的)
-
-unassuming 不摆架子的(un+assuming 自以为是的)
-
-uncommitted 不承担责任的(un+committed 担责任的)
-
-unscrupulous 肆无忌惮的(un+scrupulosu 小心的)
-
-untoward 不幸的,逆境的(un+toward 顺利的=不顺的)
-
-unconditional 无条件的(un+conditional 有条件的)
-
-unlimited 无限的(un+limited 有限的)
-
-unambitious 无野心的(un+ambitious 有雄心的)
-
-unconscionable 无节制的(un+conscionabe 明智的)
-
-unfailing 无尽的,无穷的(un+failing 有尽头,失败的=没有尽头的)
-
-unofficial 非官方的(un+official 官方的)
-
-unjust 非正义的(un+just 公正的)
-
-unworldly 非尘世的(un+worldly 世俗的)
-
-uneducated 未受教育的(un+educated 有教养的)
-
-uncivilized 未开化的(un+civilized 文明的)
-
-undecided 未决定的(un+decided 决定的)
-
-unalloyed 未掺杂的(un+alloy 合金,混合+ed=没混合的)
-
-uncharted 图上没标明的(un+chared 图上标明的)
-
-② 表示”打开,解开,弄出”
-
-unlock 开锁(un+lock 锁)
-
-unbind 解开(un+bind 捆住)
-
-unbutton 解开钮扣(un+botton 钮扣)
-
-uncover 揭开盖子(un+cover 盖子)
-
-undress 脱衣服(un+dress 衣服)
-
-untomb 掘墓(un+tomb 墓)
-
-unearth 从地下挖出(un+earth 土地)
-
-unbosom 吐露(un+bosom 胸=打开心胸=吐露)
-
-unravel 解开,拆散(un+ravel 纠缠)
-
-## urb = city ,表示”城市”
-
-suburb n 郊区(sub 下面+urb=在城市下面=郊区) 
-
-suburbanite n 郊区居民(suburb+an+ite)
-
-urban a 城市的 都市的
-
-urbane a 文雅的,有礼貌的(有城市人的风度) 
-
-urbanity n 温文尔雅(urbane+ity)
-
-inurbane a 粗野的(in 不+unbane 文雅的)
-
-exurban a 城市远郊的(ex 出+urban 城市的=出城市=远郊的
-
-## us,ut = use,表示”用”
-
-usage n 用法,惯例(us+age 状态=用的状态=用法) 
-
-usual a 通常的,常用的
-
-unusual a 异常的(un 不+usual 通常的) 
-
-abuse v 滥用,谩骂(ab 坏+use=不好用=滥用) 
-
-abusive a 谩骂的(abuse+ive)
-
-disabuse v 纠正…错误(dis 去掉+abuse 滥用=去掉滥用=纠正错误)
-
-disuse v 废弃不用(dis 不+use=不用了) 
-
-misuse v 错用,虐待(mis 坏+use=用坏=错用) 
-
-utilize v 利用(ut+ilize)
-
-utility n 公用事业,有用(ut+ility)
-
-utilitarian a 功利主义的(utility+arian……的=有用为主=公里主义)
-
-utensil n 用具,器血(ut 用+ensil 表物品=用具)
-
-usurp v 篡夺,侵占(us+urp[=rape 枪掠]=枪过来用=篡夺
-
-
-
-# V
-
-
-
-## vac van void = empty, 表 示 ” 空 ” 
-
-vacuum n 空虚,真空(vac+uum 表名词) 
-
-vacuous a 空虚的,无意义的
-
-vacant a 空的,空闲的
-
-vacate v 弄空,退出(vac+ate 表动作=弄空) 
-
-vacation n 假期,休假(空出来不用干活)
-
-evacuate v 腾空,清除,撤离(e 出+vac+uate=空出去=撤空) 
-
-evacuation n 撤离,撤退
-
-vanity n 空虚,虚荣心(van+ity=心里空空=虚荣心) 
-
-vanish v 不见,消失(van+ish=空空=消失了)
-
-evanescent a 消失的,转瞬即逝的(e 出+van+escent 开始….. 的=开始空出去=消失的)
-
-evanescence n 消失,幻灭
-
-void a 空的,n.空虚
-
-avoid v 回 避 (a+void= 空 出 来 = 回 避 ) 
-
-avoidance n 避 免 , 无 效 (avoid+ance) 
-
-unavoidable a 不可避免的(un 不+avoid+able)
-
-devoid a 无的,缺…..的(de 加强意义+void=空的=无的
-
-## vag,vogr=wader,表示”漫游”
-
-vagary n 妄想,幻想(vag+ary=思想漫游=妄想)
-
-vagabond n 流浪的人(vaga+bond 倾向与…的=倾向于流浪的人)
-
-vagabondize v 过流浪生活(vagabond 流浪者+ize) 
-
-extravagant a 奢侈的,浪费的
-
-vague a 含糊的(vag+ue=漫游而思想不集中=含糊的)
-
-vagile a 漫游的(vag+ile)
-
-vagrant a 流浪的(vagr+ant=漫游的=流浪的)
-
-## vail,val = strong,表示”强壮”
-
-avail v 利用n.利益(a 使+ail=使….强壮=利用[力量]) 
-
-available a 有用的,有效的(avail+able)
-
-prevail v 克服,流行(pre 优先+ail=比…强大=克服,流行) 
-
-prevailing a 占优势的(prevail+ing)
-
-prevalence n 优势,盛行(prevail 的名词:pre+val+ence) 
-
-invalid a 虚弱的 n.病人(in 不+val+id=不强壮的)
-
-invalidate v 使….无效(in 无+valid 有效的+ate=有效变无效) 
-
-invalidity n (因病)无工作能力(invalid+ity)
-
-convalescence n 恢复健康(con 全部+val+cscence=身体全部强壮起来=恢复健康)
-
-valor n 英勇(al+or=强壮状态=英勇) 
-
-valiant a 勇敢的(val+iant)
-
-valuable a 有价值的(val+uable=因为强壮,所以有价值) 
-
-devaluate v 减价,贬值(de 下降+val+uate=价值下降) 
-
-devaluation n 贬值(devaluate+ion)
-
-evaluate v 估价,评价(e 出+val+uate=出价值=估价) 
-
-invaluable a 无法估价的(in 不+val+uable=不能估价的) 
-
-undervalue v 低估,轻视(under 下面+aluce=在原有价值下面=低估)
-
-equivalence n 同值,等量(epui 平等+val+ence=同等价值)
-
-equivalent a 相等的
-
-## ven,vent=come,表示”来”
-
-venture v n.冒险,冒险做(vent+ure 来到[危险]=冒险) 
-
-venturesome a 冒险的(venture+some 有点…的) adventure n 冒 险 (ad 增 强 +venture 冒 险 ) 
-
-adventurous a 爱冒险的
-
-advent n 到来,出现(ad 加强动作+vent=来到)
-
-adventitious a 偶然的,不定的(advent 来到+itious=[突然]来到的=偶然的)
-
-convent n 女修道院(con 大家+vent=大家来[修道]=[女]修道院)
-
-convention n 集会,惯例(con 大家+vent+ion=大家来到=起= 集会)
-
-conventionality n 老一套,习俗(convention 习俗+ality 性质) 
-
-event n 事件(e 出+vent=出来的事=事件)
-
-eventful a 变故多的(event+ful=事件多=多变故的) 
-
-eventual a 最终的(event 事件+ual=出事[之后]=最终的) 
-
-eventuality n 不测事件(eventual+ity)
-
-invent v 发明,创造(in 进+vent=走进来=发明出) 
-
-inventive a 有创造能力的(invent+ive)
-
-prevent v 防止,阻止(pre 预先+vent=预先来到=抢先一步,防止别人)
-
-preventive a 预防性的
-
-convene v 召集,召唤(con 全部+ven+e=来到一起=召集) 
-
-convenience n 方便,便利(con 全部+ven 来+ience=全部能来没有障碍=方便)
-
-revenue n 收入,岁入(re 回+ven+ue=回来的东西=收入) 
-
-avenue n 大路,道路(让人可以走来走去)
-
-contravene v 违反(contra+en+e=反着来=违反) 
-
-covenant n 协议,契约(co 共同+ven+ant=共同走来=协议)
-
-intervene v 干涉,介入(inter 中间+ven+e=走到中间来=干涉)
-
-inventory n 清单,财产目录(in 进+vent+ory=进来的[全部财
-
-产]清单
-
-## venge=punish,表示”惩罚”,引申为”报仇”
-
-vengeful a 复仇心重(vengge+ful=充满惩罚的心的=复仇心重的)
-
-vengeance n 报仇(venge+vance) avenge v 报仇(a 加强动作+venge) 
-
-avenger n 报仇者(avenge+er)
-
-revenge v 报仇(re 反+venge=反惩罚=报仇)
-
-revengeful a 仇恨心切的(revenge+ful)
-
-## ver,ert=turn,表示”转”
-
-verse n 诗歌,韵文(转着反复说的话=诗歌)
-
-versed a 熟练的(会写诗歌,表示对语言运用的熟练) 
-
-version n 翻译,译文(vers+ion=从原文转出来=译文) 
-
-versatile a 多功能的,多才的(玩的转=有才能的) 
-
-versatility n 多才多艺
-
-vertical a 垂直(vert+ical[下垂的东西]) 
-
-convert v 转化,改造(con 共同+vert=共同转=转化) 
-
-conversion n 转化,(宗教的)改变
-
-inconvertible a 不能转化的(in 不+convert 转化+ible) 
-
-unconverted a 不变的,不悔改的(un 不+convert 转化+ed) 
-
-controvert v 反驳,攻击(contro 相反+vert=相反转=反驳) 
-
-controversy n 争论,议论
-
-incontrovertible a 不容争论的 (in 不+controvert 反驳+ible=不容反驳的)
-
-divert v 转向,消遣(di 偏离+vert 转偏离=转向) 
-
-diversion n 转向,娱乐
-
-invert v 翻过来,倒转(in 进+vert=转进去=倒转=倒置) 
-
-pervert v 颠倒,曲解(per 全部+vert=全部转=颠倒) 
-
-revert v 恢复原状(re 回+ert=转回来=恢复)
-
-reversion n 恢复原状
-
-avert v 避开(ab 离开+vert=转开=避开)
-
-averse a 反感的(a 坏+vers+e=往坏转=反感的) (to sth)
-
-aversion n 反感
-
-adverse a 逆反,不辛
-
-adversary n 敌手,对手(ad+ers 逆反+ary 人=逆反之人=对手) 
-
-animadversion n 批评，非难
-
-advertise v 做广告(at 一再+vert+ise=转来转去做广告) 
-
-advertisement n 广告
-
-anniversary n 周年纪念日(anni 年+vers+ary=一年转一次= 纪念日)
-
-converse v 谈话,交际(con 共同+vers+e=[两个齿轮对着]一起转=相反)
-
-conversation n 谈话
-
-conversant a 亲近的(con 共同+vers+ant=在一起转的=亲近的)
-
-diverse a 不同的(di 分开+vers+e=转开了=不同的) 
-
-diversify v 多样化(di 分开+vers+ify)
-
-diversity n 多样性
-
-inverse a 翻 转 的 (in 进 +vers+e= 转 进 去 = 翻 转 的 ) 
-
-malversation n 贪污,渎职(mal 坏 vers+ation=转坏了=做官做坏=贪污)
-
-perverse a 性情乖张的(per 全部+vers+e=和大家[反着]转= 乖张的)
-
-perversity n 性情乖张的
-
-reverse v 颠倒,逆转a.相反的(re 反+verse=反着转=颠倒) 
-
-irreversible a 不能改变的(ir 不+re+vers+ible=不能颠倒的) 
-
-transversal a 横断的(taans 横+vers+al=横着转=横断的) 
-
-universe n 宇宙(uni 一个+vers+e=统一旋转=宇宙) 
-
-university n 大学(uni+vers+ity=由宇宙引申为知识,知识之地=大学)
-
-vertigo n 眩晕(vert+igo=go around 转着走=眩晕)
-
-## vi,via, voy =way, 表示”道路”
-
-via n 道路 prve 经过
-
-viaduct n 高架桥(via+duct 引导=引导路的桥) 
-
-deviate v 越轨(de 偏离+via+ate=偏离道路=越轨) 
-
-deviation n 偏向
-
-devious a 误入歧途的(de 偏离+vi+ous)
-
-obviate v 排除,避免(cb 去掉+vi+ous=就在路上掉东西=排除障碍)
-
-obvious a 明显的(ob 加强状态+vi+ous=就在路上=明显的) 
-
-pervious a 能透过的,能了解的(per 穿过=vi+ous=道路穿过去能透过去的)
-
-perviousness n 浸透
-
-previous a 以前的(pne 以前+vi 路[引申为走]+ous=以前走过的=以前的)
-
-trivial a 琐碎的(tri 三+vi+al=三条路=没有一个目标=琐碎的) 
-
-triviality n 琐事(trivial+ity)
-
-convey v 运输,转达(con 共同+vey=共同用路=运输 0 
-
-conveyance n 运输(convey+ance)
-
-convoy v 护航,护送(con 一起+voy 走=一起走=护送)
-
-envoy n 使者,使节(en 进+voy 走=走进[别人的范围 =使者])
-
-## viv vit vig=life,表示”生命” 
-
-vivid a 活泼的,生动的(viv+id) 
-
-vivify v 给予生气,鼓励(viv+ify)
-
-vivisect v 活体解剖(vivi+sect 切割=活着切割)
-
-convivial a 欢乐的,欢宴的(con 共同+viv+ial=共同活跃=欢乐) 
-
-revive v 复活(re 再+viv+c=复活)
-
-revival n 复活
-
-survive v 存活,辛存(sur 在下面+viv+e=在[事故]下面或下来= 辛存)
-
-survival n 存活下来
-
-vivacious a 活泼的,有生气的(viv+acious=多….的=多生命的= 活泼的)
-
-vital a 有活力的,重要的(vit+al) 
-
-vitalism n 活力论(vital 有活力的+ism) 
-
-vitality n 活力(vital+izy)
-
-vitalize v 赋予生命(vital+ize)
-
-revitalize v 恢复生命,复兴(re 重新+vital+ize=重新活) 
-
-vitals n 重要器官,核心(有活力的东西)
-
-vitamin n 维生素(vit+a+min 素=生命要素=维生素)
-
-viable a 能活的(vi+able) 
-
-viability n 生存能力
-
-vigor n 精力
-
-vigorous a 精力旺盛的
-
-invigorate v 鼓励,使强壮(in 进入+vigor+ate=进入活动=鼓励)
-
-invigorating a 激发精神的
-
-vigilant a 警惕的(vigil[=vig]+ant=有生命的=警惕的) 
-
-vigilance n 警惕,警戒(vigil+ance)
-
-## voc, vok=call voice,表示”叫喊,声音”
-
-vocal a 声音的
-
-vocalist n 歌手(vocal 声音的+ist 人)
-
-vocation n 职业,使命(voc+ation=[受到]召唤=有职业) 
-
-avocation n 副业(a 不+vocation 职业=不是职业,是副业) 
-
-vocabulary n 词汇(vocabul[=vocable 词]+ary=词汇) 
-
-advocate v 拥护,倡议(ad 增强+voc+ate=增强声音=拥护) 
-
-advocator n 拥护者
-
-convoke v 召集(con 共同+vok+e=喊到一起) 
-
-convocation n 召 集 , 集 会 (con+voc+ation) 
-
-revoke v 取消,撤回(re 回+vok+e=喊回来=取消) 
-
-revocable a 可废除的(revoke+able)
-
-irrevocable a 不能改变的(ir 不+revocable=不可废除的) 
-
-vociferous a 喧闹的(voc+i+fer 带来+ous=带来声音的=喧闹的)
-
-evoke v 唤醒,唤起(e 出+vok+e=喊出[思想等]=唤醒) 
-
-equivoke n 双关语(equi 平等+vok+e=有两重声音[平等]=双关语)
-
-equivocal a 双关语,模陵两可的(equi 平等+voc+al=平等声音
-
-=模陵两可的)
-
-equivocate v 推脱,支吾说谎(equi+voc+ate)
-
-invoke v 请求,使[使[法规]生效(in 进+vok+e 喊进去=请求) 
-
-invocatory a 祈求的(in+voc+atory)
-
-provoke v 触怒,煽动(pro 前面+vok+e=到[别人]面前喊=激怒)
-
-provocative a 激怒人的,激发人的(pro+voe+ative)
-
-## vor=eat,表示”吃”
-
-voracious a 狼吞虎咽的(vor+acious 多…..的--吃多的) 
-
-voracity n 贪食(vor+acilty)
-
-devour v 吞吃(de 下去+vour[=vor]=吃下去=吞吃) 
-
-omnivorous a 杂食性的(omni 全部+vor+oue=什么都吃=杂食性的)
-
-herbivorous a 食草的(herbi 草+vor+ous=食草的) 
-
-carnivorous a 食肉的(carni 肉+vor+ous=食肉的)
-
-insectivorous a 食虫的(inseecti 昆虫+vor+ous=食昆虫的
-
-
-
-# W
-
-
-
-# X
-
-
-
-# Y
-
-
-
-## -y
-
-(1)	表形容词,加在名词后变成形容词
-
-flinty a 极硬的(flint 燧石)
-
-tardy a 迟缓的(tard 慢) 
-
-rainy a 下雨的(rain 雨) 
-
-windy a 有风的(wind 风) 
-
-sleepy a 想睡的(sleep 睡)
-
-homey a 像家一样的(home 家) 
-
-woody a 树木茂密的(wood 树木) 
-
-hilly a 多山的(hill 山)
-
-(2)	表名词,加在形容词或以 r 结尾的单词后
-
-difficulty n 困难(difficult 困难的) 
-
-dainty n 精美食品(dignity 的变体) 
-
-discovery n 发现(discover 发现)
-
-inquiry n 质询(inquire 询问) 
-
-mastery n 精通(master 掌握) 
-
-jealousy n 妒忌(jealous 妒忌的)
-
-(3)表名词,”人或小东西”常带有戏谑性和爱称
-
-fatty n 胖子(fat 胖)
-
-shorty n 矮子(short 矮) 
-
-oldy n 老 人 (old 老 ) 
-
-doggy n 小狗(dog 狗
-
-kitty n 小猫(kit 猫)
-
-granny n 奶奶(grandma”奶奶”的小孩叫法
-
-missy n 小姑娘(miss 小姐)
-
-
-
-# Z
-
-
-
+=
