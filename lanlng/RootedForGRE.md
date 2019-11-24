@@ -4,7 +4,7 @@
 - Pusto添加的词源一般都给出原始语言对应的单词。拉丁词源动词标现在时主动态不定式、现在分词prp、过去分词pp
 - 来自同一原始印欧语词源的合并至该词源，并将同一原始印欧语词源不同路径进入英语的单词归入同一个子分类（第三级标题）
 
-20191123~24 log moxi chapter 38~52
+20191124 mosi 第一本30~37章357lines
 
 # A
 
@@ -371,6 +371,12 @@ amicable 友好的,温和的(am+ic+able=能爱(你)的=友好的)
 amity 友好,和睦(am+ity 状态=爱的状态=和睦)
 
 enmity 敌意,仇恨(en 进入+am+ity=合成enmity,爱太多的成为恨)
+
+## 从amir"首领，领导"[Arabic]
+
+admiral /1/n.海军上将，舰队司令{amir al,如amir-ar-rahl"chief of the transport,指地中海舰队的领导"}
+
+amir /2/n.埃米尔，对穆斯林统治者的尊称
 
 ## -an 表名词和形容词,”…地方.…人
 
@@ -856,6 +862,20 @@ baritone /1/ n.男中音
 
 isobar /1/ n.等压线，同量异位素
 
+## 从barra"bar,barrier"
+
+embarrass /2/v.使窘迫，使尴尬
+
+embargo /2/n.禁运
+
+barrier /1/n. obstacle
+
+bar n.条，杆，酒吧，被告席
+
+barrister /1/n.【英】出庭律师(有资格出席高级法庭)
+
+disbar /2/v.取消律师资格
+
 ## bat=beat,表示”打,击”
 
 batter v 连续猛打(bat+ter 常表示连续动作,如 stutter 口吃) 
@@ -1108,6 +1128,12 @@ chaste a 纯洁的(chast=cast)（O.Fr.）
 chastise v 严惩
 
 chasten v 惩罚；抑制
+
+## 从cau,caust"火焰，灼烧"[Greek]
+
+holocaust /1/n.大屠杀，浩劫
+
+caustic /1/a.腐蚀性，刻薄
 
 ## ced, ceed, cess=go,表示”行走,前进”
 
@@ -1585,6 +1611,22 @@ incredulous a 不轻信的(in 不+credulous 轻信的=不轻信的)
 
 incredulity a “不轻信(incredulous 去掉 ous,加上ity)”
 
+## 从cruci"十字"[Latin]
+
+crusade /2/n.改革运动v.参与斗争、运动
+
+Crusade /2/十字军东征
+
+cross n.十字a.交叉，生气v.交叉，穿过，勾掉
+
+crossword /1/n.纵横字谜
+
+crucial /1/a.决定性的，关键的{岔路口十字路标}
+
+cruise n.v.巡航，巡游
+
+cruiser /1/n.巡洋舰，游艇
+
 ## crypt=secret,hidden,表示”秘密,隐藏”
 
 crypt n 地窖,地穴
@@ -1741,34 +1783,6 @@ tradition /2/ n.传统，惯例{tradere,  trans-"over",dare,代代相传也}
 
 traitor /1/ n.叛徒，卖国者{traditor, from tradere"deliver, surrender"}
 
-## di-
-
-① 表示”两个,双”
-
-dichromatic 两色的(di+chrom 颜色+atic=两色的)
-
-dioxide 二氧化物(di+ox 氧+ide=二氧化物)
-
-dilemma 进退两难(di+lemma 争论=二种争论=进退两难)
-
-dichotomize 分成二,对分(dicho=di+tom 切割+ize=切成二分)
-
-② 表示”使…变成,分开,离开”
-
-dilate 膨胀,扩大(di+late 放=分开放=扩大)
-
-dilute 冲淡,稀释(di+lute 冲洗=冲洗开=冲淡)
-
-digest 消化,文摘(di+gest 带=带下去=消化=经过消化后的精华=文摘)
-
-diminish 减少,消失(di+mini 小+ish=变小,减少)
-
-digress 离题(di+gress 走=走开=离题)
-
-divide 分开(di+vide 分开=分开)
-
-divorce 离婚(di+vorce=vert 转=从(丈夫身边)转开=离婚,参考:divert 转开)
-
 ## 母-matr(i); mater; metro
 
 matriarch[matri 母=女性,arch 首脑,长]女族长,女家长
@@ -1786,6 +1800,42 @@ maternal[matr 母,-n-,-al…的]母亲的,母性的
 maternity[见上,-ity 名词字尾]母性的,母性的
 
 metropolis[metro 母,polis 城市,”母城” =首城,最大的城]大城市,主要城市,大都会,首府
+
+## PIE *dʰéǵʰōm 土
+
+### *dʰéǵʰōm 的后代：el. χαμαί (khamaí 在地上)
+
+chameleon /2/ n.变色龙{chame,+leon"lion"}
+
+### *dʰéǵʰōm 的可能的后代：la. humus, homo, humilis; hum=earth,表示”土,地”
+
+humus n 腐殖质
+
+humble a 谦恭的,下贱的(hum+ble=接近地面=谦恭的) 
+
+humility n 谦让,低下(hum+ility 状态=地的状态=低下) 
+
+humiliate v 羞辱,侮辱(hum+iliate 使…使人到地上=羞辱别人)
+
+humiliation n 耻 辱 (humiliate+ion) 
+
+inhume v 埋葬(in 进入+hume=进入土中)
+
+exhume v 掘出(ex 出+hume=出土=掘出)
+
+posthumous a 死死的,遗腹的(post 后+hum 土,引申为死+ous=死后的)
+
+hummock n 小圆丘(hum+mock 圆丘=土丘) 
+
+human n 人类(传说人是由土造出的)
+
+humane a 有人情的,仁爱的(humane+e=有人情的)
+
+homage /1/n.敬意，效忠
+
+homicide /1/n.杀人
+
+humanity /2/n.人性，人道
 
 ## 从di,die"day"[Latin]
 
@@ -1870,52 +1920,6 @@ predication n 认定,断定(predicate+ion)
 predicament n 困境,险境(pre 预先+dica 命令+ment=预先命令做=进入危境)
 
 indite v 撰写,写作(in 进入dite[=dict]=说进去=写进,写作)
-
-## dis-
-
-① 表示”不,消失掉”
-
-dislike 不喜欢(dis+like 喜爱=不喜爱)
-
-disorder 无秩序(dis+order 顺序=没有顺序)
-
-dishonest 不诚实的(dis+honest 诚实的)
-
-disappear 消失(dis+appear 出现=不出现=消失)
-
-disproof 反证,反驳(dis+proof 证实=不证实=反证)
-
-discourage 使失去勇气(dis+courage 勇气)
-
-disarm 解除武装(dis+arm 武装=去掉武装)
-
-dispel 驱除,消除(dis+pel 推=推开=驱除)
-
-dispassionate 平心静气的(dis+passionate 有激情的)
-
-discover 发现(dis+cover 盖=把盖揭开=发现)
-
-dismay 沮丧(dis+may 能够=不能做事=沮丧,参考:五月能种粮食,所以叫may)
-
-② 表示”分开,分离”
-
-disseminate 散布,传播(dis+semin 种子+ate=散布(种子))
-
-dispense 分配(dis+pense 花费=分开花费=分配(财富等))
-
-distract 分心(dis+tract 拉=把(心)拉开=分心)
-
-distend 膨胀(dis+tend 拉=分开拉=膨胀)
-
-discriminate 辨别,歧视(dis+crimin 分辨=ate=分辩开)
-
-dismiss 解散,开除(dis+miss 送=送出=解散)
-
-disburse 支付,支出(dis+burse 钱包=从钱包中分出=支出)
-
-discard 丢弃,抛弃(dis+card 扔=扔出去)
-
-discuss 讨论(dis+cuss 敲打=把(问题)分开敲=讨论
 
 ## demographic
 
@@ -2079,6 +2083,174 @@ viaduct n 高架桥(via 路+duct_引导路的路=高架桥)
 
 ventiduct n 通风道(venti 通风+duct;参考:ventillate 通风
 
+## PIE *dwóh₁ 二
+
+two
+
+*de. zwei*
+
+twain n 一对、二者（水火不相容）
+
+between
+
+betwixt = between
+
+twig n 细枝
+
+*de. Zweig 枝*
+
+twin n/a 孪生
+
+*de. Zwilling 双胞胎、双子座*
+
+twice ad 两次、两倍
+
+twi- (少见、停产)二
+
+twilight n 黎明、黄昏、微光
+
+twiformed a 有两种形式的
+
+twifold a 双重
+
+twibill n 两刃战斧、鹤嘴斧
+
+### *dwóh₁ 的后代：Gmc. *twiznaz, en. twine; tuine = twine,表示”编织”
+
+twine v 缠绕n. 股线
+
+*de. Zwirn 线*
+
+entwine v 纠缠(en 使+twine=使编织到一起=纠缠) 
+
+intertwine v 编织起来(inter 在中间+twine=互相编织在一起) 
+
+untwine v 解开(un 打开+twine=把编织在一起的解开)
+
+### *dwóh₁ 的后代：la. duo, duis, bis, bi-
+
+duo n 二人组
+
+duet /2/ n 二重奏
+
+dual a 二元的
+
+duality n 二重的性(dual ity)
+
+double
+
+duple a 双重（双拍子）
+
+duplex a 有两部分，二重
+
+duplicate a 完全一样、二重 v 复制
+
+duplicity n 二心,口是心非(du plic重复 ity=二种重复状态=二心)
+
+duel n 决斗(du el[=bell斗]=二个人斗=决斗)
+
+dubious a 半信半疑的(dub ious_二种状态=不肯定,怀疑的)(duo+ habeō (“have, hold”))
+
+dubitant a/n 半信半疑（者）
+
+dubitation n 怀疑
+
+dubitable a 怀疑的
+
+indubitable a 无可置疑的(in不 dubitable可怀疑的)
+
+doubt n 怀疑(doubt二=二种状态=怀疑)
+
+doubtful a 可疑的,怀疑的(doubt ful)
+
+### *dwóh₁ 的后代：la. dis- 二、分、反、强; dis-
+
+① 表示”不,消失掉”
+
+dislike 不喜欢(dis+like 喜爱=不喜爱)
+
+disorder 无秩序(dis+order 顺序=没有顺序)
+
+dishonest 不诚实的(dis+honest 诚实的)
+
+disappear 消失(dis+appear 出现=不出现=消失)
+
+disproof 反证,反驳(dis+proof 证实=不证实=反证)
+
+discourage 使失去勇气(dis+courage 勇气)
+
+disarm 解除武装(dis+arm 武装=去掉武装)
+
+dispel 驱除,消除(dis+pel 推=推开=驱除)
+
+dispassionate 平心静气的(dis+passionate 有激情的)
+
+discover 发现(dis+cover 盖=把盖揭开=发现)
+
+dismay 沮丧(dis+may 能够=不能做事=沮丧,参考:五月能种粮食,所以叫may)
+
+② 表示”分开,分离”
+
+disseminate 散布,传播(dis+semin 种子+ate=散布(种子))
+
+dispense 分配(dis+pense 花费=分开花费=分配(财富等))
+
+distract 分心(dis+tract 拉=把(心)拉开=分心)
+
+distend 膨胀(dis+tend 拉=分开拉=膨胀)
+
+discriminate 辨别,歧视(dis+crimin 分辨=ate=分辩开)
+
+dismiss 解散,开除(dis+miss 送=送出=解散)
+
+disburse 支付,支出(dis+burse 钱包=从钱包中分出=支出)
+
+discard 丢弃,抛弃(dis+card 扔=扔出去)
+
+discuss 讨论(dis+cuss 敲打=把(问题)分开敲=讨论
+
+### di-
+
+① 表示”两个,双”
+
+dichromatic 两色的(di+chrom 颜色+atic=两色的)
+
+dioxide 二氧化物(di+ox 氧+ide=二氧化物)
+
+dilemma 进退两难(di+lemma 争论=二种争论=进退两难)
+
+dichotomize 分成二,对分(dicho=di+tom 切割+ize=切成二分)
+
+② 表示”使…变成,分开,离开”
+
+dilate 膨胀,扩大(di+late 放=分开放=扩大)
+
+dilute 冲淡,稀释(di+lute 冲洗=冲洗开=冲淡)
+
+digest 消化,文摘(di+gest 带=带下去=消化=经过消化后的精华=文摘)
+
+diminish 减少,消失(di+mini 小+ish=变小,减少)
+
+digress 离题(di+gress 走=走开=离题)
+
+divide 分开(di+vide 分开=分开)
+
+divorce 离婚(di+vorce=vert 转=从(丈夫身边)转开=离婚,参考:divert 转开)
+
+### la. binus 来自 bis +inus (-ine) 成对的
+
+binate a 成对、双生
+
+binary a 二进制的，二元的
+
+combine 
+
+combination
+
+### *dwóh₁ 的后代：el. δύο, δι-, δίς
+
+### *dwóh₁ 的后代：δῐᾰ́  穿、间
+
 
 
 # E
@@ -2100,6 +2272,16 @@ evade 逃出,逃避(e+vade 走=走出去=逃避)
 eradicate 根除,灭绝(e+radic 根+ate=把根挖出=根除)
 
 effluence 流出(ef+flu 流+ence=流出
+
+## 从eco"家，居所，环境"[Greek]
+
+economy /2/n.经济，节约{nom"秩序，规定，安排"[Greek]，即管理家庭财务}
+
+ecology /2/n.生态学，生态
+
+ecosphere /1,3/n.大气层，生物域
+
+ecotourism /3/n.生态旅游
 
 ## -ee 表名词,”被动或主动的人” 
 
@@ -2579,6 +2761,12 @@ fashion n 时髦,风气(fash[=fac 做]+ion=做出的东西=时髦)
 
 fashionable a 时髦的,流行的(fashion+able)
 
+deficiency /2/n.不足，短缺
+
+artifact /1/n.人工制品，工艺品
+
+certificate /2/n.v.证书，证明，文凭，发证书{cert辨别区分决定}
+
 ## fac,fic=face,表示”脸,面”
 
 face n 脸
@@ -2813,13 +3001,15 @@ confirmed a 坚定的,确认的
 
 finish v 完成,结束(fin+ish)
 
-finale n 结局,终曲(fin+ale 表示音乐类=终曲) 
+final
+
+finale /fɪ'nɑːlɪ/n 结局,终曲(fin+ale 表示音乐类=终曲) 
 
 finalist n 决赛选手(final 最后的+ist)
 
 finality n 最后,定局(final+ity)
 
-finance n 资金,财政(fin+ance=最后起作用的东西=资金) 
+finance n n.金融，财政v.提供经费给{初义一笔债务的清算}
 
 finite a 有限的(fin+ite 表形容词)
 
@@ -2835,11 +3025,19 @@ confined a 有限制的, 狭窄的(confine+ed)
 
 define v 限定,下定义(de 加强+fine=加强限制=下定义) 
 
+definite a.明确的，一定的
+
 definition n 定义,(轮廓)清晰(define+ition)
 
 definitive a 决定性的(define+itive)
 
 affinity n 亲戚,密切关系(af+fin 范围+ity=一再能进[别人]范围=亲密)
+
+fine a.优，精致n.v.罚款v.净化细化
+
+refine /2/v.精炼
+
+refinery /2/n.提炼厂
 
 ## flat=blow,表示”吹”
 
@@ -3683,6 +3881,14 @@ prohibition n 禁止(probibit+ion)
 
 prohibitive a 禁止的,价格极贵的(prohibit 禁止+ive=价格到了禁止人买的地步)
 
+## 从holo"全部"[Greek]
+
+holocaust /1/n.大屠杀，浩劫
+
+holograph /1/n.亲笔文件，全息照片
+
+holography /2/n.全息照相术
+
 ## homo-表示”同类的”
 
 homogeneous 同类的,同族的(homo+gen 产生+eous=产生相同的)
@@ -3742,28 +3948,6 @@ hypothesis 假说,假设(hypo+thesis 论文=还不是正式的理论= 假说)
 hypomnesia 记忆力减退(hypo+mnes 记忆+ia=记忆变得不好)
 
 hypotrophy 发育不良(hypo+trophy 营养=营养不够=(导致)发育不良)
-
-## hum=earth,表示”土,地”
-
-humble a 谦恭的,下贱的(hum+ble=接近地面=谦恭的) 
-
-humility n 谦让,低下(hum+ility 状态=地的状态=低下) 
-
-humiliate v 羞辱,侮辱(hum+iliate 使…使人到地上=羞辱别人)
-
-humiliation n 耻 辱 (humiliate+ion) 
-
-inhume v 埋葬(in 进入+hume=进入土中)
-
-exhume v 掘出(ex 出+hume=出土=掘出)
-
-posthumous a 死死的,遗腹的(post 后+hum 土,引申为死+ous=死后的)
-
-hummock n 小圆丘(hum+mock 圆丘=土丘) 
-
-human n 人类(传说人是由土造出的)
-
-humane a 有人情的,仁爱的(humane+e=有人情的)
 
 
 
@@ -4913,6 +5097,24 @@ rejoinder n 回答,答辩(re 反+join+der=反过来接=回答)
 
 subjoin v (在末尾)添加,增补(sub 在下面+join=在下面接上=增补
 
+## 从jus,jur"正确，平等"[Latin]
+
+Justin
+
+unjust /2/a.不公平
+
+justice /1/n.公平，公正
+
+jury /1/n.陪审团，评委会
+
+juror /1/n.陪审员
+
+justify /1/v.辩护，证明……正当，调整版面
+
+injury /1/n.伤害，毁坏
+
+injure /1/v.伤害，损害
+
 
 
 # K
@@ -5231,6 +5433,20 @@ monologue n 独白(mono 一个人+logue 说=独白)
 
 philology n 语言学(phil 爱+logy 说=爱说的学科=语言学)
 
+## 从lici,leis"被允许的，未受限的"[Latin]
+
+license /1/n.执照，许可证
+
+licensee /3/n.持执照者，得许可者
+
+licenser /1/n.许可人
+
+illicit /2/a.违法，不正当
+
+licentious /2/a 放荡、放肆
+
+leisure /1/n.空闲，安逸
+
 ## liter=letter,表示”文字,字母”
 
 literate a 识字的(liter+ate)
@@ -5349,11 +5565,15 @@ majority n 大多数(major 主要的+ity)
 
 majestic a 雄伟的,壮丽的(maj+estic 表形容词,如:a-grestic 农村的)
 
-majestic a 雄伟,壮丽(majestic 的名词)
-
 majesty n.[M-]陛下；雄伟，壮丽，庄严
 
 mayor n 市长(may[=maj]+or 人=大人=市长
+
+force majeure /3eu,1/n.[French]不可抗力
+
+vis major n.不可抗力
+
+Ursa Major 大熊座{big bear}
 
 ## mal-表示”坏,恶”(亦作 male)
 
@@ -5543,6 +5763,12 @@ demented a 失去理智的(de 去掉+ment+ed=去掉心智)
 
 remind v 提醒(re+mind[=ment]=再次思考=提醒)
 
+## 从*mer-"to rub away, harm"[IE]
+
+ambrosia /2/n.神的食物，特别美味的食物{a-mbrotos}
+
+ambrosial /2/a.美味佳肴的，芳香的，神的
+
 ## merc,merch=trade, 表示”交易”
 
 market /1/ n.市场，集市
@@ -5670,6 +5896,14 @@ minute n 一分钟a. 微小的,细微的(min+ute)
 minutia n 细微末节(minute 小+ia=小事件=琐事)
 
 minuscule a 极小的(min+uscule 表形容词或名词=小的=极小的)
+
+## 从mirus"wonderful,amazing"[Latin]
+
+miracle /1/n.奇迹
+
+admire /2/v.称赞，羡慕
+
+mirage /1/n.海市蜃楼，幻境
 
 ## mis-表示”错误,坏”
 
@@ -5833,7 +6067,13 @@ demoralize v 使士气消沉(de 去掉+morale 士气+ize=去掉士气)
 
 mores n 道德观念,风俗(mor+es 表示复数
 
-## mort=death,表示”死”
+## 从*mora-"incubus"[IE]
+
+nightmare /1,2/n.噩梦，梦魇
+
+## 从mordere"to bite, sting"[Latin]perhaps; mort=death,表示”死”
+
+mordant /1/a.尖酸，有腐蚀性
 
 mortal a 死的,致命的(mort+al)
 
@@ -5847,7 +6087,7 @@ mortgage n 抵押(品)(mort+gage 抵押品=抵押品不能动,像死一样)
 
 immortalize v 使不朽(im 不+mortal+ize=使不死) 
 
-mortuary n 停尸室(mort+uary 地方=放尸体的地方)
+mortuary n.太平间a.与死有关，丧葬(mort+uary 地方=放尸体的地方)
 
 morbid n 疾病的,不健康的(morb[=mort]+id=像死一样=疾病的)
 
@@ -5855,25 +6095,7 @@ moribund a 垂死的,将死的(mori+bund[=bound 边界]=死的边界=垂死的)
 
 postmortem a 死后的(post 后+mort+em=死后的) #name
 
-motion n 运动(mot+ion) 
-
-motive n 动机(mot+ive)
-
-motivate v 推动,激励(motive+ate=使有动机=推动) 
-
-promote v 促进,提升(pro 向前+mote=向前动=促进) 
-
-promotion n 促进,升级(promote+ion)
-
-remote a 遥远的(re 回+mote=动回去=退回去=遥远的) 
-
-demote v 使降级(de 向下+mote=向下动=降级)
-
-commotion n 骚动,动乱(com 共同+mot+ion=大家一起动=动乱)
-
-locomotive n 火车头(loco 地方+mot+ive=从一个地方动到另一个地方=火车头)
-
-emotion n 感情(e 出+motion=动出[感情]=感情)
+amaranth /1/n.不凋花，苋属，紫红色{anth花[Greek]}
 
 ## mount=ascend,表示”登上”
 
@@ -5899,6 +6121,28 @@ mountebank n 江湖骗子(mounte+bank(即 bench)=登上长椅（假装有不倒�
 
 tantamount a 同等的,相等的(tant 相等+a+mount 数量
 
+## la. movere prp. movens pp. motus
+
+motion n 运动(mot+ion) 
+
+motive n 动机(mot+ive)
+
+motivate v 推动,激励(motive+ate=使有动机=推动) 
+
+promote v 促进,提升(pro 向前+mote=向前动=促进) 
+
+promotion n 促进,升级(promote+ion)
+
+remote a 遥远的(re 回+mote=动回去=退回去=遥远的) 
+
+demote v 使降级(de 向下+mote=向下动=降级)
+
+commotion n 骚动,动乱(com 共同+mot+ion=大家一起动=动乱)
+
+locomotive n 火车头(loco 地方+mot+ive=从一个地方动到另一个地方=火车头)
+
+emotion n 感情(e 出+motion=动出[感情]=感情)
+
 ## muni,mun= public,表示”公共的”
 
 municipal a 都市的,市政的(muni+cip 头+al=公共之头=市政的)
@@ -5916,6 +6160,8 @@ community n 社区,社会(commune 公共的+ity 状态=公共状态=社会,社�
 communicate v 交流,通知(commune 交流+ic+ate=[大家]交谈=交流)
 
 communicative a 爱说话的(communicate+ive=爱交流的) 
+
+immune
 
 immunity n 免除,免疫(im 不+mun+ity=不公共=不和别人一样[得病]=免疫)
 
@@ -5971,6 +6217,12 @@ nature /1/n.自然，天性
 
 the Renaissance /2/n.文艺复兴
 
+## 从nectar"众神之饮料"[Greek]
+
+nectar /1/n.花蜜，甜美的饮料，神の酒
+
+nectarine /1/n.油桃
+
 ## neg=deny, 表示”否认”
 
 neglect v 忽视,不顾(neg+lect 选择=不选择=忽视)
@@ -6013,8 +6265,6 @@ nomination /3,1/ n.提名，认命
 
 agnomen /2/ n.古罗马因功授予的附加名
 
-antinomy /1/ n.矛盾，二律相悖
-
 noun n.名词
 
 renowned /2/ n.有名，著名
@@ -6033,7 +6283,7 @@ autonomy n 自治,独立(auto 自己+ nomy 系统,统治= 自己统治)
 
 economy n 经济(学)( eco 环境,经济 + nomy,参考:ecology 生态学 )
 
-antinomy n 自相矛盾(anti 反+ nomy 理论= 相反理论 =自相矛盾)
+antinomy n 自相矛盾，二律相悖(anti 反+ nomy 理论= 相反理论 =自相矛盾)
 
 ## nounce,nunci= speak,表示”讲话,说出” 
 
@@ -6465,6 +6715,16 @@ pancreas n 胰腺（all flesh，因为它组成成分单一）
 
 panorama n 全景 （+ὅρᾱμᾰ (hórāma, “view”).）
 
+pantheon /1/n.万神殿，众神，名流
+
+panacea /3,1/n.万能药，灵丹妙药
+
+pandemic /2/n.全国流感
+
+Pandora /2/潘多拉{所有神仙在制造她的过程中都有贡献}
+
+pandemonium /3/n.大混乱，极端混乱嘈杂处(pan + demon)
+
 ### PIE *peh₂- 的后代 la. panis n
 
 *es. pan; fr. pain; ja. パン*
@@ -6672,6 +6932,18 @@ petulant a (脾气)暴躁的(pet+ulant 多…的=追求太多,导致脾气不好
 propitiate v 获宠爱,抚慰(pro 前+pit[=pet]+iate=追到前面去=获宠爱)
 
 propitious a 幸运的,吉祥的(pro 前+pit+ious=在[别人]前面追到=幸运的)
+
+## 从petr"stone"[Greek]
+
+Peter
+
+petrify /1/v.石化，使发呆
+
+petroleum /2/n.石油{ole"oil"}
+
+petrol /1/n.汽油(缩写自petroleum)
+
+petrel /1/n.海燕{飞时爪触水类圣彼得}
 
 ## phan=show,表示”显示”
 
@@ -7311,6 +7583,14 @@ disrepute n 坏名声(dis 不好+repute 名声=名声不好)
 
 
 
+## 从quant"数量"[Latin]
+
+quantum /1/n.量子，定量
+
+quantity /1/n.数量
+
+quantify /1/v.量化
+
 ## quest,quir, quis, quer= seek, search, 表示”寻求,询问”
 
 quest n 探求,寻找
@@ -7807,6 +8087,30 @@ reserved a 保留的,沉默的
 
 reservoir n 水库,贮藏所(reserve 保留+oir=保留[水]的地方)
 
+## 从sex"six"[Latin]
+
+sextet /2/n.六重奏
+
+sexdigital /2/a.有六指/趾
+
+sexennial /2/a.持续六年，六年一次
+
+sexennarian n.六岁者{ann,enn年}
+
+sextant /1/n.六分仪
+
+### sextet 相关各重奏
+
+duet 2 /2/
+
+trio 3 /1/
+
+quartet 4 /2/
+
+quintet 5 /2/
+
+septet 7 /2/
+
 ## sid=sit,表示”坐”
 
 dissidence n 意见不同(dis 分开+sid+ence=分开坐=意见不同)
@@ -7993,6 +8297,20 @@ armistice /1/n.停战，休战书
 
 superstition /3,1/n.迷信
 
+## 从s-l-m"和平，顺从"[Arabic]
+
+Muslim /1/n.穆斯林{顺从真理}
+
+Islam /1/n.伊斯兰教{遵从真主旨意}
+
+salaam /2/n.额手礼，问安
+
+Jerusalem /2/耶路撒冷{"foundation of peace"}
+
+## 从*smerd-"pain"[IE]
+
+smart a.聪明漂亮敏捷v.n.刺痛，苦恼{*Proto-Germanic*smarta-"to bite", German schmerzen"to pain"}
+
 ## soc=companion,表示”同伴”,引申为”社会”
 
 sociable a 爱社交的(soc+iable) social a 社会的
@@ -8023,9 +8341,25 @@ solarium n 日光浴室(solar+ium 地方)
 
 insolate v 曝晒(in 进入+sol+ate=放在太阳之中=曝晒) 
 
-solace n 安慰(sol+ace=给人太阳=安慰)
+## PIE *selh₂- “mercy, comfort”
 
-console v 安慰(con 共同+sole=共同的太阳=安慰)
+silly （Gmc. *sēlīgaz，曲折的演变过程）
+
+### *selh₂- 的后代：la. solor; 从sol,sola"安慰，鼓励"[Latin]
+
+solace n 安慰
+
+console v 安慰 n.(异源？)仪表盘，控制台，平台
+
+consolation /3/n.安慰，慰藉
+
+solatium  /2/n.抚慰金，精神赔偿费
+
+### el. ῑ̔́λᾱος (hī́lāos) 仁、善、柔
+
+hilarious a 十分有趣、非常滑稽、欢闹
+
+hilarity n 欢乐
 
 ## son=sound,表示”声音”; la. sonus, sonare, prp. sonans, pp. sonitus; 
 
@@ -8363,7 +8697,13 @@ stimulation n 刺激,鼓励
 
 instigate v 教唆,煽动(in 进入+stig[=stinct]+ate=刺激[别人] 内部=煽动)
 
-## strat=spread out 表示”扩散”,引申为”层次”
+## strat=spread out 表示”扩散”,引申为”层次”;从strat"拉伸，展开的"[Latin]
+
+street n.街道
+
+structure /1/n.结构
+
+stratum /1/n.地层，阶层
 
 strata n 层,地层(stratum 的复数,strat+um=层层扩散=层) 
 
@@ -8372,6 +8712,8 @@ stratify v 使成层,使分层
 prostrate v 使俯卧,使沮丧(pro 前+strate=前[后]回一贯层次上=俯卧)
 
 substratal a 基础的,基本的(sub 下面+strat+al=在下面一层=基础的
+
+stratosphere /1/n.平流层，最高层次
 
 ## strain,striet,string=tighten,表示"拉紧"; la. stringere, prp. stringens, pp. strictus
 
@@ -8757,6 +9099,8 @@ tendency n 倾向(tend+ency=伸出去的状态=偏向一边=倾向)
 
 contend v 竞争,争论(con 一起+tend=一起你拉我夺=争论) 
 
+contender /2/n.角逐者
+
 extend v 延展,扩张(ex 出+tend=伸出去=扩张)
 
 extension n 延展,扩张,延期(ex+tens+ion)
@@ -8788,6 +9132,10 @@ distend v 扩张,膨胀(dis 分开+tend=向四周延伸=膨胀)
 tension n 紧张,张力(tens+ion=延展出的状态=紧张) 
 
 tensible a 可延展的(tens+ible=能延展出的)
+
+tentacle /1/n.触角，触手
+
+tenant /1/n.租户，房客
 
 ## tenu =thin ,表示”细,薄”
 
@@ -8873,6 +9221,20 @@ context n 上下文(con 共同+text=共同编织在一起的=上下文)
 
 pretext n 借口,托词(pre 预先+text=预先编好的=借口)
 
+## 从theo,the"god"[Greek]
+
+theobromine /3bro,1/n.可可碱
+
+allotheism /2/n.异神崇拜{ali"other"}
+
+atheist /1/n.无神论者
+
+enthusiasm /2/n.热情{en"in"}
+
+monotheism /1/n.一神论，一神教
+
+Theodore 人名-西奥多{donare"送出礼物"[Latin]Gift of God}
+
 ## thesis,thet= setting ,表示”放置”
 
 thesis n 论文,命题(放好的研究主题)
@@ -8943,7 +9305,7 @@ torment n 苦恼,拷问(tor[=tort]+ment=扭的状态=拷问:苦恼
 
 tour v n.旅游(转着玩) tourist n 旅游者(tour+ist)
 
-contour n 轮廊(con 全部+tour=全部转一圈=轮廊)
+contour /1/ n 轮廊(con 全部+tour=全部转一圈=轮廊)
 
 detour n 迂路,曲折(de 加强动作+tour=转着走=语汇的路) 
 
@@ -8951,9 +9313,9 @@ tournament n 锦标赛(tourn 转+a+ment=转着轮流比赛,锦标赛)
 
 tornado n 龙卷风(torn+ado=转着的风=龙卷风) 
 
-attorney n 律师(at+torn+er=玩的转的人=律师)
+attorney /2/ n 律师(at+torn+er=玩的转的人=律师)
 
-tourniquet n 止血绷带(止血绷带紧紧环绕肢体)
+tourniquet /1/ n 止血绷带(止血绷带紧紧环绕肢体)
 
 ## tract =draw, 表示”拉,拖”
 
@@ -9098,16 +9460,6 @@ protrusion n 突出,隆起
 detrude v 推倒(de 下去+trud+e=向下推=推倒)
 
 abstruse n 深奥的(abs 离开+trus+e=离开[人的知识]理解不能推进=深奥的)
-
-## tuine = twine,表示”编织”
-
-twine v 缠绕n. 股线
-
-entwine v 纠缠(en 使+twine=使编织到一起=纠缠) 
-
-intertwine v 编织起来(inter 在中间+twine=互相编织在一起) 
-
-untwine v 解开(un 打开+twine=把编织在一起的解开)
 
 ## turb= stir”表示”搅动”
 
@@ -9305,7 +9657,7 @@ inurbane a 粗野的(in 不+unbane 文雅的)
 
 exurban a 城市远郊的(ex 出+urban 城市的=出城市=远郊的
 
-## us,ut = use,表示”用”
+## us,ut = use,表示”用”; 从us,ut"用，实践"[Latin]
 
 usage n 用法,惯例(us+age 状态=用的状态=用法) 
 
@@ -9332,6 +9684,10 @@ utilitarian a 功利主义的(utility+arian……的=有用为主=公里主义)
 utensil n 用具,器血(ut 用+ensil 表物品=用具)
 
 usurp v 篡夺,侵占(us+urp[=rape 枪掠]=枪过来用=篡夺
+
+usury /1/n.高利贷
+
+usurer /1/n.放高利贷者
 
 
 
@@ -9603,7 +9959,7 @@ diversify v 多样化(di 分开+vers+ify)
 
 diversity n 多样性
 
-inverse a 翻 转 的 (in 进 +vers+e= 转 进 去 = 翻 转 的 ) 
+inverse a 翻 转 的 (in 进 +vers+e= 转进去 = 翻转的) 
 
 malversation n 贪污,渎职(mal 坏 vers+ation=转坏了=做官做坏=贪污)
 
