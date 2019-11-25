@@ -1,3 +1,8 @@
+*使用小提示*
+
+- 换个编码方式（源代码用的UTF-8），汉字就看不到了，可以检查记忆情况。
+- 查看github里的历史版本更改情况可以复习某天添加的单词，尤其是近期。
+
 *一些原则：*
 
 - 以 GRE 需要的词汇为主，会加入一些简单词便于联想而不标词义
@@ -6,7 +11,7 @@
 - 部分用「"」「,」标了主重音和次重音，为了方便检索正在逐步改到用 /x/ 表示第一个音节重音，需要特别注发音的用/abc/ 注明发音是abc
 - 词源信息主要根据维基词典整理，并参考欧路上的《英语词根词源记忆词典》部分内容和《摩西英语》部分内容。
 
-20191124 mosi 第一本1~29章、第二本第三本记过笔记的章节，1276lines
+20191125 延伸自gratis, feign, bifurcate, prolific, locution, prevision, taxonomy, lethargy, resumption, inured 等（记录不全）, 236lines
 
 # A
 
@@ -28,13 +33,13 @@ abstract 抽象的,心不在焉的(abs+tract 拉=被拉开=心不在焉)
 
 abstain 戒绝(abs+tain 拿住=不再拿住=戒绝)
 
+abstinence 节制,禁欲(abs+tin 拿住+ense=不在拿住=戒除,禁欲)
+
 abscond 潜逃(abs+cond 藏=藏起来=潜逃)
 
 abscind 废除(abs+cind 剪切=切掉=废除)
 
 abscise 切除(abs+cise 剪=剪掉=切除)
-
-abstinence 节制,禁欲(abs+tin 拿住+ense=不在拿住=戒除,禁欲)
 
 ## ab-,ac-,ad-,af-,ag-,an-,ap-,ar-,as-,at-等加在同辅音字母 的词根前,表示”一再”等加强意
 
@@ -59,6 +64,8 @@ affable 亲切的(af+fable 说话=不断可以说话=亲切)
 afford 买得起(af+ford 拿出=一再拿出{钱}=买得起)
 
 affirm 肯定(af+firm 坚定=肯定)
+
+attest 证实(at+test 试验=一再试验=证实)
 
 aggression 侵略,进攻(ag+gress 走+ion=一再往前走=进攻)
 
@@ -102,8 +109,6 @@ attend(at+tend 关心=关心到了=出度)
 
 attract 吸引(拉=拉过来=吸引)
 
-attest 证实(at+test 试验=一再试验=证实)
-
 ## abl, bili=able,表示”能力”
 
 able a 能够的
@@ -144,6 +149,8 @@ acidity 酸度,酸性(acid+ity 性质=酸性)
 
 acidulous 微酸的(acid+ulous 有…的=有酸味的)
 
+acrimony /1/ n.刻薄，尖酸
+
 acrid 辛辣的,类刻的(acrimony 的形容词)
 
 acute 尖锐的,敏锐的
@@ -157,8 +164,6 @@ acupuncture /1,3/ 针炙(acu 尖+punct 点+ure=用尖(针)点=针炙)
 acme 顶点,顶峰(acumen 的变体)
 
 acacia /2/ n.金合欢，刺槐，阿拉伯树胶
-
-acrimony /1/ n.刻薄，尖酸
 
 eager /1/ a.热切，渴望
 
@@ -334,9 +339,9 @@ antagonist n 对手(ant[=anti 反]+agon+ist=反过来斗争之人=对手)
 
 ## 从al-"the"[Arabic]
 
-"apricot n.杏，杏树（al-birquq早熟的（苹果））
+apricot /1/n.杏，杏树（al-birquq早熟的（苹果））
 
-a"lembic n.造酒用蒸馏罐
+alembic /2/n.造酒用蒸馏罐
 
 "alchemy n.炼金术
 
@@ -346,29 +351,19 @@ a"lembic n.造酒用蒸馏罐
 
 "alcohol n.乙醇，酒精{al-kuhl"fine powder"→"powdered antimony"→熏蒸加冷凝以得细粉→酒精}
 
-,alco"holic a.含酒精，酗酒n.酗酒者
+alcoholic /3,1/a.含酒精，酗酒n.酗酒者
 
 "alcoholism n.酒精中毒，酗酒
 
-,worka"holic n.工作狂
+workaholic /3,1/n.工作狂
 
 ## 从alere"滋养"[Latin]
 
-,alma "mater n.母校
+alma mater /3,1/n.母校
 
 (同源)old a.老
 
 "aliment n.滋养品，食物
-
-## 从ali"其他，另外"
-
-un"alienable, in"alienable a.不可剥夺的
-
-"alias n.别名，化名
-
-"alien n.外国人，外星人a.外国的
-
-"alibi n.不在场证明
 
 ## alt=high,表示”高”
 
@@ -384,7 +379,11 @@ exalt v 升高,赞扬(ex 出+alt=高出来=升高,赞扬)
 
 exalted a 高贵的,被赞扬的
 
-## alter, altern, ali=other, to change, 表示”其他的,改变状态”
+## alter, altern, ali=other, to change, 表示”其他的,改变状态”; 从ali"其他，另外"
+
+"alias n.别名，化名
+
+"alibi n.不在场证明
 
 alter 变更,改变(alter 其他的=变成(其它的))
 
@@ -396,9 +395,11 @@ alternation 交互,交错(alternate+ion)
 
 alternative 二者择一(的)(来自 alternate 交替,交替选择的方法)
 
-alien 外国的,外来的(ali+en 表形容词或名词=其他地方的=外国的,外国人的)
+alien n.外国人，外星人a.外国的,外来的(ali+en 表形容词或名词=其他地方的=外国的,外国人的)
 
 alienate 疏远(alien 外国的+ate=把别人当外国人=疏远)
+
+unalienable, inalienable /2/a.不可剥夺的
 
 ## am, amor, amat=love,表示”爱,情爱”
 
@@ -420,7 +421,7 @@ pre"amble n.前言，开场白
 
 "ramble vi.n.漫步，漫游，漫谈
 
-som"nambu,late v.梦游{somn"睡眠"[Latin]}
+somnambulate /2,4/v.梦游{somn"睡眠"[Latin]}
 
 ## 从amir"首领，领导"[Arabic]
 
@@ -480,7 +481,7 @@ sanctuary n 圣地,避难所(sanct+uary 表示场所,如:mortu-ary 太平间)
 
 sanction n 批准,授权(给予神圣的权利)
 
-## -aneors 表形容词,表示”…有,…特征的” 
+## -aneous 表形容词,表示”…有,…特征的” 
 
 simultaneous a 同时发生的
 
@@ -606,7 +607,7 @@ national anthem n.国歌
 
 "antonym n.反义词
 
-ant"arctic a.南极的
+antarctic /2/a.南极的
 
 ## 从aqua"water"[Latin]
 
@@ -1018,7 +1019,7 @@ embalm v 保存尸体,铭记(em 进入+balm=古人用香油等保存尸体,引�
 
 ## 从bas,bat"行走，步伐，基座"
 
-,dia"betes n.糖尿病{夹紧双腿走路也，言其多尿}
+diabetes /3be,1/n.糖尿病{夹紧双腿走路也，言其多尿}
 
 "acrobat n.杂技演员{acro"高出，顶点"[Greek]，走钢丝也}
 
@@ -1035,6 +1036,8 @@ benevolent 好意的(bene+vol 意愿+ent=好意的)
 benefaction 好事,恩惠(bene+fact 做+ion=好事)
 
 benefit 好处,利益(bene+fit 做=做事后的好处=利益)
+
+beneficial
 
 benediction 祝福(bene+dict 说+ion=说好话)
 
@@ -1165,19 +1168,25 @@ inception 开始,开端
 
 intercept 拦截,阻止(inter 在…中间+cept 拿住=拦截)
 
-precept 箴言
+precept /1/ n 准则、戒律、箴言(la. praecipere 教学)
+
+preceptor /2/ n 教师、导师
 
 receptacle 容器(re 再+cept+acle 东西=拿东西的东西=容器)
 
 except 除外(ex 出=cept=拿出)
 
-conceive 想象,构想
+conceive 想象,构想、怀孕
 
 conceivable 可想象的
 
+conceit /kən'siːt/ n 骄傲自大(设想，幻想->自我(self-)幻想->简化成 conceit)
+
+conceited a 自负的
+
 deceive 欺骗
 
-de"ceit n.欺骗，谎言
+deceit /dɪ'siːt/ n.欺骗，谎言
 
 perceive 知觉,发觉
 
@@ -1185,13 +1194,11 @@ receive 接受,收到(re 再+ceive 抓=全部=发觉)
 
 receipt 收据
 
-conceit 自豪,自大
-
 anticipate 预料,预期的(anti 前+cip 抓+ent=开始抓=开始的)v.期待，抢先使用
 
 incipient 开始的,初期的(in+cipi 抓+ent=开始抓=开始的)
 
-emancipate 解放(e 出+man 手+cip+ate 提前抓住=预料)
+emancipate 解放(e 出+man 手+cip+ate )
 
 emancipation 解放
 
@@ -1229,19 +1236,21 @@ chief a.主要的，首席的n.首领
 
 ## capr=goat (山羊); #从capr"山羊"[Latin]
 
-cabriolet (t无音)n.棚式汽车，单马双轮轻便车{颠簸如山羊跳}
+Capricorn n.摩羯{corn角}
+
+Tropic of Capricorn 南回归线，反：Tropic of Cancer
+
+caper v 欢蹦,跳跃
 
 caprice v 突变,任性n.反复无常，任性，异想天开
 
 capricious a.变化无常，任性
 
-Capricorn n.摩羯{corn角}
+cabriolet (t无音)n.棚式汽车，单马双轮轻便车{颠簸如山羊跳}
 
-Tropic of Capricorn 南回归线，反：Tropic of Cancer
+taxi = taximetercabriolet
 
-taxi=taximetercabriolet
-
-caper v 欢蹦,跳跃
+cab = taxi
 
 ## card chart=paper,表示”纸片”
 
@@ -1744,6 +1753,8 @@ corporeal a 有形的,物质的(corpor+eal=真的身体=有形的)
 corpuscle n 血球(corp+uscle 小东西=小球体=血球) 
 
 corpulent a 肥胖的(corp+ulent 多…的=多身体的=肥胖的) 
+
+corpulence
 
 incorporate v 结合,合并(in 进入+corporate 团体的=进入团体=结合)
 
@@ -3121,9 +3132,15 @@ profit n 利润,利益(pro 前+fit[=fict]=先做的好处=利益)
 
 profitable a 有利润的(profit+able)
 
+*fiction, feint 等演变自另一个词 PIE *dʰeyǵʰ-, la. fingere, en. dough*
+
 fiction n 虚构,小说(fict+ion=做出的故事=小说) 
 
 fictitious a 虚构的(fict+itious)
+
+feint v/n 佯攻
+
+feign vt 佯装、冒充
 
 feat n 功绩,事业(feat=fact 做大事=功绩)
 
@@ -3154,6 +3171,8 @@ deficiency /2/n.不足，短缺
 artifact /1/n.人工制品，工艺品
 
 certificate /2/n.v.证书，证明，文凭，发证书{cert辨别区分决定}
+
+forfeit /1/ v/n 没收、因过错或交换而失去（for-(outside, beyond), 词义从犯罪转为其惩罚）
 
 ## fac,fic=face,表示”脸,面”
 
@@ -3737,6 +3756,12 @@ boatful n 一船(a boatful of coal 一船煤)
 
 armful n 一抱(an armful of books 一抱书
 
+## furc = fork 分叉
+
+furcal a 开叉的、叉状的
+
+bifurcate v 分叉、分成两支
+
 ## fus=pour,表示”流,泻”
 
 confuse v 使混乱(con 共同+fuse=流到一起=混合,混乱) 
@@ -4012,6 +4037,40 @@ gre"nade n.手榴弹
 "granite n.花岗岩
 
 grain n.颗粒，谷物
+
+## grat,gree=pleasing,表示”感激,高兴”
+
+*es. gracias; it. grazie; (pl. of la. gratia)*
+
+grateful a 感谢的,愉快的(grate ful多…的)
+
+ingrate n 忘恩负义之人(in不 grate=不感激=忘恩负义)
+
+gratify v 使满足,喜悦(grat ify使…=使[人]满足,高兴)
+
+gratification n 满足,喜悦(gratify ication)
+
+gratitude n 感激,感恩(grat itude状态)
+
+gratuity n 赏钱,赠品(grat uity=因感激给=赏钱=小费)
+
+gratuitous a 无缘无故的, 免费的(来自gratuity赏钱,给小费可多可少,所以”无缘无故的”)
+
+gratis ad. 免费地（la. gratis = gratiis "for thanks" abl. pl. of grātia）
+
+ingratiate /2/ v 迎合,讨好(in进入 grat iate=使[别人]进入高兴=讨好[别人])
+
+ingratiating a 讨好的,诌媚的(ingratiate ing)
+
+grace n “优美,文雅(grace=grat,感激别人态度一定好,所以grace有了”文雅”的意义)”
+
+gracious a 文雅的,亲切的(grace ions)
+
+agreeable a 愉快的,适意的(a gree=able;agree”同意”)
+
+agreement n 协议,一致(agree ment)
+
+disagree v 不一致,争执(dis不 agree同意)
 
 ## grav,griev=heavy,表示”重”
 
@@ -4855,6 +4914,8 @@ peninsula n 半岛(pen 接近+insula=接近岛屿=象岛屿=半岛)
 
 insular a 岛国的,偏狭的(insul+ar)
 
+insularity n 心胸狭窄、观点偏狭、岛国性质
+
 insulate v 隔离,使绝缘(insul+ate=变成岛的状态=偏离)
 
 insulin n 胰岛素(insul+in 表示”…素”,如,penicillin 青霉素
@@ -5569,6 +5630,14 @@ reject v 拒绝,驳回(re 回+ject=扔回来=拒绝)
 
 rejection n 拒绝(reject+ion)
 
+## jubil=欢呼
+
+*de. jubeln 欢呼*
+
+jubilant a 欢快
+
+jubilation n 欢庆、欢腾
+
 ## judg,judic=judge,表示”判断”
 
 judgment n 判断,判断力(judg+ment)
@@ -5833,6 +5902,16 @@ equilateral a 等边的(equi 相等+later+al)
 
 lateral a 旁边的,侧面的
 
+## latere (la) 隐藏; el. lethe 忘
+
+latent a 潜在
+
+lethargy n 无精打采、昏睡 (λήθη (lḗthē, “forgetfulness”) +  ἀ- (a-) + ἔργον (érgon "labour, ergo-"))
+
+lethargic a 昏睡的
+
+lethal a 致命的、致死的（来自la. letum，错误地拼写成th是因为与 el. lethe 联系）
+
 ## lav,luv,lut=wash,表示”洗,冲洗”
 
 lavish v 浪费a. 浪费的(lav+ish=冲掉=浪费)
@@ -5989,6 +6068,34 @@ li"thotomy n.切石术{tom切}
 
 "litho,sphere n.岩石圈
 
+## loc=place,表示”地方”
+
+local a 地方的,局部的(loc al)
+
+localism n 地方主义(local地方的 ism主义)
+
+locality n 位置,所在地(local ity)
+
+locate v 坐落,位于(loc ate)
+
+location n 场所,位置(locate ion)
+
+locomotive n 火车头,机车(loco mot动 ive=从一地动到一地=火车头)
+
+locomotion n 运动,运转(loco motion动)
+
+dislocate v使脱节,移位(dis离开 locate位于=位置离开=移位)
+
+dislocation n 错乱,移位(dislocate ion)
+
+allocate v分配,部署(al一再 locate=不断送给地方=分配[东西])
+
+allocation n 分配(allocate ion)
+
+collocate v 并列,排列(col共同 locate=放在一个位置=并列)
+
+relocate v 重新定位(re重新 locate)
+
 ## log,logu=speak,表示”说话”
 
 logic n 逻辑(学)(说话的学问=逻辑学) 
@@ -6018,6 +6125,34 @@ eulogize v 称赞(eulogy+ize)
 monologue n 独白(mono 一个人+logue 说=独白)
 
 philology n 语言学(phil 爱+logy 说=爱说的学科=语言学)
+
+## loqu,locu=speak,表示”说话”
+
+loquacious a 多嘴的,话太多的(loqu acjous多…的)
+
+colloquial a 口语的(col共同 loqu ial=共同说=口语)
+
+colloquy /1/n 谈话(col共同 loquy=共同说=谈话)
+
+colloquium /2/2n 学术讨论会(col共同 loqu ium=场所=一起说的地方=讨论会)
+
+locution n 说话风格、惯用语
+
+circumlocution n 转弯抹角说话(circum 绕圈 locu tion)
+
+elocution n 雄辩,朗诵法(e出 locu tion=说得出话=雄辩)
+
+eloquence n 雄辩,口才(e 出 loqu ence)
+
+eloquent a 有说服力的(e loqu ent)
+
+interlocution n 对话(inter在…之间 locu tion=二者之间说=对话)
+
+obloquy n “中伤,谩骂(ob坏 loquy=说坏话)”
+
+soliloquy n 独白,自言自语(soli独白 loquy说=独白)
+
+somniloquy n 梦话(somni睡 loquy=睡着了说)
 
 ## 从lici,leis"被允许的，未受限的"[Latin]
 
@@ -6945,6 +7080,20 @@ the Renaissance /2/n.文艺复兴
 
 "nautilus n.鹦鹉螺
 
+## nect,nex= bind, 表示”连结”
+
+nexus n 连结(nex us)
+
+annex v 附加n. 附件(an增加 nex=加上连结=附加)
+
+connexion n 连结,亲戚(con共同 nex ion=共同连结=亲戚关系)
+
+connect v 连结(con共同 nect)
+
+disconnect v 拆开,分离(dis分开 connect连结)
+
+connection n 连结(con nect ion)
+
 ## 从nectar"众神之饮料"[Greek]
 
 nectar /1/n.花蜜，甜美的饮料，神の酒
@@ -7001,9 +7150,25 @@ noxious a 有毒的 (nox + ious)
 
 obnoxious a 令人讨厌的 (ob 坏 + nox+ious = 又坏又毒 =令人讨厌的 )
 
-## 从nom"name"[Latin]
+## 从nom"name"[Latin]; nomin=name,表示”名称,名字”
 
 nomination /3,1/ n.提名，认命
+
+nominal a 名义上的(nomin al)
+
+nominate v 提名,任命(nomin ate表动词)
+
+nominee n 被提名者(nomin ee被…的人,参考:employee雇员)
+
+cognominal a 同名的(cog同 nomin al)
+
+denominate v 给…命名(de给予 nomin ate=给予名称)
+
+denomination n 命名,(货币)单位(denominate ion)
+
+ignominious a 不名誉的(ig不 nomin ious=不好的名字=不名誉的)
+
+ignominy n 不名誉,耻辱(ig nomin y)
 
 agnomen /2/ n.古罗马因功授予的附加名
 
@@ -7222,6 +7387,10 @@ o"puscule n.小作品
 ,ope"retta n.小歌剧，轻歌剧
 
 magnum opus n.杰作，巨著
+
+inure vt (usu. passi) 使习惯（坏事）（la. opera -> O.Fr oeuvre -> en. ure "practice"（今不用））
+
+inured a 习惯的
 
 ## opt,ept=fit, ability,表示”适应,能力”
 
@@ -8485,6 +8654,14 @@ disprove v 证明为假,反证(dis 反+prove=反证)
 
 reprove v 责备,训诫(re 反+prove=反对别人的证明=责备)
 
+## prol = offspring 子孙
+
+prolific a 多产（fic带来）
+
+proliferate v 繁殖、激增（fer带来）
+
+proliferation
+
 ## 从proto"最初，第一"[Greek]
 
 "protein n.蛋白质
@@ -8636,6 +8813,8 @@ quiescence n 静止,沉寂(qui+escence 开始…的=产生静=静止)
 acquiesce v 默许(ac 给予+qui+esce=给予[对方]静的回答=默许)
 
 acquiescence n 默认,默许(ac+qui+escence)
+
+acquiescent /3es/
 
 ## 从quint"five,fifth"[Latin]
 
@@ -8951,6 +9130,8 @@ describe v 描写,叙述(de 着重+scribe=着重写=描写)
 
 description n 描绘,形容(de+script+ion)
 
+nondescript /1/ a 无特征不易分类的（未 述ed -> 不 易ly to 述）
+
 inscribe v 铭刻(in 进入+scribe=刻写进去=铭刻) 
 
 inscription n 铭 刻 , 碑 文 (in+script+ion) 
@@ -8964,6 +9145,8 @@ prescribe v 开药方,命令(pre 预先+scribe=预先写好药量)
 prescript n 法令,命令(pre 预先+script=预先写下的命令) 
 
 prescription n 处方,命令(pre+script+ion)
+
+proscribe v （法律）禁止（即在世人面前发布禁止）
 
 subscribe v 订阅,认购(sub 在下面+scribe=在下面写上名字= 签订单)
 
@@ -9921,6 +10104,8 @@ assumption n 假设,承担(as+sumpt+ion)
 
 resume v 拿回,恢复(自由等)(re 回+sun+e=拿回去,也可解释为重新拿起,继续)
 
+resumption n 恢复
+
 reassume v 取回,再担任(re 再+assume 承担)
 
 presume v 假定,自以为是(pre 预先+sum+e=预先拿往=假定) 
@@ -9962,6 +10147,24 @@ superintend 监督(super+intend 关心=在上面关心=监督)
 supersede 淘汰,取代(super+sede 坐=坐上去=淘汰(以前的东西))
 
 superstition 迷信(super+stit 站+ion=站在人(理智)之上的东西=迷信
+
+# sur-表示”超过,在上面”
+
+surface表面(sur face脸面)
+
+surpass超过(sur pass通过=在上面通过=超越)
+
+surrealism超现实主义(sur realism现实主义)
+
+surmount登上,超越(sur mount山=在山上=登上)
+
+surplus多余的(sur plus多余,加=多出很多)
+
+surcharge附加费(sur charge收费=额外的收费=附加费)
+
+surveillance临视,看守(sur veil看 lance=在上面看=临视)
+
+survival幸存,生存(sur viv活 al=经过事故活着=幸存)
 
 ## 从 *swé"pronoun of the third person and reflexive"[PIE]
 
@@ -10019,7 +10222,9 @@ slur nv 诽谤；连音符；含糊音
 
 
 
-## tact,tag,tig,ting = touch 表示”接触”; #从tact,tag,tig"接触，抵达"[Latin]
+## tact,tag,tig,ting = touch 表示”接触”; #从tact,tag,tig"接触，抵达"[Latin]; la. tangere; la. taxare; el. taxis 安排
+
+tangent a 相切、接触、离题 n 切线、正切
 
 tan"gential a.离题，肤浅，相切
 
@@ -10054,6 +10259,12 @@ taste v.品尝，体验
 con"taminate v.污染
 
 in"tegrity n.完整，正直，诚实{in-否定}
+
+tax (la. taxere)
+
+taxidermy /1,3/ n 动物标本剥制术（el. taxis 安排 + derma 皮）
+
+taxonomy /2/ n 生物分类学
 
 ## tail=cut,表示”剪,割”
 
@@ -10835,6 +11046,26 @@ unbosom 吐露(un+bosom 胸=打开心胸=吐露)
 
 unravel 解开,拆散(un+ravel 纠缠)
 
+## und = wave,表示”波动”
+
+abund v 丰富,充满(ab cund[=und]参考,abundant)
+
+abundant a 丰富的(ab加强 und ant=[多得]象波浪一样=丰富的)
+
+abundance n 丰富,富裕
+
+undulate v 波动(und ulate表动作 波动)
+
+inundate v 泛滥,淹没(in进入 und ate=进入波浪=淹没)
+
+redundant a 多余的(red反复 und ant=反复波动=多余的)
+
+fecund a 多产的、肥沃的
+
+fecundity /2/ n 多产,富饶(fec做 und ity=出产的[粮食]像波浪=富饶)
+
+redound v 报应、提高(red回 ound[=und]=波动回来=回流,产生影响) (+ on / to)
+
 ## 从uni-"一个，单，同"
 
 ,uni"versity n.大学
@@ -11260,6 +11491,10 @@ wizard /1/ n.巫师，术士，奇才
 advise /2/ v.建议，劝告
 
 evidence /1/ n.证据，证明
+
+prevision n 预知、先见
+
+previsional a 有先见之明
 
 provide /2/ v.提供
 
