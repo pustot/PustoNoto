@@ -11,7 +11,7 @@
 - 部分用「"」「,」标了主重音和次重音，为了方便检索正在逐步改到用 /x/ 表示第一个音节重音，需要特别注发音的用/abc/ 注明发音是abc
 - 词源信息主要根据维基词典整理，并参考欧路上的《英语词根词源记忆词典》部分内容和《摩西英语》部分内容。
 
-20191125 延伸自gratis, feign, bifurcate, prolific, locution, prevision, taxonomy, lethargy, resumption, inured 等（记录不全）, 236lines
+20191126 117lines, 扩展自 compassion, granulate, volatile, chaperon, eliminate, synopsis, irreparable, reimbursement, enormity
 
 # A
 
@@ -649,7 +649,7 @@ architecture 建筑学
 
 argue /1/ v.争论，辩论
 
-argentum /1/ n.银
+argentum /2/ n.银
 
 Argentina /3,1/ 阿根廷
 
@@ -1234,6 +1234,12 @@ chief a.主要的，首席的n.首领
 
 "mischievous a.顽皮，淘气
 
+chaperon /'ʃæpərɔn/ n (在社交场所陪伴未婚少女的)女监护人
+
+cope n 长袍； v 处理（异源）
+
+kepi n 法国军帽
+
 ## capr=goat (山羊); #从capr"山羊"[Latin]
 
 Capricorn n.摩羯{corn角}
@@ -1684,7 +1690,7 @@ corroborate 证实(cor+robor 力量+ate=用力量=证实)
 
 combine 联合,结合(com+bine 捆=捆在一起=结合)
 
-compassion 同情(com+passion 爱国者=同胞)
+compassion 同情(com+passion)
 
 compatriot 同胞(com+patriot 动=大家一起动=动乱)
 
@@ -3616,6 +3622,8 @@ conform v 使一致,遵从(con 共同+form_=形式共同=一致)
 
 conformity n 一致,相符(conform+ity)
 
+nonconformity n 不符合规定、不一致、新教徒
+
 deform v 使残废,变形(de 坏+form=使形状坏=使残废)
 
 deformed a 畸形的(deform+ed)
@@ -3912,6 +3920,8 @@ engender v 产生(en 使+gender 产生=使产生)
 
 engine /1/ n 引擎
 
+gem n 宝石（bud -> jewel）
+
 ## 从genu"knee"[Latin]
 
 "genuflect vi.屈膝，（宗教仪式）跪拜，屈从
@@ -4026,15 +4036,23 @@ regress /2/n.后退，倒退
 
 progress /1/n.进步
 
-## 从gran"核心，颗粒"[Latin]
+## 从gran"核心，颗粒"[Latin]; gran=grain,表示”颗粒”
 
-gre"nade n.手榴弹
+granary n 粮仓,谷仓(gran ary表场所=放粮食颗粒的地方)
 
-"pomegranate n.石榴
+granivorous a 食谷的(gran i vor吃 ous=吃粮食的)
 
-"garnet n.石榴石，深红色
+granule n 颗粒,细粒(gran ule表示小东西)
 
-"granite n.花岗岩
+granulate v 使成颗粒(granule颗粒 ate)
+
+grenade /2/ n.手榴弹
+
+pomegranate /1/ n.石榴
+
+garnet /1/ n.石榴石，深红色
+
+granite /1/ n.花岗岩
 
 grain n.颗粒，谷物
 
@@ -4299,6 +4317,8 @@ mitigate v 使缓和、减轻
 fumigate v 烟熏消毒
 
 litigation n 诉讼
+
+litigant n 诉讼当事人
 
 transigent a 妥协的
 
@@ -6050,6 +6070,24 @@ li"aison n.联络，私通
 
 "ally n.同盟
 
+## limin,lim=threshold,表示”门槛,限制”
+
+eliminate v 消灭,删除(e出 limin ate=[赶]出门槛=删除)
+
+preliminary a 预备的,初步的(pre预先 limin ary=入门以前=初步的)
+
+subliminal a 潜意识的(sub下面 limin al=在门槛下=在意识下=潜意识的)
+
+supraliminal a 有意识的(supra在上面 limin al)
+
+sublime a 崇高的(sub在…下面 lime限制=在限制下不乱做事=崇高的)
+
+sublimate v 升华,提高(sublime崇高的 ate)
+
+limit n 限制(lim it)
+
+delimit v 定界限(de加强 limit限制)
+
 ## linqu=leave,表示”离开”
 
 delinquent a 有过失的,犯法的(de 一再+linqu+ent=一再离开[ 正 道 ]= 有 过 失 ) 
@@ -7192,6 +7230,22 @@ economy n 经济(学)( eco 环境,经济 + nomy,参考:ecology 生态学 )
 
 antinomy n 自相矛盾，二律相悖(anti 反+ nomy 理论= 相反理论 =自相矛盾)
 
+## norm=rule, norm,表示”规则,规范”
+
+norm n 规范,行为准则
+
+normal a 正常的(norm al=有规范的=正常的)
+
+abnormal a 异常的,反常的(ab离开 normal正常的)
+
+enormous a 巨大的(e出 norm ous=出了正常状态=巨大的,过分的)
+
+enormity n 穷凶极恶(e norm ity)
+
+subnormal a 低于标准的,低能的(sub在下面 normal正常的)
+
+transnormal a 超常规的,异常的(trans超 normal正常的)
+
 ## nounce,nunci= speak,表示”讲话,说出” 
 
 announce v 宣布,发表(an+nounce=一再讲=宣布) 
@@ -7410,7 +7464,17 @@ inapt 不适当的,无能的(in 无+apt 能力)
 
 adept 熟练的,老练的(ad+ept=有能力=熟练的
 
-## 从ops"视，眼"[Greek]
+## 从ops"视，眼"[Greek]; opt,opto= sight,表示”视力”
+
+optic a 眼的,视力的(opt ic)
+
+optics n 光学(opt视力 ics学科)
+
+optometrist n 验光师(opto metr测量 ist)
+
+optometer n 视力计(opto meter测量[计])
+
+synopsis n 概要(syn共 ops[=opt 看] is=共同看=放在一起看=概要)
 
 "Cyclops 希神话独眼巨人
 
@@ -7572,6 +7636,18 @@ opium /1/n.鸦片
 
 opiumism /1/n.鸦片中毒，鸦片瘾
 
+## par=get ready,表示”准备”
+
+parade n 游行 ( 原意指部队训练场,引申为排队游行,部队训练,准备打仗)
+
+prepare v 准备(pre预先 pare准备=预先准备好)
+
+repair v 修理(re再 pair=重新准备好=修理)
+
+irreparable a 不能恢复、无法弥补
+
+apparatus n 仪器,设备(ap par atus表名词=准备好用的东西=设备)
+
 ## par=equal,表示”平等”
 
 parity n 同等,同样,平等(par+ity) 
@@ -7603,6 +7679,26 @@ Para"lympics n.残奥会
 "parallel a.ad.平行
 
 pa"rameter n.参数
+
+## pass= felling, 表示”感情”
+
+passion n 激情(pass ion)
+
+passive a 消极的,被动的(pass ive=感情用事=被动的)
+
+impassive a 冷漠的(im无 pass ive=无感情的)
+
+impassioned a 充满激情的(im进入 passion激情 ed=进入激情)
+
+compassion n 同情(com共同 pass ion=共同感情=同情)
+
+patience n 耐心,忍受(pat[=pass] ience=感情,有感情就有耐心=耐心)
+
+impatient a 不耐烦的(im patient)
+
+compatible a 和谐的,相容的(com共同 pat ible=有共同感情的=相容的)
+
+compatibility n 和谐共处(com pat ibility)
 
 ## path=feeling, suffering, illness,表示”感情,痛苦,病”
 
@@ -8126,7 +8222,7 @@ explicable a 可以解释的(ex 出+plic+able)
 
 explicit a 明白的,直爽的(ex 出+plic+it=[说话]不重叠的=直截了当的)
 
-implicate v 牵连,含蓄表达(im 进+plic+ate=[说话]进入重叠= 含蓄表达)
+implicate /1/ v 牵连(im 进+plic+ate=进入重叠)
 
 implication n 连累,含蓄(implicate+ion)
 
@@ -8636,13 +8732,15 @@ probation n 试验,检定(prob+ation=测试=试验)
 
 probative a 试验的(prob+ative)
 
-reprobate v 责备 n. 恶棍(re 反+prob+ate=反证[别人不对]= 责备)
+reprobate  a/n 堕落的、作恶多端的(re 反+prob+ate=反证[别人不对]= 责备)v 责备
 
 reprobation n 拒绝,谴责(reprobate+ion)
 
 probity n 正直,刚正(prob+ity=[人]经得起证明和试验=正直) 
 
 probe v 探索,刺探
+
+prove (中介自O.Fr.)
 
 approve v 赞成,承认(ap+prove=证明可行=赞成) 
 
@@ -8725,6 +8823,16 @@ purgative a 清洗的 n. 泻药(purg+ative)
 expurgate v 订正,删除(ex 出+purg+ate=清洗出去=删除)
 
 unpurged a 未净化的(un 没有+purg+ed=没有清洗的)
+
+## purse 钱包
+
+purse
+
+reimburse vt 补偿
+
+reimbursement n 赔偿、退款、报销
+
+disburse vt 支付
 
 ## put =think, 表示”认为,思考”
 
@@ -10148,7 +10256,7 @@ supersede 淘汰,取代(super+sede 坐=坐上去=淘汰(以前的东西))
 
 superstition 迷信(super+stit 站+ion=站在人(理智)之上的东西=迷信
 
-# sur-表示”超过,在上面”
+## sur-表示”超过,在上面”
 
 surface表面(sur face脸面)
 
@@ -11607,6 +11715,14 @@ invocatory a 祈求的(in+voc+atory)
 provoke v 触怒,煽动(pro 前面+vok+e=到[别人]面前喊=激怒)
 
 provocative a 激怒人的,激发人的(pro+voe+ative)
+
+## la. volare prp. volans pp. volatum 飞，进一步词源不明
+
+volation n 飞
+
+volant a 会飞的，迅速的
+
+volatile a 挥发、易变
 
 ## 从vulner"伤口，受伤"[Latin]
 
