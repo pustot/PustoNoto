@@ -11,7 +11,7 @@
 - 部分用「"」「,」标了主重音和次重音，为了方便检索正在逐步改到用 /x/ 表示第一个音节重音，需要特别注发音的用/abc/ 注明发音是abc
 - 词源信息主要根据维基词典整理，并参考欧路上的《英语词根词源记忆词典》部分内容和《摩西英语》部分内容。
 
-20191126 117lines, 扩展自 compassion, granulate, volatile, chaperon, eliminate, synopsis, irreparable, reimbursement, enormity
+20191126+ 扩展自 aberration, abet, abstemious, detriment, allusion, incantation, accession, ad hoc, adroit, dexterous, adulate, entreaty, aghast, 191 lines
 
 # A
 
@@ -213,6 +213,8 @@ contumacy n 抗命,不服从(contum 反叛+acy)
 
 ## ad-加在在单词或词根前,表示”做…,加强…”
 
+ad hoc a/ad 仅为某一目的特别的，非正式、非事先计划、变通、临时的（la. "for this"）
+
 adapt 适应(ad+apt 能力=有适应能力)
 
 adept 熟练的(ad+ept 能力=有做事能力=熟练的)
@@ -235,7 +237,7 @@ adjust 调整(ad+just+正确=弄正确=调整)
 
 adventure 冒险(ad+venture 冒险)
 
-admonish 告诫,警告(ad+mon 警告+ish=一再警告)
+admonish 告诫,警告，反对、批评(ad+mon 警告+ish=一再警告)
 
 advent 来临,来到(ad+vent 来=来到
 
@@ -941,6 +943,8 @@ au"tonomous a.自治的
 
 ## a孤立词
 
+adulate, adulation 谄媚、奉承、吹捧（la. ad + *ulos(<- PIE *ul-, whence sa. वाल(vā́la) )，即摇尾如狗。）（wheedle "哄以得" 构词逻辑亦然。）
+
 ape n猿；->v模仿
 
 austere a 严肃朴素(el. αὔω 'to singe'，使口燥于酒果也) -> austerity, austerely
@@ -995,7 +999,7 @@ disbar /2/v.取消律师资格
 
 batter v 连续猛打(bat+ter 常表示连续动作,如 stutter 口吃) 
 
-abate v 减少,减轻(a 不bat+e=不再打击=减轻[痛苦]等) 
+abate v 减少,减轻(ab "away" + battuere “to beat down”) 
 
 debate v 辩论,讨论(de 加强+dat+e=加强打击=反驳,辩论) 
 
@@ -1052,6 +1056,28 @@ beneficent 仁慈的,善行的(bene+fic 做+ent=做好事的)
 "buxom a.体态丰满的
 
 bog n.沼泽
+
+## PIE *bʰeyd- 劈开
+
+bait n 诱饵
+
+abet vt 唆使、怂恿
+
+bit n 一点、少量
+
+bite v 咬
+
+bitter a 苦
+
+fissure n/v 裂
+
+fissile a 易裂
+
+fission n 裂变、分裂
+
+fester v 化脓、恶化
+
+fistula n 瘘管
 
 ## brace=two arms ,表示”两臂”
 
@@ -1120,17 +1146,39 @@ campaign n 战役(camp+aign 名词后缀=营地=战役)n.战役，运动，游�
 
 ,cham"pagne n.香槟酒{来自香槟省，义open country空旷土地、田野}
 
-## cant,cent=sing,song,表示”唱,歌”
+## cant,cent=sing,song,表示”唱,歌”; la. canere prp. canens pp. cantum; la. cantare prp. cantans pp. cantatus;
+
+canorous a 音调悦耳
+
+vaticinate v 预言
+
+Vatican (Vaticanus) （预言、先知->）
+
+ratiocination n 推论、推理（ratio "ration"）
+
+accent 口音,重音 (to + sing)
+
+accentuate 强调,重读
+
+incentive 激励,刺激力量(in 进入+cent 唱+ive=把(力量)唱进去=激励)
 
 cant 术语,暗语(唱出来的话=暗语)
 
 recant 撤消,
 
-accent 口音,重音
+incant v 吟唱、念咒
 
-accentuate 强调,重读
+incantation n 咒语
 
-incentive 激励,刺激力量(in 进入+cent 唱+ive=把(力量)唱进去=激励)
+canto n 长诗中的篇章
+
+cantor n （教堂）领唱；康托尔
+
+cantata n 清唱剧、康塔塔（it. pp., 区别于 sonata）
+
+chant n/v 有节奏的唱、叫
+
+enchant v 迷住
 
 ## cap, capt, cept,ceive, cip, cup=take, hold, seize, 表示” 拿,抓,握住”; 从cap,cip"抓住，取得，包含"[Latin]
 
@@ -1386,6 +1434,8 @@ access 接近,入口
 
 accessible 能接近的,可进去的
 
+accession n 就职，遵守
+
 inaccessible 难以接近的
 
 succeed 成功,继续(suc 随后+ceed=随后跟上=继续=继续做= 成功)
@@ -1542,7 +1592,7 @@ clamor 喧哗,吵闹(clam+or 表名词)
 
 clamorous 吵闹的
 
-acclaim 欢呼,喝采(ac 一再+claim=一再喊=欢呼)
+acclaim  vt 欢呼、喝采，称赞(ac 一再+claim=一再喊=欢呼)
 
 acclamation 喝采,称赞
 
@@ -2340,6 +2390,16 @@ feminism[femin 女,-ism 主义]男女平等主义,[-ism 表示行为]争取女�
 
 femme 妇女,妻子
 
+## dexter = right,表示”右边”
+
+dexterous a 灵巧的,敏捷的(右手比左手灵巧)
+
+dexterity n 敏捷(dexter ity)
+
+ambidextrous a 非常灵活的(amdi两个 dextrous=两只手都和右手一样灵巧)
+
+dextral a 右边的,用右手的(dextr al)
+
 ## dif-和辅音重复表示”不,否定,分开”
 
 differ 不同(dif+fer 带来=带来不同=不同)
@@ -2898,6 +2958,26 @@ e"quation n.等式
 
 e"querry n.掌马官
 
+## err=wander,mistake,表示”漫游,犯错误”
+
+err v 犯错
+
+error n 错误(err or)
+
+errant a 漫游的,错误的(err ant)
+
+erratum n 正误表(err atum表名词=[改正]错误的东西)=正误表)
+
+erroneous a 错误的(err oneous…的=错误的)
+
+erratic a 古怪的n. 怪人(err atic=[被人认为]错误的=古怪的)
+
+aberrant a 越轨的,异常的(ab离开 errant错误的=离开[正确]走向错误=越轨的)
+
+aberration n 越轨、失常、异常(aberrant,后缀ant换成ation)”
+
+inerrancy n 无错误(in无 err ancy=无错误)
+
 ## -ery
 
 (1)表名词,”场所,地点” 
@@ -3452,7 +3532,7 @@ definition n 定义,(轮廓)清晰(define+ition)
 
 definitive a 决定性的(define+itive)
 
-affinity n 亲戚,密切关系(af+fin 范围+ity=一再能进[别人]范围=亲密)
+affinity n 亲戚,密切关系，吸引力(af+fin 范围+ity=一再能进[别人]范围=亲密)
 
 fine a.优，精致n.v.罚款v.净化细化
 
@@ -4236,6 +4316,22 @@ exhale v 呼气(ex 出 +hal+e)
 
 halitosis n 口臭(halit[=hal]+osis 表示病=呼吸病=口臭
 
+## hap=chance,表示”机会,运气”
+
+perhaps ad. 也许,可能(per全部 haps=全是机会[决定]=也许)
+
+happen v 发生(hap pen表动词=机会来了=发生)
+
+happy a 幸运的,幸福的(hap py=有运气的=幸福的)
+
+happihess n 幸福(happy ness)
+
+mishap /1/ n 不幸,灾祸(mis 坏 hap=坏运气=不幸)
+
+hapless a 运气不好的(hap less无=无运气的)
+
+haphazard a 偶然的,无计划的(hap hazard游戏=运气 游戏=偶然的)
+
 ## PIE *h₂eǵ- "to drive"
 
 podagra n 足痛风（πούς (“foot”) +‎ ἄγρᾱ (“hunting”)）
@@ -4392,7 +4488,7 @@ exaggerate v (ad(“to, toward”)+‎gerere(“to carry”),添油加醋太多h
 
 ambassador n 大使 (la. ambactus 借高卢语但构词逻辑同 la. ambi + agere)
 
-## her,hes=stick,表示”粘附”; 从herit,hered"继承人"[Latin]
+## her,hes=stick,表示”粘附”; 从herit,hered"继承人"[Latin]; la. haerēre prp. haerens 粘附、紧贴; la. haesitāre prp. haesitans pp. haesitatus (haereō + -titō (frequentative)) ; Gmc. cf. Gothic 𐌿𐍃𐌲𐌰𐌹𐍃𐌾𐌰𐌽 (usgaisjan, “吓唬”, 字面义 “（用恐惧）定住”)
 
 adhere v 粘着,依附(ad 增加+here=粘上) 
 
@@ -4410,7 +4506,7 @@ coherent a 连贯的, 有条理的(cohere+ent)
 
 cohesion n “结合,凝聚力(co+hes+ion,cohere 的名词)” 
 
-hesitate v 踌躇,犹豫(hest+itate 粘粘糊糊=犹豫) 
+hesitate v 踌躇,犹豫(hest+itate 粘粘糊糊=犹豫)(la. haesitāre) 
 
 hesitation n 踌躇,犹豫(hesitate+ion)
 
@@ -4429,6 +4525,12 @@ heir (h无音)n.继承人，子嗣
 "heiress (h无音)n.女继承人
 
 "heritage n.遗产(“世界遗产”)，传统
+
+*以下同源于 Gothic 𐌿𐍃𐌲𐌰𐌹𐍃𐌾𐌰𐌽 (usgaisjan, “吓唬”, 字面义 “（用恐惧）定住”)*
+
+gaze v/n 凝视
+
+aghast a 惊骇的（a- (本义out 同 de. er-) +）(be / stand aghast + at)
 
 ## hetero-表示”异类,异种”
 
@@ -6264,7 +6366,11 @@ LUX 力士香皂
 
 ludic a 顽皮的,开玩笑的(lud+ic)
 
-allude v 提及,暗指(al 不断+lude=不断演戏=不直截了当=暗指)
+allude v 提及,暗指(ad- "to" + ludere"play" -> 开玩笑、嘲笑 -> 暗指)
+
+allusion n 典故，暗指、影射、间接提及
+
+allusive a 暗指的、引经据典的
 
 delude v 欺骗(de 坏+lude=玩坏的[手段]=欺骗) 
 
@@ -6864,7 +6970,7 @@ modification n 修正(modify+ic+ation)
 
 modulate v 调整,调节(mod+ulate=对模式进行调整=调整) 
 
-accommodate v 与…符合,容纳(ac+com 共同+mod+ate=方式相同=与…符合)v.容纳，调解
+accommodate v 与…符合,容纳,调解，适应(ac+com 共同+mod+ate=方式相同=与…符合)
 
 commodious v 宽敞的,便利的(com 共同+mod 模式,范围+ious=大家都有范围=宽敞的)
 
@@ -9054,35 +9160,41 @@ erection n 直立,竖立(erect+ion)
 
 ## 从regi,reg,rec,rex"指导，统治，使直"[Latin]
 
-realm n.王国，领域，范围，带、圈
-
-cor"rect a.正确v.更正
-
-"rec,tangle n.矩形
-
-"rectum n.直肠
-
 reign n.统治权，范围，在位期
 
-"royal a.皇室的，王的
+royal /1/ a.皇室的，王的
 
-re"gime n.政权，政体，制度
+regime /2/ n.政权，政体，制度
 
-"regal a.王的，富丽堂皇的
+regal /1/ a.王的，富丽堂皇的
 
 T. rex n.霸王龙
 
-"regulate v.调整，管理，控制
+regulate /1/ v.调整，管理，控制
 
-"ruler n.统治者，管理者，尺子
+ruler /1/ n.统治者，管理者，尺子
 
-"viceroy n.总督
+viceroy /1/ n.总督
 
-"region n.地区，地带
+region /1/ n.地区，地带
 
-"regent n.摄政者a.摄政的
+regent /1/ n.摄政者a.摄政的
 
-"regnant a.统治的，执政的，占支配地位的
+regnant /1/ a.统治的，执政的，占支配地位的
+
+realm n.王国，领域，范围，带、圈
+
+correct /2/ a.正确v.更正
+
+rectangle /1,2/ n.矩形
+
+rectum /1/ n.直肠
+
+direct a/v (dis"apart" + regere "to guide" -> set straight -> pp.)
+
+adroit /2/ a 熟练、灵巧、精明（la. ad + directus -> fr. à droit "according to right" -> rightly -> 灵巧）
+
+maladroit 笨拙的(mal+adroit 灵巧的)
 
 ## rid, ris= laugh,表示”笑”
 
@@ -9667,6 +9779,42 @@ parasol n 遮阳伞(para 旁边+sol+太阳旁边=不晒太阳=遮阳伞)
 solarium n 日光浴室(solar+ium 地方)
 
 insolate v 曝晒(in 进入+sol+ate=放在太阳之中=曝晒) 
+
+## solv,solu, solut=loosen,表示”松开”
+
+solve v 解释,解决
+
+soluble a 可溶的(solu [a]ble
+
+solvable a 可以解决的(solv able)
+
+solvent a 有溶解力的,有还债力的(solv ent)
+
+solvency n 溶解力,还债能力(solv ency)
+
+solution n 溶解,解决(solut ion)
+
+absolute a 绝对的、无限制的、不受限制(ab不 solute=决不松开=绝对的)
+
+absolutism n 专制政治(absolute绝对的 ism主义)
+
+absolution n 免除,赦免(ab离开 solut ion=松开后离开=免除)
+
+absolve v 免罪(ab solve=松开=免罪)
+
+dissolute a 放荡的,荒淫的(dis分开 solute=放松不放=放荡的)
+
+dissolve v 溶解,分解(dis分开 solve=松开分散=溶解)
+
+dissolution n 溶解,毁灭(dis solut ion)
+
+insolvent a 无力偿还的(in不 solvent有偿还能力的)
+
+resolve v 解决(困难)(re再 solve=再松开=解决)
+
+resolute a 坚决的(re不 solute=不松开=坚决的)
+
+resolution n 决心,溶解(resolute 的名词)
 
 ## PIE *selh₂- “mercy, comfort”
 
@@ -10474,6 +10622,24 @@ mosque n.清真寺
 
 ca"thedral n.天主教堂
 
+## PIE *temH- 暗
+
+*de. Dämmerung 黄昏、破晓*
+
+*de. finster a 昏黑、阴森、可疑*
+
+temerity /2/ n 鲁莽、冒失（盲目->鲁莽）
+
+temerarious
+
+tenebrous a 黑暗、阴暗
+
+tenebrism n 暗色调主义
+
+tenebrescence n 变色荧光
+
+abstemious /əb'stiːmɪəs/ a （饮食）有节制的（ab, abs (“from”) + 烈饮（颜色暗故））
+
 ## temn,tempt=scorn,表示”藐视”
 
 contemn v 藐视,轻视(con 共同+temn=大家一起看不起=藐视)
@@ -10844,6 +11010,20 @@ tract n 一片土地,地带(拉长的一片地)
 
 tractable a 易管教的(tract+adle=能够拉[回来]=易管教的)
 
+## treat=handle,表示”处理”;  O.Fr. traiter, from la. trāctare (“to pull", "to manage”), from the pp. stem of trahere (“to draw", "to pull”).
+
+treatment n 待遇,治疗(treat ment)
+
+treaty n 条约,约定(treat y=作出处理的文件=条约)
+
+maltreat v 虐待(mal坏 treat)
+
+retreat n 退却,隐退(re回 treat=处理回去=退回去=隐退)
+
+entreat v 恳求,请求(en使 treat=使……得到处理=请求)
+
+entreaty n 恳求,请求
+
 ## 从tri"三"
 
 "troika n.三驾马车，三人组{自俄语}
@@ -10855,6 +11035,16 @@ tri"athlon n.铁人三项赛
 "triangle n.三角形
 
 "trio n.三重奏，三人一组，三件套
+
+## trit=rud,表示”磨擦”
+
+attriton n 磨擦,消耗(at trust=给予相信=委托)
+
+detriment n 损害,不利(de坏 tri[=trit] ment=磨坏了=损害)
+
+trite a 陈腐的(像被磨破了一样)
+
+contrite a 悔恨的(con共同 trite=身心全部磨擦=悔恨交加的)
 
 ## 从tors,tort,torqu"弯曲有曲线"[Latin]
 
@@ -11210,7 +11400,7 @@ usual a 通常的,常用的
 
 unusual a 异常的(un 不+usual 通常的) 
 
-abuse v 滥用,谩骂(ab 坏+use=不好用=滥用) 
+abuse v 滥用,谩骂 n 恶习(ab 坏+use=不好用=滥用) 
 
 abusive a 谩骂的(abuse+ive)
 
