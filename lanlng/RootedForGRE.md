@@ -11,7 +11,7 @@
 - 部分用「"」「,」标了主重音和次重音，为了方便检索正在逐步改到用 /x/ 表示第一个音节重音，需要特别注发音的用/abc/ 注明发音是abc
 - 词源信息主要根据维基词典整理，并参考欧路上的《英语词根词源记忆词典》部分内容和《摩西英语》部分内容。
 
-20191126+ 扩展自 aberration, abet, abstemious, detriment, allusion, incantation, accession, ad hoc, adroit, dexterous, adulate, entreaty, aghast, 191 lines
+20191127&28 扩展自 legerdemain, vie, flagrant, effiminate, alloy, tranquil, legitimate, remainder, odium, nihilism, incident, 171 lines
 
 # A
 
@@ -1115,6 +1115,28 @@ bogus a 伪造的
 # C
 
 
+
+## cad, cas, cid=fall,表示”落下,降临”
+
+casual偶然的(cas ual=落下的=不是安排好的=偶然的)
+
+casualty事故,灾难(casual ty=[突然]落下的事=事故)
+
+occasion发生,时机(oc使 cas落下 ion=使…落下=事情发生)
+
+accidental偶然的(accident事故 al)
+
+coincide巧合,同时发生
+
+coincidence巧合
+
+incident n 偶然事件 a 自然联系(to, upon)
+
+occident西方(oc使 cid落 ent=使(太阳)落下=西方)
+
+decay衰退,腐败(de向下 cay=落下=向下掉=衰退)
+
+decadent颓废的
 
 ## 从calc,calx"鹅卵石，践踏，石灰"[Latin]
 
@@ -2390,6 +2412,8 @@ feminism[femin 女,-ism 主义]男女平等主义,[-ism 表示行为]争取女�
 
 femme 妇女,妻子
 
+effeminate a 柔弱的(ef+femin 女人)
+
 ## dexter = right,表示”右边”
 
 dexterous a 灵巧的,敏捷的(右手比左手灵巧)
@@ -3539,6 +3563,34 @@ fine a.优，精致n.v.罚款v.净化细化
 refine /2/v.精炼
 
 refinery /2/n.提炼厂
+
+## flam,flagr=blaze,表示”火焰”
+
+flame n 火焰
+
+flaming a 燃烧的,热烈的(flam ing)
+
+flamingo n 火烈鸟(flam ing o表名词=像火一样的鸟=火[烈]鸟)
+
+inflame v燃烧,发怒,红肿(in进入 flame=进入火=燃烧,发怒)
+
+inflammable a 易燃的,易激动的(inflame able=进入火的)
+
+inflammatory a煽动性的(inflame atory=让别人发怒=煽动性的)
+
+flammable a 易燃的(flame able)
+
+nonflammable a不易燃烧的(non不 flammable=不易燃烧的)
+
+flagrant a 罪恶昭彰的,燃烧的(flagr ant=燃烧的=罪恶像火一样烧=罪恶昭彰的)
+
+flagrancy n 罪大恶极(flagr ancy)
+
+conflagrant a 大火的(con全部 flagr ant=全部是火=大火)
+
+conflagration n 大火灾,战争爆发(con flagr ation)
+
+deflagrate v 使迅速燃烧(de加强 flagr火 ate=加强火焰)
 
 ## flat=blow,表示”吹”
 
@@ -6122,6 +6174,8 @@ legislation n 立 法 (legislate+ion)
 
 legislature n 立法机关(legislate+ure)
 
+legitimate a 合法，正当、合理
+
 illegitimate a 不合法的,私生的(il 不+legitim[=legis 合法]+ate=不合法的)
 
 illegitimacy n 非法,不正当(il+legitim+acy)
@@ -6150,6 +6204,34 @@ colorless a 无色的(color 颜色)
 
 homeless a 无家可归的(home 家)
 
+## lev,live=raise,lighten,表示”提高,举起,变轻”
+
+elevate v 举起,升高(e出 lev ate=举出=升高)
+
+elevator n 电梯,升降机(elevate or)
+
+lever n 杠杆(lev er=举起[重东西]的东西=杠杆)
+
+leverage n 杠杆作用(lever age状态,作用)
+
+levitate v 使升在空中(lev itate=使东西举起=升到空中)
+
+levity n 轻浮(lev ity )
+
+levy v 征税(lev y=提高[收入]=征税)
+
+alleviate v 减轻,缓和(al一再 levi ate=不断轻=减轻)
+
+relevant a 中肯的,有关的(re再=lev ant=再举起=有关的)
+
+irrelevant a 不相干的,不切题的(ir不 relevant)
+
+relieve v 减轻,解除(re再 lieve=再轻=减轻)
+
+relief n 减轻,轻松(re lief[=live])
+
+legerdemain /ˌlɛdʒ.ə.dɨˈmeɪn/ n 花招、障眼法、诡辩（fr. obs. léger de main 字面"light of hand"）
+
 ## lic=allure,表示”引诱”
 
 delicate a 精致的,优美的(de 一再+lic+ate=一再引诱人的=精美的)
@@ -6162,15 +6244,19 @@ elicit v 引出,得出(e 出+lic+it 动词后缀,如,solicit 恳请)
 
 ## 从lig"捆，绑"[Latin]
 
+ligament 韧带,纽带
+
+ligature 绷带
+
 league n.联盟v.结盟
 
-re"liable a.可靠
+reliable /2/a.可靠
 
-"alloy n.合金
+liaison /2ai/n.联络，私通
 
-li"aison n.联络，私通
+ally /1/n.同盟
 
-"ally n.同盟
+alloy /1/ n.合金
 
 ## limin,lim=threshold,表示”门槛,限制”
 
@@ -6504,6 +6590,20 @@ magical /1/ n.有魔力，迷人，神奇
 
 magician /2/ n.魔术师
 
+## man,main=stay,表示”逗留”
+
+permanent a 持久的,不变的 (per始终 man ent=始终逗留=持久的)
+
+permanence n 永恒,持久
+
+immanent a 包含的,内在的(im内 man ent=留在内部=内在的)
+
+remain v 剩余,遗留(re后来 main=后来留下的=剩余)
+
+remainder n 剩余物(remain der表示名词,如:attainder被剥夺公民权利及财产)
+
+maintain v 维持(main tain拿=拿住,留住=维持)
+
 ## man, maun= hand,表示”手”; man,manda"手"[Latin]
 
 "mandate n.命令，委托书
@@ -6531,6 +6631,8 @@ manufacture v/n 制造,加工(manu+ fact 做+ure=用手做=制造)
 manumit v 解放,释放(manu+mit 放=把手放了=释放) 
 
 maintain v 保持,维持(main[=man 手]+tain 拿=用手拿住=保持
+
+legerdemain /ˌlɛdʒ.ə.dɨˈmeɪn/ n 花招、障眼法、诡辩（fr. obs. léger de main 字面"light of hand"）
 
 ## mark= sign,表示”记号,符号”
 
@@ -7278,6 +7380,18 @@ neu"rophthy n.神经病变
 
 neu"rosis n.神经官能症{-sis异常，疾病}
 
+## nihil=nothing,表示”无,不存在”
+
+nil n 零、无
+
+nihil n 虚无,毫无价值之物
+
+annihilate v 消灭(an使 nihil ate=使[东西]不存在=消灭)
+
+annihiation n 消灭,歼灭
+
+nihilism n 虚无主义(nihil ism主义)
+
 ## noc, nox= hurt, poison, 表 示 ” 伤 害 , 毒 ” 
 
 innocent a 无害的,天真的(in 无+noc+ent=无害的) 
@@ -7485,6 +7599,12 @@ ode n.颂，赋，诗歌
 "melody n.旋律
 
 "odeum n.音乐厅
+
+## odi=hate (恨)
+
+odium 憎恨
+
+odious 可憎的
 
 ## -on 表名词,指人,物和一些物理学上的名词
 
@@ -9029,6 +9149,10 @@ acquiesce v 默许(ac 给予+qui+esce=给予[对方]静的回答=默许)
 acquiescence n 默认,默许(ac+qui+escence)
 
 acquiescent /3es/
+
+tranquil a 平静、安静 (trans + root of la. quies)
+
+tranquility
 
 ## 从quint"five,fifth"[Latin]
 
@@ -11782,21 +11906,63 @@ vi"cinity n.附近，近郊
 
 "venue n.会场，地点
 
-## 从vid,vis,vu"看到，知道"[Latin]
+## 从vid,vis,vu"看到，知道"[Latin]; vis,vid=see表示”看”
 
-wizard /1/ n.巫师，术士，奇才
+visidle a 可见的
 
-advise /2/ v.建议，劝告
+vison n 视力,眼界
 
-evidence /1/ n.证据，证明
+visonary a 幻想的(vision ary)
+
+visual a 视力的
+
+visualize v 使具体化(visual视力 ize=使[大家]看到=具体化)
+
+advise v 忠告,劝告(ad使 vis e使[别人]看到=劝告[别人])
+
+advisory a 劝告的
+
+previse v 先见,预言(pre预先 vis e=预先看=先见)
 
 prevision n 预知、先见
 
 previsional a 有先见之明
 
-provide /2/ v.提供
+revise v 修正,改订(re再 vis e=再看一遍=修正)
 
-superviser /1/ n.监督人
+revision n 修正,校订本
+
+supervise v 监督(super在上面 vis e=在上面看=监督)
+
+supervisor /1/ n.监督人
+
+evident a 明显的(e出 vid ent=看出来了=明显的)
+
+evidence n 证据,证人(e vid ence=[明显的证据])
+
+invidious a 招嫉妒的,有害的(in 不 vid jous=看上去不好的=有害的)
+
+provide v 预备,供给、提供(pro提前 vid e=提前看好=预备,提供)
+
+providence n 粮食,条款(预备或提供的东西=粮食等)
+
+provisional a 临时的,备用的(准备好粮食备用)
+
+provident a 深谋远虑的(pro向前 vid ent=向前看的=有远见的)
+
+providence n 准备,深谋远虑
+
+improvident a 浪费的(im不 provident=没有远见的=有钱就花=浪费的)
+
+envy v 妒忌(en vy[=vid]看到[别人]=妒忌)（来自O.Fr.）
+
+envious a 妒忌的
+
+vie v 竞争（来自envy）
+
+vying a 竞争的
+
+wizard /1/ n.巫师，术士，奇才
 
 video /1/ n.视频
 
@@ -11862,7 +12028,7 @@ vigilant a 警惕的(vigil[=vig]+ant=有生命的=警惕的)
 
 vigilance n 警惕,警戒(vigil+ance)
 
-## voc, vok=call voice,表示”叫喊,声音”
+## voc, vok=call voice,表示”叫喊,声音”; PIE *wekʷ- 讲、出声; la. vox 声
 
 vocal a 声音的
 
@@ -11905,6 +12071,10 @@ invocatory a 祈求的(in+voc+atory)
 provoke v 触怒,煽动(pro 前面+vok+e=到[别人]面前喊=激怒)
 
 provocative a 激怒人的,激发人的(pro+voe+ative)
+
+invite (可能直接来自  *wekʷ 或来自 invocāre (invoke))
+
+vie, vying 竞争（的）(一说 O.Fr. envier <- la. invitare, 一说来自invidere)
 
 ## la. volare prp. volans pp. volatum 飞，进一步词源不明
 
