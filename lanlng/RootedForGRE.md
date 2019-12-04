@@ -11,7 +11,7 @@
 - 部分用「"」「,」标了主重音和次重音，为了方便检索正在逐步改到用 /x/ 表示第一个音节重音，需要特别注发音的用/abc/ 注明发音是abc
 - 词源信息主要根据维基词典整理，并参考欧路上的《英语词根词源记忆词典》部分内容和《摩西英语》部分内容。
 
-20191127&28 扩展自 legerdemain, vie, flagrant, effiminate, alloy, tranquil, legitimate, remainder, odium, nihilism, incident, 171 lines
+20191129 扩展自 truce, recreant, prey, antidote, aplomb, germane, banal, belligerent, 123lines
 
 # A
 
@@ -955,6 +955,16 @@ austere a 严肃朴素(el. αὔω 'to singe'，使口燥于酒果也) -> auster
 
 
 
+## ban=prohibit,表示”禁止” 
+
+ban n 禁止,禁令
+
+banal /bə'nɑːl/ a 平庸的,陈腐的(ban+al=被禁止的=陈腐的 )
+
+banish v 流放,驱逐出境(ban+ish表动词=禁止入境=驱逐)
+
+abandon v 抛弃,放弃(a不+ban+don给予=不禁止给出去=放弃)
+
 ## 从bar,baro,bary"重量，压力"[Greek]
 
 baryta /2/ n.氧化钡，重土{舍勒加热含硫酸钡之石得到}
@@ -1033,6 +1043,48 @@ a"nabasis n.远征，进军{ana-"向前，向上"}
 
 (反)ca"tabasis n.军事撤退，临床缓解期
 
+## be-
+
+① 构成动词,表示”使…成为”
+
+beguile欺骗(be+guile欺骗)
+
+belie掩盖(be+lie说慌)
+
+bequeath遗留给,传下(be+queath要求=要求给某人=遗留给)
+
+besiege围攻(be+siege包围=包围起来)
+
+beware注意(be+ware注意)
+
+befriend友好对待(be+friend朋友)
+
+befool欺骗(be+fool笨蛋=使人成笨蛋=欺骗别人)
+
+befall降临,发生(be+fall掉下=掉下来=发生)
+
+belittle小看(be+little小=小看人)
+
+bewilder使…迷惑(be+wilder迷惑)
+
+② 构成一些介词 
+
+before在前面(be+fore前面)
+
+beneath在下面(be+neath下面)
+
+## bell,bel=war, fight,表示”战争,打斗”
+
+rebellion反叛,反抗(re反+bell打+ion=反打=反叛)
+
+rebel反叛 
+
+rebellious反抗的,难控制的
+
+belligerent交战的,准备打架的(belli+ger带来=ent=带来战争=交战的)
+
+bellicism好战性,好战倾向 
+
 ## bene- 表示”善,好”
 
 benevolent 好意的(bene+vol 意愿+ent=好意的)
@@ -1046,6 +1098,8 @@ beneficial
 benediction 祝福(bene+dict 说+ion=说好话)
 
 beneficent 仁慈的,善行的(bene+fic 做+ent=做好事的)
+
+benign a 良性、仁慈（bene "well" (see bene-) + gignere "to bear, beget," from genus "birth"）
 
 ## 从bheug"to bend"[IE]
 
@@ -1096,6 +1150,14 @@ upbraid v 叱骂、谴责（up向上）
 bridle n 马勒 v 抑制（感情等）
 
 embroidery n 刺绣（实非来自braid，只是受影响）（em-，使扭）
+
+## brev, bridg=short,表示”短,缩短”
+
+brevity短暂,简洁(brev+ity状态=短的状态=短暂,简短)
+
+brief简短的
+
+briefness短暂,简洁
 
 ## bu=ox,表示”牛”
 
@@ -1908,7 +1970,7 @@ concrete a 具体的n.混凝土(con 共同+crete[=cre 制造]=共同制造=混�
 
 concretion n 凝结;结石(concrete+ion
 
-## creed,cred=believe,trust,表示”相信,信任”
+## creed,cred=believe,trust,表示”相信,信任”, la. credere
 
 creed n 信条,纲领(creed 相信=信条) 
 
@@ -1933,6 +1995,8 @@ credulous a 轻信的(cred+ulous 多…的=相信太多=轻信的)
 incredulous a 不轻信的(in 不+credulous 轻信的=不轻信的)
 
 incredulity a “不轻信(incredulous 去掉 ous,加上ity)”
+
+recreant a/n 不忠、怯懦（者）（O.Fr. re+croire, "take back one's pledge, yield one's cause"） 
 
 ## 从creta"白垩，白粉笔"[Latin]
 
@@ -2126,7 +2190,39 @@ ca"nary n.金丝雀{加那利群岛以狗多得名，金丝雀因岛得名}
 
 
 
-## 从dat"给予，授予，提供"[Latin]
+## 从dat"给予，授予，提供"[Latin]; don,dit=give,表示”给予”
+
+donate v 捐赠(don+ate=给出去)
+
+donation /2/ n.捐赠
+
+donor n 捐献者(don+or=给的人)
+
+condone v 原谅,宽恕(con共词+done=共同给出不加追究=原谅)
+
+pardon v 原谅,宽恕(par平等+don=给予平等=原谅)
+
+antidote n 解毒药(anti反+dote[=don]=给出反[毒]=解毒药,另一种说法dote=dote药剂
+
+anecdote n 短故事,轶事(anec未出版+dote_说出来的未出版的故事)
+
+condition n 条件(con共同+dit+ion=共同给出的[条件])
+
+tradition /2/ n.传统，惯例{tradere,  trans-"over",dare,代代相传也}
+
+traitor /1/ n.叛徒，卖国者{traditor, from tradere"deliver, surrender"}
+
+edit v 编辑(e 出+dit=给出好文章=编辑)
+
+edition /2/ n.版本
+
+editorial a 编辑的n.社论(editor 编辑+ial)
+
+rendition n 给予,移交(rend 给+dit给+ion_给出_=给予参考,render给予)
+
+extradite v 引渡(逃犯等)( extra向外+dite向外给=引渡)
+
+extradition n 引渡(extradite+ion)
 
 dowry /1/ n.嫁妆，天资
 
@@ -2134,21 +2230,13 @@ condone /2/ v.宽恕
 
 data /1/ n.数据，资料
 
-donation /2/ n.捐赠
-
 dosage /1/ n.剂量，服法
-
-edition /2/ n.版本
 
 endow /2/ v.捐赠，赋予(天资)
 
 render /1/ v.提供，表现，回报，翻译{reddere, re+dare(dat)}
 
 surrender /2/ n.vt.投降，放弃，让出{sur-"over"}
-
-tradition /2/ n.传统，惯例{tradere,  trans-"over",dare,代代相传也}
-
-traitor /1/ n.叛徒，卖国者{traditor, from tradere"deliver, surrender"}
 
 ## 母-matr(i); mater; metro
 
@@ -2204,11 +2292,19 @@ homicide /1/n.杀人
 
 humanity /2/n.人性，人道
 
-## 从deru"稳固，持久"[IE]
+## 从deru"稳固，持久"[IE]; tru=true,表示”相信,真实”
 
 truth n.真理，真相
 
+distrust v 不信,猜疑(dis不 trust)
+
+entrust v 委托,相信(en给予 trust=给予相信=委托)
+
 trust v.n.信任
+
+truce n 休战,停战(相信对方而停战)
+
+truism n 不言自明的真理
 
 tree n.树
 
@@ -4054,6 +4150,8 @@ engine /1/ n 引擎
 
 gem n 宝石（bud -> jewel）
 
+benign a 良性、仁慈（bene "well" (see bene-) + gignere "to bear, beget," from genus "birth"）
+
 ## 从genu"knee"[Latin]
 
 "genuflect vi.屈膝，（宗教仪式）跪拜，屈从
@@ -4111,6 +4209,14 @@ disgorge v 呕出、被迫交出
 engorge v 狼吞虎咽，充血
 
 regurgitate /2/v.反刍，回流，照搬{re-"back"}
+
+## germ=seed,表示”种子” 
+
+germ n 细菌
+
+germane a 关系密切的(来自同一品牌=关系密切的)
+
+germminate v 发芽,发育(germin[=germ]+ate表动词=种子动=发芽)
 
 ## gloss,glot=tongue 表示”舌头”,引申为”词语”
 
@@ -6094,7 +6200,7 @@ lavatory n 洗手间(lav+atory 场所=冲洗的地方=洗手间)
 
 diluvial a 大洪水的(di 分开+luv+ial=冲开=水很大=大洪水的) 
 
-antediluvian a 远古的(ante 前+diluvian 大洪水的=大洪水前的=远古的)
+antediluvian a 远古的，过时的(ante 前+diluvian 大洪水的=大洪水前的=远古的)
 
 ablution n 沐浴,净化(ab 去掉+lut+ion=洗掉[脏东西]=沐浴) 
 
@@ -8502,6 +8608,20 @@ deploy v 调度,部署(部队)(de 加强+ploy=加强使用[部队]=调度)
 
 ploy n (取胜的)策略,手法
 
+## plumb=lead,表示”铅” 
+
+plumb n 铅锤
+
+plumber n 管道工(plumb+er人,不少管道用铅做成)
+
+plummet v 突然下落(铅很重,所以下落很快)
+
+plimp a 丰满的,胖乎乎的(plump=plumb,铅锤是圆的,所以是”丰满的”)
+
+plump v 倒下,坠下
+
+aplomb n 沉着
+
 ## polic,polis, polit=state, city,表示”国家,城市”; 从polis"城市，管理"[Greek]
 
 police n 警察( 管理城市的人) 
@@ -8762,7 +8882,7 @@ prehension n 抓住,理解(prehens+ion)
 
 apprehend v 理解,忧虑,逮捕(ap+prehend=[被]抓住=逮捕) 
 
-apprehensible a 可 理 解 的 (ap+prehens+ible) 
+apprehensible a 可理解的 (ap+prehens+ible) 
 
 apprehension n 理解,忧虑,逮捕(ap+prehens+ion)
 
@@ -8770,13 +8890,15 @@ comprehend v 了解,包括(com 全部+prehend=全部抓住=包括,理解)
 
 comprehensive a 综合性的,全面，广泛(com+prehens+ive=全部抓住的= 综合性的)
 
-comprehensible a 可 理 解 的 (prehens+ible) 
+comprehensible a 可理解的 (prehens+ible) 
 
 misapprehend v 误解,误会(mis 不+apprehend 理解)
 
 reprehend v 责难,谴责(re 反+prehend=反过来抓住[别人的缺点])
 
 reprehensible a 应受责难的(re+prehens+ible
+
+prey vi 捕食、掠夺(+on) n 猎物、牺牲品
 
 "prison n.监狱
 
