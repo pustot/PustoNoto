@@ -17,7 +17,7 @@
 - 态度词（attitudinal indicators）
   - 否以 `nai`
 - 专名（Lojban names, `cmene`）
-  - `mi'e pustos.`
+  - `mi'e pustos.`（`mi'e` 是自己的呼格）
   - 音译
   - 词尾有句号
   - 名の各部间可有句号
@@ -26,3 +26,86 @@
   - 一个例子，毛泽东重音在最后，推测声调和语气重音一起决定汉语词转逻语的重音
 - 逻语词作专名：可用于意译等
   - 逻语词皆尾以元音，故作专名时常加 `s` 或砍尾元音
+
+# 章二 关系、位
+
+- 专名和关系
+  - `selbri`か关系语，描述关系，通常由 `gismu` 充当
+  - `gismu`か根词，皆五字母，CVCCV 或 CCVCV
+- 位
+  - `la`，冠词，指示下个词为专名词
+  - 位结构：`selbri` 类似函数、谓语、关系，`sumti`（位）类似参数、论元
+  - `bridi`か简单句，bridi = selbri + sumti
+  - selbri 决定有几个位，1~5
+- 确定位结构
+  - 没人会记每一个位，有些原则可助判
+- 根词作位
+  - `le` 冠词，+gismo，表示姑且称作此gismo
+    - > la bil. nelci le ninmu
+  - `cu`，将 `selbri` 从前面的部分分隔开，前若`cmene`和`pro-sumti`不用它但`gismo`需要
+    - > le ninmu cu klama
+    - le ninmu klama 意为大概女行者
+- 改变位
+  - 不想用的位直接省
+  - `zo'e` 可用来占位
+  - 单独个 selbri 表示 observativeか观察格（有xx！）
+  - `fa fe fi fo fu`（位标签）指示其后的词是一二三四五位，再后的论元顺延
+
+# 章三 命令、疑问、领属
+
+- 命令
+  - `ko` 命令句中，指代第二人称
+    - > ko bajra *Run!*
+    - > nelci ko *Act so that [someone unspecified] likes you = Try to make a good impression*
+    - selbri 可随意放位置，除了句首（除非后面来 fa）（因为会暗示省略第一论元）
+    - > ko ko kurji *Take care of yourself.*
+- 缓和语气
+  - `.e’o` 于句首
+- 疑问
+  - 是非疑问
+    - `xu` 于某处（常句首）将陈述转为是非疑问
+    - 肯定回答
+      - 法一：重复彼 selbri
+      - 法二：`go'i`，重复上句的意思，即“对/ yes i do”
+    - 否定回答
+      - 法一：放 `na` 于 selbri 前
+      - 法二：`na go'i`
+    - 示例
+      - > xu do nelci la bil. *尔其喜迊毕？*
+      - > nelci || go'i || na nelci || na go'i
+  - 特殊疑问：
+    - `ma` 占论元表示让对方补充
+    - `mo` 占谓语，可表示是啥、干啥
+- 领属
+  - 法一：`pe` 表某种联系，在论元后，后接联系上的东西
+  - 法二：将领者至于论元的冠词后（领者前面可带pe），仅用于单个词或专名论元插在 le - gismu类论元 内
+- 更多领属
+  - `po` 表示排他的联系
+  - `po'e` 表示不可剥夺的领属（inalienable）
+
+# 章四 数字、更多的冠词
+
+- 基本数字
+  - 0~9 no pa re ci vo mu xa ze bi so
+  - 超过十，就把数字垒起来，像电话号码
+  - `ki'o` 可选，数字三位一隔
+  - `pi` 小数点
+  - `li` 数字嘅冠词
+- 数字、冠词
+  - ci le gerku ‘three of the dogs’
+  - le ci gerku ‘the three dogs’
+  - `lo` ‘something which really is’
+  - lo prenu cu klama “There exists at least one person, such that that person goes.”
+  - ci lo gerku means ‘three of those which really are dogs’，即 ‘three dogs’
+  - lo ci gerku, however, means that we are talking about [one or more of] the only three dogs in the world
+  - `lu'o` 把后面的内容打包成一个整体，`lu'a` 解包
+  - lu'o le = lei; lu'o lo = loi
+  - loi ci lo nanmu cu bevri le pipno: “The mass of three out of [all] men carries the piano.”
+- 分数
+  - 表示分数的斜线 fi'u
+    - > refi’uci loi prenu “2/3 of people”
+- 数量（全、无、多、少）
+  - lo by default means su’o pa lo ro “at least one out of all...”.
+- 数字提问
+  - `xo`
+    - > xo lo prenu cu klama ti "How many people come here?"
