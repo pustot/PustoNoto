@@ -87,6 +87,7 @@
 
 - 基本数字
   - 0~9 no pa re ci vo mu xa ze bi so
+  - 10-15 dau fei gai jau rei vai
   - 超过十，就把数字垒起来，像电话号码
   - `ki'o` 可选，数字三位一隔
   - `pi` 小数点
@@ -108,4 +109,36 @@
   - lo by default means su’o pa lo ro “at least one out of all...”.
 - 数字提问
   - `xo`
-    - > xo lo prenu cu klama ti "How many people come here?"
+    - > xo lo prenu cu klama ti "How many people come here?" “几”
+
+# 章五 时、日、日期（と抽象化）
+
+- 几点了？
+  - `tcika`：x1 是时间（时分秒），其事件为 x2，日期x3，地点x4，历法x5
+    - > ma tcika ti 现在几点 -- li papa 十一点
+  - `pi'e` 用来分隔时间各个部分（时分秒）
+  - `ni'u` 负号
+  - 十二小时制：用专名，`cacra`“小时”演变成“o'clock”，`clira` `lerci` “早、迟”演变成“早晨、晚上”
+    - > la mucac. lir. 早上五点
+- 时间与事件
+  - 抽象描述子 nu 事件、状态，ka 性质，ni 数量
+  - 以将句放到位里
+  - > la daucac. tcika lenu mi klama 十点是我行的时间
+- 时间与事件改进1：转换
+  - 用 se 交换论元一二，te ve xe 三四五
+- 时间与事件改进2：
+  - 用结构词引入新论元。
+  - `ti'u` 引入时间
+    - mi klama ti’u la daucac. "I am going at 10:00"
+    - 所属的结构词类是 sumti tcita （位标签）
+  - 结构词有许多类（selma'o 或 se cmavo）
+- 天、月份
+  - 星期几：专名，数字后加 djed.，来自djedi "day"
+  - 月份：数字后加 mast. ，来自 masti 月份
+  - 也可以用 lujvo
+- 日期
+  - detri
+  - 日月年，中间用 pi'e 
+  - 结构词 de'i
+  - 年如 la pasososonanc.
+
