@@ -78,12 +78,13 @@ x, y=sp.Symbol('x'), sp.Function('y')
 f = -2*x*y(x) / (1+x*x)+1
 # inival: y( 0 ) = 0
 inix, iniy = 0, 0
-# symbolic res by sympy
+# symbolic res by sympy (merely for comparison)
 eq_a = sp.dsolve(sp.Eq(y(x).diff(x,1),f), y(x), ics={y(inix):iniy})
 y_preci = sp.sympify(str(eq_a)[8:-1])
 h = 0.5 # step len
-xs=np.arange(0,10.5,h)
+xs=np.arange(inix,inix+10.5,h)
 yrk=np.zeros(xs.shape[0]) # by unser R-K
+yrk[0]=iniy
 ysp=np.zeros(xs.shape[0]) # by sympy (merely for comparison)
 for i in range(1,xs.shape[0]):
     k1 = f.evalf(subs={x:xs[i-1], y(x):yrk[i-1]})
@@ -258,14 +259,13 @@ for i in range(A.shape[0]):
         else: U[i][j]=A[i][j]
 BG = - np.dot(np.linalg.inv(DpL), U)
 e = 10e-4 # tolerance
-# radius and multiple of tolerance
+# 审敛法一： radius and multiple of tolerance
 #eigval, eigenvec = np.linalg.eig(BG)
 #eigval=abs(eigval)
 #k = math.ceil( math.log(e)/math.log(max(eigval)) ) # times of iteration
-# modulo and tolerance
+# 审敛法二：modulo and tolerance
 BG_norm = np.linalg.norm(BG, ord=np.inf)
 print(BG_norm)
-#k = math.ceil()
 x = np.zeros([A.shape[0],1])
 f = np.dot(np.linalg.inv(DpL), B)
 x1 = np.dot(BG, x)+f
@@ -276,5 +276,7 @@ print(x)
 ```
 
 # 非线性方程と方程组の解法
+
+- 应用现状：皆用牛顿
 
 # 矩阵特征值と特征向量の计算
