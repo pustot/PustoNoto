@@ -68,26 +68,23 @@ Numerical Analysis, Analyse Numérique, Numerische Analyse
     - 不止用到前面一步的函数值也
     - 线性即线性组合
 
-四阶龙库代码：
+四阶龙库求解微方初值问题代码：
 
 ```py
-# 用龙格库塔4阶求解微分方程初值问题
-# 随意给定方程形式和初值
 import numpy as np
 import sympy as sp
 x, y=sp.Symbol('x'), sp.Function('y')
-# ODE to solve: y'=f(x,y), where f is right_side
-f = -2*x*y(x)/(1+x*x)+1
+# ODE to solve: y'=f(x,y)
+f = -2*x*y(x) / (1+x*x)+1
 # inival: y( 0 ) = 0
 inix, iniy = 0, 0
 # symbolic res by sympy
 eq_a = sp.dsolve(sp.Eq(y(x).diff(x,1),f), y(x), ics={y(inix):iniy})
-# the func y(x) which can be 'evalf()'ed herafter
 y_preci = sp.sympify(str(eq_a)[8:-1])
-h = 0.5
+h = 0.5 # step len
 xs=np.arange(0,10.5,h)
 yrk=np.zeros(xs.shape[0]) # by unser R-K
-ysp=np.zeros(xs.shape[0]) # by sympy
+ysp=np.zeros(xs.shape[0]) # by sympy (merely for comparison)
 for i in range(1,xs.shape[0]):
     k1 = f.evalf(subs={x:xs[i-1], y(x):yrk[i-1]})
     k2 = f.evalf(subs={x: xs[i-1]+h/2, y(x): yrk[i-1]+h/2*k1})
@@ -128,9 +125,9 @@ for i in range(1,xs.shape[0]):
         - 直接求解步骤：
             - 求 U 第一行，求 L 第一列，U2L2U3L3……
             - 每次u,l的计算过程……
-        - 存储技巧：直接覆盖原A阵
+        - 存储技巧（紧凑格式）：直接覆盖原A阵
         - `主元LU分解法` **（作业点）**
-            - 每入下一行时先计算选主元，填置换矩阵P
+            - 每入下一行时先计算选主元，填置换矩阵P；之后再算U之行L之列
             - $PA=LU$
     - 特殊系数矩阵简化处理：`平方根法（改）`と`追赶法`
         - 源于`Doolittle 分解法`但运算更简，以解特殊形态矩阵
@@ -205,13 +202,77 @@ for i in range(1,xs.shape[0]):
 带主元的 Doolittle 分解法（主元LU分解法の一つ）代码：
 
 ```py
-
+import numpy as np
+A = np.array([[2.33,0.115,0.119, 0.107], [1.9,-2.33,0.215, 0.115], 
+            [2.13,1.09,5.2, 0.15], [5.14, 5.4, 5.33, -1.2]])
+B = np.array([[3.00], [5.40], [2.330], [1.5]])
+pivoSele = [0,1,2,3] # swap of rows represented here and later to build mtx P
+s = np.zeros(A.shape[0])
+for rnd in range(A.shape[0]):
+    # calc s for selection of pivot
+    for i in range(rnd, A.shape[0]):
+        s[i] = A[i][rnd]
+        for k in range(rnd): 
+            s[i]-=A[i][k]*A[k][rnd]
+    mxi = np.where(s==max(s))[0][0]
+    s[rnd] = float("-inf")
+    A[[rnd,mxi],:] = A[[mxi,rnd],:] # Warnin: swap in np, 太坑了
+    pivoSele[rnd], pivoSele[mxi] = pivoSele[mxi], pivoSele[rnd]
+    # calc u
+    for i in range(rnd, A.shape[0]):
+        for k in range(rnd): A[rnd][i]-= A[rnd][k]*A[k][i]
+    # calc l
+    for i in range(rnd+1, A.shape[0]):
+        for k in range(rnd): A[i][rnd]-=A[i][k]*A[k][rnd]
+        A[i][rnd]/=A[rnd][rnd]
+# P ando B
+P = np.zeros((A.shape[0], A.shape[0]))
+for r in range(A.shape[0]): P[r][pivoSele[r]]=1
+B = np.dot(P,B)
+# Y y X
+y = np.zeros(A.shape[0])
+for i in range(A.shape[0]): 
+    y[i]=B[i]
+    for k in range(i): y[i]-=A[i][k]*y[k]
+x = np.zeros(A.shape[0])
+for i in range(A.shape[0]-1, -1, -1): 
+    x[i]=y[i]
+    for k in range(i+1,A.shape[0]): x[i]-=A[i][k]*x[k]
+    x[i]/=A[i][i]
+print(x)
 ```
 
 Gauss-Seidel 迭代法代码：
 
 ```py
-
+import numpy as np
+import math
+A = np.array([[2.33,0.115,0.119, 0.107], [1.9,-2.33,0.215, 0.115], 
+            [2.13,1.09,5.2, 0.15], [5.14, 5.4, 5.33, -1.2]]) # 为使BG达标，U部宜小요 
+B = np.array([[3.00], [5.40], [2.330], [1.5]])
+DpL = np.zeros([A.shape[0],A.shape[0]])
+U = np.zeros([A.shape[0],A.shape[0]])
+for i in range(A.shape[0]):
+    for j in range(A.shape[0]):
+        if i>=j: DpL[i][j]=A[i][j]
+        else: U[i][j]=A[i][j]
+BG = - np.dot(np.linalg.inv(DpL), U)
+e = 10e-4 # tolerance
+# radius and multiple of tolerance
+#eigval, eigenvec = np.linalg.eig(BG)
+#eigval=abs(eigval)
+#k = math.ceil( math.log(e)/math.log(max(eigval)) ) # times of iteration
+# modulo and tolerance
+BG_norm = np.linalg.norm(BG, ord=np.inf)
+print(BG_norm)
+#k = math.ceil()
+x = np.zeros([A.shape[0],1])
+f = np.dot(np.linalg.inv(DpL), B)
+x1 = np.dot(BG, x)+f
+indeca = math.log(e*(1-BG_norm)/ np.linalg.norm(x1-x, ord=np.inf) )/math.log(BG_norm)
+k = math.ceil(indeca)
+for r in range(k): x = np.dot(BG, x)+f
+print(x)
 ```
 
 # 非线性方程と方程组の解法
