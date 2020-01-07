@@ -370,4 +370,18 @@
 
 # 章十五 并发控制
 
+- 死锁
+    - 2LP
+    - 基于图的协议
+        - 树协议
+- wait-for graph
+
 # 章十六 恢复
+
+- log 的内容
+    - 有start, commit
+    - 也有具体操作的内容！
+- immediate database modification
+- 检查点 checkpoint
+    - 检查点后commit的，redo
+    - 检查点处未commit的，undo
