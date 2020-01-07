@@ -1,0 +1,373 @@
+数据库系统原理
+
+数据库
+
+ба́за да́нных, 데이터베이스, cơ sở dữ liệu, データベース, database, baza danych, Datenbank, base de datos
+
+# 章一 绪论
+
+- 数据库と数库管系（DBMS）と数库系统：数据库は庞大综合的数据集合，DBMSは存储と管理DBな软件包，DBSは硬件平台とDBMSと数据库と人机接口とintellectual content
+- 数据视图 view of data
+- 图式与实例 schemas and instances：DB逻辑结构乄DB某时点实际内容，类似类型乄变量
+- 数库语言
+    - `数据操作语言`（`DML`, data manipulation language）か`查询语言`（query language）
+        - 两类：`过程式`（procedural）乄`宣告式`（declarative）か`非过程式`（nonprocedural），前者用户指定如何获取数据
+    - SQL：广泛使用的非过程语言
+    - `数据定义语言`（`DDL`, data definition language）：以定义数据库图式（schema）
+        - 编译器存之于数据词典（图式、存储与定义语言、完整性约束、授权）
+- 1.5 关系型数据库：示例
+- 1.6 数库设计
+    - 过程：逻辑设计、物理设计
+    - 实体-关系模型：实体矩形，关系菱形
+        - 用UML表示的ER图
+    - 图式通过功能依赖，用范式来设计，来避免：信息重复、信息叵表示
+- 数库系统总体结构 overall database system structure
+- 1.7 数据存储と查询
+    - 数据库引擎：存储管理、查询处理、交易管理
+    - 存储管理
+        - 组件：autorization and integrity manager, transaction manager, file manager, buffer manager
+        - 存储管理实现的数据结构
+            - 数据文件、数据词典、索引
+    - 查询处理组件
+        - DDL解释器、DML编译器、query evaluation engine
+- 1.8 交易管理
+    - 在数据库应用执行单一逻辑功能的一组操作
+    - 保证错误后保持一致
+        - 恢复管理
+        - 并发控制
+- 1.9 数库架构
+    - 受支持它的计算机系统很大影响：中心式、client-server/browser-server、并行（多处理器）、分布式
+- 1.12 数库用者と管者
+    - 使用者：根据期望交互方式：naive users, 应用程序员、sophisticated users、specialized users
+    - DBA (database administraor)
+    - 应用架构
+- 1.10 数据挖掘と信息检索
+- 1.11 speciaty databases
+    - 对象-关系数据模型：增加了继承、封装、方法、对象实体
+    - XML extensible markup language
+    - major DBMS today
+- 1.13 数据库系统历史
+- 挑战と机遇
+
+# 篇一 关系数库 relational databases
+
+# 章二与六 关系代数介绍&形式关系查询语言
+
+- 2.1 关系型数据库の结构
+    - 基本结构：关系は笛卡尔积的子集，亦n元组的集合
+    - 属性 attribute：关系每属性有名字，域，原子性（multi-valued attri, compoeite attri. are not atomic）
+        - the special value null は任域的成员
+            - 许多操作的定义因而复杂
+    - 关系模式（relation shema）
+        - Ai是属性，R=(Ai,...,An)是个关系模式
+        - r(R)是关系模式R上的一个关系
+    - 关系实例（relation instance）：关系的一组当前值，用表表示。列は属性，行は元组
+    - 关系无序
+- 2.2 数据库图式（database schema）
+    - 全部信息在单个关系中不科学（重复信息、空值）。数据库有许多关系
+    - 规范化理论（normalization theory，章七）以设计关系模式
+- 2.3 键（keys）：关系的子集，区分给定关系中不同元组
+    - 超码（superkey）：子集，唯一标识元组
+        - 超码的任意超集亦超码。是故常有无关紧要的属性。
+    - 候选码（candidate key）：任意真子集不是超码
+    - 主码（primary key）：设计者选中的候选码。选择变化相对少的。
+        - 写在最前面，加下划线，便于查找
+    - 外码（foreign key）：r1包括r2的主码，这个属性在r1中称作参照r2的外码。r1也叫外码依赖的`参照关系`，r2叫`被参照关系`
+    - `参照完整性约束`（referential integrity constrain）要求参照关系中任元组特定属性的取值等于被参关系中某元组的（未必是外码约束）
+- 2.4 模式图：数据库模式和主键、外键依赖一起可用模式图（schema diagrams）描述
+    - 每个关系用句型，名上属下，主码下划线，外码依赖用参照关系的属性指向被
+    - 除外码约束，未完整表示参照完整性约束。乄ER图可表示几种约束。
+- 2.5 关系查询语言（relational query languages）
+    - 以请求信息
+    - 分类：过程、非过程
+    - “纯”语言：简洁，形式化，缺少句法糖
+        - 过程（提供产生所需结果的查询序列）
+            - 关系代数
+        - 非过程（只描述需求）
+            - 元组关系演算
+            - 域关系演算
+        - 是查询语言的基础
+- 6.1 关系代数（the relational algebra）
+    - 关系语言不是图灵完备的。SUM、AVG、MAX、MIN
+    - 6.1.1 基本关系运算：皆输出一个新关系
+        - 选择 $σ_p (r)$
+        - 投影 $Π_{A1,A2,...,Ak} (r)$
+            - 去掉没列出的属性，重复的合并（SQL默认不合）
+        - 集合并 ∪：属性相同的关系を
+        - 集合差 -：属性相同的关系を
+        - 笛卡尔积 ×
+            - 自然连接（natural join）⋈：同名属性相等者を
+        - 重命名 $ρ_{X(A1,A2,...,An)} (E)$
+        - 例题
+            - 求最大值：自己跟（重命名的）自己笛卡尔积，把满足过「我小于重命名属性」的σ出来，差掉，只剩下最不㞞的~
+    - 6.1.2 
+        - 关系代数の形式定义：数库の关系、常关系都是关系代数表达式，用基本关系运算运算后依然是表达式 
+        - 又一些运算 additional operations：功能不增但简化
+            - 集合交∩：属性相同的关系を
+            - 自然连接⋈：积了选
+                - （theta join, equi-join）$⋈_θ$ 制定选择条件
+            - `除`（division）：r÷s，得到R-S上的关系T，t满足跟s里任意元素一接都属于r；也就是在r里跟B之间有所有组合。所以叫整除
+                - 是满足乘s⊆r的最大者
+                - $r÷s=Π_{R-S}(r)-Π_{R-S}( (Π_{R-S}(r) ×s) - Π_{R-S,S}(r) )$
+                    - 就是把做了笛卡尔积后会增加的r-s给扔了
+            - 赋值（assigment）←：赋给临时变量
+        - 扩展运算
+            - 广义投影（generalized projection）：投影列表里可以有算术运算
+            - 聚合函数（aggregate func）
+                - 聚合函数：avg, min, max, sum, count
+                - 聚合操作 $_{Aa,Ab,...}g_{F1(A1),...} (E)$：一组属性上分组，求属性的聚合函数值
+                    - 得到的名字可以用as来改，因为得到的是用聚合函数求的值，意义变了
+            - 外连接（outer join）：连接の扩展，避免信息丢失
+                - 计算连接，再从一个关系拿来不符合对应关系的元组（无对应的的值为空值null）
+                - ⟕、⟖、⟗
+        - 空值：不知か无之
+            - をの处理
+            - 三值逻辑
+    - 用于数据库
+        - 借赋值以描述数据库的修改（增、删、改）
+        - 视图：凡不在概念模型中却作为虚拟关系对用户可见者
+            - 用户不能见全局
+            - create view v as < query expression >
+            - 保存是保存这个定义视图的查询语句，每次用重新查询
+            - 通过视图的修改：不一定有确定的方式
+            - 视图依赖视图
+            - 视图扩张
+- 6.2 元组关系演算 6.3 域关系演算 不讲
+
+# 章三 SQL介绍
+
+- 3.1 SQL 查询语言概述
+    - 结构化查询语言 Structed Query Lang
+    - 包含的部分
+        - DDL
+        - DML
+        - integrity (DDL commands)
+        - view definition (DDL commands)
+        - 事务控制
+        - 嵌套SQL
+        - 权限 authorization (DDL commands)
+    - DDL：定义一组关系以及每个关系的信息，包括：关系模式、域、完整性约束、indices to be maintained for each relations、安全和权限信息、在磁盘的物理存储结构
+        - 域的类型：char, varchar, int, smallint, numeric （定点）, real, double precision, float
+        - 日期、时间：date, time, timestamp (date + time), interval
+            - extract, cast string as date/t/t
+- 3.2.2 基础模式定义
+    - create table branch (branch_name char(15) no null, ...)
+    - 完整性约束: 写所有属性定义后面
+        - not null; promary key(A1,...); foreign key (Ak1, Ak2) references s
+        - chech(P)
+    - 元组基本增删
+        - insert into account values('A-9732', 1200)
+        - delete from account （全删）
+    - drop and alter table onstructs
+        - drop table 删其一切信息
+        - alter table r add A D （增加属性及其约束）
+        - alter table r drop A
+- 3.3 SQL 查询基本结构
+    - select from where，等价于 П(σ(r×r×r))
+    - select 从句
+        - 允许重复，即默认为 select all ...，要去重需要些 select distinct ...
+        - select *
+        - 广义投影
+    - where 从句：条件，可以用 and, or, not, (not) between ... and ...（闭区间）
+    - from 从句
+        - 逗号笛卡尔积
+    - 3.3.3 自然连接
+        - natural join 代替逗号
+        - ... join ... using(...)
+- 3.4 附加基本运算
+    - 重命名运算：as
+    - 元组变量： from 中用 as
+    - 3.4.2 串运算
+        - %：匹配任何子串
+        - _：匹配任何字符
+        - like / not like：字符串匹配
+    - 3.4.4 元组展示的排序
+        - order by xxx [ asc ] / desc
+    - 3.4.5 where 从句谓词
+        - 元组比较代替and
+- 3.5 集合运算
+    - 重复
+    - union, intersect, except
+        - 想要重复加 all
+- 3.7 聚合运算
+    - avg, min, max, sum, count
+        - 用在select
+    - group by：
+        - 聚合运算外属性出现在select中就必须是group by的。不然你你这个属性已经被求值了，聚合属性没有值对应给你这个属性的元素，裸奔吧
+    - having
+        - 条件作用于 group 也。having avg(balance) > 1200
+- 3.6 空值
+    - 算术运算得null
+    - 聚合函数只有count不忽略它
+- 3.8 嵌套子查询
+    - 嵌套在from里表示范围，或where
+    - 常用来（在where从句）检查是否in集合，集合比较，求集合的势
+        - in ()
+        - not in ()
+        - ＞ some () （∃）
+        - < all () （∀）
+        - 检查空关系：
+            - exists
+            - not exists
+    - 3.8.4 检查重复元组的存在
+        - unique ()
+    - 3.8.5 from 从句中的子查询
+    - 3.8.6 with 从句
+        - 像编程的「过程」，局部定义一个视图
+        - with max_balance(value) as select from where
+    - 标量子查询，即只返回一个值，可用在select
+- 3.9 数库修改——删除
+    - delete fron Table where P
+- update
+    - update Table set XXX=XXX where P
+    - update Table set XXX= case        when P1 then A1 when P2 then A2 ... else A0 end
+    - set 成 标量子查询 亦可
+
+# 章四 中级 SQL
+
+- 4.1 连接表达式
+- 4.2 视图
+- 4.3 事务（transactions）
+- 4.4.1 对单一关系的约束
+- 4.5.2 默认值
+- 4.5.3 创建索引 （index creation）
+- 4.5.4 大对象类
+- 4.5.5 用户定义类
+
+# 篇二 数库设计 database design
+
+# 章七 数据库设计とE-R 模型
+
+- ER 图
+    - 方形实体集，菱形关系集，椭圆属性
+    - 一般关系集代表某种动作（an action）
+    - 一对多，「一」端有箭头指向它。
+    - 自己跟自己的关系，两条线最好用角色标签区分
+    - 双线代表这个实体集完全参与（total participation），每个实体至少参与关系集中一个关系
+
+# 章八 关系型数据库设计
+
+- 8.1 好的关系设计的特点
+    - 函数依赖，从企业被需要
+    - 有损分解vs无损：更多元组代表有损
+- 8.2 原子域和第一范式
+    - 域是原子的如果其元素不可分，亦即属性没有子结构
+        - 也取决于使用方式
+    - 第一范式：所有属性的域是原子的
+    - 反：复合属性、多值属性
+- 8.3 使用函数依赖分解
+    - 判、分解成好的关系
+    - 基于函数依赖、多值依赖
+    - 函数依赖
+        - 一组属性的值唯一决定其他
+        - 键的概念的泛化
+        - α→β：任何合法关系，a同就b同
+        - 超键K iff K→R
+        - 候选键 iff K→R且子集没有→R者
+    - 函数依赖的闭包：由F逻辑蕴含的各个FD，记作$F^+$
+        - **阿姆斯特朗公理**，可找全 F+
+            - 自反律：→子集
+            - 增广律：两遍各连同一组属性
+            - 传递率
+        - 进一步简化：
+            - 合并规则：左部相同则右部合并可以
+            - 分解规则：右部同理分解
+            - 伪传递规则：就是式子两边都合个属性组，这样右部能进一步推出来个
+        - 计算F+的过程
+            - 重复直到不再增长：F+中每个f用自反、增广，两个间用传递
+    - 属性集α在F下的闭包α+：F+中的f可从α推到的所有
+        - 计算
+            - 重复直到不再增长：初始α自己，F中所有自己能做左部的，把右部加进来
+        - 候选键即闭包全集
+        - 可用来计算F+：R的每个子集γ算闭包，则γ可推之
+    - F的正则覆盖（canonical cover）か最小覆盖：最小的等价于F者，Fc
+        - 额外属性（extraneous attributes）：
+            - 对于F里一个α→β：检查集α里一个属性A是否额外：计算({α}-A)+，里面有β说明α额外；β那边同理
+        - 计算Fc：
+            - 分解，右部全单
+            - 冗属性，即左边没它还能推
+            - 冗依赖，即左部用别人也能推右部
+    - 找候选键：
+        - 每个属性，按出现在F的左部右部分为L,R,LR,N（无）
+        - 算法：
+            - 属性分为两类，X是L、N类，Y是LR类
+            - X+有所有属性则是唯一候选键，否则继续
+            - 加个元素再算(XA)+
+            - 所有候选键出来了就结束，否则加两个三个元素（不含任何已找到的候选键）
+            - 结束
+    - 分解。
+        - 无损分解：自然连接不多东西。
+        - 检测无损分解：
+            - 建表，每一行是一个分解，每一列是一个属性，行里面有列这个元素就写aj，否则bij
+            - 直到无变化：F里面一个f，如果有两行，行名都包含f左部，而f右部对应的列不相等，改成相等
+            - 有一行全a则胜利
+    - 依赖保持：F中仅含Ri属性的东西并起来求闭包等于F求闭包；不然就要join操作，很贵
+        - 检查依赖保持：每一个f，左部放到结果里，重复直到不变：每个分解Ri，res并上 (res∩Ri)+ ∩Ri （也就是只在Ri的部分的闭包留下来Ri中的部分）；结果应该包含右部所有
+    - 好结构和异常
+        - 结构好的关系：有最小的冗余，允许增删改而不造成数据不一致
+        - 异常
+            - 插入异常：加新行强制建冗余数据
+            - 删除异常：删除可能造成后续有用数据丢失
+            - 修改异常：由于重复，修改一处强制修改另处
+        - general rule of thumb: 一张表不要属于多个实体类型
+    - 2NF：1NF且非键属性完全依赖整个主键（ENTIRE!），不entire交部分依赖
+        - 2NF化：按依赖关系拆，部分依赖啥主键就新关系例有啥主键
+    - 3NF：2NF且无传递依赖
+        - 传递依赖：几个非键属性间
+        - 3NF化：拆，局部的非键依赖让他们在新关系做键
+    - BCNF：F+里每个α→β，要么平凡（β是α子集），要么α是超码ofR
+        - 所有determinants 是超码
+    - 3NF 详细：BCNF不是依赖保持的，所以放宽到3NF
+        - F+中每个α→β，除了平凡会超码，还可能β-α的每个属性都在R的一个候选键里（不是超，而是部分在也）
+        - 检验3NF：对F里每个α→β，如果α不是超键，检查β里都在R个候选键里
+        - 3NF化：先最小覆盖Fc，
+        - 3NF化（我看ppt和别人做题都这个方式）：Fc，如果R存在一些不属于F的属性就单独构R并抹去；如果有X→A且XA=R则不用分解；否则按左部相同原则分类，左部相同是指X→A都可以构成新模式XA的前提下；都不含候选键则加上新的它，对应F可以为空
+    - 4NF：没有多值依赖
+    - 5NF：无“lossless joins”
+
+# 篇三 数据存储と查询 data storage & querying
+
+# 章十 存储と文件结构
+
+# 章十一 索引与散列
+
+- B+树
+    - 每个节点，n个指针，n-1个键
+    - 非叶非根 between ceil(n/2) and n 个子（指针）
+    - 叶 between ceil((n-1)/2) and n-1 个子（值）
+    - 根是叶则 between 0 and n-1，否则至少2子
+    - 指针大于等于左键小于右键
+    - 插入：分裂，前ceil(n/2)，相继分裂
+    - 删除：太少合并，可能一直向上传递
+
+# 章十二 查询处理
+
+# 章十三 查询优化
+
+- 等价变换规则
+    - 连接、笛卡尔积交换律
+    - 连接、笛卡尔积结合律
+    - 投影的串接（先投的没用）
+    - 选择的串接：和运算
+    - 选择与投影的交换律
+    - 选择与笛卡尔积的交换（取决于涉及谁的属性）
+    - 选择与并的分配律
+    - 选择与差的分配律
+    - 选择对自然连接的分配律
+    - 投影于笛卡尔积的分配律
+    - 投影与并的分配律
+- 优化过程
+    - 分解选择运算
+    - 尽量下放选择运算
+    - 尽量下放投影运算
+    - 尽可能把选择投影靠一起
+
+# 篇四 交易管理 transaction management
+
+# 章十四 交易
+
+- 冲突可串行化：优先图
+
+# 章十五 并发控制
+
+# 章十六 恢复
