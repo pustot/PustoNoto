@@ -1,12 +1,71 @@
 # 第一课 绪论 Intrduction
 
-# 第二课 单变量线性回归 Linear regression with one variable
+- 欢迎
+    - 机学诞生于 AI 研究，是计算机的新能力
+    - 例
+        - 数据库挖掘：web click data, medical records, biology, engineering
+        - 无法手动编程的应用：autonomous helicopter, handwriting recognition, most of NLP, CV
+        - self-customizing programs: Amazon, Netflix product recommendations
+        - 理解人类学习（brain, real AI）
+- 机学是啥
+    - 定义
+        - Arthur Samuel, 1959: 使计机有能力不显式编程而学习
+        - Tom Mitchell, 1998: 对任务T，从经验E中学习，效果以P衡量且随着E而提高
+            - *给案例识别其T、E、P*
+    - 算法分类
+        - 有监督
+        - 无监督
+        - 强化（reinforcement learning）
+        - recommender systems
+- 有监督学习：已知“正确答案”
+    - 回归：输出为连续值
+    - 分类：输出为离散值
+- 无监督学习：自己聚类
+
+# 第二课 单元线性回归 Linear regression with one variable, univariate linear regression
+
+- 模型表示
+    - 训练は训练集→学习算法→h；预测は自变量→h→因变量的估计值
+        - hはhypothesis，*就是「模型」叭*
+    - 表示h的方法：线性函数 $h_θ(x)=θ_0+θ_1x$，简记 $h(x)$
+        - θは参数（parameters）
+- 损失函数
+    - 平方差函数也
+        - $J(θ_0, θ_1) = \frac{1}{2m}  Σ_{i=1}^m ( h_θ(x^{(i)}) - y^{(i)} )^2$
+        - 输入参数，输出是一个损失值
+    - 求θ0,θ1使J最小
+- 损失函数直觉1
+- 损失函数直觉2
+    - 二元函数画出来，等高线图一看，bowl shape
+- 梯度下降
+    - 从初始θ不断改θ以减J
+    - 梯度下降算法
+        - 直到收敛：$θ_j:=θ_j - α \frac{∂}{∂θ_j}J(θ_0, θ_1)$ 对每个$θ_j$
+        - 注意，应该同时更新每一个θ，不要让更新后的θj影响θj+1的求值
+        - αは学习率
+- 梯度下降直觉
+    - 梯度是增长方向，负号取下降方向
+    - α小则慢，大则超调以致发散
+    - 收敛到局部最小值
+    - α可以取定，因为越接近目标，导数越小，自会收敛
+- 梯度下降用于线性回归
+    - 对于线性，θ_0, θ_1，简单求导得：（同时更新）
+        - $θ_0:=θ_0 - α  \frac{1}{m}  Σ_{i=1}^m ( h_θ(x^{(i)}) - y^{(i)} )$
+        - $θ_1:=θ_1 - α  \frac{1}{m}  Σ_{i=1}^m ( h_θ(x^{(i)}) - y^{(i)} )·x^{(i)}$
+    - 批量梯度下降（"batch" GD）：每步使用所有训练样本，也就是那个Σ
 
 # 第三课 线代 Linear Algebra review (optional)
 
-求和号转向量乘：求和的两个乘数为俩向量。
+- 矩阵和向量
+- 加法と数乘
+- 矩阵向量点乘
+- 两矩阵点乘：右者相当于俩向量并排
+- 点乘性质：不满足交换律；单位矩阵随便左右乘；
+- 逆과转置
+    - 逆：左或右乘原都等于单位阵
+- 求和号转向量乘：求和的两个乘数为俩向量。
 
-# 第四课 多变量线性回归 Linear Regression with multiple variables
+# 第四课 多元线性回归 Linear Regression with multiple variables
 
 # 第五课 Octave 教程 Octave Tutorial
 
@@ -35,3 +94,12 @@
 # 第十课 机器学习应用建议 Advice for applying machine learning
 
 # 第十一课 机器学习系统设计 Machine learning system design
+
+# 符号声明
+
+symbo | meani
+-|-
+$m$ | 训练样例数
+$x$ | 输入变量/特征
+$y$ | 输出变量/目标变量
+$(x^{(i)}, y^{(i)})$ | 第i个训练样例
