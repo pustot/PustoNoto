@@ -65,7 +65,7 @@
 - How do children learn word boundaries?
 
 
-### v4a Syntax & word order
+### V4a Syntax & word order
 
 - S, o and v
   - Labels for words
@@ -172,7 +172,7 @@
   - some sentences express more than just true or false information
   - speech acts
     - sentences that change the world (J. L. Austin)
-  - not true pr false
+  - not true or false
 - performative meaning 2
   - making a change by not saying something
   - ignoring pragmatics

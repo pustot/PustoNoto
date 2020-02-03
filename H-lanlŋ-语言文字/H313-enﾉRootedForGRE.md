@@ -11,7 +11,7 @@
 - 部分用「"」「,」标了主重音和次重音，为了方便检索正在逐步改到用 /x/ 表示第一个音节重音，需要特别注发音的用/abc/ 注明发音是abc
 - 词源信息主要根据维基词典整理，并参考欧路上的《英语词根词源记忆词典》、《摩西英语》、李平武《英语词根与单词的说文解字》部分内容。
 
-20191204 扩展自 la. audire, la. candere, 89 lines
+20191204 扩展自 la. centrum
 
 # A
 
@@ -1669,6 +1669,88 @@ censorious a 挑剔的(censor+ious=用审查员的[眼光]看=挑剔的)
 censure n 责难(cens+ure=判断审查[别人]--责难)
 
 census n 人口普查(cens+us 表名词=查[人口]=普查)
+
+## la. centrum 中心，来自 el. kentron 尖端
+
+centre
+
+central
+
+centralism n 集中制、中央集权制
+
+centrality n 中心性、中心地位
+
+centralize v 形成中心，把集中
+
+centric a 中心的，有中心的
+
+centrically ad 围绕中心，指向中心
+
+centricity n 中心性
+
+concentrate v 集中
+
+concentrator n 集中者、专业研究者
+
+concentration
+
+concentric a 同心的
+
+concentricity
+
+eccentric a 离心的，偏心的（ex-）（- circles 偏心圆） n 偏心轮，偏执的人
+
+eccentricity n 偏心率，离心率
+
+centrifugal a 离心的（fug 逃）
+
+centrifugalize v 使受离心机作用
+
+centripetal a 向心的（pet 寻求）
+
+decentralize v 废弃中央集权，给地方分权
+
+concentre v 集中
+
+decentre v 分散
+
+centrifuge /'sentrɪfjuːdʒ/ n 离心机
+
+centrist n 中间党派，中间派议员
+
+centremost a 最中心的
+
+subcentral a 子中心的，近中心的
+
+anthropocentrism n 人类中心主义
+
+anthropocentric
+
+geocentrism n 地心说
+
+heliocentrism n 日心说
+
+centrum n 中枢
+
+centra n 中心，centrum之复数
+
+centrosphere n 地核，中心球
+
+centroplasm n 中心质
+
+centroplast n 中心质体
+
+acentric a 无中心，离心，偏心
+
+homocentric a 同心
+
+telecentric a 远心
+
+epicentre n 震中，焦点
+
+epicentral
+
+circumcentre n 外心、外接圆心
 
 ## cern, cert, cret=sure, separate,表示”搞清,区别”
 
@@ -8244,9 +8326,15 @@ com"patriot n.同国人，同胞
 
 "patronym n.源于父名的姓、名
 
-### PIE *peh₂- 的后代 *peh₂nts 的后代 el. πᾶς (词缀形 παν-)
+### PIE *peh₂- 的后代 *peh₂nts 的后代 el. πᾶς (词缀形 παν-); 
 
 pan-, pant-, panto-, panta- 所有
+
+pan-american 泛美的
+
+panegyric颂词,颂扬(pan egyr聚集 ic=聚集一堂=颂扬(国王))
+
+pansophic 全知的(pan soph智慧=ic=智慧广=都知道)
 
 panoply n 全部的或华丽的展示，全副甲胄(πᾰνοπλῐ́ᾱ,  πᾶς + ὅπλον("armour") + -ῐ́ᾱ)
 
