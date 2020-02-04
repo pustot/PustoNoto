@@ -5,21 +5,17 @@
     - 例
         - 数据库挖掘：web click data, medical records, biology, engineering
         - 无法手动编程的应用：autonomous helicopter, handwriting recognition, most of NLP, CV
-        - self-customizing programs: Amazon, Netflix product recommendations
+        - self-customizing 程序: Amazon, Netflix 产品推荐
         - 理解人类学习（brain, real AI）
 - 机学是啥
     - 定义
         - Arthur Samuel, 1959: 使计机有能力不显式编程而学习
         - Tom Mitchell, 1998: 对任务T，从经验E中学习，效果以P衡量且随着E而提高
             - *给案例识别其T、E、P*
-    - 算法分类
-        - 有监督
-        - 无监督
-        - 强化（reinforcement learning）
-        - recommender systems
+    - 算法分类：有监督、无监督、强化（reinforcement learning）、recommender systems
 - 有监督学习：已知“正确答案”
-    - 回归：输出为连续值
-    - 分类：输出为离散值
+    - `回归`（regression）：输出为连续值
+    - `分类`（classification）：输出为离散值
 - 无监督学习：自己聚类
 
 # 第二课 单元线性回归 Linear regression with one variable, univariate linear regression
@@ -34,8 +30,7 @@
         - $J(θ_0, θ_1) = \frac{1}{2m}  Σ_{i=1}^m ( h_θ(x^{(i)}) - y^{(i)} )^2$
         - 输入参数，输出是一个损失值
     - 求θ0,θ1使J最小
-- 损失函数直觉1
-- 损失函数直觉2
+- 损失函数直觉
     - 二元函数画出来，等高线图一看，bowl shape
 - 梯度下降
     - 从初始θ不断改θ以减J
@@ -67,10 +62,49 @@
 
 # 第四课 多元线性回归 Linear Regression with multiple variables
 
+- 多重特征
+    - $h_θ(x) = θ_0 + θ_1x_1 + θ_2x_2 + ... + θ_nx_n  \\  = \bm{θ}^T \bm{x}$
+        - 为了公式好写，新设 $x_0 = 1$
+- 多元梯度下降
+    - $J(\bm{θ})$
+    - 每个θj的更新变成 $θ_j:=θ_j - α  \frac{1}{m}  Σ_{i=1}^m ( h_θ(x^{(i)}) - y^{(i)} )·x^{(i)}_j$
+- 梯度下降实践1——特征缩放
+    - 缩放：使特征在相似的scale，约 $-1≤x≤1$
+    - 均值归一化（mean normalization）：都减去均值μj再缩放
+    - $x_j = \frac{x_j-μ_j}{s_j}$，μ是这个变量在训练集的avg，s是max-min或标准差
+- 梯度下降实践2——学习率
+    - 每次迭代J(θ)应下降
+    - 自动测敛：J(θ)一代下降幅度小于ε（如1e-3）
+    - α太小收敛慢，太大可能不收敛或收敛慢
+    - 试选 0.001、0.003、0.01、0.03、0.1、0.3、1……
+- 特征和多项式回归
+    - 把特征的幂当成新特征。根据点分布情况选幂次。
+- 正规方程（法方程，normal equation）
+    - 正规方程は解析解也
+    - 多个样本写一起，一行一个样本，$\bm{Xθ=y}$
+        - （还是别忘了x0=1）
+        - 为了可逆而乘$X^T$，然后再于是
+        - $\bm{θ=(X^T X)^{-1} X^T y}$
+    - 不需要归一化
+    - 梯度下降乄正规方程
+        - GD要选学习率，要迭代
+        - 正规方程要算n×n的逆，O(n^3)，n很大时很慢而GD依然高举
+- 正规方程与不可逆性（选学）（normal equation and non-­invertibility）
+    - 若不可逆，Octave可用pinv()
+    - 不可逆通常意味着冗余特征（线性相关）、太多特征（如m≤n）（应删掉一些，或用正则化（rugularization））
+
 # 第五课 Octave 教程 Octave Tutorial
+
+- 基本运算
+- Moving data around
+- Computing on data
+- Plotting data
+- Control statements: for, while, if statements
+- Vectorial implementation
 
 # 第六课 对数几率回归 Logistic Regression
 
+- 分类
 - 假设表示
   - 对数几率函数（S型函数）： $g(z)=1/(1+e^{-z})$，以使结果 0~1
   - 假设函数： $h_θ(x)=g(θ^T x)$，推测 y=1 的概率 $即 =P(y=1 | x;θ)$
@@ -83,7 +117,7 @@
   - 惩罚函数：$J(θ) = -1/m Σ_{i=1 \to m} Cost(h_θ(x),y)$
 - 梯度下降：$θ_j = θ_j - α \frac{∂}{∂θ_j} J(θ) = θ_j - α Σ_{i=1 \to m} (h-y)x$
 - 高级优化
-- 多类别分类：一对全
+- 多类别分类——一对全
 
 # 第七课 过拟合&正则化 Regularization
 
@@ -103,3 +137,5 @@ $m$ | 训练样例数
 $x$ | 输入变量/特征
 $y$ | 输出变量/目标变量
 $(x^{(i)}, y^{(i)})$ | 第i个训练样例
+$n$ | 特征数
+$x_j^{(i)}$ | 特征j在样本i的值
