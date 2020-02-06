@@ -118,7 +118,7 @@
         - 理解：对数函数上下翻转满足0-1内越1越小而在0极大故用作y=1时的
         - 俩条件合一起写：$-ylog(h_θ(x))-(1-y)log(1-h_θ(x))$
     - 惩罚函数：$J(θ) = -1/m Σ_{i=1}^m Cost(h_θ(x),y) \\ = -1/m Σ_{i=1}^m y^{(i)}log(h_θ(x^{(i)}))+(1-y^{(i)})log(1-h_θ(x^{(i)}))$
-- 梯度下降：$θ_j := θ_j - α \frac{∂}{∂θ_j} J(θ)  \\ := θ_j - α Σ_{i=1}^m (h_θ(x^{(i)})-y^{(i)})x_j^{(i)}$
+- 梯度下降：$θ_j := θ_j - α \frac{∂}{∂θ_j} J(θ)  \\ := θ_j - α Σ_{i=1}^m ( h_θ(x^{(i)})- y^{(i)} ) x_j^{(i)}$
 - 高级优化
     - 各种优化算法：梯度下降、共轭梯度（conjugate gradient）、BFGS、L-BFGS
         - 梯度下降之外算法的优点は不用手动选α、一般更快，缺点は更复杂
@@ -134,6 +134,20 @@
 # 第十课 机器学习应用建议 Advice for applying machine learning
 
 # 第十一课 机器学习系统设计 Machine learning system design
+
+# 第十二课 支持向量机 Support Vector Machines
+
+# 第十三课 聚类 Clustering
+
+# 第十四课 降维 Dimensionality Reduc1on
+
+# 第十五课 检测异常 Anomaly detection
+
+# 第十六课 推荐系统 Recommender Systems
+
+# 第十七课 大规模机器学习 Large scale machine learning
+
+# 第十八课 应用案例——图片光字识 Application example: Photo OCR
 
 # 符号声明
 
