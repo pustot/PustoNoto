@@ -9,9 +9,21 @@ Taking notes of knowledge, especially those learned and utilized only occasional
     - B84 心理学  
         - B844 发展心理学（人类心理学）
 - C 社会科学总论
+    - C8 统计学
+        - C81 统计方法
+            - C819 统计技术设备
 - D 政治、法律
 - E 军事
 - F 经济
+    - F2 经济计划与管理
+        - F27 企业经济
+            - F273 企业生产管理
+    - F4 工业经济
+        - F40 工业经济理论
+            - F407 工业部门经济
+                - F407.4 金属加工、机械工业
+                    - F407.47 交通运输机械工业
+                        - F407.471 汽车
 - G 文化、科学、教育、体育
 - H 语言、文字
     - H0 语言学
