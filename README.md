@@ -119,6 +119,7 @@ Taking notes of knowledge, especially those learned and utilized only occasional
                 - TP314 编译程序、解释程序
                 - TP316	操作系统
             - TP39 计算机的应用  
+                - TP391 信息处理（信息加工）
                 - TP393 计算机网络
     - TQ 化学工业
     - TS 轻工业、手工业  
