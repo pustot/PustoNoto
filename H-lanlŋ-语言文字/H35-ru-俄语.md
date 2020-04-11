@@ -193,3 +193,136 @@ List ø Word
 у          |at,by,near;属（用于拥有）||+Gen.|*h₂ew (la.aut; el.αὐτός(en.auto-))
 хлеб       |面包         |xlʲep   |m inan (genitive хле́ба, nominative plural хле́бы, genitive plural хле́бов)|PGmc.*hlaibaz (en.loaf, de.Laib)
 я́блоко     |苹果         |ˈjabləkə|n inan (genitive я́блока, nominative plural я́блоки, genitive plural я́блок)|*h₂ébōl (en.apple)
+
+# 语料学习
+
+## Песня о тревожной молодости （歌唱动荡的青春）
+
+Забота у нас простая,
+我们有个平凡的愿望，
+Забота наша такая:
+我们的愿望是这样：
+Жила бы страна родная, -
+祖国能够繁荣富强，-
+И нету других забот.
+我们终生的理想。
+И снег, и ветер,
+看，风雪茫茫，
+И звёзд ночной полёт...
+夜空流星飞翔...
+Меня моё сердце
+我心向我召唤
+В тревожную даль зовёт.
+奔向动荡的远方。
+Пускай нам с тобой обоим
+让我们团结在一起
+Беда грозит за бедою,
+穿过那重重的灾难，
+Но дружбу мою с тобою
+而你我之间的友谊
+Одна только смерть возьмёт.
+唯有死亡能分割。
+И снег, и ветер, И звёзд ночной полёт... Меня моё сердце / В тревожную даль зовёт.
+Пока я ходить умею,
+只要我还能够行走，
+Пока глядеть я умею,
+只要我还能够看见，
+Пока я дышать умею,
+只要我还能够呼吸，
+Я буду идти вперёд.
+我还将继续前进。
+И снег, и ветер, И звёзд ночной полёт... Меня моё сердце / В тревожную даль зовёт.
+Не надобно нам покою,
+我们从不需要平静，
+Судьбою счастлив такою.
+这样的命运很美好。
+Ты пламя берёшь рукою,
+你手中紧握着火焰
+Дыханьем ломаешь лёд.
+用呼吸融化寒冰。
+И снег, и ветер, И звёзд ночной полёт... Меня моё сердце / В тревожную даль зовёт.
+И так же, как в жизни каждый,
+就如同每个人一样，
+Любовь ты встретишь однажды.
+你也会遇见个姑娘。
+С тобою, как ты, отважно
+勇敢无畏，像你一样
+Сквозь бури она пойдёт.
+陪你穿过风和浪。
+И снег, и ветер, И звёзд ночной полёт... Меня моё сердце / В тревожную даль зовёт.
+
+word|meaning|note
+-|-|-
+пе́сня     |song   |f
+о         |about, of, on|+prep.case
+трево́жный |anxious, disturbing|a. (f.prep: трево́жной; f.acc:трево́жную) 词源 трево́га (f. alarm,anxiety) + -ный (-ish)
+мо́лодость |youth  |f. (prep: мо́лодости)
+забо́та    |care   |f. (cog. en.keep) (pl.gen:забо́т)
+у         |prep. for to have; by,at|+gen.
+нас       |gen, acc, prep. of мы
+просто́й   |simple  |(f.nom:проста́я)
+наш       |our,ours|(f/n.nom:на́ша)
+тако́й     |such,suchlike|attr: f.nom. така́я, f.inst. тако́ю
+жить      |live |(f.sing.past.indic.imperf. жила́) (PIE:*gʷeyh₃-; vivo; bio-; zoo-)
+бы        |使动词成条件、虚拟（前或后加动词过去时）
+страна́    |country;region|f. (PIE.*sterh₃-; strato-; street; strategy; sterno-)
+родно́й    |native  |f.nom:родна́я; etym: род(PIE *wréh₂ds; root; la.radix(→radish, radix, eradicate, radical))+ -ной(-ish)
+и         |也, and, both... and...
+не́ту      |没有|+gen
+друго́й    |other|pl.gen:други́х
+снег      |snow| m (PIE*snóygʷʰos; snow)
+ве́тер     |wind|m (PIE*h₂weh₁-; wind, vent-, fan)
+звезда́    |star|f (pl.gen:звёзд)
+ночно́й    |of night, nocturnal| etym: ночь(PIE*nókʷts; la.nox; night)
+полёт     |flight|m
+меня́      |gen/acc. DaN я
+моё       |n.nom. DaN мой
+се́рдце    |heart|n (PIE*ḱr̥d-; heart, core)
+в         |(+acc)to,into; (+prep.)in,at
+даль      |distance|f; nom/acc:даль
+звать     |to call, to invite|(3.sing:зовёт)
+пуска́й    |= пусть
+нам       |dat. D. мы 
+с         |with(+inst)
+тобо́й     |inst. D ты | also тобо́ю (poetic)
+о́ба       |both|(m/n.dat:обо́им)
+беда́      |misfortune| f. (etym:*bʰeydʰ-; faith, bide)  (inst.sing. бедо́ю)
+грози́ть   |to threaten, to face| (3.sing.pres. грози́т)
+за        |beyond(+inst.)
+но        |but | (etym:*nu;now;la.nunc)
+дру́жба    |friendship|f. (sing.acc. дру́жбу) (etym: друг 'friend' (*dʰrewgʰ-; dream; drudge; de.Betrug) + (-ьба, '抽象名词') )
+мою́       |f.acc.sing. D мой
+оди́н      |one|(f.sing.nom:одна́)
+то́лько    |only
+смерть    |death|f.
+взять     |to take |3.sing.future.indic.perfective:возьмёт
+пока́      |solange,while|
+ходи́ть    |go,walk| etym: PIE*sed-, sit, sedentary, possess, reside
+уме́ть     |to be able to| attr: 1.sing.уме́ю; etym: \*umъ (PIE\*men-, mind, mental, -mania)+‎ *-ěti (to be, to become)
+гляде́ть   |to look|
+дыша́ть    |to breathe
+быть      |to be; to form futu. tense| attr: 1.sing. бу́ду
+идти́      |to go |etym: PIE*h₁ey-, la.eo, exit, init
+вперёд    |forward
+на́добно   |it is necessary
+поко́й     |calm, peace|attr: m, sing.dat/partitive. поко́ю
+судьба́    |fate |attr: f, sing.inst. судьбо́ю
+счастли́вый|happy,lucky| attr: m.short. сча́стлив
+пла́мя     |flame|attr: n.acc.пла́мя
+брать     |to take|attr: 2.sing. берёшь
+рука́      |hand|attr: f, sing.inst. руко́ю
+дыха́нье   |breath|attr: n, sing.inst. дыха́ньем 
+лома́ть    |to break|attr: 2.sing.лома́ешь
+лёд       |ice|attr: acc.лёд
+так       |adv. so|
+же        |particle. very, same| etym: PIE*gʰi, la.hic
+как       |how, like, as | etym:PIE*kʷ-
+жизнь     |life|attr: f, pl.nom. жи́зни, sing.gen. жи́зни, sing.dat. жи́зни, pl.acc. жи́зни, prep.sing. жи́зни
+ка́ждый    |a. every | attr: acc.sing. ка́ждый
+любо́вь    |love |attr: f
+встре́тить |to meet | attr: pf., 2.sing.futur.встре́тишь
+одна́жды   |one day| etym: оди́н +‎ -жды (times)
+отва́жно   |bravely | etym: отва́жный (brave) + -о (a→ad)
+сквозь    |through| attr:+acc.
+бу́ря      |tempest| attr: ap.acc.бу́ри
+пойти́     |to go, walk| attr: 3.sing.future. пойдёт
