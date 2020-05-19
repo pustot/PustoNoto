@@ -9682,7 +9682,7 @@ ru"bella n.风疹
 
 ,bili"rubin n.胆红素{bile胆汁，坏脾气，愤怒[English]}
 
-## rupt=break, 表示”断裂”; #从rupt"break"[Latin]
+## rupt=break, 表示”断裂”; la. rumpo, rumpere, prp. rumpens, pp. ruptus
 
 rupture n 破裂,断绝(rupt+ure)
 
@@ -9707,6 +9707,8 @@ eruption n 爆发(erupt+ion)
 interrupt v 打断(inter 在…中间+rupt=在[讲话]中间打断)
 
 interruption n 打断,插嘴(interrupt+ion)
+
+rout n/v 溃败，击溃
 
 
 
@@ -10157,6 +10159,12 @@ estate /2/n.房地产(real estate)，财产，地位，所有权
 armistice /1/n.停战，休战书
 
 superstition /3,1/n.迷信
+
+## PIE *skabʰ- (“to scratch”); Gmc. *skabaną; la. scabere
+
+shave v
+
+scabrous a 表面粗糙的，淫秽的
 
 ## 从s-l-m"和平，顺从"[Arabic]
 

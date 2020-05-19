@@ -12,6 +12,9 @@ Taking notes of knowledge, especially those learned and utilized only occasional
     - C8 统计学
         - C81 统计方法
             - C819 统计技术设备
+        - C83 世界各国统计资料
+            - C831 世界
+            - C832 中国
 - D 政治、法律
 - E 军事
 - F 经济
