@@ -134,6 +134,7 @@ Taking notes of knowledge, especially those learned and utilized only occasional
     - O1 数学
         - O15 代数、数论、组合理论  
             - O158 离散数学
+        - O21 概率论与数理统计
         - O24 计算数学  
             - O241 数值分析
     - O3 力学
