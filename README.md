@@ -2,6 +2,10 @@
 
 Taking notes of knowledge, especially those learned and utilized only occasionally but significant, as concise and logical as possible. 笔记，尤其记录重要但不常学用的知识，尽量简明有序。
 
+# 一些传统
+
+pdf个人笔记用12号红褐色华文隶书。
+
 # 相关中图法分类号
 
 - A 马克思主义、列宁主义、毛泽东思想、邓小平理论
@@ -32,6 +36,9 @@ Taking notes of knowledge, especially those learned and utilized only occasional
     - H0 语言学
         - H02 文字学
     - H1 汉语
+        - H17 方言
+            - H172 北方话（官话方言）
+                - H172.1 北方方言（华北官话）
     - H2 中国少数民族语言
         - H212 蒙古语
         - H214 藏语
@@ -193,6 +200,11 @@ Taking notes of knowledge, especially those learned and utilized only occasional
 - U 交通运输
     - U4 公路运输
         - U46 汽车工程
+            - U463 汽车结构部件
+                - U463.6 电气设备及附件
+                    - U463.62 电线、电线接头、线路布置
+            - U467 汽车试验
+                - U467.4 参数测定的仪器及技术
 - V 航空、航天
 - X 环境科学、安全科学
 - Z 综合性图书
