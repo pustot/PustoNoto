@@ -2718,6 +2718,12 @@ dormancy n 休眠,蛰伏(dorm+ancy)
 
 "paradox n.悖论{para旁边，异常，错误}
 
+## δρᾰ́κων; draco
+
+dragon
+
+draconian a 严苛（法律）（来自一个叫 Draco 的立法者很严苛）
+
 ## duc,duct=lead,bring,表示”引导,带来”
 
 duct n 管,导管
@@ -4526,24 +4532,6 @@ aggrieve v 使烦恼,伤心(ag 增加+grieve 加重=烦恼)
 
 grievance n 牢骚,苦水(griev 悲伤+ance=说悲伤的话=牢骚)
 
-## greg=group,表示”群体”
-
-gregarious a 群居的, 爱社交的(greg+arious 爱…的=爱群体的)
-
-aggregate v 合计,聚集(ag 增加+greg+ate=增加团体=聚集) 
-
-aggregation n 聚集物(aggregate+ion)
-
-congregate v 聚 集 (con 共 同 +greg+ate= 共 同 集 会 ) 
-
-disaggregate v 分解,分离(dis 分+aggregate 聚合=聚合的东西分开=分解)
-
-egregious a 过分的,不寻常的(e 出+greg+iuos=出了一般团体=过分的)
-
-segregate v 分开,隔离(se 分开+greg+ate=和群体分开) 
-
-segregation n (种族)隔离(segregate+ion)
-
 ## gress=.go,walk,表示”行走”
 
 aggression n 侵略,攻击(ag 再=gress+ion=走了还走=攻击侵略)
@@ -4815,6 +4803,32 @@ exaggerate v (ad(“to, toward”)+‎gerere(“to carry”),添油加醋太多h
 *de. Amt 机关、部门*
 
 ambassador n 大使 (la. ambactus 借高卢语但构词逻辑同 la. ambi + agere)
+
+## PIE *h₂ger- 聚集
+
+### *h₂ger- 的后代： el. ἀγείρω 
+
+panegyric n 颂词、颂文（pan-，即大家聚集一堂，表达赞颂）
+
+agora n 集会
+
+### *h₂ger- 的后代： la. grex 一群小动物
+
+gregarious a 群居的, 爱社交的(greg+arious 爱…的=爱群体的)
+
+aggregate v 合计,聚集(ag 增加+greg+ate=增加团体=聚集) 
+
+aggregation n 聚集物(aggregate+ion)
+
+congregate v 聚 集 (con 共 同 +greg+ate= 共 同 集 会 ) 
+
+disaggregate v 分解,分离(dis 分+aggregate 聚合=聚合的东西分开=分解)
+
+egregious a 过分的,不寻常的（ex grege，超出群体）(e 出+greg+iuos=出了一般团体=过分的)
+
+segregate v 分开,隔离(se 分开+greg+ate=和群体分开) 
+
+segregation n (种族)隔离(segregate+ion)
 
 ## her,hes=stick,表示”粘附”; 从herit,hered"继承人"[Latin]; la. haerēre prp. haerens 粘附、紧贴; la. haesitāre prp. haesitans pp. haesitatus (haereō + -titō (frequentative)) ; Gmc. cf. Gothic 𐌿𐍃𐌲𐌰𐌹𐍃𐌾𐌰𐌽 (usgaisjan, “吓唬”, 字面义 “（用恐惧）定住”)
 
@@ -6254,6 +6268,8 @@ excursive n 离题的,散漫的(ex+curs+ive=[思想]跑出去,里离题的)
 
 precursor n 先驱,先兆(pre+curs+or=先跑者=先驱) 
 
+discursive a 东拉西扯的
+
 course n 路程,课程
 
 concourse n 汇合,合流(con 共同+course=共同跑=汇合) 
@@ -6420,17 +6436,17 @@ elegance n 优雅,漂亮(elegant 的名词)
 
 elite n 精英人物(e 出+lite[=lig 选]=选出的[人物]=精英人物
 
-"lecture n.演讲，讲课
+lecture /1/ n.演讲，讲课
 
-"legion n.军团，众多人a.众多
+legion /1/ n.军团，众多人a.众多
 
-a'lexia n.失读症
+alexia /2/ n.失读症
 
-"lexicon n.词汇，词典
+lexicon /2/ n.词汇，词典
 
-,lexi"cography n.词典编纂，词典学
+lexicography /3,1/ n.词典编纂，词典学
 
-"lexigram n.图形字，符号字
+lexigram /1/ n.图形字，符号字
 
 ## leg,legis=law,表示”法律”
 
@@ -6562,13 +6578,13 @@ relinquish v 放弃,防开(re 远+linqu+ish=远离=放弃:re 表示”远”,如
 
 ## 从litho"石头"[Greek]
 
-"nephrolith n.肾结石
+nephrolith /1/ n.肾结石
 
-li"thotomy n.切石术{tom切}
+lithotomy /2/ n.切石术{tom切}
 
-"lithium n.锂{多见于石}
+lithium /1/ n.锂{多见于石}
 
-"litho,sphere n.岩石圈
+litho,sphere /1,3/ n.岩石圈
 
 ## loc=place,表示”地方”
 
@@ -6820,9 +6836,9 @@ Ursa Major 大熊座{big bear}
 
 ## mal-表示”坏,恶”(亦作 male); #从malum"apple"[Latin]从melon[Greek，不明其源]
 
-"malic a.苹果的(e.g. malic acid)
+malic /1/ a.苹果的(e.g. malic acid)
 
-"melon n.甜瓜{罗马尝以苹果泛指各果}
+melon /1/ n.甜瓜{罗马尝以苹果泛指各果}
 
 mal- 坏，错误{神话，金苹果引特洛伊战争}
 
@@ -6882,11 +6898,11 @@ maintain v 维持(main tain拿=拿住,留住=维持)
 
 ## man, maun= hand,表示”手”; man,manda"手"[Latin]
 
-"mandate n.命令，委托书
+mandate /1/ n.命令，委托书
 
-"manicure n.v.修指甲{cure修正}
+manicure /1/ n.v.修指甲{cure修正}
 
-e"mancipate vt.释放，解放
+emancipate /2/ vt.释放，解放
 
 manage v 办理,管理(man+age=用手做=引申为管理) 
 
@@ -6934,7 +6950,7 @@ demarcation n 边界,分界(demarcate+ion
 
 ## marin=sea,表示”海洋”; #从mare"sea"[Latin]
 
-"mermaid n.美人鱼{maid少女}
+mermaid /1/ n.美人鱼{maid少女}
 
 mare n.月海，(异源n.母马)
 
@@ -6958,7 +6974,7 @@ marinate v 用盐水泡(marin+ate=放在海水中
 
 ## matern, matr= mother, 表示”母性,母亲” ; #从mater"mother"[IE]
 
-,alma "mater n.母校{来自罗马人尊称谷物女神、自然女神。盖颂母亲般营养滋润。alma滋养}
+alma mater /3,1/ n.母校{来自罗马人尊称谷物女神、自然女神。盖颂母亲般营养滋润。alma滋养}
 
 maternal a 母亲的,母性的(matern+al) 
 
@@ -6980,11 +6996,11 @@ ma"terial n.物质
 
 ## 从mazo"breast"[Greek]
 
-"amazon n.高大强壮女，Amazon{a-无}
+amazon /1/ n.高大强壮女，Amazon{a-无}
 
-ma"zology n.乳腺学
+mazology /2/ n.乳腺学
 
-mazo"plasia n.乳腺增生{plas,生成物}
+mazoplasia /3/ n.乳腺增生{plas,生成物}
 
 ## 从mel"蜜"[Latin]
 
@@ -8332,7 +8348,7 @@ pan-, pant-, panto-, panta- 所有
 
 pan-american 泛美的
 
-panegyric颂词,颂扬(pan egyr聚集 ic=聚集一堂=颂扬(国王))
+panegyric n 颂词,颂扬(pan egyr聚集 ic=聚集一堂=颂扬(国王))
 
 pansophic 全知的(pan soph智慧=ic=智慧广=都知道)
 
@@ -10370,7 +10386,7 @@ specimen n 样本,标本(speci+men 物品)
 
 conspecific a 同种的(con 共同+specific)
 
-specious a 似是而非的(外观相似,而实质不是)
+specious /1 i:/ a 似是而非的(外观相似,而实质不是)
 
 ## spect, spic= look, see,表示”看”
 
@@ -12588,6 +12604,6 @@ ko"ala n.考拉{"不喝水"言可从桉树叶摄取所需90%水。}
 
 ## 杂从Coptic
 
-a"dobe n.灰质粘土，土墙，风干砖泥砖之屋{tobe"brick"}
+adobe /2/ n.灰质粘土，土墙，风干砖泥砖之屋{tobe"brick"}
 
 
