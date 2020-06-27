@@ -11,7 +11,7 @@
 - 部分用「"」「,」标了主重音和次重音，为了方便检索正在逐步改到用 /x/ 表示第一个音节重音，需要特别注发音的用/abc/ 注明发音是abc
 - 词源信息主要根据维基词典整理，并参考欧路上的《英语词根词源记忆词典》、《摩西英语》、李平武《英语词根与单词的说文解字》部分内容。
 
-20191204 扩展自 la. centrum
+2020-0627 扩展自未记录
 
 # A
 
@@ -345,17 +345,17 @@ apricot /1/n.杏，杏树（al-birquq早熟的（苹果））
 
 alembic /2/n.造酒用蒸馏罐
 
-"alchemy n.炼金术
+alchemy /1/ n.炼金术
 
-"albatross n.信天翁
+albatross /1/ n.信天翁
 
-"algorithm n.算法{来自al-Khwarizmi花剌子模}
+algorithm /1/ n.算法{来自al-Khwarizmi花剌子模}
 
-"alcohol n.乙醇，酒精{al-kuhl"fine powder"→"powdered antimony"→熏蒸加冷凝以得细粉→酒精}
+alcohol /1/ n.乙醇，酒精{al-kuhl"fine powder"→"powdered antimony"→熏蒸加冷凝以得细粉→酒精}
 
 alcoholic /3,1/a.含酒精，酗酒n.酗酒者
 
-"alcoholism n.酒精中毒，酗酒
+alcoholism /1/ n.酒精中毒，酗酒
 
 workaholic /3,1/n.工作狂
 
@@ -365,7 +365,7 @@ alma mater /3,1/n.母校
 
 (同源)old a.老
 
-"aliment n.滋养品，食物
+aliment /1/ n.滋养品，食物
 
 ## alt=high,表示”高”
 
@@ -383,9 +383,9 @@ exalted a 高贵的,被赞扬的
 
 ## alter, altern, ali=other, to change, 表示”其他的,改变状态”; 从ali"其他，另外"
 
-"alias n.别名，化名
+alias /1/ n.别名，化名
 
-"alibi n.不在场证明
+alibi /1/ n.不在场证明
 
 alter 变更,改变(alter 其他的=变成(其它的))
 
@@ -417,11 +417,11 @@ enmity 敌意,仇恨(en 进入+am+ity=合成enmity,爱太多的成为恨)
 
 ## 从ambul"行走，四处移动"[Latin]
 
-"ambulance n.救护车
+ambulance /1/ n.救护车
 
-pre"amble n.前言，开场白
+preamble /2/ n.前言，开场白
 
-"ramble vi.n.漫步，漫游，漫谈
+ramble /1/ vi.n.漫步，漫游，漫谈
 
 somnambulate /2,4/v.梦游{somn"睡眠"[Latin]}
 
@@ -603,35 +603,35 @@ antibacterial 抗菌的(anti+bacterial 细菌的)
 
 antibody 抗体(anti+body 身体)
 
-"anthem n.圣歌，赞美诗{antefana,antiphona"对歌，回应，诗句"}
+anthem /1/ n.圣歌，赞美诗{antefana,antiphona"对歌，回应，诗句"}
 
 national anthem n.国歌
 
-"antonym n.反义词
+antonym /1/ n.反义词
 
 antarctic /2/a.南极的
 
 ## 从aqua"water"[Latin]
 
-,aquama"rine n.海蓝宝石，蓝绿色
+aquamarine /4,1/ n.海蓝宝石，蓝绿色
 
-a"quarium n.水族馆
+aquarium /2/ n.水族馆
 
-A"quarius n.宝瓶座，水瓶座
+Aquarius /2/ n.宝瓶座，水瓶座
 
-"aquanaut n.深海观察员，水下作业员
+aquanaut /1/ n.深海观察员，水下作业员
 
 aqua regia n.王水
 
 ## arch, archy=ruler, rule, chief, 表示”统治者,统治,主要的”
 
-"autarchy n.专制，独裁
+autarchy /1/ n.专制，独裁
 
-"hierarchy n.等级制度，阶级特权，僧侣统治{hier"神圣"[Greek]}
+hierarchy /1/ n.等级制度，阶级特权，僧侣统治{hier"神圣"[Greek]}
 
-"Heptarchy 七国时代(不列颠){hept"seven"[Greek]}
+Heptarchy /1/ 七国时代(不列颠){hept"seven"[Greek]}
 
-"monarch n.帝王，元首
+monarch /1/ n.帝王，元首
 
 anarchy 无政府状态(an 无+archy)
 
@@ -675,17 +675,17 @@ artificial /3,1/ a.人工人造，武断
 
 ## 从arm"武器，战争装备"[Latin]
 
-"army n.军队
+army /1/ n.军队
 
-a"larm n.vt.警报{古法语a l'arme}
+alarm /2/ n.vt.警报{古法语a l'arme}
 
-,arma"dillo n.犰狳{着甲様}
+armadillo /3,1/ n.犰狳{着甲様}
 
-"armor n.盔甲，装甲
+armor /1/ n.盔甲，装甲
 
-"armory n.军械库，兵工厂
+armory /1/ n.军械库，兵工厂
 
-ar"mada n.舰队，机群，编队
+armada /2/ n.舰队，机群，编队
 
 ## -ary
 
@@ -741,15 +741,15 @@ distributary n 支流(distribute 分配,分发)
 
 ## 从astr"星星"[Greek]
 
-"astronaut n.宇航员
+astronaut /1/ n.宇航员
 
-as"tronomer n.天文学家{nomos"安排，管理"[Greek]}
+astronomer /2/ n.天文学家{nomos"安排，管理"[Greek]}
 
-di"saster n.灾难{不详星象}
+disaster /2/ n.灾难{不详星象}
 
-"asterisk n.星号*
+asterisk /1/ n.星号*
 
-"astral a.星的，星界的
+astral /1/ a.星的，星界的
 
 ## -ate
 
@@ -977,15 +977,15 @@ subaudition n 言外之意
 
 ## 从aut,auto"自己"[Greek]
 
-"autarchy n.专制，独裁
+autarchy /1/ n.专制，独裁
 
-"autism n.自闭症，孤独症
+autism /1/ n.自闭症，孤独症
 
-"automobile n.汽车
+automobile /1/ n.汽车
 
-,autobi"ography n.自传{bio"life",graph"write"}
+autobiography /4o,1/ n.自传{bio"life",graph"write"}
 
-au"tonomous a.自治的
+autonomous /2/ a.自治的
 
 ## a孤立词
 
@@ -1027,15 +1027,15 @@ isobar /1/ n.等压线，同量异位素
 
 ## 从barb"胡须"[Latin]
 
-"barber n.理发师
+barber /1/ n.理发师
 
-"barbel n.触须
+barbel /1/ n.触须
 
 barb n.倒钩，倒刺，刻薄之语
 
-re"barbative a.厌烦，讨厌，难看
+rebarbative /2/ a.厌烦，讨厌，难看
 
-Barba"rossa 巴巴罗萨{rossa源同ruby，盖红胡子也。}
+Barbarossa /3/ 巴巴罗萨{rossa源同ruby，盖红胡子也。}
 
 ## 从barra"bar,barrier"
 
@@ -1081,13 +1081,13 @@ embalm v 保存尸体,铭记(em 进入+balm=古人用香油等保存尸体,引�
 
 diabetes /3be,1/n.糖尿病{夹紧双腿走路也，言其多尿}
 
-"acrobat n.杂技演员{acro"高出，顶点"[Greek]，走钢丝也}
+acrobat /1/ n.杂技演员{acro"高出，顶点"[Greek]，走钢丝也}
 
-,acro"batics n.杂技，技巧
+acrobatics /3,1/ n.杂技，技巧
 
-a"nabasis n.远征，进军{ana-"向前，向上"}
+anabasis /2/ n.远征，进军{ana-"向前，向上"}
 
-(反)ca"tabasis n.军事撤退，临床缓解期
+(反)catabasis /2/ n.军事撤退，临床缓解期
 
 ## be-
 
@@ -1149,13 +1149,139 @@ benign a 良性、仁慈（bene "well" (see bene-) + gignere "to bear, beget," f
 
 ## 从bheug"to bend"[IE]
 
-"bowyer n.制弓匠
+bowyer /1/ n.制弓匠
 
-"bagel n.硬面包圈
+bagel /1/ n.硬面包圈
 
-"buxom a.体态丰满的
+buxom /1/ a.体态丰满的
 
 bog n.沼泽
+
+## PIE *bʰer- "to bear, carry"，携带、负担
+
+bear v
+
+birth
+
+forbear v 忍耐、克制
+
+overbear v 压服、克服
+
+overbearing a 专横的、飞扬跋扈的（给人威压、负担）
+
+de.-bar (-able)
+
+burden n/v 负担
+
+barrel n 桶、琵琶桶
+
+barrow n 两轮手推车
+
+bring
+
+### PIE *bʰer- 的后代：φέρω (phérō)，携带、负担、带来
+
+metaphor n 隐喻（meta- "变"，μετᾰφορᾱ́  =  μεταφέρω (metaphérō, “to transfer”) +‎ -η (-ē)，转移也）
+
+anaphora n 首语重复（carrying back）
+
+electrophoresis n 电泳
+
+semaphore n 旗语（sema- "标志、信号" phoros "承载着"）
+
+### PIE *bʰer- 的后代：ferō, ferre, ferēns, lātus, 携带、支撑; (fer=bring,carry,表示”带来,拿来”; 从fer"携带，生产，承担"[Latin]); fertus, 多产的
+
+ferry v 渡运n. 渡口,渡船(fer+ry=带来带去的东西=渡船) 
+
+confer v 协商,谈判(con 共同+fer=共同带来观点=协商) 
+
+conference n 商量,会议(confer+ence)
+
+conferment n 给予(con 共同+fer 带+ment=共同带来的东西= 给予(奖品等))
+
+offer v 提供,提出(of 一再+fer=一再带来=提供) 
+
+offering n 提供物,祭品(offer+ing)
+
+conifer n 针叶树(coni 松果+fer=带来松果的树=针叶树) 
+
+coniferous a 松柏科的(conifer+ous)
+
+odoriferous a 有气味的(odori 气味+fer+ous=带来气味) 
+
+floriferous a 有花的(flori 花+fer+ous)
+
+aquiferous a 含水的(aqui 水+fer+ous)
+
+circumference n 四周,周围(circum 环境+fer+ence_=带来环绕=周围)
+
+defer v 延期,敬从(de 坏+fer=带来坏=延期,de 强调+fer=一再带来敬意)
+
+deferment n “延期(注意deference,不同的名词不同的意思)” 
+
+deference n 尊敬(defer+ence)
+
+differ v 不同(dif 分开+fer=分开带=不同) 
+
+difference n 不同,争论(differ+ence)
+
+differentiate v 使有差别,分化(differernt+iate=不同化) 
+
+infer v 推理,推断(in 进入+ fer=带进[意义]=推断) 
+
+inferable a 可推知的(infer+albe)
+
+inferential a 推理的(infer+ent+ial)
+
+indifferent a 冷漠的,不关心的(in 不+different 不同=同与不同无所谓=冷漠的)
+
+prefer v 更喜欢(pre 预先+fer=预先带好=更喜欢)
+
+preference n 偏爱,优先权(prefer+ence)
+
+proffer v 提供,贡献(pro 向前+ffer[=fer]+带向前=贡献出) 
+
+refer v 提到,指点(re 再次+fer=再次带来=提到)
+
+referable a 可归因于…的(refer+able=能提到的=能找到原因的)
+
+reference n 参考,引证(refer+ence)
+
+referee n 裁判员(refer+ee 表示人=被[双方]提出的人=裁判) 
+
+referendum n 公民投票选举(refer+endum 表名词=提出(候选人)=选举)
+
+suffer v 受苦,经受(suf 在下面+fer=带到下面=受苦)
+
+sufferable a 可忍受的(suffer+able)
+
+transfer v 转送,转移(trans 交换+fer=交换带走=转移)
+
+transferable a 能转让的(transfer+able)
+
+fertile a 肥沃的,多产的(fert[=fer]+ile=能带来粮食=肥沃的) 
+
+fertility n 肥沃,多产(fertile+ity)
+
+fertilize v 施肥,受精(fertile+ize 表动词=施肥带来粮食)
+
+fertilizer n 肥料(来自 fertilize)
+
+### PIE *bʰer- 的后代：la. fors，幸运、机会
+
+fortune n 运气,财富(fort une)
+
+fortuitous a 偶然的(fortuitous=靠运气=没有必然性=偶然的)
+
+misfortune n 不幸,灾祸(mis坏 fortune运气=坏运气)
+
+unfortunate a 不幸的(un不 fortune ate=运气不好)
+
+### PIE *bʰer- 的后代：la. fūr，小偷
+
+ferret n/v 雪貂（用于捕兔捕鼠），搜寻
+
+furtive a 偷偷摸摸的
 
 ## PIE *bʰeyd- 劈开
 
@@ -1270,11 +1396,11 @@ encamp v 宿营(en 进入+camp 营地)
 
 campaign n 战役(camp+aign 名词后缀=营地=战役)n.战役，运动，游说
 
-"champion n.冠军{campio"角斗士"[Latin]} 
+champion /1/ n.冠军{campio"角斗士"[Latin]} 
 
-"champerty n.帮诉，包揽诉讼罪{campus+part帮诉即为获得部分土地}
+champerty /1/ n.帮诉，包揽诉讼罪{campus+part帮诉即为获得部分土地}
 
-,cham"pagne n.香槟酒{来自香槟省，义open country空旷土地、田野}
+champagne /2,1/ n.香槟酒{来自香槟省，义open country空旷土地、田野}
 
 ## la. candere 发光、变白
 
@@ -1354,11 +1480,11 @@ enchant v 迷住
 
 ## cap, capt, cept,ceive, cip, cup=take, hold, seize, 表示” 拿,抓,握住”; 从cap,cip"抓住，取得，包含"[Latin]
 
-"capable a.有能力
+capable /1/ a.有能力
 
-"capsule n.胶囊
+capsule /1/ n.胶囊
 
-"concept n.概念
+concept /1/ n.概念
 
 capacity 容量,才能(cap+acity=拿住的能力=容量,才能)
 
@@ -1440,19 +1566,19 @@ preoccupation 全神贯注
 
 ## 从cap,cip,chef"头"[Latin]
 
-es"cape v.逃{cape义似斗篷}
+escape /2/ v.逃{cape义似斗篷}
 
 cape n.海角，披肩
 
-"capital n.首府，大写，资本a.首要的
+capital /1/ n.首府，大写，资本a.首要的
 
-"captain n.船长，队长
+captain /1/ n.船长，队长
 
 chief a.主要的，首席的n.首领
 
-"cattle n.牛，牲畜
+cattle /1/ n.牛，牲畜
 
-"mischievous a.顽皮，淘气
+mischievous /1/ a.顽皮，淘气
 
 chaperon /'ʃæpərɔn/ n (在社交场所陪伴未婚少女的)女监护人
 
@@ -1550,11 +1676,11 @@ caustic /1/a.腐蚀性，刻薄
 
 ## 从caval"horse"[Latin]
 
-,cava"lier n.骑士、护花使者a.傲慢
+cavalier /3,1/ n.骑士、护花使者a.傲慢
 
-"cavalry n.骑兵（队）
+cavalry /1/ n.骑兵（队）
 
-"cavalryman n.骑兵
+cavalryman /1/ n.骑兵
 
 ## 从cavea"笼子"[Latin]
 
@@ -1564,7 +1690,7 @@ cage n.笼子
 
 cave n.洞穴
 
-"decoy n.诱饵v.引诱
+decoy /1/ n.诱饵v.引诱
 
 ## ced, ceed, cess=go,表示”行走,前进”
 
@@ -1782,11 +1908,11 @@ secret 秘密的(se 分开+cret 区别=分开来放=秘密的)
 
 ## 从chron"时间"[Greek]
 
-"synchronize v.(使)同时
+synchronize /1/ v.(使)同时
 
-"chronicle n.编年史
+chronicle /1/ n.编年史
 
-"chronic a.慢性的
+chronic /1/ a.慢性的
 
 ## 从chrys"金色"[Greek]
 
@@ -1868,21 +1994,21 @@ reclamation 收复,矫正
 
 ## 从climo"倾向，斜坡，倚靠"[Greek]
 
-"climax n.顶点，高潮
+climax /1/ n.顶点，高潮
 
-"client n.当事人，委托人，客户
+client /1/ n.当事人，委托人，客户
 
 lean n.倾斜，倾斜度v.倚靠，依赖
 
-in"cline n.倾斜，斜坡v.倾向，倾斜
+incline /2/ n.倾斜，斜坡v.倾向，倾斜
 
-,incli"nation n.趋向，趋势，偏爱
+inclination /3,1/ n.趋向，趋势，偏爱
 
 lid n.盖
 
-"ladder n.梯子
+ladder /1/ n.梯子
 
-"climate n.气候
+climate /1/ n.气候
 
 ## clos, clud, clus=close,表示”关闭”
 
@@ -1928,13 +2054,13 @@ occlusion n 堵塞(oc+clus+ion)
 
 ## coct= cook,表示”煮,调配”; #从coqu-,cocu-,coc-"准备，烹调，成熟"[Latin]
 
-"apricot n.杏，杏树{al-pre-coqu-，早熟（的苹果）}
+apricot /1/ n.杏，杏树{al-pre-coqu-，早熟（的苹果）}
 
 cook n.厨师v.烹调
 
-cui"sine n.菜肴，烹调法
+cuisine /2/ n.菜肴，烹调法
 
-"kitchen n.厨房
+kitchen /1/ n.厨房
 
 concoct v 编造,虚构(con 全部+coct=全部是调配出来的=编造)
 
@@ -2106,7 +2232,7 @@ mobocracy n 暴民统治(mob 暴民+o+cracy)
 
 mobocrat n 暴民首领(mob 暴民+o+crat
 
-"aristocrat n.贵族{aristo"best"[Greek]}
+aristocrat /1/ n.贵族{aristo"best"[Greek]}
 
 ## cre,creas=grow,make,表示”增长,产生” 
 
@@ -2170,21 +2296,21 @@ recreant a/n 不忠、怯懦（者）（O.Fr. re+croire, "take back one's pledge
 
 ## 从creta"白垩，白粉笔"[Latin]
 
-"crayon n.蜡笔
+crayon /1/ n.蜡笔
 
-Cre"taceous n.白垩纪
+Cretaceous /2/ n.白垩纪
 
 ## 从cri,crit,cris"分开，判断，决定"
 
-"crisis n.危机{初为病情急转期}
+crisis /1/ n.危机{初为病情急转期}
 
-cri"terion n.标准
+criterion /2/ n.标准
 
-"critic n.评论家
+critic /1/ n.评论家
 
-"critical a.评论的，紧要的
+critical /1/ a.评论的，紧要的
 
-self-"criticism n.自我批评
+self-criticism /2/ n.自我批评
 
 ## 从cruci"十字"[Latin]
 
@@ -2330,29 +2456,29 @@ bankruptcy n 破产(bankrupt 破产,tupt 断)
 
 ## 从cycl"圆，循环"[Greek]
 
-"Cyclops 希神独眼巨人
+Cyclops /1/ 希神独眼巨人
 
-"bicycle n.自行车
+bicycle /1/ n.自行车
 
-"cyclone n.旋风，气旋
+cyclone /1/ n.旋风，气旋
 
-"motor,cycle n.摩托
+motorcycle /1,3/ n.摩托
 
-,re"cycle v.循环，再利用
+recycle /2,1/ v.循环，再利用
 
 ## 从cyn,kyn"狗"[Greek]
 
-the "Cynosure n.北极星{狗尾。kynosoura. ur"尾"[Greek]}
+Cynosure /1/ n. (the )北极星{狗尾。kynosoura. ur"尾"[Greek]}
 
-"cynosure n.指引物，注意的焦点
+cynosure /1/ n.指引物，注意的焦点
 
-"canine n.a.犬，犬科
+canine /1/ n.a.犬，犬科
 
-"cynic n.愤世嫉俗者,犬儒主义者
+cynic /1/ n.愤世嫉俗者,犬儒主义者
 
-"kennel n.狗舍v.置于/宿于狗舍
+kennel /1/ n.狗舍v.置于/宿于狗舍
 
-ca"nary n.金丝雀{加那利群岛以狗多得名，金丝雀因岛得名}
+canary /2/ n.金丝雀{加那利群岛以狗多得名，金丝雀因岛得名}
 
 
 
@@ -2478,11 +2604,11 @@ truism n 不言自明的真理
 
 tree n.树
 
-be"troth v.同……订婚，许配
+betroth /2/ v.同……订婚，许配
 
-en"dure vt.容忍vi.忍耐，持续
+endure /2/ vt.容忍vi.忍耐，持续
 
-"durable a.耐用，持久
+durable /1/ a.耐用，持久
 
 Durex {DUrable, Reliability, EXellence}
 
@@ -2516,7 +2642,7 @@ dictate v 口授,命令,听写(dict+ate 说话=口授,命令)
 
 dictator n 发命令者,独裁者(dictate+or=发命令者) 
 
-dic"tatress n.女独裁者
+dictatress /2/ n.女独裁者
 
 diction n 措词,词语的选择(dict+ion=说话状态=措词)
 
@@ -2572,19 +2698,19 @@ predicament n 困境,险境(pre 预先+dica 命令+ment=预先命令做=进入�
 
 indite v 撰写,写作(in 进入dite[=dict]=说进去=写进,写作)
 
-"hoosegow n.监狱拘留所{[Spanish]juzgado"法庭"}
+hoosegow /1/ n.监狱拘留所{[Spanish]juzgado"法庭"}
 
-ven"detta n.世仇，宿仇{[Latin]vindicta}
+vendetta /2/ n.世仇，宿仇{[Latin]vindicta}
 
-re"venge n.v.(为了……)复仇{[Latin]vindicare}
+revenge /2/ n.v.(为了……)复仇{[Latin]vindicare}
 
-a"venge vt.为……报复{a-"upon"}
+avenge /2/ vt.为……报复{a-"upon"}
 
-"vengeance n.复仇
+vengeance /1/ n.复仇
 
-"paradigm (ig为长音ai)n.范例，典范，词形变化表
+paradigm /1/ (ig为长音ai)n.范例，典范，词形变化表
 
-ad"diction n.沉迷，成瘾
+addiction /2/ n.沉迷，成瘾
 
 ## demographic
 
@@ -2642,11 +2768,11 @@ androgyne[andro 男人,gyn 女人]具有男妇两性的人,阴阳人
 
 androgynism[andro 男,gyn 女,-ism 表性质状态]半男半女
 
-,Alex"ander 亚历山大{alexein"防御，守护"[Greek]}
+Alexander /3,1/ 亚历山大{alexein"防御，守护"[Greek]}
 
-an"androus a.无雄蕊的，隐花的
+anandrous /2/ a.无雄蕊的，隐花的
 
-"android n.机器人{-oid"同，似"[Greek]}
+android /1/ n.机器人{-oid"同，似"[Greek]}
 
 ## 男-(2)vir
 
@@ -2714,9 +2840,9 @@ dormancy n 休眠,蛰伏(dorm+ancy)
 
 ## 从dox"信仰，观点，信条"[Greek]
 
-"orthodox a.正统的，东正教的
+orthodox /1/ a.正统的，东正教的
 
-"paradox n.悖论{para旁边，异常，错误}
+paradox /1/ n.悖论{para旁边，异常，错误}
 
 ## δρᾰ́κων; draco
 
@@ -2944,29 +3070,29 @@ combination
 
 ### *dwóh₁ 的后代：el. δύο, δι-, δίς
 
-dip"loma n.文凭
+diploma /2/ n.文凭
 
-"diplomat n.外交官
+diplomat /1/ n.外交官
 
-di"plodocus n.梁龙{脖长尾长类双梁}
+diplodocus /2/ n.梁龙{脖长尾长类双梁}
 
-"diglot (i音ai)a.双语的{glot"language,speech"}
+diglot /1/(i音ai)a.双语的{glot"language,speech"}
 
-di"lemma n.左右为难{lemma"前提"}
+dilemma /2/ n.左右为难{lemma"前提"}
 
-"carbon di"oxide
+carbon dioxide /4o,1/
 
 ### *dwóh₁ 的后代：δῐᾰ́  穿、间; 从dia-,di-"来自，跨过，交叉，完全"[Greek]
 
-"diamond n.钻石{mond,mundan"土地，世俗，世界"[Latin]}
+diamond /1/ n.钻石{mond,mundan"土地，世俗，世界"[Latin]}
 
-,diag"nosis n.诊断{gno"know"}
+diagnosis /3o,1/ n.诊断{gno"know"}
 
-"diagram n.图解，图表{gram写}
+diagram /1/ n.图解，图表{gram写}
 
-"dialect n.方言{lect"read"}
+dialect /1/ n.方言{lect"read"}
 
-"dialogue n.v.对话{logue"talk"}
+dialogue /1/ n.v.对话{logue"talk"}
 
 
 
@@ -3002,13 +3128,13 @@ ecotourism /3/n.生态旅游
 
 ## 从edere"eat"[Latin]
 
-o"besity n.肥胖症{吃过多}
+obesity /2/ n.肥胖症{吃过多}
 
-"edible a.可以吃的
+edible /1/ a.可以吃的
 
-e"surient a.贪婪
+esurient /2/ a.贪婪
 
-com"estible a.可以吃的
+comestible /2/ a.可以吃的
 
 ## -ee 表名词,”被动或主动的人” 
 
@@ -3216,13 +3342,13 @@ aqueous a 水的(aqu 水+eous
 
 ## epi-表示”在….上,在….周围,在….后面”; #从epi"在上，中，旁"[Greek]
 
-"epigone n.追随者，模仿者
+epigone /1/ n.追随者，模仿者
 
-"epilepsy n.癫痫
+epilepsy /1/ n.癫痫
 
-"epi,center n.中心，震中
+epicenter /1,3/ n.中心，震中
 
-,epizo"otic n.兽疫a.流行于畜的
+epizootic /4o,1/n.兽疫a.流行于畜的
 
 epidemic 流行性的(epi+dem 人民+ic=在人民周围=流行的)n.传染病a.传染性的
 
@@ -3236,23 +3362,23 @@ epitome 梗概,缩影(epi+tome 卷册=(一卷书后的)梗概
 
 ## 从equ,equi"同，似，平等"[Latin]
 
-e"quator n.赤道
+equator /2/ n.赤道
 
-"Ecuador 厄瓜多尔
+Ecuador /1/ 厄瓜多尔
 
-"equal a.相等，平等v.比得上，等于n.平等，同等之
+equal /1/ a.相等，平等v.比得上，等于n.平等，同等之
 
-e"quality n.平等，均等
+equality /2/ n.平等，均等
 
-e"quation n.等式
+equation /2/ n.等式
 
 ## 从equ,eque,equi"马"[Latin]
 
-,equi"tation n.骑术
+equitation /3,1/ n.骑术
 
-"equine a.马的，骑术的n.马科动物
+equine /1/ a.马的，骑术的n.马科动物
 
-e"querry n.掌马官
+equerry /2/ n.掌马官
 
 ## err=wander,mistake,表示”漫游,犯错误”
 
@@ -3388,13 +3514,13 @@ exothermic 放出热量的(exo+therm 热+ic=热外出=放热
 
 ## eu-表示”好,优秀”
 
-"eulogy n.颂词，颂扬，悼词
+eulogy /1/ n.颂词，颂扬，悼词
 
 eulogize 赞美(eu+log 说+ize=说好话)
 
 euphemism 委婉的词语(eu+phem 讲话+ism=讲好话)
 
-"dysphemism n.粗直语
+dysphemism n/1/ .粗直语
 
 euphonious 声音优美的(eu+phon 声音+ious=声音好听的)
 
@@ -3620,84 +3746,6 @@ offend v 冒犯,得罪(or 一再+fend=一再打击[别人]=得罪)
 
 offensive a 冒犯的(or+fens+ive
 
-## fer=bring,carry,表示”带来,拿来”; 从fer"携带，生产，承担"[Latin]
-
-ferry v 渡运n. 渡口,渡船(fer+ry=带来带去的东西=渡船) 
-
-confer v 协商,谈判(con 共同+fer=共同带来观点=协商) 
-
-conference n 商量,会议(confer+ence)
-
-conferment n 给予(con 共同+fer 带+ment=共同带来的东西= 给予(奖品等))
-
-offer v 提供,提出(of 一再+fer=一再带来=提供) 
-
-offering n 提供物,祭品(offer+ing)
-
-conifer n 针叶树(coni 松果+fer=带来松果的树=针叶树) 
-
-coniferous a 松柏科的(conifer+ous)
-
-odoriferous a 有气味的(odori 气味+fer+ous=带来气味) 
-
-floriferous a 有花的(flori 花+fer+ous)
-
-aquiferous a 含水的(aqui 水+fer+ous)
-
-circumference n 四周,周围(circum 环境+fer+ence_=带来环绕=周围)
-
-defer v 延期,敬从(de 坏+fer=带来坏=延期,de 强调+fer=一再带来敬意)
-
-deferment n “延期(注意deference,不同的名词不同的意思)” 
-
-deference n 尊敬(defer+ence)
-
-differ v 不同(dif 分开+fer=分开带=不同) 
-
-difference n 不同,争论(differ+ence)
-
-differentiate v 使有差别,分化(differernt+iate=不同化) 
-
-infer v 推理,推断(in 进入+ fer=带进[意义]=推断) 
-
-inferable a 可推知的(infer+albe)
-
-inferential a 推理的(infer+ent+ial)
-
-indifferent a 冷漠的,不关心的(in 不+different 不同=同与不同无所谓=冷漠的)
-
-prefer v 更喜欢(pre 预先+fer=预先带好=更喜欢)
-
-preference n 偏爱,优先权(prefer+ence)
-
-proffer v 提供,贡献(pro 向前+ffer[=fer]+带向前=贡献出) 
-
-refer v 提到,指点(re 再次+fer=再次带来=提到)
-
-referable a 可归因于…的(refer+able=能提到的=能找到原因的)
-
-reference n 参考,引证(refer+ence)
-
-referee n 裁判员(refer+ee 表示人=被[双方]提出的人=裁判) 
-
-referendum n 公民投票选举(refer+endum 表名词=提出(候选人)=选举)
-
-suffer v 受苦,经受(suf 在下面+fer=带到下面=受苦)
-
-sufferable a 可忍受的(suffer+able)
-
-transfer v 转送,转移(trans 交换+fer=交换带走=转移)
-
-transferable a 能转让的(transfer+able)
-
-fertile a 肥沃的,多产的(fert[=fer]+ile=能带来粮食=肥沃的) 
-
-fertility n 肥沃,多产(fertile+ity)
-
-fertilize v 施肥,受精(fertile+ize 表动词=施肥带来粮食)
-
-fertilizer n 肥料(来自 fertilize)
-
 ## ferv=boil,表示”沸,热”
 
 fervid a 热情的,热烈的
@@ -3762,9 +3810,9 @@ fiancee /3ee,1/ n.未婚妻
 
 ## 从fier,feroci"狂野，未驯，凶猛"[Latin]
 
-"zebra n.斑马{一说自equiferus野马烈马}
+zebra /1/ n.斑马{一说自equiferus野马烈马}
 
-fe"rocity n.凶猛，残暴，暴行
+ferocity /2/ n.凶猛，残暴，暴行
 
 fierce a.凶猛，激烈
 
@@ -3962,9 +4010,9 @@ superfluity n 过剩,太多(super+flu+ity)
 
 mellifluous a 流畅的,甜美的(melli 甜+flu+=声音甜美流出
 
-"fluctuate v.波动，起伏，使动摇
+fluctuate /1/ v.波动，起伏，使动摇
 
-,fluctu"ation n.波动，起伏
+fluctuation /3a,1/ n.波动，起伏
 
 ## fore-表示”前面,预先”
 
@@ -4214,15 +4262,15 @@ refute v/n 反驳,驳斥(re 反+fule[=fuse]=反流=反驳)
 
 ## 从galact"milk"[Greek]
 
-"galaxy n.星系，一群杰出的人
+galaxy /1/ n.星系，一群杰出的人
 
 the Galaxy n.银河
 
-dysga"lactia n.泌乳障碍
+dysgalactia /3/ n.泌乳障碍
 
 ### galact 的同源：从lact"milk"[Latin]源同galact[Greek]
 
-"lactose n.乳糖
+lactose /1/ n.乳糖
 
 ## gam=marriage,表示”婚姻”
 
@@ -4242,15 +4290,15 @@ gamomania /3/ n.求婚者，求偶癖
 
 ## 从*gheim-"snow,winter"[IE]
 
-Chi"mera 奇美拉(吐火女怪){冬之拟人}
+Chimera /2/ 奇美拉(吐火女怪){冬之拟人}
 
-chi"mera n.奇思妄想，嵌合体
+chimera /2/ n.奇思妄想，嵌合体
 
-,hiber"nation n.冬眠
+hibernation /3,1/ n.冬眠
 
-"hibernate v.冬眠
+hibernate /1/ v.冬眠
 
-(反)"estivate v.夏眠{est夏天}
+(反)estivate /1/ v.夏眠{est夏天}
 
 Himalaya 喜马拉雅山{+alaya"adobe"}
 
@@ -4330,25 +4378,25 @@ benign a 良性、仁慈（bene "well" (see bene-) + gignere "to bear, beget," f
 
 ## 从genu"knee"[Latin]
 
-"genuflect vi.屈膝，（宗教仪式）跪拜，屈从
+genuflect /1/ vi.屈膝，（宗教仪式）跪拜，屈从
 
-ge"nicular a.膝关节的
+genicular /2/ a.膝关节的
 
-,Genu"saurus n.膝龙
+Genusaurus /3,1/ n.膝龙
 
 ## 从geo"土地，地球，土，世界"[Greek]
 
-"geomancy n.土占，(似)风水{mancy预测}
+geomancy /1/ n.土占，(似)风水{mancy预测}
 
-ge"ology n.地质学
+geology /2o/ n.地质学
 
-ge"ography n.地理学
+geography /2o/ n.地理学
 
-geog"raphic a.地理的
+geographic /3a/ a.地理的
 
-"apogee n.远地点
+apogee /1/ n.远地点
 
-"perigee n.近地点
+perigee /1/ n.近地点
 
 ## PIE *gʷerh₃- "to swallow, devour, eat"
 
@@ -4406,17 +4454,17 @@ diglot a 使用两种语言的(di 二个+glot)
 
 ## 从gno"知，辨别"[Greek]
 
-"diagonse v.诊断
+diagnose /1/ v.诊断
 
-"knowledge n.知识，学识
+knowledge /1/ n.知识，学识
 
-"ignorance n.无知，愚昧
+ignorance /1/ n.无知，愚昧
 
-"recognize v.认识到，承认，认可
+recognize /1/ v.认识到，承认，认可
 
-,incog"nito n.a.ad.隐姓埋名，化名
+incognito /3,1/ n.a.ad.隐姓埋名，化名
 
-connois"seur n.鉴定家，内行
+connoisseur /3/ n.鉴定家，内行
 
 ## grad=step,grade,表示”步,级”
 
@@ -4590,11 +4638,11 @@ buffalo n 公牛(βούβαλος)
 
 ## 从gymn"裸体"[Greek]
 
-gym"nastics n.体操，健身术
+gymnastics /2/ n.体操，健身术
 
-gym"nasium n.体育馆，健身房
+gymnasium /2/ n.体育馆，健身房
 
-"gymno,sperm n.裸子植物{sperm种子} 反义词：被子植物 "angiosperm{angio容器}
+gymnosperm /3,1/ n.裸子植物{sperm种子} 反义词：被子植物 "angiosperm{angio容器}
 
 
 
@@ -4648,6 +4696,14 @@ hapless a 运气不好的(hap less无=无运气的)
 
 haphazard a 偶然的,无计划的(hap hazard游戏=运气 游戏=偶然的)
 
+## hash
+
+hash n/vt 回锅肉丁，大杂烩，一团糟，切成小块（、快速做个版本），哈希函数
+
+hash out 解决问题
+
+rehash v 仅在形式上改变（重新切？重新弄个乱糟糟的东西？）
+
 ## PIE *h₂eǵ- "to drive"
 
 podagra n 足痛风（πούς (“foot”) +‎ ἄγρᾱ (“hunting”)）
@@ -4677,6 +4733,10 @@ react 反应,反抗(re 反+act=反动,反应)
 transact 做交易,办理(trans 横+act=横向动=互相贸易或交易)
 
 transaction n 交易
+
+transigent a 妥协的（trānsigō “走向理解”，来自 trans "across"）
+
+intransigent a 不妥协的，固执己见的
 
 counteract 抵抗,抵消(counter 反+act=反着动=力量对抗=抵消)
 
@@ -4746,7 +4806,7 @@ acre
 
 agriculture n (field + cultivation 耕地也)
 
-"pilgrim n.朝圣者{pil同pere"之外，外围",即来自外地}
+pilgrim /1/ n.朝圣者{pil同pere"之外，外围",即来自外地}
 
 ### *h₂eǵ- 的后代：*h₂eḱs- "axis"
 
@@ -4858,15 +4918,15 @@ hereditary a 承袭的,世袭的,遗传的
 
 heritability n 可遗传性,遗传性
 
-in"heritance n.继承，遗传，天赋
+inheritance /2/ n.继承，遗传，天赋
 
 heir (h无音)n.继承人，子嗣
 
-"heirloom (h无音)n.传家宝
+heirloom /1/ (h无音)n.传家宝
 
-"heiress (h无音)n.女继承人
+heiress /1/ (h无音)n.女继承人
 
-"heritage n.遗产(“世界遗产”)，传统
+heritage /1/ n.遗产(“世界遗产”)，传统
 
 *以下同源于 Gothic 𐌿𐍃𐌲𐌰𐌹𐍃𐌾𐌰𐌽 (usgaisjan, “吓唬”, 字面义 “（用恐惧）定住”)*
 
@@ -4904,15 +4964,15 @@ prohibitive a 禁止的,价格极贵的(prohibit 禁止+ive=价格到了禁止�
 
 ## 从hippo"horse"[Greek]
 
-hippo"potamus n.河马{potamo"river"[Greek]}
+hippopotamus /3/ n.河马{potamo"river"[Greek]}
 
-,hippo"campus n.海马体{形似seahorse海马}
+hippocampus /3,1/ n.海马体{形似seahorse海马}
 
-"hippodrome n.赛马场{drome奔跑，竞赛}
+hippodrome /1/ n.赛马场{drome奔跑，竞赛}
 
-"hippomobile n.马拉的车
+hippomobile /1/ n.马拉的车
 
-"Philippines 菲律宾{philo-hippo-ine(suff.)从西班牙国王Philipo}
+Philippines /1/ 菲律宾{philo-hippo-ine(suff.)从西班牙国王Philipo}
 
 ## 从holo"全部"[Greek]
 
@@ -5798,7 +5858,7 @@ initiate v 开始,开创(in+it+iate)
 
 initiative a 起步的n. 原动力(initiate 开始+ive)
 
-"transit n.通过，通行
+transit /1/ n.通过，通行
 
 transitory a 短暂的(trans 交换+it+ory 交换走=你走他来=短暂的)
 
@@ -5814,7 +5874,7 @@ sedition n 叛乱,煽动叛乱(sed[=se 分开]+it+ion=分开走=叛乱)
 
 seditious a 煽动叛乱的(sed+it+ious
 
-o"bituary n.讣告{ob"toward"}
+obituary /2/ n.讣告{ob"toward"}
 
 ## -ite
 
@@ -5896,13 +5956,13 @@ adventitious a 偶然的(advent 来到,来临
 
 ## 从-itis(首i常音ai)"感染，发炎的"[Greek]
 
-ra"chitis n.佝偻病{rach 脊柱}
+rachitis /2/ n.佝偻病{rach 脊柱}
 
-ar"thritis n.关节炎
+arthritis /2/ n.关节炎
 
-car"ditis n.心脏炎
+carditis /2/ n.心脏炎
 
-rhi"nitis n.鼻炎{拓展：rhi"noceros犀牛，字义鼻角}
+rhinitis /2/ n.鼻炎{拓展：rhinoceros /2/ 犀牛，字义鼻角}
 
 ## -itive 表形容词,”…的”
 
@@ -6178,15 +6238,15 @@ injure /1/v.伤害，损害
 
 ## 从juv"年轻"
 
-"junior n.年少者
+junior /1/ n.年少者
 
 young a.年轻
 
-re"juvenate vt.使返老还童、恢复精力
+rejuvenate /2/ vt.使返老还童、恢复精力
 
-"juvenile a.青少年的
+juvenile /1/ a.青少年的
 
-Ju"ventus 尤文图斯{拉丁语年轻人}
+Juventus /2/ 尤文图斯{拉丁语年轻人}
 
 
 
@@ -6290,11 +6350,21 @@ coarse a 粗糙的(coarse=course 跑过去=粗糙的)
 
 curule a （古罗马显示权威）贵人凳的；（古罗马集会时）最高军衔的
 
-"cursor n.光标，指针"current a.目前的，流通的 n.趋势，电流
+cursor /1/ n.光标，指针"current a.目前的，流通的 n.趋势，电流
 
-"corridor n.走廊
+corridor /1/ n.走廊
 
-cor"sair n.海盗船，海盗{海盗劫掠之径→}
+corsair /2/ n.海盗船，海盗{海盗劫掠之径→}
+
+## PIE *ksweybʰ- 快速移动、摇摆、扔
+
+sweep v 扫
+
+sweeping a 影响深远的、全面的
+
+swipe v 猛击
+
+swoop v 猛扑、向下猛冲，突袭
 
 ## 从kleros"遗传，遗产"[Greek]
 
@@ -6816,24 +6886,6 @@ luxurious a.奢侈，豪华
 
 
 
-## maj=great,表示”大,伟大”
-
-major a 较大的,主要的
-
-majority n 大多数(major 主要的+ity)
-
-majestic a 雄伟的,壮丽的(maj+estic 表形容词,如:a-grestic 农村的)
-
-majesty n.[M-]陛下；雄伟，壮丽，庄严
-
-mayor n 市长(may[=maj]+or 人=大人=市长
-
-force majeure /3eu,1/n.[French]不可抗力
-
-vis major n.不可抗力
-
-Ursa Major 大熊座{big bear}
-
 ## mal-表示”坏,恶”(亦作 male); #从malum"apple"[Latin]从melon[Greek，不明其源]
 
 malic /1/ a.苹果的(e.g. malic acid)
@@ -7002,13 +7054,93 @@ mazology /2/ n.乳腺学
 
 mazoplasia /3/ n.乳腺增生{plas,生成物}
 
+## PIE *méǵh₂s　大、伟
+
+much
+
+### PIE *méǵh₂s 的后代：la. magnus 大; la. maior 更大的; la. magis 更多地; la. maximus 最大;
+
+magister n 大法官，总督
+
+magistrate n 地方法官
+
+magisterial /3,1/ a 有权威的，地方法官的
+
+magnate /1/ n 巨头
+
+magnific a 庄严
+
+magnificent a 壮观
+
+magnificence
+
+magnification n 扩大，夸张
+
+magnify v 放大
+
+magnitude n 大小、大、重要性、星等
+
+major a 较大的,主要的
+
+majority n 大多数(major 主要的+ity)
+
+majesty n 威严、雄伟，王权，[M-]陛下
+
+majestic a 雄伟的,壮丽的(maj+estic 表形容词,如:a-grestic 农村的)
+
+majuscule /1/ n 大写字母（la.māiusculus 大一点）
+
+mayor n 市长(may[=maj]+or 人=大人=市长
+
+force majeure /3eu,1/n.[French]不可抗力
+
+vis major n.不可抗力
+
+Ursa Major 大熊座{big bear}
+
+master 
+
+de.Meister
+
+maximum
+
+maximal
+
+## PIE *mel- 强、大、更好
+
+### PIE *mel- 的后代：la. melior 更好
+
+ameliorate /2 i:/ v 优化、改善 （ad-）
+
+meliorate = ameliorate
+
+### PIE *mel- 的后代：la. multus 很、很多
+
+multi-
+
+multilingual a. 多种语言的(multi lingual方向的)
+
+multidirectional a. 多方向的(multi directional方向的)
+
+multiple a.多样的;多功能的(multi pile=多的=多功能的)
+
+multiply a.乘;繁殖(multi ply表动词=变多=乘)
+
+multiform a.多种多样的(multi form形式)
+
+multicultural a.多种文化的(multi cultural文化的)
+
+multimedia a.多媒体的(multi media媒介)
+
+multitude n.多数;群众(multi tude状态=多的状态=多数)
+
 ## 从mel"蜜"[Latin]
 
-mel"lifluous a.流畅，甜美
+mellifluous /2/ a.流畅，甜美
 
-mo"lasses n.糖浆{mellaceus"honeylike"[Latin]}
+molasses /2/ n.糖浆{mellaceus"honeylike"[Latin]}
 
-"melamine n.三聚氰胺{亦称蜜胺。a"mine胺类}
+melamine /1/ n.三聚氰胺{亦称蜜胺。amine /2/ 胺类}
 
 ## -ment
 
@@ -7062,15 +7194,15 @@ ointment n 油膏,软膏(oint=oil 油
 
 mind n.思想，头脑
 
-mne"monic a.记忆，助记
+mnemonic /2/ a.记忆，助记
 
-Mne"mosyne n.希腊神话的记忆女神
+Mnemosyne /2/ n.希腊神话的记忆女神
 
-mo"saic n. 马赛克
+mosaic /2/ n. 马赛克
 
-"mentor n.指导者v.指导
+mentor /1/ n.指导者v.指导
 
-"mandarin n.中国柑橘，普通话
+mandarin /1/ n.中国柑橘，普通话
 
 mental a 智 力 的 , 精 神 的 (ment+al) 
 
@@ -7130,7 +7262,7 @@ submerge /2/v 沉入,沉入水中(sub 在下面+merge=沉到下面去) v.浸没�
 
 merge v 合并,融合(沉下=融为一体=合并)
 
-"merger n.v.企业合并
+merger /1/ n.v.企业合并
 
 emersion n 浮现,出现(e 出+mers+ion=沉下又出现=浮现) 
 
@@ -7172,15 +7304,15 @@ migraine n 偏头痛(migr+ine=移来移去的[头痛]=偏头痛
 
 ## 从milit"兵，战"[Latin]
 
-"military n.军队，军人a.军事，战争的
+military /1/ n.军队，军人a.军事，战争的
 
-"militant a.好战
+militant /1/ a.好战
 
-,mili"taria n.pl.有历史意义的军用物品
+militaria /3,1/ n.pl.有历史意义的军用物品
 
-mi"litia n.军队后备队，民兵
+militia /2/ n.军队后备队，民兵
 
-,para"military a.准军事性的
+paramilitary /3,1/ a.准军事性的
 
 ## 从milli"千"[Latin]
 
@@ -7272,17 +7404,17 @@ mischievous 恶作剧的(mis+chiev=chief 首领+ous=做坏事的首领)
 
 ## 从miscere"mix"[Latin]
 
-"mustang n.野马{[Spanish]mestengo迷路动物，走失的，无主的。以别于家马。}
+mustang /1/ n.野马{[Spanish]mestengo迷路动物，走失的，无主的。以别于家马。}
 
-,misce"llaneous a.五花八门，混杂
+miscellaneous /3,1/ a.五花八门，混杂
 
-"medley n.混杂，混成曲a.混杂的
+medley /1/ n.混杂，混成曲a.混杂的
 
 medley swimming n.混合泳
 
-pro"miscuous a.杂乱，随意
+promiscuous /2/ a.杂乱，随意
 
-"melee n.混战，群殴
+melee /1/ n.混战，群殴
 
 ## miss,mit= send,cast,表示”送,放出”
 
@@ -7376,13 +7508,13 @@ turmoil n.混乱，骚动
 
 ## mon, monit= warn,表示”警告”; #从monstra,monere"警告"[Latin]
 
-,demons"tration n.示威，示范
+demonstration /3,1/ n.示威，示范
 
-"monster n.怪物
+monster /1/ n.怪物
 
-mons"trosity n.畸形，巨大而丑陋之物
+monstrosity /2/ n.畸形，巨大而丑陋之物
 
-"monstrous a.畸形，怪异，巨大
+monstrous /1/ a.畸形，怪异，巨大
 
 monition n 忠告,警告(monit+ion)
 
@@ -7416,13 +7548,13 @@ monotonous 单调的(mono+ton 声音+ous=一个声音=单调的)
 
 ## 从mony多为名词后缀示动作行为后果[Latin]
 
-"ceremony n.典礼{来自古意大利祭司在Caere城之祭拜仪式}
+ceremony /1/ n.典礼{来自古意大利祭司在Caere城之祭拜仪式}
 
-"testimony n.证明，证据
+testimony /1/ n.证明，证据
 
-"patrimony n.遗产，家传
+patrimony /1/ n.遗产，家传
 
-"acrimony n.(语言，态度)刻薄，毒辣{acid-}
+acrimony /1/ n.(语言，态度)刻薄，毒辣{acid-}
 
 ## monstr=show, 表示”显示”
 
@@ -7448,11 +7580,11 @@ mores n 道德观念,风俗(mor+es 表示复数
 
 ## 从mor"愚笨"[Greek]
 
-"sophomore n.大二
+sophomore /1/ n.大二
 
-"moron n.笨人
+moron /1/ n.笨人
 
-"moronity n.低能
+moronity /2/ n.低能
 
 ## 从*mora-"incubus"[IE]
 
@@ -7606,17 +7738,17 @@ the Renaissance /2/n.文艺复兴
 
 ## 从nau,naus,naut"航海，船，水手"[Greek]
 
-"astronaut n.宇航员
+astronaut /1/ n.宇航员
 
-"cosmonaut n.苏联宇航员
+cosmonaut /1/ n.苏联宇航员
 
-"taikonaut n.中国宇航员
+taikonaut /1/ n.中国宇航员
 
-"nautical a.航海的
+nautical /1/ a.航海的
 
-"nausea n.恶心，呕吐感
+nausea /1/ n.恶心，呕吐感
 
-"nautilus n.鹦鹉螺
+nautilus /1/ n.鹦鹉螺
 
 ## nect,nex= bind, 表示”连结”
 
@@ -7660,17 +7792,17 @@ renegade n 背叛者(renege+ade 表示人
 
 ## 从nephro"kidney"[Greek]
 
-"nephrolith n.肾结石
+nephrolith /1/ n.肾结石
 
-ne"phritis n.肾炎
+nephritis /2/ n.肾炎
 
 ## 从neuro"神经"[Latin]
 
-neu"rophthy n.神经病变
+neurophthy /2/ n.神经病变
 
-"neuron n.神经元,神经细胞
+neuron /1/ n.神经元,神经细胞
 
-neu"rosis n.神经官能症{-sis异常，疾病}
+neurosis /2/ n.神经官能症{-sis异常，疾病}
 
 ## nihil=nothing,表示”无,不存在”
 
@@ -7782,13 +7914,13 @@ annunciate v 报告,通知(=announce
 
 ## 从nut"坚果"
 
-"chestnut n.栗子a.栗色
+chestnut /1/ n.栗子a.栗色
 
-"coconut n.椰子
+coconut /1/ n.椰子
 
-"peanut n.花生
+peanut /1/ n.花生
 
-"walnut n.胡桃，核桃{wal-,外国}
+walnut /1/ n.胡桃，核桃{wal-,外国}
 
 
 
@@ -7870,27 +8002,27 @@ obsolete 钝的,愚蠢的(ob+tuse 可能来自use=不能用了=钝的)
 
 ## 从oct"八"[Greek]
 
-Oc"tavia 明锐轿车{via路，即四通八达}
+Octavia /2/ 明锐轿车{via路，即四通八达}
 
-"octopus n.章鱼
+octopus /1/ n.章鱼
 
-Oc"tober n.十月
+October /2/ n.十月
 
-"octothorp n.井号
+octothorp /1/ n.井号
 
 ## 从ode,ody"诗，歌"[Greek]
 
-"rhapsody n.狂想曲{rhap,rhaph"缝合"[Greek]}
+rhapsody /1/ n.狂想曲{rhap,rhaph"缝合"[Greek]}
 
 ode n.颂，赋，诗歌
 
-"comedy n.喜剧{komos"狂欢，庆祝"[Greek]}
+comedy /1/ n.喜剧{komos"狂欢，庆祝"[Greek]}
 
-"tragedy n.悲剧{tragos"山羊"[Greek]}
+tragedy /1/ n.悲剧{tragos"山羊"[Greek]}
 
-"melody n.旋律
+melody /1/ n.旋律
 
-"odeum n.音乐厅
+odeum /1/ n.音乐厅
 
 ## odi=hate (恨)
 
@@ -7946,17 +8078,17 @@ synonym n 同义词(syn 同+onym 名=同名=同义词)
 
 ## 从oper,opus"工作"[Latin]
 
-"operate v.操作
+operate /1/ v.操作
 
-"operative a.有效的，至关重要的，运作的
+operative /1/ a.有效的，至关重要的，运作的
 
-"opera n.歌剧
+opera /1/ n.歌剧
 
-"opus n.作品，著作
+opus /1/ n.作品，著作
 
-o"puscule n.小作品
+opuscule /2/ n.小作品
 
-,ope"retta n.小歌剧，轻歌剧
+operetta /3,1/ n.小歌剧，轻歌剧
 
 magnum opus n.杰作，巨著
 
@@ -7994,11 +8126,11 @@ optometer n 视力计(opto meter测量[计])
 
 synopsis n 概要(syn共 ops[=opt 看] is=共同看=放在一起看=概要)
 
-"Cyclops 希神话独眼巨人
+Cyclops /1/ 希神话独眼巨人
 
-my"opia n.近视{myein"close"[Greek]}
+myopia /2o/ n.近视{myein"close"[Greek]}
 
-op"tician n.验光师
+optician /2/ n.验光师
 
 ## ora,orat=mouth, 表示”嘴,说”; #从ora,os"说，口"[Latin]
 
@@ -8016,7 +8148,7 @@ adore v 热爱,崇拜(ad 一再+ore[=ora 说]=一再说到=热爱)
 
 inexorable a 说不动的,无情的(in 不+ex 出+ora+able=不能说出来的=说不动的)
 
-"osculate v.接吻，接触
+osculate /1/ v.接吻，接触
 
 ## ordin=order,表示”命令,顺序” 
 
@@ -8042,13 +8174,13 @@ insubordinate a 不服从的(in 不+subordinate 服从的
 
 ## 从ortho"正确，真实"[Greek]
 
-"orthodox a.正统的，东正教的
+orthodox /1/ a.正统的，东正教的
 
-,ortho"dontia n.畸齿矫正术
+orthodontia /3,1/ n.畸齿矫正术
 
-"orthogon n.长方形
+orthogon /1/ n.长方形
 
-,ortho"pedist n.整形医生
+orthopedist /3,1/ n.整形医生
 
 ## -ory
 
@@ -8408,6 +8540,90 @@ bevvy n 饮料（尤指含酒精）
 
 winebibber n 酒徒
 
+## PIE *pel- 折叠
+
+fold
+
+de.falten
+
+### PIE *pel- 的扩展 *pleḱ- 折叠、编织、纺织
+
+flax n 亚麻 （de.Flachs）
+
+de.flechten 编织
+
+flake n 薄片
+
+de.flach 平的、浅的
+
+### PIE *pel- 的扩展 *pleḱ- 的后代：la. plectō, prp plectēns, pp plexūrus 编织、弯曲; (plex= fold,表示”重叠”); 
+
+plexus n (神经等)丛,网(plex+us)
+
+complex a 复杂的(com 共同+plex=全部重叠=复杂的) 
+
+complexity n 复杂性(complex+ity)
+
+duplex a 二重的,双倍的(du 二+plex=二次重叠=二重的) 
+
+complexion n 面色,表情(com 全部+plex+ion=全部表情重叠于面部=面色)
+
+perplex v 使复杂,迷惑( per 从头到尾+plex=始终重叠=迷惑)
+
+perplexed a 迷惑的(perplex+ed)
+
+### PIE *pel- 的扩展 *pleḱ- 的后代： la. plicō, prp plicāns, pp plicātūrus 折叠、到达; (plic, pli, ply= fold,表示”重叠,折叠”);
+
+complicate v 弄复杂(com 全部+plic+ate=全部重叠起来=弄复杂)
+
+complication n 混乱,复杂(complicate+ion)
+
+explicate v 解释,阐明(ex 出+plic+ate=把重叠的东西弄出来= 解释)
+
+explicable a 可以解释的(ex 出+plic+able)
+
+explicit a 明白的,直爽的(ex 出+plic+it=[说话]不重叠的=直截了当的)
+
+implicate /1/ v 牵连(im 进+plic+ate=进入重叠)
+
+implication n 连累,含蓄(implicate+ion)
+
+implicit a 含蓄的(im 进+plic+it=重叠表达=含蓄的) 
+
+replicate v 复制(re 重新+plic+ate=再重叠[一份]=复制) 
+
+replica n 复制品(re+plic+a 表名词)
+
+accomplice n 同谋(ac+com 共同+plice=共同重叠在一起[做事]=同谋)
+
+complicity n 同谋关系(com 共同+plic+ity=共同重叠=同谋关系)
+
+ply n (绳子等)股 v. 来回做(重复做)
+
+plywood n 胶合板(ply+wood 木材=木材重叠=胶合板) 
+
+apply v 申请,应用(ap+ply=反复做=申请[做事])
+
+comply v 同意,答应(com 共同+ply=[观点]共同叠在一起=同意)
+
+imply v 暗示,意味(im 进入+ply=重叠表达=暗示[表面一层意思,后面一层意思])
+
+reply v 回答(re 反+ply=叠回去=回答)
+
+supply v 供应,补给(sup 在下面+ply=重叠下去=供应[下去]) 
+
+pliable a 易弯的,柔顺的(pli+able=易折叠的)
+
+supplicant n 恳求者a. 哀求的(sub 下+plic+ant=折叠膝盖
+
+### PIE *pel- 的扩展 *pleḱ- 的后代： la. plaga 猎网, plagium 绑架、贩人
+
+plagiarize /ei/ v 剽窃
+
+plagiarism n 剽窃、剽窃物
+
+plagiary n 剽窃
+
 ## pel,puls= drive, push, 表示”驱动,推”
 
 appellant a 上诉的 n. 上诉人(ap 一再+pel+l+ant=一再推动的=上诉的)
@@ -8450,7 +8666,7 @@ repulsive a 排斥的,击退的(repulse+ive)
 
 ## pen,pun=penalty, 表 示 ” 处 罚 ” ; 从peno,pain,pent"痛苦，惩罚"[Greek]
 
-re"pine v.抱怨
+repine /2/ v.抱怨
 
 pain n.痛苦 v.使痛苦
 
@@ -8464,7 +8680,7 @@ penalize v 宣告有罪,处罚(penal+ize)
 
 penitent a 后悔的(penit[=pen 惩罚],引申为受惩罚而后悔=后悔的)
 
-,peni"tentiary n.监狱，感化院，宗教裁判所
+penitentiary /3,1/ n.监狱，感化院，宗教裁判所
 
 repent v 后悔,懊悔(re 反+pent=反进来惩罚自己=后悔) 
 
@@ -8510,9 +8726,9 @@ ponderous a 重的,笨重的(ponder 重+ous)
 
 Pentium n.奔腾处理器(586)
 
-pen"tathlon n.现代五项
+pentathlon /2/ n.现代五项
 
-"pentagon n.五边形，五角大楼
+pentagon /1/ n.五边形，五角大楼
 
 ## per-; 从*per-"forward,through"[IE]
 
@@ -8556,27 +8772,29 @@ pervert 堕落,滥用(per+vert 转=转向坏=堕落)
 
 ### per->从peri-"周围，超过"[Greek]
 
-pe"ripheral a.外围的n.外设
+peripheral /2/ a.外围的n.外设
 
-,pericar"ditis n.心包炎{card心}
+pericarditis /4,1/ n.心包炎{card心}
 
-"perigee n.近地点{gee地球}
+perigee /1/ n.近地点{gee地球}
 
-,peri"helion n.近日点
+perihelion /3,1/ n.近日点
 
-"periscope n.潜望镜
+periscope /1/ n.潜望镜
 
-pe"rimeter n.周长，周边
+perimeter /2/ n.周长，周边
 
-"period n.周期，句号，月经{hodos"go,way"[Greek]from PIE*ked-"to go, yield"cognate with 'cede'}
+period /1/ n.周期，句号，月经{hodos"go,way"[Greek]from PIE*ked-"to go, yield"cognate with 'cede'}
 
 ### per->从per"through,完全,破坏"[Latin]
 
-"perish v.毁灭
+perish /1/ v.毁灭
+
+perishable a 易腐烂
 
 ### per-> [Iranian]
 
-"paradise n.天堂{pairi同peri[Greek]源，'diz' from PIE*dheigh-"to build"，即指四周建有围墙之园，初义打猎之果园}
+paradise /1/ n.天堂{pairi同peri[Greek]源，'diz' from PIE*dheigh-"to build"，即指四周建有围墙之园，初义打猎之果园}
 
 ## pet=seek,表示”追寻,寻求”
 
@@ -8628,17 +8846,17 @@ petrel /1/n.海燕{飞时爪触水类圣彼得}
 
 ## phan=show,表示”显示”; #从phant,phas"表现，出现，闪光"[Greek]
 
-"fantasy n.幻想
+fantasy /1/ n.幻想
 
-"emphasis n.强调，重点
+emphasis /1/ n.强调，重点
 
-"emphasize v.强调
+emphasize /1/ v.强调
 
-"phantom n.幻影，幽灵
+phantom /1/ n.幻影，幽灵
 
 phase n.阶段，状态
 
-"sycophant n.奉承者，马屁精{syco"阴部"[Greek]}(syco[=flg 无花果]+phant=显示无花果= 献上无花果=拍马屁)
+sycophant /1/ n.奉承者，马屁精{syco"阴部"[Greek]}(syco[=flg 无花果]+phant=显示无花果= 献上无花果=拍马屁)
 
 diaphanous a 透明的(dia 对面+phan+ous=对面能显示出来)
 
@@ -8718,66 +8936,6 @@ accomplished a 有成就的,有造诣的(accomplish+ed)
 
 compliment v 赞扬,恭维(com 全部+pli+ment=[让人]+分满足=恭维[别人]
 
-## plex= fold,表示”重叠”
-
-plexus n (神经等)丛,网(plex+us)
-
-complex a 复杂的(com 共同+plex=全部重叠=复杂的) 
-
-complexity n 复杂性(complex+ity)
-
-duplex a 二重的,双倍的(du 二+plex=二次重叠=二重的) 
-
-complexion n 面色,表情(com 全部+plex+ion=全部表情重叠于面部=面色)
-
-perplex v 使复杂,迷惑( per 从头到尾+plex=始终重叠=迷惑)
-
-perplexed a 迷惑的(perplex+ed)
-
-## plic, pli, ply= fold,表示”重叠,折叠”
-
-complicate v 弄复杂(com 全部+plic+ate=全部重叠起来=弄复杂)
-
-complication n 混乱,复杂(complicate+ion)
-
-explicate v 解释,阐明(ex 出+plic+ate=把重叠的东西弄出来= 解释)
-
-explicable a 可以解释的(ex 出+plic+able)
-
-explicit a 明白的,直爽的(ex 出+plic+it=[说话]不重叠的=直截了当的)
-
-implicate /1/ v 牵连(im 进+plic+ate=进入重叠)
-
-implication n 连累,含蓄(implicate+ion)
-
-implicit a 含蓄的(im 进+plic+it=重叠表达=含蓄的) 
-
-replicate v 复制(re 重新+plic+ate=再重叠[一份]=复制) 
-
-replica n 复制品(re+plic+a 表名词)
-
-accomplice n 同谋(ac+com 共同+plice=共同重叠在一起[做事]=同谋)
-
-complicity n 同谋关系(com 共同+plic+ity=共同重叠=同谋关系)
-
-ply n (绳子等)股 v. 来回做(重复做)
-
-plywood n 胶合板(ply+wood 木材=木材重叠=胶合板) 
-
-apply v 申请,应用(ap+ply=反复做=申请[做事])
-
-comply v 同意,答应(com 共同+ply=[观点]共同叠在一起=同意)
-
-imply v 暗示,意味(im 进入+ply=重叠表达=暗示[表面一层意思,后面一层意思])
-
-reply v 回答(re 反+ply=叠回去=回答)
-
-supply v 供应,补给(sup 在下面+ply=重叠下去=供应[下去]) 
-
-pliable a 易弯的,柔顺的(pli+able=易折叠的)
-
-supplicant n 恳求者a. 哀求的(sub 下+plic+ant=折叠膝盖
-
 ## plor=cry,weep, 表示”喊,哭”
 
 deplore v 悲叹,痛惜(de 坏+plore=不好的喊哭=悲叹) 
@@ -8830,17 +8988,17 @@ polis n 古希腊城邦
 
 metropolis n 大都市(metro 母亲+ polis=母亲城=大城市) 
 
-,metro"politan a.大都市的n.大都市居民
+metropolitan /3,1/ a.大都市的n.大都市居民
 
 cosmopolis n 国际都市(cosmo 世界,宇宙+polis=世界性城市
 
-"Naples 那不勒斯{new city}
+Naples /1/ 那不勒斯{new city}
 
-,Singa"pore 新加坡{singa狮子[Sanskrit]}
+Singapore /3,1/ 新加坡{singa狮子[Sanskrit]}
 
-,Constanti"nople 君士坦丁堡
+Constantinople /4,1/ 君士坦丁堡
 
-"Tripoli n.的黎波里(利比亚首都){Phoenician尝建三城焉统称之}
+Tripoli /1/ n.的黎波里(利比亚首都){Phoenician尝建三城焉统称之}
 
 ## pon, pound= put, 表示”放置”
 
@@ -8866,43 +9024,43 @@ propound v 提出,提议(pro 向前+pound=向前放=提出)
 
 ## 从porphura"一种海螺，以获紫染料"[Greek]
 
-"purple n.紫色，紫袍，王位
+purple /1/ n.紫色，紫袍，王位
 
-Phoe"nician n.a.腓尼基人{land of the purple,其人得取紫染料之法}(n.Phoenicia)
+Phoenician /2/ n.a.腓尼基人{land of the purple,其人得取紫染料之法}(n.Phoenicia)
 
-"phoenix n.凤凰{紫红鸟}(存疑)
+phoenix /1/ n.凤凰{紫红鸟}(存疑)
 
-"purpura n.紫癜病
+purpura /1/ n.紫癜病
 
 ## 从port"门，入口，港口"[Latin]
 
 port n.港口
 
-"Portugal 葡萄牙{粤语音。[Latin]Portus Cale(盖亚)}
+Portugal /1/ 葡萄牙{粤语音。[Latin]Portus Cale(盖亚)}
 
 Porto Rico 波多黎各{Rich Port}
 
-"portal n.入口，大门，门户
+portal /1/ n.入口，大门，门户
 
-"passport n.护照
+passport /1/ n.护照
 
-"seaport n.海港
+seaport /1/ n.海港
 
-,oppor"tune a.合时宜的，适当的{ob portum veniens，古罗马认为此样之风有利}
+opportune /3,1/ a.合时宜的，适当的{ob portum veniens，古罗马认为此样之风有利}
 
-in,oppor"tune a.不-
+inopportune /4,2/ a.不-
 
-,oppor"tunity n.机会
+opportunity /3,1/ n.机会
 
-"import n.v.进口
+import /1/ n.v.进口
 
-"export n.v.出口
+export /1/ n.v.出口
 
 ### port -> portare"to carry"; port=carry,表示”拿,运”
 
-"col,porteur n.书贩{col脖子，脖吊篮放书}
+colporteur /1,2/ n.书贩{col脖子，脖吊篮放书}
 
-re"porter n.记者
+reporter /2/ n.记者
 
 portable a 可携带的(port+able 能…的) 
 
@@ -9092,23 +9250,23 @@ reprehensible a 应受责难的(re+prehens+ible
 
 prey vi 捕食、掠夺(+on) n 猎物、牺牲品
 
-"prison n.监狱
+prison /1/ n.监狱
 
 prize n.奖赏v.珍视，估价a.奖品的，得奖的，一流的
 
-,impre"sario n.（歌剧团，乐团）经理人，总管{in-"to"}
+impresario /3,1/ n.（歌剧团，乐团）经理人，总管{in-"to"}
 
-ap"prentice n.学徒，实习生
+apprentice /2/ n.学徒，实习生
 
-,appre"hend v.理解，忧虑，逮捕
+apprehend /3,1/ v.理解，忧虑，逮捕
 
-ap"prise v.报告，通知
+apprise /2/ v.报告，通知
 
-sur"prise vt.n惊奇{sur-"over"}
+sur"prise /2/ vt.n惊奇{sur-"over"}
 
-"enterprise n.企业，事业
+enterprise /1/ n.企业，事业
 
-re"prieve vt.暂缓处刑，暂时缓解n.缓刑，缓刑令
+reprieve /2/ vt.暂缓处刑，暂时缓解n.缓刑，缓刑令
 
 ## press= press, 表示”挤压” 
 
@@ -9302,13 +9460,13 @@ proliferation
 
 ## 从proto"最初，第一"[Greek]
 
-"protein n.蛋白质
+protein /1/ n.蛋白质
 
-"protocol n.协议，草案，外交礼仪
+protocol /1/ n.协议，草案，外交礼仪
 
-"prototype n.原型
+prototype /1/ n.原型
 
-"proton n.质子
+proton /1/ n.质子
 
 ## pud=feel shame,表示”感到羞耻”
 
@@ -9332,13 +9490,13 @@ expugnable a 可克服的,可征服的(ex 出+pugn+able=能打出去的=可克�
 
 ## 从pupill,diminutive of pupus,pupa"boy,girl"[Latin]
 
-"puppet n.木偶，傀儡
+puppet /1/ n.木偶，傀儡
 
-"pupa n.蛹
+pupa /1/ n.蛹
 
-"puppy n.幼犬
+puppy /1/ n.幼犬
 
-"pupil n.小学生，弟子，瞳孔
+pupil /1/ n.小学生，弟子，瞳孔
 
 ## pur, purg=pure, 表示”纯洁”; la. purus 
 
@@ -9674,9 +9832,9 @@ arrogance n 傲慢(ar+rog+ance)
 
 abrogate v 取消,废止(ab 去掉+rog+ate=不再要求有=取消掉)
 
-derogate v 毁损,堕落(de 向下,坏+rog+ate=问下去=毁损掉) 
+derogate v 贬低（de "away from" + rogo "ask, request"，本意拿走、减损，减损其重要性，故贬低）
 
-derogatory a 贬低的(derogate+ory)
+derogatory a 贬低的
 
 interrogate v 审问(inter 在…中间+rog+ate=在[审问室]中问= 审问)
 
@@ -9690,13 +9848,13 @@ roguish [ˈrəugiʃ]a.捣蛋的，无赖的
 
 ## 从rub,rubi"红"[Latin]
 
-"ruby n.a.红宝石，红宝石色
+ruby /1/ n.a.红宝石，红宝石色
 
 rouge n.胭脂{法语"red"义}
 
-ru"bella n.风疹
+rubella /2/ n.风疹
 
-,bili"rubin n.胆红素{bile胆汁，坏脾气，愤怒[English]}
+bilirubin /3,1/ n.胆红素{bile胆汁，坏脾气，愤怒[English]}
 
 ## rupt=break, 表示”断裂”; la. rumpo, rumpere, prp. rumpens, pp. ruptus
 
@@ -9834,7 +9992,9 @@ sever 切断,脱离(se+ver 分开=分离开=切断)
 
 select 选出(se+lect 选=选出分开)
 
-## secut,sequ= follow,表示”跟随”
+## PIE *sekʷ-，跟随
+
+### PIE *sekʷ- 的后代：la. sequor, prp sequēns, pp secūtus;(secut,sequ= follow,表示”跟随”)
 
 persecute v 迫害(per 始终+secute=从头跟到尾=迫害) 
 
@@ -9860,9 +10020,35 @@ sequacity n 盲从(sequ+acity)
 
 obsequious a 谄媚的,奉承的(ob 用力+sequ+ious=拼命跟随别人=谄媚的)
 
+sector n 部门，扇区
+
 pursue v 追赶,追击
 
 sue v 控告,向…求婚
+
+### PIE *sekʷ- 的后代：la. secus, prep. "by, beside, along; according to"
+
+intrinsic /2/ a 固有的、内在的、本质的（在里、向里也）
+
+extrinsic /2/ a 外在的、非固有、非本质
+
+### PIE *sekʷ- 的后代：la. socius, 分享的、加入的、相关的、联合的(soc=companion,表示”同伴”,引申为”社会”)
+
+sociable a 爱社交的(soc+iable) social a 社会的
+
+socialism n 社会主义(social+ism 主义) sociality n 爱交际(social+ity)
+
+society n 社会,社团
+
+sociology n 社会学(soc+io+logy 学科)
+
+associate v 联合,联想(as 加强+soc+iate=成为社团=联合)
+
+association n 社团,联合(associate+ion)
+
+consociate a 联合的(con 共同+soc+iate=成为同一社会=联合的)
+
+dissociate v 分离,断绝关系(dis 分开+soci+ate=伙伴分开=分离)
 
 ## semin=vseed,表示”种子”
 
@@ -9925,6 +10111,8 @@ resent v 怨恨(re 反+sent=反感=怨恨)
 resentment n 愤怒,怨恨(resent+ment
 
 ## serv=serve, keep,表示”服务,保持”
+
+self-serving v 自私的
 
 service n 服务
 
@@ -10196,24 +10384,6 @@ Jerusalem /2/耶路撒冷{"foundation of peace"}
 
 smart a.聪明漂亮敏捷v.n.刺痛，苦恼{*Proto-Germanic*smarta-"to bite", German schmerzen"to pain"}
 
-## soc=companion,表示”同伴”,引申为”社会”
-
-sociable a 爱社交的(soc+iable) social a 社会的
-
-socialism n 社会主义(social+ism 主义) sociality n 爱交际(social+ity)
-
-society n 社会,社团
-
-sociology n 社会学(soc+io+logy 学科)
-
-associate v 联合,联想(as 加强+soc+iate=成为社团=联合)
-
-association n 社团,联合(associate+ion)
-
-consociate a 联合的(con 共同+soc+iate=成为同一社会=联合的)
-
-dissociate v 分离,断绝关系(dis 分开+soci+ate=伙伴分开=分离)
-
 ## sol=sun,表示”太阳”
 
 solar a 太阳的
@@ -10284,19 +10454,19 @@ hilarity n 欢乐
 
 ## 从somn"sleep"[Latin]
 
-in"somnia n.失眠
+insomnia /2/ n.失眠
 
-som"nambu,late v.梦游{ambul"四处移动"[Latin]}
+somnambu,late /2,4/ v.梦游{ambul"四处移动"[Latin]}
 
 ## son=sound,表示”声音”; la. sonus, sonare, prp. sonans, pp. sonitus; 从son"声音，噪音"[Latin]
 
 sound n.声音
 
-"sonar n.声纳，声波定位器
+sonar /1/ n.声纳，声波定位器
 
-"sonograph n.声谱仪
+sonograph /1/ n.声谱仪
 
-"unison n.一致行动，齐声
+unison /1/ n.一致行动，齐声
 
 sonic a 声音的,声波的
 
@@ -10322,23 +10492,23 @@ resonance n 反响,共鸣(re+son+ance
 
 ## 从sopho"智慧"[Greek]
 
-So"phia 索菲亚
+Sophia /2/ 索菲亚
 
-"sophomore n.大二{+mor愚}
+sophomore /1/ n.大二{+mor愚}
 
-phi"losophy n.哲学
+philosophy /2/ n.哲学
 
-phi"losopher n.哲学家
+philosopher /2/ n.哲学家
 
-"sophist n.诡辩家
+sophist /1/ n.诡辩家
 
-so"phisticate n.久经世故者 v.诡辩，掺和，弄复杂
+sophisticate /2/ n.久经世故者 v.诡辩，掺和，弄复杂
 
-so"phisticated a.老练，久经世故，精密，复杂
+sophisticated /2/ a.老练，久经世故，精密，复杂
 
-so,phisti"cation n.老练，精密，复杂，诡辩
+sophistication /4,2/ n.老练，精密，复杂，诡辩
 
-the"osophy n.通神学，通神论
+theosophy /2os/ n.通神学，通神论
 
 ## 从soro"姐妹"[Latin]
 
@@ -10524,7 +10694,7 @@ response n 回答,答应(respond 的名词)
 
 responsible a 有责任的(response 回应+ible=能回应的=负责任的)
 
-re,sponsi"bility /4,2/ n.责任
+responsibility /4,2/ n.责任
 
 correspond v 符合,通信(cor 共同+respond 回答=两人互相回答=通信)
 
@@ -10622,6 +10792,38 @@ install v 安装,就职(in 进+stall=放进去=安装)
 
 installment n 安装,分期付款(install 的名词)
 
+## PIE *ster 强、保持、坚挺stiff (*stere-, *strē- (“strong, steady”).)
+
+de.starr a 僵硬，呆板
+
+start
+
+startle vt 使惊吓
+
+stare v 凝视
+
+### PIE *ster 的后代：el. στερεός (stereós) 坚固、标准、坚挺、立方体、顽固
+
+stereo- 立体（尤其是双目），坚固、顽固
+
+stereopsis n 双目立体视觉
+
+stereophonic a 立体声的
+
+stereophony
+
+stereoscopic a 有立体感的
+
+stereotype n/vt 模式化、老一套的样子，使模式化（来自硬版打印，故形态不变）
+
+### PIE *ster 的后代：la. stirps 茎的底部+根、源头
+
+extirpate /1/ v 根除、铲除
+
+stirp n 血统
+
+per stirpes 按家系
+
 ## sting ,stinct,stimul=priek 表示”刺,刺激”
 
 sting v 刺 n.刺针
@@ -10670,9 +10872,17 @@ substratal a 基础的,基本的(sub 下面+strat+al=在下面一层=基础的
 
 stratosphere /1/n.平流层，最高层次
 
-## strain,striet,string=tighten,表示"拉紧"; la. stringere, prp. stringens, pp. strictus
+## PIE *streyg- to strike, to shear 打、剪
 
-string n.线
+strike
+
+strake n 铁箍
+
+stroke n 打击、中风
+
+streak n 条纹，些微特征，下连胜连败
+
+### PIE *streyg- 的后代：la. stringere, prp. stringens, pp. strictus 压、使紧、拔出鞘; strain,striet,string=tighten,表示"拉紧"; 
 
 strain v 尽力拉,工作过度
 
@@ -10684,7 +10894,7 @@ distrain v 扣押财产(dis分开 strain=把财产拉走)
 
 overstrain a 过度紧张(over过分 strain)
 
-restrain v 抑制,限制(re回 strain
+restrain v 抑制,限制(re回 strain)
 
 restraint n 抑制,限制
 
@@ -10700,21 +10910,25 @@ restrict a 限制,限定(re回 strict=拉回来=限制)
 
 restrction n 限制
 
+string n.线
+
 stringent n 紧迫的(string ent=拉紧的=紧迫的)
 
 stringency a 紧急,严厉(sting ency)
 
-constringe n 使收缩(con一起 stringe=拉到一起=收缩)
+constringe v 使收缩(con一起 stringe=拉到一起=收缩)
 
 constringent v 收缩性的
 
-astringent a 收敛的止血的；严厉的 n 止血药
+astringent /2/ a 收敛的，止血的，严厉的；n 止血药，收敛剂（ad-）
 
-dis"tress n.不幸，苦恼{dis-分开}
+strangle /1/ v.勒死，窒息
 
-"strangle v.勒死，窒息
+strangulation /3,1/ n.扼杀，勒死
 
-,strangu"lation n.扼杀，勒死
+stress n 压力、紧张
+
+distress /2/ n.不幸，苦恼{dis-分开}
 
 ## 从stroph"转弯，回头"[Greek]
 
@@ -10872,17 +11086,17 @@ survival幸存,生存(sur viv活 al=经过事故活着=幸存)
 
 ### *swé->从suus"oneself"[Latin]
 
-"custom n.风俗，习惯
+custom /1/ n.风俗，习惯
 
-"costume n.戏装
+costume /1/ n.戏装
 
-"customer n.顾客
+customer /1/ n.顾客
 
-ac"custom vt.使习惯
+accustom /2/ vt.使习惯
 
-"customize vt.定制
+customize /1/ vt.定制
 
-"customary a.习惯的
+customary /1/ a.习惯的
 
 ### *swé->外语举例
 
@@ -10902,7 +11116,7 @@ symposium 专题讨论会(sym+pos 放+ium=放在一起(讨论)= 专题讨论)
 
 synchronous 同时发生的(syn+chron 时间+ous=共同时间的)
 
-"synchronize v.(使)同时
+synchronize /1/ v.(使)同时
 
 synonym 同义词(syn+onym 名字=名字相同=同义词)
 
@@ -10912,7 +11126,7 @@ synopsis 摘要,概要(syn+ops 选择+is=共同选出=摘要)
 
 syndrome 综合症状(syn+drome 跑=跑到一起=综合症
 
-"system n.系统
+system /1/ n.系统
 
 ## s孤立词
 
@@ -10928,7 +11142,7 @@ slur nv 诽谤；连音符；含糊音
 
 tangent a 相切、接触、离题 n 切线、正切
 
-tan"gential a.离题，肤浅，相切
+tangential /2/ a.离题，肤浅，相切
 
 tactual a 触觉的(tact+ual) 
 
@@ -10958,9 +11172,9 @@ intangible a 不能触知的(in 不+tangible
  
 taste v.品尝，体验
 
-con"taminate v.污染
+contaminate /2/ v.污染
 
-in"tegrity n.完整，正直，诚实{in-否定}
+integrity /2/ n.完整，正直，诚实{in-否定}
 
 tax (la. taxere)
 
@@ -11014,7 +11228,7 @@ tenable a 可守住的(ten+able=能拿住的)
 
 untenable a 不可防守的(un 不+tanable 可守住的) 
 
-tenacious a 固执的(ten+acious 多….的=拿住不放=固执的) 
+tenacious /2/ a 固执的，坚决的、顽强的(ten+acious 多….的=拿住不放=固执的) 
 
 tenacity a 佃户,房客(ten+ant 人=拿[钱]租房之人)
 
@@ -11054,19 +11268,19 @@ retard v 延迟,妨碍(re 一再+tard=一再慢下来=延迟
 
 ## 从tem"砍"[IE]
 
-"temple n.庙
+temple /1/ n.庙
 
-"template n.模板
+template /1/ n.模板
 
-"contemplate v.考虑，注视
+contemplate /1/ v.考虑，注视
 
 *temple意义相关*
 
 mosque n.清真寺
 
-"synagogue n.犹太教堂
+synagogue /1/ n.犹太教堂
 
-ca"thedral n.天主教堂
+cathedral /2/ n.天主教堂
 
 ## PIE *temH- 暗
 
@@ -11262,37 +11476,37 @@ inter v 埋葬(in 进+ter=进地=埋葬)
 
 disinter v 挖出(dis 出+inter 埋=把埋进去的挖出来
 
-ter"restrial a.陆生的，地球的
+terrestrial /2/ a.陆生的，地球的
 
-,extrater"restrial a.地外，外星n.外星生物(E.T.)
+extraterrestrial /4,1/ a.地外，外星n.外星生物(E.T.)
 
-,Mediter"ranean Sea n.地中海
+Mediterranean Sea /4,1/ n.地中海
 
 mediterranean n 地中海
 
-,terra-"cotta n.赤陶
+terra-cotta /3,1/ n.赤陶
 
 Terra-cotta Warriors n.兵马俑
 
 ## 从test"证人，证据"[Latin]
 
-"testify v.证明，证实，作证
+testify /1/ v.证明，证实，作证
 
-"testate a.留有遗嘱的
+testate /1/ a.留有遗嘱的
 
-tes"tator n.立遗嘱者
+testator /2/ n.立遗嘱者
 
-"contest n.v.竞赛，比赛
+contest /1/ n.v.竞赛，比赛
 
-"protest n.v.抗议，反对
+protest /1/ n.v.抗议，反对
 
-"protestant n.抗议者 a.抗议的 P- n.新教徒a.新教徒的
+protestant /1/ n.抗议者 a.抗议的 P- n.新教徒a.新教徒的
 
-"Protestantism n.新教
+Protestantism /1/ n.新教
 
-"testimony n.证言，证明
+testimony /1/ n.证言，证明
 
-"testicle n.睾丸
+testicle /1/ n.睾丸
 
 ## text=weave,表示”编织”
 
@@ -11322,11 +11536,11 @@ Theodore 人名-西奥多{donare"送出礼物"[Latin]Gift of God}
 
 ## 从thesaure"仓库，珍藏"[Greek]
 
-the"saurus n.辞典(侧重同反义词)
+thesaurus /2/ n.辞典(侧重同反义词)
 
-"tresure n.珍宝，财富
+tresure /1/ n.珍宝，财富
 
-"tresury n.金库，国库，(T-)财政部
+tresury /1/ n.金库，国库，(T-)财政部
 
 ## thesis,thet= setting ,表示”放置”
 
@@ -11472,15 +11686,15 @@ entreaty n 恳求,请求
 
 ## 从tri"三"
 
-"troika n.三驾马车，三人组{自俄语}
+troika /1/ n.三驾马车，三人组{自俄语}
 
-"trivia n.琐事
+trivia /1/ n.琐事
 
-tri"athlon n.铁人三项赛
+triathlon /2a/ n.铁人三项赛
 
-"triangle n.三角形
+triangle /1/ n.三角形
 
-"trio n.三重奏，三人一组，三件套
+trio /1/ n.三重奏，三人一组，三件套
 
 ## trit=rud,表示”磨擦”
 
@@ -11496,11 +11710,11 @@ contrite a 悔恨的(con共同 trite=身心全部磨擦=悔恨交加的)
 
 torch n.火炬
 
-"tortoise n.乌龟
+tortoise /1/ n.乌龟
 
-"torture n.v.折磨
+torture /1/ n.v.折磨
 
-"torment n.v.折磨痛苦纠缠
+torment /1/ n.v.折磨痛苦纠缠
 
 ## tox= poison 表示”毒”  "弓→箭→毒"[Greek]
 
@@ -11678,13 +11892,13 @@ frailty n 脆弱(frail 脆弱的)
 
 ## 从tyrann"独裁者，压迫者，绝对统治者"[Greek]
 
-"tyrant n.暴君，霸主，专横者
+tyrant /1/ n.暴君，霸主，专横者
 
-ty"rannical a.暴虐的，压制的，残暴的
+tyrannical /2/ a.暴虐的，压制的，残暴的
 
-"tyranny n.暴政，苛政
+tyranny /1/ n.暴政，苛政
 
-ty,ranno"saurus (rex) n.霸王龙
+tyrannosaurus (rex) /4,2/ n.霸王龙
 
 
 
@@ -11812,15 +12026,15 @@ redound v 报应、提高(red回 ound[=und]=波动回来=回流,产生影响) (+
 
 ## 从uni-"一个，单，同"
 
-,uni"versity n.大学
+university n.大学
 
-"uniform n.制服
+uniform n.制服
 
-"onion n.洋葱{多层包在一起}
+onion n.洋葱{多层包在一起}
 
-"unicorn n.独角兽
+unicorn n.独角兽
 
-u"nique a.独特
+unique a.独特
 
 ## urb = city ,表示”城市”
 
@@ -11922,15 +12136,15 @@ buckaroo /2/n.牛仔cowboy
 
 ## 从vad,vas"行走，前进"[Latin]
 
-in"vade v.入侵
+invade v.入侵
 
-e"vade v.逃避，躲避
+evade v.逃避，躲避
 
-e"vasion n.逃避，借口
+evasion n.逃避，借口
 
-per"vasive a.普遍，渗透，弥漫
+pervasive a.普遍，渗透，弥漫
 
-per"vade v.弥漫，遍及
+pervade v.弥漫，遍及
 
 ## vag,vogr=wader,表示”漫游”; #从vag"徘徊，流浪"[Latin]
 
@@ -12126,9 +12340,13 @@ adversary n 敌手,对手(ad+ers 逆反+ary 人=逆反之人=对手)
 
 animadversion n 批评，非难
 
-advertise v 做广告(at 一再+vert+ise=转来转去做广告) 
+advertise v 做广告（使注意力转来）
 
 advertisement n 广告
+
+advertent a 注意的
+
+inadvertent a 无意的，非故意的（in- ad-，注意力没有转到上面来）
 
 anniversary n 周年纪念日(anni 年+vers+ary=一年转一次= 纪念日)
 
@@ -12166,21 +12384,21 @@ vertigo n 眩晕(vert+igo=go around 转着走=眩晕)
 
 ## 从veri"真实，真理"[Latin]
 
-"verify vt.核实，证明
+verify vt.核实，证明
 
-"very a.真正，恰好ad.很，正是
+very a.真正，恰好ad.很，正是
 
-"verdict n.裁决，定论
+verdict /1/ n.裁决，定论
 
-ve"racity n.真实性，诚实
+veracity /2/ n.真实性，诚实
 
 cinema verite n.实况纪录片
 
-"veri,tas [Latin]n.真理(In vino veritas. )(Semper veritas)
+veritas [Latin]n.真理(In vino veritas. )(Semper veritas)
 
 ## vi,via, voy =way, 表示”道路”; #从via,vey"路，径"
 
-"voyage n.v.航行，航海，旅行
+voyage /1/ n.v.航行，航海，旅行
 
 via n 道路 prve 经过
 
@@ -12192,7 +12410,7 @@ deviation n 偏向
 
 devious a 误入歧途的(de 偏离+vi+ous)
 
-"deviant a.离经叛道，异常n.不正常的人{de"off,away"}
+deviant /1/ a.离经叛道，异常n.不正常的人{de"off,away"}
 
 obviate v 排除,避免(cb 去掉+vi+ous=就在路上掉东西=排除障碍)
 
@@ -12204,7 +12422,7 @@ perviousness n 浸透
 
 previous a 以前的(pne 以前+vi 路[引申为走]+ous=以前走过的=以前的)
 
-"trivia n.琐事{三岔路口叙家长里短}
+trivia /1/ n.琐事{三岔路口叙家长里短}
 
 trivial a 琐碎的(tri 三+vi+al=三条路=没有一个目标=琐碎的) 
 
@@ -12220,13 +12438,13 @@ envoy n 使者,使节(en 进+voy 走=走进[别人的范围 =使者])
 
 ## 从vicus"village"[Latin]
 
-"village n.村庄
+village /1/ n.村庄
 
-"villa n.别墅
+villa /1/ n.别墅
 
-vi"cinity n.附近，近郊
+vicinity /2/ n.附近，近郊
 
-"venue n.会场，地点
+venue /1/ n.会场，地点
 
 ## 从vid,vis,vu"看到，知道"[Latin]; vis,vid=see表示”看”
 
@@ -12366,6 +12584,10 @@ advocate v 拥护,倡议(ad 增强+voc+ate=增强声音=拥护)
 
 advocator n 拥护者
 
+avow /2/ v 公开宣称、承认（O.Fr. avoer）
+
+disavow /3/ v 否认
+
 convoke v 召集(con 共同+vok+e=喊到一起) 
 
 convocation n 召 集 , 集 会 (con+voc+ation) 
@@ -12422,7 +12644,7 @@ vulnerability /4,1/ n.易受伤害，弱点，漏洞
 
 ## 从we"to blow"[IE]
 
-nir"vana n.涅槃，极乐世界{nis(out,消亡)+vati}
+nirvana /2/ n.涅槃，极乐世界{nis(out,消亡)+vati}
 
 wind n.风
 
@@ -12432,21 +12654,21 @@ window n.窗
 
 wing n.翼
 
-"ventilate vt.通风
+ventilate /1/ vt.通风
 
-## 从wet"year"[IE]
+## 从wet"year"[IE]; la. vetus
 
-"wether n.阉羊
+wether /1/ n.阉羊
 
-"bellwether n.领头羊，系铃的公羊，前导
+bellwether /1/ n.领头羊，系铃的公羊，前导
 
-"veteran n.老手，退伍老兵a.老兵的，经验丰富的
+veteran /1/ n.老手，退伍老兵a.老兵的，经验丰富的
 
 veal n.小牛肉
 
-"veterinary n.兽医a.兽医的
+veterinary /1/ n.兽医a.兽医的
 
-in"veterate a.根深蒂固的，成瘾的
+inveterate /2/ a.根深蒂固的，成瘾的（向里+使老，使在心中固着也）
 
 
 
@@ -12532,10 +12754,17 @@ epizootic /4o,1/ a.n.兽疫
 
 
 
-,silhou"ette n.侧影，剪影，轮廓，黑色半面画像
+silhouette /3e,1/ n.侧影，剪影，轮廓，黑色半面画像
 
-,alex"andrite n.紫翠玉，变石，亚历山大石{Александрит，从俄皇太子亚历山大}
+alexandrite /3,1/ n.紫翠玉，变石，亚历山大石{Александрит，从俄皇太子亚历山大}
 
+
+
+# 地名
+
+
+
+sardonic a 嘲弄的（撒丁岛（Sardinia）个果实，希腊人以为食之而面有讥笑之抽搐（俄顷亡焉））
 
 
 # 孤立、现代借词
@@ -12544,66 +12773,76 @@ epizootic /4o,1/ a.n.兽疫
 
 ## 杂从Arabic
 
-"zenith n.天顶，顶点，全盛{samt ar-ras"头顶的道路"的缩写samt,后来m变n等}
+zenith /1/ n.天顶，顶点，全盛{samt ar-ras"头顶的道路"的缩写samt,后来m变n等}
 
-"nadir n.天底，最低点{nazir as-samt"与天顶相反"}
+nadir /1/ n.天底，最低点{nazir as-samt"与天顶相反"}
 
-a"ssassin n.刺客
+assassin /2/ n.刺客
 
-a,ssassi"nation n.刺杀
+assassination /4,2/ n.刺杀
 
 ## 杂从German
 
-"welt,schmerz n.厌世，悲观
+weltschmerz /1, 2/ n.厌世，悲观
 
-"weltan,schauung n.世界观
+weltanschauung /1, 3/ n.世界观
 
-"zeitgeist n.时代精神
+zeitgeist /1/ n.时代精神
 
-"zeit,geber n.授时因子
+zeitgeber /1, 2/ n.授时因子
 
 reich n.(德意志)帝国，德国
 
-"schaden,freude n.幸灾乐祸
+schadenfreude /1, 3/ n.幸灾乐祸
 
 ## 杂从日语
 
-tsu"nami n.海啸{津波◎}
+tsunami /2/ n.海啸{津波◎}
 
-"bonsai n.盆栽{盆栽◎}
+bonsai /1/ n.盆栽{盆栽◎}
 
-ori"gami n.折纸{折り紙◎ }
+origami /3/ n.折纸{折り紙◎ }
 
-"honcho n.老板{班長、はんちょう① }
+honcho /1/ n.老板{班長、はんちょう① }
 
-"sushi n.寿司{寿司①② }
+sushi /1/ n.寿司{寿司①② }
 
-"sashimi n.生鱼片，刺身{刺身◎ }
+sashimi /1/ n.生鱼片，刺身{刺身◎ }
 
-ka"rate n.空手道{空手◎ }
+karate /2/ n.空手道{空手◎ }
 
-ty"coon n.商业大亨{大君、たいくん①}
+tycoon /2/ n.商业大亨{大君、たいくん①}
 
 ## 杂从Chinese
 
-"Xana,du n.世外桃源，行宫，香都，华厦{上都(元上都，元朝之夏都。在锡林郭勒盟正蓝旗草原。)}
+Xanadu /1,3/ n.世外桃源，行宫，香都，华厦{上都(元上都，元朝之夏都。在锡林郭勒盟正蓝旗草原。)}
 
 ## 杂从印第安土著语
 
-,bucca"neer n.海盗{bucan"用火烤肉"}
+buccaneer /3, 1/ n.海盗{bucan"用火烤肉"}
 
-## 杂从澳洲、南岛土著语言
+## 杂从南岛语言
 
-,kanga"roo n.袋鼠
+kangaroo /3, 1/ n.袋鼠
 
-ta"boo n.a.vt.禁忌
+taboo /2/ n.a.vt.禁忌
 
-"boomerang n.飞去来器
+boomerang /1/ n.飞去来器
 
-ko"ala n.考拉{"不喝水"言可从桉树叶摄取所需90%水。}
+koala /2al/ n.考拉{"不喝水"言可从桉树叶摄取所需90%水。}
 
 ## 杂从Coptic
 
 adobe /2/ n.灰质粘土，土墙，风干砖泥砖之屋{tobe"brick"}
 
+## 杂从苏格兰英语不知源
 
+skullduggery n (skulduggery) 欺诈（Scottish English sculduddery, sculdudrie (“adultery, unchaste behaviour; obscenity”), of uncertain origin.）
+
+## 杂从古法语不知源
+
+grudge v 怨恨、嫉妒、很勉强地做
+
+## 杂从古日耳曼语孤立
+
+sleek a 光滑
