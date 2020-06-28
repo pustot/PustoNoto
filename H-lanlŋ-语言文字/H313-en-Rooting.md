@@ -5,13 +5,16 @@
 
 *一些原则：*
 
-- 以 GRE 需要的词汇为主，会加入一些简单词便于联想而不标词义
-- Pusto添加的词源一般都给出原始语言对应的单词。拉丁词源动词标现在时主动态不定式、现在分词prp、过去分词pp
-- 来自同一原始印欧语词源的合并至该词源，并将同一原始印欧语词源不同路径进入英语的单词归入同一个子分类（第三级标题）
-- 部分用「"」「,」标了主重音和次重音，为了方便检索正在逐步改到用 /x/ 表示第一个音节重音，需要特别注发音的用/abc/ 注明发音是abc
-- 词源信息主要根据维基词典整理，并参考欧路上的《英语词根词源记忆词典》、《摩西英语》、李平武《英语词根与单词的说文解字》部分内容。
+- 收词：以 GRE 需要的词汇为主（比它更难的就真用不上了吧），会加入一些简单词便于联想而不标词义，也会加上一些我会用到的术语
+- 词源：Pusto添加的词源一般都给出原始语言对应的单词。
+    - 拉丁词源动词标现在时主动态第一人称、不定式、现在分词prp、过去分词pp
+    - 来自同一原始印欧语词源的合并，不同演化路径区分以第三级标题，日耳曼语族词源一般直接写在二级标题下
+    - 词源信息主要根据维基词典整理，并参考欧路上的《英语词根词源记忆词典》、《摩西英语》、李平武《英语词根与单词的说文解字》、在线词源词典（etymonline）部分内容。
+- 语音：部分用「"」「,」标了主重音和次重音，为了方便检索正在逐步改到用 /x/ 表示第一个音节重音，需要特别注发音的用/abc/ 注明发音是abc
+- 排序
+    - 同一个标题下的单词，先按词形排列，再按意思排列，意义差别较大（如prostrate）也可以优先按意义排列
 
-2020-0627 扩展自未记录
+2020-0628 扩展自 elicit, inchoate, rebuff, construe, haphazard, shackle, corroborate, conducive, vexation, analgesic, equitable
 
 # A
 
@@ -273,6 +276,38 @@ cavalcade n 骑 兵 队 (caval 马 +cade)
 
 renegade n 叛徒(renege 背信弃义)
 
+## la. aequus 等、平、镇静、公平（词源不明） (从equ,equi"同，似，平等"[Latin]; equ,equi=equal,even,表示”相等,平均”)
+
+equator /2/ n.赤道（平分地球）
+
+Ecuador /1/ 厄瓜多尔
+
+equal /1/ a.相等，平等v.比得上，等于n.平等，同等之
+
+equality /2/ n.平等，均等
+
+equation /2/ n.等式，方程式
+
+equate v 使平等(equ ate表动词)
+
+equable a (性情)稳定的,温和的(equ able能…-的=[心情]能稳定的)
+
+adequacy n 足够（equal to?）
+
+equanimity n镇静,沉着(equ anim生命 ity=生命平静=沉着)
+
+equilibrium n平衡,均势(equi libr自由 ium=在自由状态下平等=均衡)
+
+equity n 公平,公正(equ ity)
+
+equitable /1/ a 公正的,正当的(equity公正 able能…的)
+
+equivalent a 相等的,等价的(equi val力量 ent=力量平等=相等的)
+
+equivocal a 支支吾吾的,模棱两可的(equi voc声音 al=两种声音平等=模棱两可的)
+
+iniquity n 极不公正,邪恶(in不 equity公正=不公正=邪恶)
+
 ## -age 名词反缀
 
 (1)	表示”状态,总称” 
@@ -367,6 +402,16 @@ alma mater /3,1/n.母校
 
 aliment /1/ n.滋养品，食物
 
+## el. ἄλγος (álgos) "pain" (alg=pain,表示”痛”)
+
+-algia
+
+neuralgia n 神经痛（尤指头、面）(nrur神经 alg ia=神经痛的病)
+
+nostalgia n 思乡病(nost家 alg ia=想家)
+
+analgesic /3e ii/ n 止痛药(an无 alg esic药物=无痛药物=止痛药)
+
 ## alt=high,表示”高”
 
 altitude n 高度(alt+itude 表名词) 
@@ -399,7 +444,7 @@ alternative 二者择一(的)(来自 alternate 交替,交替选择的方法)
 
 alien n.外国人，外星人a.外国的,外来的(ali+en 表形容词或名词=其他地方的=外国的,外国人的)
 
-alienate 疏远(alien 外国的+ate=把别人当外国人=疏远)
+alienate vt 疏远某人，让渡所有权
 
 unalienable, inalienable /2/a.不可剥夺的
 
@@ -826,38 +871,6 @@ erratic a 反复无常的(err 错误,古怪,参考:errant 错误的)
 problematic a 有问题的(problem 问题)
 
 emblematic a 象征性的(emblem 象征,微章
-
-## atitut,stit=set up ,place,表示”建立,放”
-
-constitute v 构成,制定(con 一起 +stitute=放到一起=构成) 
-
-constitution a 构成:宪法(constitute+ion)
-
-constituent a 组成的(con+stitu+ent)
-
-reconstitute a 重新制定,泡水还原(re 重新+constitute 构成) 
-
-destitute a 缺乏的,贫穷的(de 没有+stitute=没有建立=缺乏的)
-
-destitution n 缺乏,穷困
-
-institute n 学会,学院 v.制定,设立(in 进入+stiute=建立进去= 设立)
-
-institution n 制度,惯例(设立出的制度)
-
-prostitute n 妓女(pro 前面+stitute=放[站]在[路]前的人=妓女)
-
-prostitution n 卖淫
-
-substitute n 替代人员 v.代替(sub 下面+stitute=在下面放着= 代替)
-
-superstition n 迷信(super 超过+stit+ion=放在[人理智]之上= 迷信)
-
-superstitious a 迷信的
-
-restitute a 偿还,赔偿(re 回+stitute=放回去=偿还) 
-
-restitution n 赔偿,偿还
 
 ## -ation 表名词,”行为,过程,结果”
 
@@ -1304,6 +1317,46 @@ fission n 裂变、分裂
 fester v 化脓、恶化
 
 fistula n 瘘管
+
+## PIE *bʰrewh₁- 沸、酿（维基说是表沸的 *bʰer- 之扩展，但维基的 *bʰer- 没有这个义项）
+
+brew v 酿
+
+broth n 清汤、高汤
+
+bread n （可能来自本词源）
+
+burn 
+
+bourn n （其中一义）小溪
+
+brawn n 强壮的肌肉、强健的体力，肉冻
+
+embroil v 使卷入（麻烦事）
+
+imbroglio n 纷乱、纠葛、错综复杂的局面
+
+### PIE *bʰrewh₁- 的后代：la. ferveō, fervēre, prp fervēns, pp fervitum, 热、烧、沸
+
+fervid a 热情的,热烈的
+
+perfervid /2/ a 十分热情的(per 自始至终+fervid) 
+
+fervent /1/ a 热情的、强烈的，痴心的
+
+fervor n 热烈,热情(rerv+or)
+
+fervescent a 发热的(ferv+escent 开始--的=开始热=退烧) 
+
+defervesce v 退烧(de 去掉+ferv+esce=去掉热)=退烧) 
+
+effervesce v 沸腾,冒泡(ef 出+ferv+esce=出热=沸腾) 
+
+effervescent a 沸腾的,热情洋溢的(effervese+ent)
+
+ferment /2/ n/v 酵母，使发酵，煽动、激起
+
+fermentation n 发酵
 
 ## brace=two arms ,表示”两臂”
 
@@ -2009,6 +2062,20 @@ lid n.盖
 ladder /1/ n.梯子
 
 climate /1/ n.气候
+
+## clin, cliv=lean,slope,表示”倾斜,斜坡”
+
+decline 倾斜,衰退
+
+declination 衰退,下倾(de向下 cline=向下斜)
+
+declination 衰退,下倾
+
+incline 倾斜,偏向(in进入 cline=进入斜=偏向,喜爱)
+
+disinclined 不愿意的(dis不 inclined喜欢的)
+
+proclivity 倾向,癖好(pro预先 cliv ity=先斜好=癖好)
 
 ## clos, clud, clus=close,表示”关闭”
 
@@ -2894,6 +2961,8 @@ conduct n 行为,指挥(con 共同+duct_=引导大家一起做=指挥)
 
 conductor n 指挥家,乘务员(conduct+or) 
 
+conducive a 有利的，有助于……的
+
 seduce v 勾引,诱奸(se 离开+duce=引开=勾引) 
 
 seduction n 引诱,诱惑力(se+duct+ion)
@@ -3360,18 +3429,6 @@ episode 一段经历,片段(epi+sode 路=在路上=一段经历,片段)
 
 epitome 梗概,缩影(epi+tome 卷册=(一卷书后的)梗概
 
-## 从equ,equi"同，似，平等"[Latin]
-
-equator /2/ n.赤道
-
-Ecuador /1/ 厄瓜多尔
-
-equal /1/ a.相等，平等v.比得上，等于n.平等，同等之
-
-equality /2/ n.平等，均等
-
-equation /2/ n.等式
-
 ## 从equ,eque,equi"马"[Latin]
 
 equitation /3,1/ n.骑术
@@ -3624,7 +3681,7 @@ sacrifice v 牺牲n. 牺牲品(sacri 神圣+fice=为神做的东西=牺牲品)
 
 efficacy n 功效,功能(ef 出+fic+acy=做出来的结果=功效) 
 
-efficacious a 有效应的(efficacy.y 变成 i,再加 ous)
+efficacious a （事物が）有效的
 
 efficient a (做事)有效的(ef 出+fic+ent=能做出事来=有效率的)
 
@@ -3745,24 +3802,6 @@ fend v 抵挡,击退
 offend v 冒犯,得罪(or 一再+fend=一再打击[别人]=得罪)
 
 offensive a 冒犯的(or+fens+ive
-
-## ferv=boil,表示”沸,热”
-
-fervid a 热情的,热烈的
-
-perfervid a 十分热情的(per 自始至终+fervid) 
-
-fervent a 热切的(ferv+ent)
-
-fervor n 热烈,热情(rerv+or)
-
-fervescent a 发热的(ferv+escent 开始--的=开始热=退烧) 
-
-defervesce v 退烧(de 去掉+ferv+esce=去掉热)=退烧) 
-
-effervesce v 沸腾,冒泡(ef 出+ferv+esce=出热=沸腾) 
-
-effervescent a 沸腾的,热情洋溢的(effervese+ent)
 
 ## fest=hostile,表示”仇恨”
 
@@ -4606,6 +4645,16 @@ ingress n 进口,入场(in 进+gress=走进=进口)
 
 retrogress v 倒退,退步(retro 向后+gress=倒退)
 
+## PIE *gʷog- 摇晃、摇摆; Gmc. *kwakōną; la. vexō
+
+quake n/v
+
+earthquake n
+
+vex v 使恼怒，忧虑
+
+vexation n 烦恼
+
 ## PIE *gʷṓws 牛
 
 cow
@@ -4679,22 +4728,6 @@ inhalation n 吸入,吸气(inhale+ation)
 exhale v 呼气(ex 出 +hal+e)
 
 halitosis n 口臭(halit[=hal]+osis 表示病=呼吸病=口臭
-
-## hap=chance,表示”机会,运气”
-
-perhaps ad. 也许,可能(per全部 haps=全是机会[决定]=也许)
-
-happen v 发生(hap pen表动词=机会来了=发生)
-
-happy a 幸运的,幸福的(hap py=有运气的=幸福的)
-
-happihess n 幸福(happy ness)
-
-mishap /1/ n 不幸,灾祸(mis 坏 hap=坏运气=不幸)
-
-hapless a 运气不好的(hap less无=无运气的)
-
-haphazard a 偶然的,无计划的(hap hazard游戏=运气 游戏=偶然的)
 
 ## hash
 
@@ -6254,6 +6287,14 @@ Juventus /2/ 尤文图斯{拉丁语年轻人}
 
 
 
+## PIE *kagʰ- 拿、抓、握
+
+hedge n/v 篱笆
+
+## PIE *kagʰ- 的后代：la. cohum; la. incohō, incohāre, prp incohāns, pp incohātus
+
+inchoate /2/ a 初步的、刚开始的、未充分发展的（皮带刚系到牛轭上）
+
 ## PIE *ḱers- "to run"
 
 hurry
@@ -6355,6 +6396,26 @@ cursor /1/ n.光标，指针"current a.目前的，流通的 n.趋势，电流
 corridor /1/ n.走廊
 
 corsair /2/ n.海盗船，海盗{海盗劫掠之径→}
+
+## PIE *kob- 的独子 PGmc *hampą “幸福，好运，运气，机会”，从古诺斯传入
+
+hap n （古）发生的事，出乎意料的事，偶然，机会、运气
+
+what's the haps? （俚语）咋样，最近咋样，what's happening?; what's up?
+
+perhaps ad. 也许,可能(per全部 haps=全是机会[决定]=也许)
+
+happen v 发生(hap pen表动词=机会来了=发生)
+
+happy a 幸运的,幸福的(hap py=有运气的=幸福的)
+
+happiness n 幸福(happy ness)
+
+mishap /1/ n 不幸,灾祸(mis 坏 hap=坏运气=不幸)
+
+hapless a 运气不好的(hap less无=无运气的)
+
+haphazard a 乱七八糟的、无计划的（随意，靠运气放，好运坏运的）
 
 ## PIE *ksweybʰ- 快速移动、摇摆、扔
 
@@ -6594,15 +6655,15 @@ relief n 减轻,轻松(re lief[=live])
 
 legerdemain /ˌlɛdʒ.ə.dɨˈmeɪn/ n 花招、障眼法、诡辩（fr. obs. léger de main 字面"light of hand"）
 
-## lic=allure,表示”引诱”
+## la. laciō 诱使。此词孤立。
 
-delicate a 精致的,优美的(de 一再+lic+ate=一再引诱人的=精美的)
+delicate a 精致的,优美的（de-）
 
-delicacy n 精致,优美(de+lic+acy)
+delicacy n 精致,优美
 
-delicious a 美味的,可口的(de 一再+lic+ious=[食品]=一再引诱=美味的)
+delicious a 美味的,可口的
 
-elicit v 引出,得出(e 出+lic+it 动词后缀,如,solicit 恳请)
+elicit /2/ v 从某人处诱出、打探出、查明（ex-）
 
 ## 从lig"捆，绑"[Latin]
 
@@ -7889,6 +7950,14 @@ enormity n 穷凶极恶(e norm ity)
 subnormal a 低于标准的,低能的(sub在下面 normal正常的)
 
 transnormal a 超常规的,异常的(trans超 normal正常的)
+
+## nost = home,表示”家”
+
+nostalgia n 思乡情(病)(nost alg病 ia病=想家就痛的病=思乡病)
+
+nostomania n 思乡狂(nost o mania狂=想家狂)
+
+nostrum n 民间药,密药(nostr um=家里的药物=民间药)
 
 ## nounce,nunci= speak,表示”讲话,说出” 
 
@@ -9654,6 +9723,14 @@ ubiquitous a 无处不在的(ubi 地方+quit+ous=自由地进入任何地方)
 
 
 
+## rabor=strength,表示”力量”
+
+corroborate v 证实,加强(cor共同 robor ate=共同有力量=加强,证实)
+
+roborant a 增强体力的(robor ant)
+
+robust a 强壮的(rob[=robor] ust表形容词)
+
 ## 从rap,rav"抓，运走，撕碎"[Latin]
 
 raptor /1/ n.猛禽
@@ -10370,6 +10447,16 @@ shave v
 
 scabrous a 表面粗糙的，淫秽的
 
+## PIE *skeg-, *skek- “to jump, move, shake, stir”; Gmc *skakaną etc.
+
+shake
+
+shakle n 脚镣
+
+shock
+
+jog
+
 ## 从s-l-m"和平，顺从"[Arabic]
 
 Muslim /1/n.穆斯林{顺从真理}
@@ -10792,7 +10879,117 @@ install v 安装,就职(in 进+stall=放进去=安装)
 
 installment n 安装,分期付款(install 的名词)
 
-## PIE *ster 强、保持、坚挺stiff (*stere-, *strē- (“strong, steady”).)
+## PIE *sterh₃- "to spread, extend, stretch out"
+
+### PIE *sterh₃- 的扩展 *strew- "strew"
+
+strew v 撒
+
+straw n 稻草，麦秆，吸管（干麦秆撒地上用来当地毯、床铺也。铺床这个意思在其他语言也常见，la.stramen、el.στρωμνή）
+
+strain n （其中一义）品系、品种，个性特点、气质、性情
+
+### PIE *sterh₃- 的扩展 *strew- 的后代：la. struō, struere, struēns, strūctus，堆叠、建造
+
+structure n 构造,结构
+
+construct v 构造,建筑(con共同 struct=共同建立=建造)
+
+construction n 建设
+
+construe v 解释，理解；进行句法分析
+
+reconstruct v 重建(re重新 construct=重新建造)
+
+destructible 易毁坏的
+
+destruction n a 毁灭(de struct ion)
+
+destructive a 有破坏力的(de struct ion)
+
+instruct n 指导,教导(in进 struct=[把知识]建立进去=指导)
+
+instruction n 教导,指导(in struct ion)
+
+instructor n 教师,讲师
+
+industrious a 勤奋（indu- 是 in- "in, within" 的古变体）
+
+industry n 工业，勤劳
+
+odstruct v 妨碍(ob反 struct=反建设=妨碍)
+
+odstruction n 阻碍,闭塞
+
+sudstruction n 下部结构,基础(sub下面 struct ion=下面的建设=基础)
+
+superstructuren n 上层建筑(super上面 structure=上面的结构=上层建筑)
+
+instrument n 工具,仪器,乐器(in内 stru[=struct] ment=内部结构=仪器 工具)
+
+instrumental a 有帮助的,工具的(instrument工具 al)
+
+unstrumentality n 手段,媒介(imstrument工具 aliy性质=作为工具用=手段)
+
+destroy v 毁坏,破坏(de坏 story[=struct],参考:destructible) 
+
+### PIE *sterh₃- 的扩展 *strew- 的后代：ru. стро́йка 建筑、建设
+
+perestroika n 戈尔巴乔夫改革时期（перестро́йка，其中 пере- 即 re-）
+
+### PIE *sterh₃- 的后代：la. sternō, sternere, prp sternēns, pp strātus，扩、拉、撒、拉于地（扔下、使俯）; (strat=spread out 表示”扩散”,引申为”层次”;从strat"拉伸，展开的"[Latin])
+
+street n.街道
+
+stray a 离群、走失（go about the street ->）
+
+stratum /1/n.地层，阶层
+
+strata n 层,地层(stratum 的复数,strat+um=层层扩散=层) 
+
+stratify v 使成层,使分层
+
+substrate n 基质、培养基
+
+substratal a 基础的,基本的(sub 下面+strat+al=在下面一层=基础的
+
+stratosphere /1/n.平流层，最高层次
+
+prostrate v 使俯卧,使沮丧（扔倒而使向前，使向前俯也）
+
+consternation n 惊慌、惊恐
+
+### PIE *sterh₃- 的后代：el. στρῶμᾰ (strôma)
+
+stroma n 基质、子座
+
+### PIE *sterh₃- 的后代：la. torus 本义隆起
+
+torus n 花托，隆凸，圆环面
+
+### PIE *sterh₃- 的派生 *stér(h₃)-no-m
+
+de.Stirn n 前额
+
+### PIE *sterh₃- 的派生 *stér(h₃)-no-m 的后代：el. στέρνον (stérnon) 胸部
+
+sternum n 胸骨
+
+sterno- 胸骨
+
+sternocleidomastoid n 胸锁乳突肌
+
+sternalgia n 胸骨痛
+
+### PIE *sterh₃- 的后代：el. στρᾰτός (stratós) 军队，本义为其中的士兵，不包括领导
+
+strategy
+
+stratagem n 蒙蔽他人的计谋、花招
+
+stratocracy n 军人专政
+
+### PIE *sterh₃- 的（可能的）派生 *ster 强、保持、坚挺stiff (*stere-, *strē- (“strong, steady”).)
 
 de.starr a 僵硬，呆板
 
@@ -10802,7 +10999,7 @@ startle vt 使惊吓
 
 stare v 凝视
 
-### PIE *ster 的后代：el. στερεός (stereós) 坚固、标准、坚挺、立方体、顽固
+### PIE *sterh₃- 的（可能的）派生 *ster 的后代：el. στερεός (stereós) 坚固、标准、坚挺、立方体、顽固
 
 stereo- 立体（尤其是双目），坚固、顽固
 
@@ -10816,7 +11013,7 @@ stereoscopic a 有立体感的
 
 stereotype n/vt 模式化、老一套的样子，使模式化（来自硬版打印，故形态不变）
 
-### PIE *ster 的后代：la. stirps 茎的底部+根、源头
+### PIE *sterh₃- 的（可能的）派生 *ster 的后代：la. stirps 茎的底部+根、源头。（维基一说来自 *sterh₃-）
 
 extirpate /1/ v 根除、铲除
 
@@ -10854,23 +11051,37 @@ stimulation n 刺激,鼓励
 
 instigate v 教唆,煽动(in 进入+stig[=stinct]+ate=刺激[别人] 内部=煽动)
 
-## strat=spread out 表示”扩散”,引申为”层次”;从strat"拉伸，展开的"[Latin]
+## stitut,stit=set up ,place,表示”建立,放”
 
-street n.街道
+constitute v 构成,制定(con 一起 +stitute=放到一起=构成) 
 
-structure /1/n.结构
+constitution a 构成:宪法(constitute+ion)
 
-stratum /1/n.地层，阶层
+constituent a 组成的(con+stitu+ent)
 
-strata n 层,地层(stratum 的复数,strat+um=层层扩散=层) 
+reconstitute a 重新制定,泡水还原(re 重新+constitute 构成) 
 
-stratify v 使成层,使分层
+destitute a 缺乏的,贫穷的(de 没有+stitute=没有建立=缺乏的)
 
-prostrate v 使俯卧,使沮丧(pro 前+strate=前[后]回一贯层次上=俯卧)
+destitution n 缺乏,穷困
 
-substratal a 基础的,基本的(sub 下面+strat+al=在下面一层=基础的
+institute n 学会,学院 v.制定,设立(in 进入+stiute=建立进去= 设立)
 
-stratosphere /1/n.平流层，最高层次
+institution n 制度,惯例(设立出的制度)
+
+prostitute n 妓女(pro 前面+stitute=放[站]在[路]前的人=妓女)
+
+prostitution n 卖淫
+
+substitute n 替代人员 v.代替(sub 下面+stitute=在下面放着= 代替)
+
+superstition n 迷信(super 超过+stit+ion=放在[人理智]之上= 迷信)
+
+superstitious a 迷信的
+
+restitute a 偿还,赔偿(re 回+stitute=放回去=偿还) 
+
+restitution n 赔偿,偿还
 
 ## PIE *streyg- to strike, to shear 打、剪
 
@@ -12781,6 +12992,10 @@ assassin /2/ n.刺客
 
 assassination /4,2/ n.刺杀
 
+hazard n/v 危险、危险的事、风险，使冒风险（「اَلزَّهْر」（az-zahr）骰子，本义一种骰子赌博游戏）
+
+- haphazard a 乱七八糟的、无计划的（随意，靠运气放，好运坏运的）
+
 ## 杂从German
 
 weltschmerz /1, 2/ n.厌世，悲观
@@ -12842,6 +13057,10 @@ skullduggery n (skulduggery) 欺诈（Scottish English sculduddery, sculdudrie (
 ## 杂从古法语不知源
 
 grudge v 怨恨、嫉妒、很勉强地做
+
+buffet n/v （其中一义）打、打击（可能来自软东西被打的拟声 buf）
+
+- rebuff v 断然拒绝、粗暴拒绝
 
 ## 杂从古日耳曼语孤立
 
