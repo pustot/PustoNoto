@@ -14,7 +14,7 @@
 - 排序
     - 同一个标题下的单词，先按词形排列，再按意思排列，意义差别较大（如prostrate）也可以优先按意义排列
 
-2020-0628 扩展自 elicit, inchoate, rebuff, construe, haphazard, shackle, corroborate, conducive, vexation, analgesic, equitable
+2020-0629 扩展自
 
 # A
 
