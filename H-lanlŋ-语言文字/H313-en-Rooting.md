@@ -14,7 +14,7 @@
 - 排序
     - 同一个标题下的单词，先按词形排列，再按意思排列，意义差别较大（如prostrate）也可以优先按意义排列
 
-2020-0629 扩展自
+2020-0711 扩展自 cunning
 
 # A
 
@@ -1967,6 +1967,10 @@ chronicle /1/ n.编年史
 
 chronic /1/ a.慢性的
 
+anachronism n 时代错误（不可能同时期者を安排在一起）
+
+anachronistic a 不合时宜的
+
 ## 从chrys"金色"[Greek]
 
 chrysanthemum /2/n.菊{chrys金色}
@@ -2136,18 +2140,6 @@ decoct v 煎,熬(de 强调+coct=不断煮=煎熬)
 precocious a 早熟的(pre 提早+coc+ious=提早熟=早熟的) 
 
 precocity n 早熟(pre+coc+ity)
-
-## cogn=know,表示”知道”
-
-cognition n 认知,认识(cogn+ition)
-
-cognizable a 可认识的(cogn+ize+able=能够知道的) 
-
-cognizant a 知晓的(cogn+ize+ant)
-
-recognize v 认出(re 再+cogn+ize=再次知道=认出来)
-
-precognition n 预知,预见(pre 预先+cogn+ition=预先知道=预知)
 
 ## col-,cor 在同辅音词根前,表示”共同”
 
@@ -4491,19 +4483,117 @@ polyglot a 使用多种语言的(poly 多+glot)
 
 diglot a 使用两种语言的(di 二个+glot)
 
-## 从gno"知，辨别"[Greek]
+## PIE *ǵneh₃- 知道
 
-diagnose /1/ v.诊断
+know
 
 knowledge /1/ n.知识，学识
 
+ru. знать (Я не зна́ю)
+
+can
+
+canny a 精明仔细
+
+cunning a 狡猾，可爱，巧妙
+
+de. können
+
+ken n 知识范围
+
+### el.γιγνώσκω （gignṓskō）知道
+
+diagnose /1/ v.诊断
+
+### la.gnārus
+
 ignorance /1/ n.无知，愚昧
 
-recognize /1/ v.认识到，承认，认可
+### la.nōscō, nōscere, prp nōscēns, pp nōtus; from earlier gnōscō 知道、认知
+
+note
+
+notion n 观念、信念、概念，
+
+notable a 值得注意的(not able能…的)
+
+notice v/n 注意,通知(not ice)
+
+notify v 布告,通知(not ify=给予注意=通告)
+
+notorious a 恶名昭著的(not orious多…的=多得惹人注意的)
+
+notoriety n 恶名(notorious的名词)
+
+annotate v 注解(an给予 not ate=给予注意=注解)
+
+annotation n 注解(annotate ion)
+
+denote v 指示,表示(de加强 note=加强注意=指示)
+
+denotation n 指示,意义(denote ation)
+
+la. cognōscō (con-)
+
+cognition n 认知,认识 (con "with")
+
+cognizable a 可认识的(cogn+ize+able=能够知道的) 
+
+cognizant a 知晓的(cogn+ize+ant)
+
+recognize v 认出(re 再+cogn+ize=再次知道=认出来)
+
+precognition n 预知,预见(pre 预先+cogn+ition=预先知道=预知)
 
 incognito /3,1/ n.a.ad.隐姓埋名，化名
 
 connoisseur /3/ n.鉴定家，内行
+
+reconnoiter /3/ v 侦查
+
+la. nōbilis (-ibilis)
+
+noble
+
+nobility
+
+### el.γνώμων (gnṓmōn) "examiner, carpenter's square"; la.norma "norm"
+
+gnomon n 日晷的指日针
+
+norm n 规范,行为准则
+
+normal a 正常的(norm al=有规范的=正常的)
+
+abnormal a 异常的,反常的(ab离开 normal正常的)
+
+enormous a 巨大的(ex-)
+
+enormity n 穷凶极恶(e norm ity)
+
+subnormal a 低于标准的,低能的(sub在下面 normal正常的)
+
+transnormal a 超常规的,异常的(trans超 normal正常的)
+
+### la.glōria
+
+glory
+
+glorious
+
+glorify v 赞美
+
+glorification n 赞颂
+
+### la.nārrō, nārrāre, prp nārrāns, pp nārrātus; "narrate"
+
+narrate
+
+narrator
+
+narration
+
+narrative
 
 ## grad=step,grade,表示”步,级”
 
@@ -7934,22 +8024,6 @@ autonomy n 自治,独立(auto 自己+ nomy 系统,统治= 自己统治)
 economy n 经济(学)( eco 环境,经济 + nomy,参考:ecology 生态学 )
 
 antinomy n 自相矛盾，二律相悖(anti 反+ nomy 理论= 相反理论 =自相矛盾)
-
-## norm=rule, norm,表示”规则,规范”
-
-norm n 规范,行为准则
-
-normal a 正常的(norm al=有规范的=正常的)
-
-abnormal a 异常的,反常的(ab离开 normal正常的)
-
-enormous a 巨大的(e出 norm ous=出了正常状态=巨大的,过分的)
-
-enormity n 穷凶极恶(e norm ity)
-
-subnormal a 低于标准的,低能的(sub在下面 normal正常的)
-
-transnormal a 超常规的,异常的(trans超 normal正常的)
 
 ## nost = home,表示”家”
 
