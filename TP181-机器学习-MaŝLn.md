@@ -1,3 +1,9 @@
+框架暂时参考吴恩达。
+
+另一个框架：[第一章人工智能之机器学习算法体系汇总——王小雷](https://blog.csdn.net/dream_an/article/details/76358374)
+
+![机器学习体系——王小雷](pic/TP181-MasLn/机器学习体系——王小雷.png)
+
 # 第一课 绪论 Intrduction
 
 - 欢迎
@@ -139,13 +145,17 @@
 
 # 第十三课 聚类 Clustering
 
-# 第十四课 降维 Dimensionality Reduc1on
+
+
+# 第十四课 降维 Dimensionality Reduction
 
 # 第十五课 检测异常 Anomaly detection
 
 # 第十六课 推荐系统 Recommender Systems
 
 # 第十七课 大规模机器学习 Large scale machine learning
+
+随机梯度下降（stochastic gradient descent）、小批量梯度下降（mini-batch gradient descent）、随机梯度下降收敛、在线学习（online learning）、映射规约和数据并行（map-reduce and daata parallelism）
 
 # 第十八课 应用案例——图片光字识 Application example: Photo OCR
 

@@ -61,3 +61,7 @@
     - 数理生物学（mathematical biology）
     - 数理经济学（mathematical economics）
     - 控制论（control theory）
+
+# 参考
+
+[【京都大学数学小哥】数学学科有哪些分支？由浅入深大讲解！](https://www.bilibili.com/video/BV1sC4y1b7KX)
