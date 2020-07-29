@@ -143,9 +143,15 @@
 
 # 第十二课 支持向量机 Support Vector Machines
 
+有监督学习之线性分类之：线性回归、对数几率回归、多元对数几率回归、感知机（perceptron）、朴素贝叶斯分类器、Fisher线性判别（Fisher's linear discriminant）（又叫 LDA，Linear Discriminant Analysis）、支持向量机（SVM）
+
 # 第十三课 聚类 Clustering
 
+无监督学习：
 
+- 聚类：K均值、EM（期望最大化，Expectation-maximization）、KNN（K近邻）
+- 异常检测：局部异常因子（local outlier factor）
+- 关联分析：先验算法（apriori）、频繁模式增长（FP-growth，Frequent Pattern Growth）、等价类变换算法（Eclat算法，Equivalence CLAss Transformation）
 
 # 第十四课 降维 Dimensionality Reduction
 
@@ -156,6 +162,10 @@
 # 第十七课 大规模机器学习 Large scale machine learning
 
 随机梯度下降（stochastic gradient descent）、小批量梯度下降（mini-batch gradient descent）、随机梯度下降收敛、在线学习（online learning）、映射规约和数据并行（map-reduce and daata parallelism）
+
+- 在线学习
+    - 每次使用一个例子，使用完丢弃再也不使用
+    - 可以适用于变化中的用户偏好
 
 # 第十八课 应用案例——图片光字识 Application example: Photo OCR
 
