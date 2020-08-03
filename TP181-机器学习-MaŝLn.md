@@ -48,6 +48,7 @@
     - 梯度是增长方向，负号取下降方向
     - α小则慢，大则超调以致发散
     - 收敛到局部最小值
+        - 单元线性回归是 convex的，所以会到全局最优
     - α可以取定，因为越接近目标，导数越小，自会收敛
 - 梯度下降用于线性回归
     - 对于线性，θ_0, θ_1，简单求导得：（同时更新）
@@ -145,17 +146,67 @@
 
 有监督学习之线性分类之：线性回归、对数几率回归、多元对数几率回归、感知机（perceptron）、朴素贝叶斯分类器、Fisher线性判别（Fisher's linear discriminant）（又叫 LDA，Linear Discriminant Analysis）、支持向量机（SVM）
 
+- 支持向量机的正则化系数常用给第一项的C，而不是第二项的λ，其实C相当于1/λ
+    - C很大，会极大惩罚错判点，让SVM受异常点影响很大
+    - 所以，当欠拟合，想减少bias，增大variance，则是增大C，相当于减少λ
+        - 亦，减小高斯核函数的σ²
+- 核函数
+    - 高斯核函数
+        - `sim = exp( -sum((x1-x2).*(x1-x2)) /2/sigma/sigma);`
+        - σ² 大，则比较平，因为不到很大都是和中间的0近似
+        - **SVM中使用高斯核函数之前通常会进行特征归一化**
+            - The similarity measure used by the Gaussian kernel expects that the data lie in approximately the same range
+            - 因为取的勾股距离吧
+        - The Gaussian kernel is also parameterized by a bandwidth parameter, σ, which determines how fast the similarity metric decreases (to 0) as the examples are further apart
+
+
 # 第十三课 聚类 Clustering
 
 无监督学习：
 
 - 聚类：K均值、EM（期望最大化，Expectation-maximization）、KNN（K近邻）
+    - K-means
+        - 损失函数（distortion function）
+            - A lower value for the distortion function implies a better clustering, so you should choose the clustering with the smallest value for the distortion function. 
+            - 损失函数不可能有时上升
+        - 防止局部最优：多随机初始化几次，用样本值
+        - 选择聚类数K：
+            - 肘形曲线
+            - 看实际需求
 - 异常检测：局部异常因子（local outlier factor）
 - 关联分析：先验算法（apriori）、频繁模式增长（FP-growth，Frequent Pattern Growth）、等价类变换算法（Eclat算法，Equivalence CLAss Transformation）
 
 # 第十四课 降维 Dimensionality Reduction
 
+- 应用：数据压缩
+- 应用：可视化（一般就能图形化表示二维、三维）
+- 主成分分析（PCA, Principal Component Analysis）
+    - 目标：投影误差を最小化
+        - 作为对比，线性回归最小化的是y方向的误差
+    - 计算过程
+        - 先归一化
+        - covariance matrix `sigma = 1/m * X' * X`
+        - eigenvectors dl matrix
+            - `U, S, V = svd(sigma)`
+            - singular value decompositio
+            - 即。求出协方差矩阵的特征值及对应的特征向量。特征向量最能代表原始数据。
+        - `Ureduce = U(:, 1:k)`
+            - 即，将特征向量按对应特征值大小从上到下按行排列成矩阵，取前k行组成矩阵Ur。（找k个最能代表原数据的向量）
+        - `z = (Ureduce' * x)`
+    - 使用细节
+        - 重建压缩后的数据（近似）
+        - 选择主成分数量
+            - 衡量：比值 of 平均平方映射误差 et 数据的总变差 (Total Variation) （它的意思是 “平均来看 我的训练样本 距离零向量多远？）
+            - e.g. Choose k to be the smallest value so that at least 99% of the variance is retained.
+            - 用svd返回的S矩阵可以简便计算
+    - 应用建议
+        - 应用场景
+        - 不建议的场景
+            - Preventing overfitting: Reduce the number of features (in a supervised learning problem), so that there are fewer parameters to learn.
+
 # 第十五课 检测异常 Anomaly detection
+
+- 与有监督学习的主要区别是，正（异常）样本数很小
 
 # 第十六课 推荐系统 Recommender Systems
 
@@ -179,3 +230,8 @@ $y$ | 输出变量/目标变量
 $(x^{(i)}, y^{(i)})$ | 第i个训练样例
 $n$ | 特征数
 $x_j^{(i)}$ | 特征j在样本i的值
+
+# noten vom ML DNg
+
+https://blog.csdn.net/u012052268/article/details/78816779
+（ https://blog.csdn.net/u012052268/category_9270840.html ）

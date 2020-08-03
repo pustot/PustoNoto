@@ -10041,6 +10041,24 @@ rout n/v 溃败，击溃
 
 
 
+## salut[=salv] ary=救助[身体]的=有益的)
+
+salv sav=save,表示”救助”
+
+save v 挽救
+
+salvage n 抢救(salv age表名词,如:foliage树叶)
+
+salvation n 救济,救助
+
+salver n 盘,盒(帮助放东西的盒子等)
+
+salutary a (对身心)有益的
+
+saviour n 救星(sav iour人=救助的人=救星)
+
+salubrious 有益健康的(salubr=salu)
+
 ## san, sanit= healthy,表示”健康的”
 
 sane a 神志清醒的
