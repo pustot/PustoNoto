@@ -169,7 +169,10 @@
         - 损失函数（distortion function）
             - A lower value for the distortion function implies a better clustering, so you should choose the clustering with the smallest value for the distortion function. 
             - 损失函数不可能有时上升
-        - 防止局部最优：多随机初始化几次，用样本值
+            - 所有点，到类心点的距离，的平方和的平均值 
+        - 随机初始化
+            - 选取K后，随机选择K个样本初始。重复「指定类心点」「移动类心点」。
+            - 上述过程重复i次，取损失函数最小的那次作为结果，防止局部最优
         - 选择聚类数K：
             - 肘形曲线
             - 看实际需求
@@ -184,11 +187,14 @@
     - 目标：投影误差を最小化
         - 作为对比，线性回归最小化的是y方向的误差
     - 计算过程
-        - 先归一化
+        - 先归一化：缩放、减均
         - covariance matrix `sigma = 1/m * X' * X`
-        - eigenvectors dl matrix
+            - 就是列向量乘其转置，出来 nxn向量
+        - eigenvectors ofth matrix
             - `U, S, V = svd(sigma)`
-            - singular value decompositio
+                - singular value decompositio，奇异值分解
+                - svd函数也可能叫eig
+                - Uは左奇异矩阵，V^Tは右，Sは奇异值（只在对角线有值）
             - 即。求出协方差矩阵的特征值及对应的特征向量。特征向量最能代表原始数据。
         - `Ureduce = U(:, 1:k)`
             - 即，将特征向量按对应特征值大小从上到下按行排列成矩阵，取前k行组成矩阵Ur。（找k个最能代表原数据的向量）
@@ -235,3 +241,23 @@ $x_j^{(i)}$ | 特征j在样本i的值
 
 https://blog.csdn.net/u012052268/article/details/78816779
 （ https://blog.csdn.net/u012052268/category_9270840.html ）
+
+# 杂散
+
+- 文本处理
+    - typo correction
+        - `symspell`
+    - 词干化（stemming）
+        - `PorterStemmer`
+    - 词云
+        - `WordCloud`
+- LDA（Latent Dirichlet Allocation，隐含狄利克雷分布）：用于主题分类
+    - 《LDA数学八卦》などを参考して
+- 聚类
+    - 评价指标
+        - silhouette_score：所有样本的轮廓系数的平均值
+        - coherence score
+- 可视化
+    - UMAP（Uniform Manifold Approximation and Projection，统一流形近似与投影），用于可视化或非线性降维
+    - t-SNE：比 UMAP 更经典的可视化
+    - 

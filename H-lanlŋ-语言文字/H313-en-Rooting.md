@@ -14,7 +14,7 @@
 - 排序
     - 同一个标题下的单词，先按词形排列，再按意思排列，意义差别较大（如prostrate）也可以优先按意义排列
 
-2020-0711 扩展自 cunning
+2020-xxxx 扩展自 xxxx
 
 # A
 
@@ -10041,9 +10041,7 @@ rout n/v 溃败，击溃
 
 
 
-## salut[=salv] ary=救助[身体]的=有益的)
-
-salv sav=save,表示”救助”
+## salut[=salv] ary=救助[身体]的=有益的) salv sav=save,表示”救助”
 
 save v 挽救
 
