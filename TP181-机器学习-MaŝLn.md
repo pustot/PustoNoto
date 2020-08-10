@@ -253,6 +253,10 @@ https://blog.csdn.net/u012052268/article/details/78816779
         - `WordCloud`
 - LDA（Latent Dirichlet Allocation，隐含狄利克雷分布）：用于主题分类
     - 《LDA数学八卦》などを参考して
+        - [LDA-math-神奇的Gamma函数(1)](https://www.52nlp.cn/lda-math-%e7%a5%9e%e5%a5%87%e7%9a%84gamma%e5%87%bd%e6%95%b01)
+        - [概率语言模型及其变形系列-LDA及Gibbs Sampling](https://www.52nlp.cn/%e6%a6%82%e7%8e%87%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e5%8f%8a%e5%85%b6%e5%8f%98%e5%bd%a2%e7%b3%bb%e5%88%97-lda%e5%8f%8agibbs-sampling)
+        - [一文详解LDA主题模型](https://zhuanlan.zhihu.com/p/31470216)
+        - [The Hitchhiker's Guide to LDA](https://arxiv.org/abs/1908.03142)
 - 聚类
     - 评价指标
         - silhouette_score：所有样本的轮廓系数的平均值
@@ -260,4 +264,9 @@ https://blog.csdn.net/u012052268/article/details/78816779
 - 可视化
     - UMAP（Uniform Manifold Approximation and Projection，统一流形近似与投影），用于可视化或非线性降维
     - t-SNE：比 UMAP 更经典的可视化
-    - 
+- 词向量句向量
+    - [bert-as-service](https://github.com/hanxiao/bert-as-service)
+    - [Familia](https://github.com/baidu/Familia/wiki)
+    - [sentence-transformers](https://github.com/UKPLab/sentence-transformers)
+    - [gensim: Topic modelling for humans](https://radimrehurek.com/gensim/)
+    - [Topic Modeling BERT+LDA](https://www.kaggle.com/dskswu/topic-modeling-bert-lda#)
