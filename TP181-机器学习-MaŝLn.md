@@ -270,3 +270,5 @@ https://blog.csdn.net/u012052268/article/details/78816779
     - [sentence-transformers](https://github.com/UKPLab/sentence-transformers)
     - [gensim: Topic modelling for humans](https://radimrehurek.com/gensim/)
     - [Topic Modeling BERT+LDA](https://www.kaggle.com/dskswu/topic-modeling-bert-lda#)
+- 训练
+    - iteration 是用 批容量 个样本训练一次，而 epoch 是全部样本都来了一遍。是以，`475(= 7595*10 / per_gpu_train_batch_size / n_gpus)` 个iter每epoch 于 7595×10 个训练样本，`per_gpu_train_batch_size` 的批容量每图处元，共 `n_gpus` 个图处元。（所有gpu都运行了自己的批，叫一个iter）
