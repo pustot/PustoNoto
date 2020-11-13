@@ -12095,6 +12095,8 @@ tropical a 热带的(tropic+al)
 
 trophy n 奖品, 胜利纪念品( 经过轮番努力[turn again and again]而得到的东西
 
+Atropos Άτροπος 阿特洛波斯，名字意为「叵变」，「命运三女神」之一，检视过去的时间，掌管死亡，负责切断命运之线
+
 ## trud ,trus=push,表示”推”
 
 extrude v 挤出,冲出(ex 出+trud+e=往外推=冲出) 
