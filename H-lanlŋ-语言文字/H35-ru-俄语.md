@@ -326,3 +326,44 @@ word|meaning|note
 сквозь    |through| attr:+acc.
 бу́ря      |tempest| attr: ap.acc.бу́ри
 пойти́     |to go, walk| attr: 3.sing.future. пойдёт
+
+## Катюша （喀秋莎）
+
+https://www.marxists.org/history/ussr/sounds/lyrics/katyusha.htm
+
+ru                                  |zh|note
+-|-|-
+Расцветали яблони и груши,          | |bloom-pl-past-impf apple-tree-pl and pear-tree-pl
+Поплыли туманы над рекой.           | |start-floating-pl-past-pf fog-pl above river-sing-inst
+Выходила на берег Катюша,           | |go-out-f-sing-past-impf onto bank-acc Катюша
+На высокий берег на крутой.         | |onto lofty-acc-m-inan bank-acc onto steep-acc-m-inan
+..| |
+Выходила, песню заводила            | |
+Про степного, сизого орла,          | |
+Про того, которого любила,          | |
+Про того, чьи письма берегла.       | |
+..| |
+Ой ты, песня, песенка девичья,      | |
+Ты лети за ясным солнцем вслед.     | |
+И бойцу на дальнем пограничье       | |
+От Катюши передай привет.           | |
+..| |
+Пусть он вспомнит девушку простую,  | |
+Пусть услышит, как она поет,        | |
+Пусть он землю бережет родную,      | |
+А любовь Катюша сбережет.           | |
+
+word|meaning|note
+-|-|-
+расцвета́ть |bloom |(pl.past.indic.impf. расцвета́ли)
+я́блоня     |apple tree |(pl. я́блони)
+гру́ша      |pear (fruit or tree) |f. (pl. гру́ши)
+поплы́ть    |start floating | по- (po-) +‎ плыть (plytʹ), (pl.past.indic.pf поплы́ли), (imperfective плыть)
+тума́н      |fog |m. (pl. тума́ны)
+над        |above |+inst.
+река́       |river |f. (inst.sing. реко́й)
+выходи́ть   |got out |вы- (vy-) +‎ ходи́ть (xodítʹ) (f.sing.past.indic.impf. выходи́ла)
+на         |on, onto | +acc. onto, +prep. upon
+бе́рег      |bank, shore |m. (acc. бе́рег )
+высо́кий    |lofty |(acc.m.inan. высо́кий)
+круто́й     |adj. steep|(acc.m.inan. круто́й)
