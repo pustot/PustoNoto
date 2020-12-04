@@ -85,6 +85,19 @@ The 8-letter rule: Whenever you make any form of a word, and you need to write �
 
     after К, Г, Х , Ш, Ж, Щ, Ч and Ц, always use А or У
 
+## 键盘
+
+~Ё
+QЙ WЦ EУ RК TЕ YН UГ IШ OЩ PЗ {Х }Ъ
+AФ SЫ DВ FА GП HР JО KЛ LД :Ж "Э
+ZЯ XЧ CС VМ BИ NТ MЬ <Б >Ю
+
+й цук енг шщз 
+
+如何记忆？
+等位：CС
+26字母界外的字母： yo, x", ray, biu
+界内：一 Zuk eng 神仙字；费~物，Apr，old；氩气酥，mit，ть
 
 # 名词
 

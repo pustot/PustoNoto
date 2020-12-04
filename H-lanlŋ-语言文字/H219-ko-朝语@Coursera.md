@@ -1,5 +1,16 @@
 @Coursera https://www.coursera.org/learn/learn-korean/
 
+# 键盘
+
+ㅂ ㅈ ㄷ ㄱ ㅅ ㅛ ㅕ ㅑ ㅐ ㅔ 
+ㅁ ㄴ ㅇ ㄹ ㅎ ㅗ ㅓ ㅏ ㅣ 
+   ㅋ ㅌ ㅊ ㅍ ㅠ ㅜ ㅡ
+ㅃ ㅉ ㄸ ㄲ ㅆ
+
+辅音部分 pu qi te ke , si; m n ng; r h; kh, th, chh, pu 
+
+元音部分 o eo a, ae e; yo yeo ya i; yu u eu
+
 # M1
 
 认字，省略。
