@@ -5,10 +5,27 @@ basierten der 50 Fragen Jahrs 2019s
     - [labuladong的算法小抄](https://labuladong.gitee.io/algo/)
 - [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up)
 - 剑指Offer（mal gibt es in 微信读书）
+- 力扣
+    - 力扣美国同步到中国： https://leetcode-cn.com/accounts/transfer_from_us/
 
 # Algorithm
 
 [AlgoVorbereitung - PustoNote](./AlgoVorbereitung.md)
+
+## BiTree
+
+如何把题目的要求细化成每个节点需要做的事情。
+
+```java
+/* 二叉树遍历框架 */
+void traverse(TreeNode root) {
+    // 前序遍历
+    traverse(root.left)
+    // 中序遍历
+    traverse(root.right)
+    // 后序遍历
+}
+```
 
 ## Dynamische Programmierung
 
