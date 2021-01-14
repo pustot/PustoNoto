@@ -1,5 +1,14 @@
 @Coursera https://www.coursera.org/learn/learn-korean/
 
+韩文法令文献举例：
+
+https://www.law.go.kr/LSW/lsLinkProc.do?lsNm=%EC%98%81%ED%99%94+%EB%B0%8F+%EB%B9%84%EB%94%94%EC%98%A4%EB%AC%BC%EC%9D%98+%EC%A7%84%ED%9D%A5%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&chrClsCd=010202&mode=20&ancYnChk=0#
+
+# 学习资料与建议
+
+- [韓国語・ハングルの勉強なら｜初級までの朝鮮語・初級から先の朝鮮語｜文法の特効薬TOP (penguin99.com)](https://www.penguin99.com/04_grammar/grammar.html)
+    - 推荐自王赟大佬[这个回答 -- 韩语动词加ㅁ和기有什么区别?](https://www.zhihu.com/question/38607989/answer/100026462)
+
 # 键盘
 
 ㅂ ㅈ ㄷ ㄱ ㅅ ㅛ ㅕ ㅑ ㅐ ㅔ 

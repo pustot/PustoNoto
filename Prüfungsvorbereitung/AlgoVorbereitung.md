@@ -209,3 +209,90 @@ class Solution:
             
         return root
 ```
+
+# 2020-0105 LeetCode 654. Maximum Binary Tree, Medium, @BiTree
+
+https://leetcode.com/problems/maximum-binary-tree/
+
+```py
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def constructMaximumBinaryTree(self, nums: List[int]) -> TreeNode:
+        if nums == []:
+            return None
+        
+        ind = nums.index(max(nums))
+        l = self.constructMaximumBinaryTree(nums[:ind])
+        r = self.constructMaximumBinaryTree(nums[ind+1:])
+        return TreeNode(nums[ind], l, r)
+```
+
+# 2020-0106 LeetCode 105. Construct Binary Tree from Preorder and Inorder Traversal, Medium, @BiTree
+
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+
+```py
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def buildTree(self, preorder: List[int], inorder: List[int]) -> TreeNode:
+        t, _ = self.builder(preorder, inorder, None)
+        return t
+    
+    def builder(self, preorder: List[int], inorder: List[int], v: int) -> (TreeNode, int):
+        if inorder == []: # attention that dass nicht pre- sondern in-
+            return None, v
+        
+        ind = inorder.index(preorder[0])
+        l, lastv = self.builder(preorder[1:], inorder[:ind], preorder[0])
+        r, lastv = self.builder(preorder[preorder.index(lastv)+1:], inorder[ind+1:], lastv)
+        return TreeNode(preorder[0], l, r), lastv
+```
+
+# 2020-0106 LeetCode 106. Construct Binary Tree from Inorder and Postorder Traversal, Medium, @BiTree
+
+https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+
+lastv 是我用来找前/后序数组中两子树分割点的，在后序中跟前序中的获得方法差不多。
+
+```py
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def buildTree(self, inorder: List[int], postorder: List[int]) -> TreeNode:
+        t, _ = self.builder(inorder, postorder, None)
+        return t
+    
+    def builder(self, inorder: List[int], postorder: List[int], v: int) -> (TreeNode, int):
+        if inorder == []:
+            return None, v
+        
+        ind = inorder.index(postorder[-1])
+        r, lastv = self.builder(inorder[ind+1:], postorder[:-1], postorder[-1])
+        l, lastv = self.builder(inorder[:ind], postorder[:postorder.index(lastv)], lastv)
+        
+        return TreeNode(postorder[-1], l, r), lastv
+```
+
+# 300. Longest Increasing Subsequence
+
+https://leetcode.com/problems/longest-increasing-subsequence/
+
+# 652. Find Duplicate Subtrees
+
+https://leetcode.com/problems/find-duplicate-subtrees/
+
+https://labuladong.gitee.io/algo/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%B3%BB%E5%88%973.html
