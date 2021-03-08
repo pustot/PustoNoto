@@ -1,4 +1,4 @@
-# 2021-0103 LeetCode 509 Fibonacci Number, Easy, @DP
+# 2021-0103 LC 509 Fibonacci Number, Easy, @DP
 
 https://leetcode.com/problems/fibonacci-number/
 
@@ -29,7 +29,7 @@ class Solution {
 }
 ```
 
-# 2021-0103 LeetCode 322. Coin Change, Medium, @DP
+# 2021-0103 LC 322. Coin Change, Medium, @DP
 
 https://leetcode.com/problems/coin-change/
 
@@ -81,7 +81,7 @@ class Solution {
 }
 ```
 
-# 2021-0105 LeetCode 226. Invert Binary Tree, Easy, @BiTree
+# 2021-0105 LC 226. Invert Binary Tree, Easy, @BiTree
 
 https://leetcode.com/problems/invert-binary-tree/
 
@@ -139,7 +139,7 @@ class Solution {
 }
 ```
 
-# 2021-0105 LeetCode 114. Flatten Binary Tree to Linked List, Medium, @BiTree
+# 2021-0105 LC 114. Flatten Binary Tree to Linked List, Medium, @BiTree
 
 https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 
@@ -175,7 +175,7 @@ class Solution:
             root.left = None
 ```
 
-# 2021-0105 LeetCode 116. Populating Next Right Pointers in Each Node, Medium, @BiTree
+# 2021-0105 LC 116. Populating Next Right Pointers in Each Node, Medium, @BiTree
 
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 
@@ -210,7 +210,7 @@ class Solution:
         return root
 ```
 
-# 2020-0105 LeetCode 654. Maximum Binary Tree, Medium, @BiTree
+# 2020-0105 LC 654. Maximum Binary Tree, Medium, @BiTree
 
 https://leetcode.com/problems/maximum-binary-tree/
 
@@ -232,7 +232,7 @@ class Solution:
         return TreeNode(nums[ind], l, r)
 ```
 
-# 2020-0106 LeetCode 105. Construct Binary Tree from Preorder and Inorder Traversal, Medium, @BiTree
+# 2020-0106 LC 105. Construct Binary Tree from Preorder and Inorder Traversal, Medium, @BiTree
 
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 
@@ -258,7 +258,7 @@ class Solution:
         return TreeNode(preorder[0], l, r), lastv
 ```
 
-# 2020-0106 LeetCode 106. Construct Binary Tree from Inorder and Postorder Traversal, Medium, @BiTree
+# 2020-0106 LC 106. Construct Binary Tree from Inorder and Postorder Traversal, Medium, @BiTree
 
 https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 
@@ -285,6 +285,153 @@ class Solution:
         l, lastv = self.builder(inorder[:ind], postorder[:postorder.index(lastv)], lastv)
         
         return TreeNode(postorder[-1], l, r), lastv
+```
+
+# 2021-0308 53. Maximum Subarray, Easy, @DP
+
+https://leetcode.com/problems/maximum-subarray/
+
+```java
+class Solution {
+    public int maxSubArray(int[] nums) {
+        int n = nums.length;
+        int[] dp = new int[n + 5];
+        dp[0] = nums[0];
+        for(int i = 1; i < n; i ++) {
+            if (nums[i] > nums[i] + dp[i - 1]) {
+                dp[i] = nums[i];
+            } else {
+                dp[i] = nums[i] + dp[i - 1];
+            }
+        }
+        int max = -100005;
+        for (int i = 0; i < n; i ++) {
+            if (dp[i] > max) {
+                max = dp[i];
+            }
+        }
+        return max;
+    }
+}
+```
+
+# 2021-0308 875. Koko Eating Bananas, Medium, @BiSearch-左
+
+https://leetcode.com/problems/koko-eating-bananas/
+
+参考：  https://labuladong.gitee.io/algo/%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97/koko%E5%81%B7%E9%A6%99%E8%95%89.html
+
+用二分查找加速原本的暴力搜索。最大端不用看，所以一直搜最小端。
+
+学习一下二分查找！[fucking-algorithm/算法思维系列/二分查找详解.md](https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md)
+
+```py
+class Solution:
+    def minEatingSpeed(self, piles: List[int], h: int) -> int:
+        l, r = 1, max(piles)
+        while l < r:
+            m = (r - l)//2 + l
+            if self.daysNeeded(piles, m) <= h:
+                # feasible, ensmaller it
+                r = m
+            else:
+                l = m + 1
+        return l  
+            
+    def daysNeeded(self, piles, k):
+        piles = [x // k + 1 if x%k > 0 else x // k for x in piles] # +1
+        return sum(piles)
+```
+
+```java
+class Solution {
+    public int minEatingSpeed(int[] piles, int h) {
+        // 即找左边界
+        int max = 0;
+        for (int i = 0; i < piles.length; i ++) {
+            if (piles[i] > max) max = piles[i];
+        }
+        int l = 1, r = max; // 注意 l 是 1 即搜索区间左
+        while (l < r) {
+            int m  = (r - l) / 2 + l;
+            if (this.hoursNeeded(piles, m) <= h) {
+                // 挪右，右不减
+                r = m;
+            } else {
+                // 挪左，左加
+                l = m + 1;
+            }
+        }
+        return l;
+    }
+    public int hoursNeeded(int[] piles, int k) {
+        int res = 0;
+        for (int i=0; i < piles.length; i ++) {
+            res += piles[i] % k > 0 ? piles[i] / k + 1 : piles[i] / k;
+        }
+        return res;
+    }
+}
+```
+
+# 2021-0308 704. Binary Search, Easy, @BiSearch-单
+
+https://leetcode.com/problems/binary-search/
+
+```java
+class Solution {
+    public int search(int[] nums, int target) {
+        int imin = 0, imax = nums.length - 1;
+        while (imin <= imax) {
+            int m = (imax - imin) / 2 + imin; 
+            if (nums[m] == target) 
+                return m;
+            else if (nums[m] < target)
+                imin = m + 1;
+            else
+                imax = m - 1;
+        }
+        return -1;
+    }
+}
+```
+
+# 2021-0308 34. Find First and Last Position of Element in Sorted Array, Medium, @BiSearch-左, @BiSearch-右
+
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+
+```java
+class Solution {
+    public int[] searchRange(int[] nums, int target) {
+        if (nums.length == 0) return new int[] {-1, -1};
+        int resl, resr;
+        // find left point
+        int l = 0, r = nums.length;
+        while (l < r) {
+            int m = (r - l) / 2 + l;
+            if (nums[m] >= target)
+                r = m;
+            else if (nums[m] < target)
+                l = m + 1;
+        }
+        resl = l;
+        // find right point
+        l = 0; r = nums.length;
+        while (l < r) {
+            int m = (r - l) / 2 + l;
+            if (nums[m] > target)
+                r = m;
+            else if (nums[m] <= target)
+                l = m + 1;
+        }
+        resr = l - 1;
+        // 如何处理结果不在数组的状况！！
+        if (resl > resr)
+            return new int[] {-1, -1};
+        else
+            return new int[] {resl, resr};
+    }
+}
 ```
 
 # 300. Longest Increasing Subsequence
