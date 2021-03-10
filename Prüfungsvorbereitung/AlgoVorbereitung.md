@@ -434,6 +434,47 @@ class Solution {
 }
 ```
 
+# 2021-0301 76. Minimum Window Substring, Hard, @滑窗
+
+It's first time my, sliding window to study. Some points are needed care take.
+
+```cpp
+class Solution {
+public:
+    string minWindow(string s, string t) {
+        int left = 0, right = 0;
+        int start = 0, minlen = INT_MAX;
+        unordered_map<char, int> window;
+        unordered_map<char, int> target;
+        for (char c : t) target[c] ++;
+        int match = 0;
+        while (right < s.length()) {
+            char c = s[right];
+            window[c] ++;
+            if (target.count(c) && window[c] == target[c]) // 先 count 防止干扰 target
+                match ++;
+            right ++;
+
+            while (match == target.size()) {
+                // 减小到刚好不match，才有优化动力
+                
+                if (right - left < minlen) {
+                    minlen = right - left;
+                    start = left;
+                }
+                
+                char c = s[left];
+                left ++;
+                if (target.count(c) && window[c] == target[c])
+                    match --;
+                window[c] --;
+            }
+        }
+        return minlen < INT_MAX ? s.substr(start, minlen) : "";
+    }
+};
+```
+
 # 300. Longest Increasing Subsequence
 
 https://leetcode.com/problems/longest-increasing-subsequence/
