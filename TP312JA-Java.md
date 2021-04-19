@@ -1,9 +1,22 @@
 # 数据结构类
 ```java
+// List
 // 创建列表
 Arrays.asList("SIGN_OFF", "SIGN_ON")
 // 声明
 List<String> xxx;
+
+// String
+// .substring()
+// It throws IndexOutOfBoundsException If the beginIndex is less than zero OR beginIndex > endIndex OR endIndex is greater than the length of String.
+"strawberries".substring(2, 5); // == "raw" ，跟python那样前闭后开 
+"strawberries".substring(6, 5); // 抛出异常
+// String.equals() 用于比较内容相等，而 `==` 比较地址是否相等
+
+// Boolean
+// Boolean.parseBoolean("True") 将字符串参数解析为布尔值。 boolean返回的代表值为true 当字符串等于"true"，忽略大小写
+Boolean.parseBoolean("True") // 返回true 。
+Boolean.parseBoolean("yes") //返回false 。
 
 // UUID
 import java.util.Arrays;
@@ -14,6 +27,34 @@ Arrays.asList(UUID.fromString("0c312388-5d09-4f44-b670-5461605f0b1e"))
 # 其他-简单
 
 ```java
+// 方法重载（overload）：编译时的多态
+// 方法重写（override）：运行时的多态
+
+// try ... catch ... finally
+// 其中 finally 不管是否有异常都会执行
+// catch 捕捉其中一个后，后面的都不会catch
+// 因此如果把范围大的写范围小的前面，编译会报错
+// 下面这段程序会报错
+import java.io.IOException;  
+public class ExceptionTryCatchTest {  
+    public void doSomething() throws IOException{  
+        System.out.println("do somthing");  
+    }  
+    public static void main(String[] args){  
+        ExceptionTryCatchTest etct = new ExceptionTryCatchTest();  
+        try {  
+            etct.doSomething();  
+        } catch (Exception e) {  
+              
+        } catch (IOException e) {  // !!!这里报错
+              
+        }  
+    }   
+}
+// Exception，Error 是 Throwable 的两大子类，catch Exception 的话对 Error 无效
+
+// this 指向当前对象，super 指向最近的父类
+
 // package
 // 必须是第一条非注释语句。一个文件只有一个包。
 // 可以无障碍使用包里的其他文件里定义的类。
