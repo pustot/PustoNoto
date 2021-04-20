@@ -1,4 +1,5 @@
 # 数据结构类
+
 ```java
 // List
 // 创建列表
@@ -9,7 +10,7 @@ List<String> xxx;
 // String
 // .substring()
 // It throws IndexOutOfBoundsException If the beginIndex is less than zero OR beginIndex > endIndex OR endIndex is greater than the length of String.
-"strawberries".substring(2, 5); // == "raw" ，跟python那样前闭后开 
+"strawberries".substring(2, 5); // == "raw" ，跟python那样前闭后开
 "strawberries".substring(6, 5); // 抛出异常
 // String.equals() 用于比较内容相等，而 `==` 比较地址是否相等
 
@@ -35,21 +36,21 @@ Arrays.asList(UUID.fromString("0c312388-5d09-4f44-b670-5461605f0b1e"))
 // catch 捕捉其中一个后，后面的都不会catch
 // 因此如果把范围大的写范围小的前面，编译会报错
 // 下面这段程序会报错
-import java.io.IOException;  
-public class ExceptionTryCatchTest {  
-    public void doSomething() throws IOException{  
-        System.out.println("do somthing");  
-    }  
-    public static void main(String[] args){  
-        ExceptionTryCatchTest etct = new ExceptionTryCatchTest();  
-        try {  
-            etct.doSomething();  
-        } catch (Exception e) {  
-              
+import java.io.IOException;
+public class ExceptionTryCatchTest {
+    public void doSomething() throws IOException{
+        System.out.println("do somthing");
+    }
+    public static void main(String[] args){
+        ExceptionTryCatchTest etct = new ExceptionTryCatchTest();
+        try {
+            etct.doSomething();
+        } catch (Exception e) {
+
         } catch (IOException e) {  // !!!这里报错
-              
-        }  
-    }   
+
+        }
+    }
 }
 // Exception，Error 是 Throwable 的两大子类，catch Exception 的话对 Error 无效
 
@@ -90,11 +91,11 @@ assertTrue(roleTypeConfig.getRoleType("none").isEmpty());
 
 # Spring Boot
 
-- entity 层：同model层，存放实体类，属性值同于数据库，提供get、set
-- dao 层（数据访问层）（后端用嘅数据）：即mapper层，对数据库进行持久化操作，他的方法是针对数据库操作的，基本用到的就是增删改查。它只是个接口，只有方法名字，具体实现在mapper.xml中。（可以写SQL语句的一些部分）
-- service 层（业务逻辑层）（后端用嘅方法）：业务层，存放业务逻辑处理，不直接对数据库进行操作，有接口和接口实现类，提供controller层调用的方法。（里面的东西还是后端的类型。）
-- controller层（表示层）（前端用嘅方法）：控制器层，导入service层，调用service方法，controller通过接收前端传过来的参数进行业务操作，在返回一个指定的路径或者数据表。（里面的东西转成前端的 request、response 等类型）
-总结：具体的一个项目中有：controller层调用了Service层的方法，Service层调用Dao层的方法，其中调用的参数是使用Entity层进行传递的。
+- entity 层：同 model 层，存放实体类，属性值同于数据库，提供 get、set
+- dao 层（数据访问层）（后端用嘅数据）：即 mapper 层，对数据库进行持久化操作，他的方法是针对数据库操作的，基本用到的就是增删改查。它只是个接口，只有方法名字，具体实现在 mapper.xml 中。（可以写 SQL 语句的一些部分）
+- service 层（业务逻辑层）（后端用嘅方法）：业务层，存放业务逻辑处理，不直接对数据库进行操作，有接口和接口实现类，提供 controller 层调用的方法。（里面的东西还是后端的类型。）
+- controller 层（表示层）（前端用嘅方法）：控制器层，导入 service 层，调用 service 方法，controller 通过接收前端传过来的参数进行业务操作，在返回一个指定的路径或者数据表。（里面的东西转成前端的 request、response 等类型）
+  总结：具体的一个项目中有：controller 层调用了 Service 层的方法，Service 层调用 Dao 层的方法，其中调用的参数是使用 Entity 层进行传递的。
 
 ```java
 
