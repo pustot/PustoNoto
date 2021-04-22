@@ -5,7 +5,12 @@
 // 创建列表
 Arrays.asList("SIGN_OFF", "SIGN_ON")
 // 声明
-List<String> xxx;
+List<String> list;
+// stream
+if (list.stream().noneMatch(i -> i.getKey().equals(someElse))) {
+        throw new ResponseStatusException(
+            HttpStatus.BAD_REQUEST, "invalid someElse: " + someElse);
+}
 
 // String
 // .substring()
