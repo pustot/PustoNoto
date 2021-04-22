@@ -94,6 +94,20 @@ assertTrue(roleTypeConfig.getRoleType("none").isEmpty());
 
 ```
 
+# Test, Mockito
+
+JUnit，单元测试框架。
+
+Mockito，生成模拟的对象。
+
+```java
+// mock()
+
+// when().thenReturn()
+
+// doAnswer().when(someClass).someMethod()
+```
+
 # Spring Boot
 
 - entity 层：同 model 层，存放实体类，属性值同于数据库，提供 get、set
