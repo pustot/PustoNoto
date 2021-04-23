@@ -106,6 +106,8 @@ Mockito，生成模拟的对象。
 // when().thenReturn()
 
 // doAnswer().when(someClass).someMethod()
+
+// eq()
 ```
 
 # Spring Boot
