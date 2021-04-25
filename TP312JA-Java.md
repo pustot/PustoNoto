@@ -101,13 +101,44 @@ JUnit，单元测试框架。
 Mockito，生成模拟的对象。
 
 ```java
-// mock()
+@BeforeMethod
+void setUp() {
+    pass;
+}
 
-// when().thenReturn()
+@Test
+public void testSomething() {
+    // mock()
 
-// doAnswer().when(someClass).someMethod()
+    // when().thenReturn()
 
-// eq()
+    // doAnswer().when(someClass).someMethod()
+
+    // als-Args-gegeben-zu-werdende Methoden:
+    // eq(); any();
+
+
+    // loe assertEquals()
+    assertEquals(thing1, thing2);
+
+    SomeException throwable =
+        expectThrows(SomeException.class, () -> service.get(id));
+    assertEquals(throwable.getStatus(), HttpStatus.NOT_FOUND);
+
+
+    // loe verify() de Mockito
+    // it's used to verify interaction's times, order, arg, etc.
+    // 能验证的只能是 mock 的对象
+    verify(someObj, times(1))
+        .someMethod(
+            eq(
+                someMethodInner
+            )
+        );
+    verify(someObj, never()).someMethod(any());
+}
+
+
 ```
 
 # Spring Boot
