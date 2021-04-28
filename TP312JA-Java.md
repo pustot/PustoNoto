@@ -11,6 +11,13 @@ if (list.stream().noneMatch(i -> i.getKey().equals(someElse))) {
         throw new ResponseStatusException(
             HttpStatus.BAD_REQUEST, "invalid someElse: " + someElse);
 }
+List<AForPublic> publicList = entityList.stream().map(
+            x -> AConverter.INSTANCE.toAForPublic(
+                    x,
+                    aTypeService.get(x.getTypeKey()).getName(),
+                    BConverter.INSTANCE.toBForPublic(bService.get(x.getBId()))
+            )
+    ).collect(Collectors.toList());
 
 // String
 // .substring()
@@ -28,6 +35,7 @@ Boolean.parseBoolean("yes") //返回false 。
 import java.util.Arrays;
 Arrays.asList(UUID.fromString("0c312388-5d09-4f44-b670-5461605f0b1e"))
 
+// Map<fromlichType, zulichType>
 ```
 
 # 其他-简单
@@ -82,6 +90,7 @@ assertTrue(roleTypeConfig.getRoleType("none").isEmpty());
 @Test
 ...
 
+
 // json：JavaScript Object Notation。
 // json 里的属性名也是驼峰式地写。
 
@@ -89,8 +98,21 @@ assertTrue(roleTypeConfig.getRoleType("none").isEmpty());
 // deserialize 即 json 转 java对象
 // json 里的属性名也是驼峰式地写。
 
+
 // org.slf4j... 包是一个日志框架（Simple Logging Facade for Java）
 
+
+// JavaBean
+// c'est ett Klass specialeux, escripté de Java,
+// die langgehen JavaBean API, d.h.
+// - eine arg-less Konstrukter
+// - getter, setter, isser
+// - serializeble
+// und sie'est in JSP <jsp:useBean> benutzbar
+
+
+// JSP, nämlich Java Server Pages
+// womit man insertiert Java Koden ins HTML Pagen
 
 ```
 
@@ -130,11 +152,9 @@ public void testSomething() {
     // it's used to verify interaction's times, order, arg, etc.
     // 能验证的只能是 mock 的对象
     verify(someObj, times(1))
-        .someMethod(
-            eq(
-                someMethodInner
-            )
-        );
+        .someMethod(eq(
+            someThingInner
+        ));
     verify(someObj, never()).someMethod(any());
 }
 
