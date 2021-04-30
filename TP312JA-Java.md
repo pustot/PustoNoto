@@ -172,3 +172,9 @@ public void testSomething() {
 ```java
 
 ```
+
+# OpenAPI
+
+```java
+// org.openapitools.codegen.languages.SpringCodegen
+```
