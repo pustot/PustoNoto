@@ -116,6 +116,12 @@ assertTrue(roleTypeConfig.getRoleType("none").isEmpty());
 
 ```
 
+`BATIS` is a persistence framework which automates the mapping between SQL databases and objects in Java, .NET, and Ruby on Rails. In Java, the objects are POJOs (Plain Old Java Objects).
+
+In software engineering, a p`lain old Java object (POJO)` is an ordinary Java object, not bound by any special restriction.
+
+`JPA` 全称是 Java Persistence API，jpa 定义了各种注解（用来定义实体，映射关系）。JPA 仅仅是一个规范，它的实现比较出名的是 Hibernate。JPA 的函数定义方式
+
 # Test, Mockito
 
 JUnit，单元测试框架。
