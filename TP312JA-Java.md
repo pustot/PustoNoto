@@ -36,6 +36,11 @@ import java.util.Arrays;
 Arrays.asList(UUID.fromString("0c312388-5d09-4f44-b670-5461605f0b1e"))
 
 // Map<fromlichType, zulichType>
+
+//
+public interface xxx extends xxx2 {
+    ;
+}
 ```
 
 # 其他-简单
@@ -118,9 +123,17 @@ assertTrue(roleTypeConfig.getRoleType("none").isEmpty());
 
 `BATIS` is a persistence framework which automates the mapping between SQL databases and objects in Java, .NET, and Ruby on Rails. In Java, the objects are POJOs (Plain Old Java Objects).
 
+MyBatis
+
 In software engineering, a p`lain old Java object (POJO)` is an ordinary Java object, not bound by any special restriction.
 
 `JPA` 全称是 Java Persistence API，jpa 定义了各种注解（用来定义实体，映射关系）。JPA 仅仅是一个规范，它的实现比较出名的是 Hibernate。JPA 的函数定义方式
+
+`Protocol Buffers`（简称：`ProtoBuf`）是一种序列化数据结构的协议。对于透过管道(pipeline)或存储资料进行通信的程序开发上是很有用的。这个方法包含一个接口描述语言，描述一些数据结构，并提供程序工具根据这些描述产生代码，用于将这些数据结构产生或解析资料流。
+
+`Apache Maven` ist ein auf Java basierendes Build-Management-Tool der Apache Software Foundation, mit dem insbesondere die Erstellung von Java-Programmen standardisiert verwaltet und durchgeführt werden kann.
+
+- Maven versucht, den Grundgedanken „Konvention vor Konfiguration“ (englisch _Convention over Configuration_) konsequent für den gesamten Zyklus der Softwareerstellung abzubilden. Dabei sollen Softwareentwickler von der Anlage eines Softwareprojekts über das Kompilieren, Testen und Verpacken bis zum Verteilen der Software so unterstützt werden, dass möglichst viele Schritte automatisiert werden können. Folgt man dabei den von Maven vorgegebenen Standards, braucht man für die meisten Aufgaben des Build-Managements nur sehr wenige Konfigurationseinstellungen vorzunehmen, um den Lebenszyklus eines Softwareprojekts abzubilden.
 
 # Test, Mockito
 
