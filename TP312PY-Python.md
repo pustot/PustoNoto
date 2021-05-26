@@ -53,6 +53,8 @@ print( user.name )
   - 以键取值的时间复杂度为 O(1)，因为使用散列表
   - 转为二元组的列表：`foo.items()`; `for x, v in foo.items()`
     - 并排序：`foolissorted = sorted(foodic.items(), key=lambda d:d[1], reverse = True)`
+    - `.keys()`
+    - `.values()`
   - 戳用默认字典 `foodict = defaultdict(factory_function)` 可以生成有缺省值的字典，访问不存在的索引返回默认值，`default(int)` 返回`0`，list 而 `[]`，set 而`set()`，str 而`''`
 - 字符串 `str`
   - `foo.replace('old str', 'neuer str'[, max_repl_times])`（不是原地修改，而是返回修改后的串）
@@ -119,6 +121,13 @@ class C(object):
 C.f();          # 静态方法无需实例化
 cobj = C()
 cobj.f()        # 也可以实例化后调用
+
+"""
+相关方法
+"""
+hasattr(obj, name)
+getattr(obj, name)
+setattr(obj, name, value)
 ```
 
 - 函数
@@ -218,6 +227,10 @@ with codecs.open('foobar.csv', 'r', 'utf8') as csvfile:
 # huggingface/transformers
 
 # pytest
+
+```sh
+pytest -k 'test_something'
+```
 
 # 诸库杂记
 
