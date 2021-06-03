@@ -19,6 +19,8 @@
 
 ```sh
 export PATH=/Users/<you>/Library/Python/3.8/bin:$PATH
+
+pip install -U -r requirements.txt # -U: to newest
 ```
 
 # 基本：基本操作、基本数据类型、内置函数
