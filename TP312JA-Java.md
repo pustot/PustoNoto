@@ -121,20 +121,6 @@ assertTrue(roleTypeConfig.getRoleType("none").isEmpty());
 
 ```
 
-`BATIS` is a persistence framework which automates the mapping between SQL databases and objects in Java, .NET, and Ruby on Rails. In Java, the objects are POJOs (Plain Old Java Objects).
-
-MyBatis
-
-In software engineering, a p`lain old Java object (POJO)` is an ordinary Java object, not bound by any special restriction.
-
-`JPA` 全称是 Java Persistence API，jpa 定义了各种注解（用来定义实体，映射关系）。JPA 仅仅是一个规范，它的实现比较出名的是 Hibernate。JPA 的函数定义方式
-
-`Protocol Buffers`（简称：`ProtoBuf`）是一种序列化数据结构的协议。对于透过管道(pipeline)或存储资料进行通信的程序开发上是很有用的。这个方法包含一个接口描述语言，描述一些数据结构，并提供程序工具根据这些描述产生代码，用于将这些数据结构产生或解析资料流。
-
-`Apache Maven` ist ein auf Java basierendes Build-Management-Tool der Apache Software Foundation, mit dem insbesondere die Erstellung von Java-Programmen standardisiert verwaltet und durchgeführt werden kann.
-
-- Maven versucht, den Grundgedanken „Konvention vor Konfiguration“ (englisch _Convention over Configuration_) konsequent für den gesamten Zyklus der Softwareerstellung abzubilden. Dabei sollen Softwareentwickler von der Anlage eines Softwareprojekts über das Kompilieren, Testen und Verpacken bis zum Verteilen der Software so unterstützt werden, dass möglichst viele Schritte automatisiert werden können. Folgt man dabei den von Maven vorgegebenen Standards, braucht man für die meisten Aufgaben des Build-Managements nur sehr wenige Konfigurationseinstellungen vorzunehmen, um den Lebenszyklus eines Softwareprojekts abzubilden.
-
 # Test, Mockito
 
 JUnit，单元测试框架。
@@ -180,7 +166,29 @@ public void testSomething() {
 
 ```
 
-# Spring Boot
+# Werkzeugen
+
+`BATIS` is a persistence framework which automates the mapping between SQL databases and objects in Java, .NET, and Ruby on Rails. In Java, the objects are POJOs (Plain Old Java Objects).
+
+MyBatis
+
+In software engineering, a p`lain old Java object (POJO)` is an ordinary Java object, not bound by any special restriction.
+
+`JPA` 全称是 Java Persistence API，jpa 定义了各种注解（用来定义实体，映射关系）。JPA 仅仅是一个规范，它的实现比较出名的是 Hibernate。JPA 的函数定义方式
+
+`Protocol Buffers`（简称：`ProtoBuf`）是一种序列化数据结构的协议。对于透过管道(pipeline)或存储资料进行通信的程序开发上是很有用的。这个方法包含一个接口描述语言，描述一些数据结构，并提供程序工具根据这些描述产生代码，用于将这些数据结构产生或解析资料流。
+
+## Gradle
+
+Java 之 Gradle (et al.), Node.js 之 npm，Python 之 pip，皆包管理工具。
+
+## Maven
+
+`Apache Maven` ist ein auf Java basierendes Build-Management-Tool der Apache Software Foundation, mit dem insbesondere die Erstellung von Java-Programmen standardisiert verwaltet und durchgeführt werden kann.
+
+- Maven versucht, den Grundgedanken „Konvention vor Konfiguration“ (englisch _Convention over Configuration_) konsequent für den gesamten Zyklus der Softwareerstellung abzubilden. Dabei sollen Softwareentwickler von der Anlage eines Softwareprojekts über das Kompilieren, Testen und Verpacken bis zum Verteilen der Software so unterstützt werden, dass möglichst viele Schritte automatisiert werden können. Folgt man dabei den von Maven vorgegebenen Standards, braucht man für die meisten Aufgaben des Build-Managements nur sehr wenige Konfigurationseinstellungen vorzunehmen, um den Lebenszyklus eines Softwareprojekts abzubilden.
+
+## Spring Boot
 
 - entity 层：同 model 层，存放实体类，属性值同于数据库，提供 get、set
 - dao 层（数据访问层）（后端用嘅数据）：即 mapper 层，对数据库进行持久化操作，他的方法是针对数据库操作的，基本用到的就是增删改查。它只是个接口，只有方法名字，具体实现在 mapper.xml 中。（可以写 SQL 语句的一些部分）
@@ -188,12 +196,16 @@ public void testSomething() {
 - controller 层（表示层）（前端用嘅方法）：控制器层，导入 service 层，调用 service 方法，controller 通过接收前端传过来的参数进行业务操作，在返回一个指定的路径或者数据表。（里面的东西转成前端的 request、response 等类型）
   总结：具体的一个项目中有：controller 层调用了 Service 层的方法，Service 层调用 Dao 层的方法，其中调用的参数是使用 Entity 层进行传递的。
 
+简单理解其作用，可以帮我们把繁杂的那堆http请求自动解析、读取，转化为程序（比如在 controller 层）具体需要的信息。
+
 ```java
 
 ```
 
-# OpenAPI
+## OpenAPI
 
 ```java
 // org.openapitools.codegen.languages.SpringCodegen
 ```
+
+[OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator)
