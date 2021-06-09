@@ -196,7 +196,7 @@ Java 之 Gradle (et al.), Node.js 之 npm，Python 之 pip，皆包管理工具�
 - controller 层（表示层）（前端用嘅方法）：控制器层，导入 service 层，调用 service 方法，controller 通过接收前端传过来的参数进行业务操作，在返回一个指定的路径或者数据表。（里面的东西转成前端的 request、response 等类型）
   总结：具体的一个项目中有：controller 层调用了 Service 层的方法，Service 层调用 Dao 层的方法，其中调用的参数是使用 Entity 层进行传递的。
 
-简单理解其作用，可以帮我们把繁杂的那堆http请求自动解析、读取，转化为程序（比如在 controller 层）具体需要的信息。
+简单理解其作用，可以帮我们把繁杂的那堆 http 请求自动解析、读取，转化为程序（比如在 controller 层）具体需要的信息。
 
 ```java
 
