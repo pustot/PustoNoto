@@ -18,6 +18,7 @@ List<AForPublic> publicList = entityList.stream().map(
                     BConverter.INSTANCE.toBForPublic(bService.get(x.getBId()))
             )
     ).collect(Collectors.toList());
+ates.sort(Comparator.comparing(AuditTrailEntity::getTimestamp, Comparator.reverseOrder()));
 
 // String
 // .substring()
@@ -197,6 +198,8 @@ Java 之 Gradle (et al.), Node.js 之 npm，Python 之 pip，皆包管理工具�
   总结：具体的一个项目中有：controller 层调用了 Service 层的方法，Service 层调用 Dao 层的方法，其中调用的参数是使用 Entity 层进行传递的。
 
 简单理解其作用，可以帮我们把繁杂的那堆 http 请求自动解析、读取，转化为程序（比如在 controller 层）具体需要的信息。
+
+[可能是最漂亮的 Spring 事务管理详解](https://blog.csdn.net/qq_34337272/article/details/80394121)
 
 ```java
 
