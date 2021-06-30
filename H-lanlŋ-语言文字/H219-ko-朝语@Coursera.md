@@ -4,6 +4,8 @@
 
 https://www.law.go.kr/LSW/lsLinkProc.do?lsNm=%EC%98%81%ED%99%94+%EB%B0%8F+%EB%B9%84%EB%94%94%EC%98%A4%EB%AC%BC%EC%9D%98+%EC%A7%84%ED%9D%A5%EC%97%90+%EA%B4%80%ED%95%9C+%EB%B2%95%EB%A5%A0&chrClsCd=010202&mode=20&ancYnChk=0#
 
+[Sogang Korean PDF 1A,1B,2A,2B,3A,3B Textbook+Audio](https://www.koreantopik.com/2018/01/sogang-korean-pdf-1a1b2a3a3b_1.html)
+
 # 学习资料与建议
 
 - [韓国語・ハングルの勉強なら｜初級までの朝鮮語・初級から先の朝鮮語｜文法の特効薬TOP (penguin99.com)](https://www.penguin99.com/04_grammar/grammar.html)
