@@ -205,6 +205,12 @@ Java 之 Gradle (et al.), Node.js 之 npm，Python 之 pip，皆包管理工具�
 
 ```
 
+在 Spring4.x 中增加了新的特性：如果类只提供了一个带参数的构造方法，则不需要对对其内部的属性写 @Autowired 注解，Spring 会自动为你注入属性。
+
+### @Transactional
+
+By default, Spring only roll back transactions for unchecked exceptions.
+
 ## OpenAPI
 
 ```java
