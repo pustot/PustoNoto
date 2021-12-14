@@ -22,11 +22,23 @@ https://www.law.go.kr/LSW/lsLinkProc.do?lsNm=%EC%98%81%ED%99%94+%EB%B0%8F+%EB%B9
 
 元音部分 o eo a, ae e; yo yeo ya i; yu u eu
 
-# M1
+# Sogang
+
+## 1a
+
+### 문법
+
+
+
+## 1b
+
+# Coursera First Step
+
+## M1
 
 认字，省略。
 
-# M2-1 20190802
+## M2-1 20190802
 
 **안녕하세요？**Hello (Lit. Are you in peace?)
 
