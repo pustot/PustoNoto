@@ -2,6 +2,8 @@
 
 - 环境、安装
 - 基本
+- 函数与类
+- csv
 - numpy
 - scipy
 - pandas
@@ -82,6 +84,22 @@ except KeyError as e:
     print(e)
 except ValueError as e:
     print(e)
+```
+
+- 堆 heapq
+
+```py
+class Solution:
+    def findKthLargest(self, nums: List[int], k: int) -> int:
+        # built-in heap is min-root
+        # so in order to find the largest, take them negative
+        nums = [-x for x in nums]
+        heapq.heapify(nums)
+        for i in range(k - 1):
+            heapq.heappop(nums)
+        return -nums[0]
+
+heapq.heappush(nums, new_ele)
 ```
 
 # 函数与类
