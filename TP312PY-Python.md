@@ -69,6 +69,7 @@ print( user.name )
   - `a.update(ele_or_set_nouveau)`
     - *真的比 list 一个个 if in 快太多了！*
   - `a.clear()` 清空
+  - `a.discard()` delete an element whether it exists or not. `a.remove()` on the other hand throws `KeyError` when not exist
 - 内置函数（built-in function）
   - `any(iterable)`：判断可迭代参数中是不是有 True 者，也就是不全是 `'', 0, False`
 
