@@ -67,6 +67,7 @@ print( user.name )
     - 创建一个空集合必须用 `set()` 而不是 `{ }`，因为 `{ }` 是用来创建一个空字典
   - `a.add(ele_nouveau)`
   - `a.update(ele_or_set_nouveau)`
+    - *真的比 list 一个个 if in 快太多了！*
   - `a.clear()` 清空
 - 内置函数（built-in function）
   - `any(iterable)`：判断可迭代参数中是不是有 True 者，也就是不全是 `'', 0, False`
