@@ -1,3 +1,5 @@
+FrontEndTech | 前端技术
+
 # 总论
 
 一部分内容较重要或较多的模块另立文件，如下：
@@ -8,6 +10,11 @@
 - [TypeScript](./TP312JS-TypeScript.md)
 - [React](./TP312JS-React.md)
 - [Vue](./TP312JS-Vue.md)
+
+相关重要计算机科学知识：
+
+- [ComputerNetwork](./TP393-ComputerNetwork.md)
+- [OperatingSystem](./TP316-OperatingSystem.md)
 
 其他模块放于如下章节。
 
