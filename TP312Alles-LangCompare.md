@@ -1,3 +1,5 @@
+LangCompare | 诸语写法
+
 主要面向数构算法题，整理诸语常用写法。
 
 item|py|ja|go|cp

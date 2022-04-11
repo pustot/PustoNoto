@@ -15,6 +15,7 @@ FrontEndTech | 前端技术
 
 - [ComputerNetwork](./TP393-ComputerNetwork.md)
 - [OperatingSystem](./TP316-OperatingSystem.md)
+- [DesignPattern](./TP311-DesignPattern.md)
 
 其他模块放于如下章节。
 
