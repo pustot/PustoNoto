@@ -1,3 +1,15 @@
+- [Data Types](#data-types)
+  - [Primitive values | 基本类型](#primitive-values--基本类型)
+  - [Objects (collections of properties) | 引用类型](#objects-collections-of-properties--引用类型)
+  - [存储区别](#存储区别)
+  - [检测数据类型的方案](#检测数据类型的方案)
+- [Equality comparisons and sameness | 相等](#equality-comparisons-and-sameness--相等)
+  - [`==` は loose equality | 双等号，宽相等](#-は-loose-equality--双等号宽相等)
+  - [`===` は strict equlity | 三等号，全等](#-は-strict-equlity--三等号全等)
+  - [`==` 乄 `===`](#-乄-)
+- [Myonh-De Leng](#myonh-de-leng)
+  - [判断元素在可视区域（懒加载etc）](#判断元素在可视区域懒加载etc)
+
 ```js
 var a
 let b
@@ -20,6 +32,7 @@ The set of types in the JavaScript language consists of primitive values and obj
     - typeof null 是 "object"
 - undefined：声明但未初始化
     - 从 null 派生而来
+        - 因此 `console.log(null == undefined); // true`
 - Number
     - 整数：默认十进制，01 八进制，0x1 十六进制
     - 浮点：小数点，支持科学计数法
@@ -92,6 +105,84 @@ let sum = (num1, num2) => {
 - 不同的类型数据导致赋值变量时的不同：
     - 简单类型赋值，是生成相同的值，两个对象对应不同的地址
     - 复杂类型赋值，是将保存对象的内存地址赋值给另一个变量。也就是两个变量指向堆内存中同一个对象
+
+## 检测数据类型的方案
+
+- typeof
+- instanceof
+- constructor
+- Object.prototype.toString.call()
+
+```js
+console.log(typeof []);  // object
+
+console.log([] instanceof Array);  // true
+
+console.log(([]).constructor === Array);  // true
+
+console.log(Object.prototype.toString.call(null));  // [object Null]
+console.log(Object.prototype.toString.call([]));  // [object Array]
+```
+
+# Equality comparisons and sameness | 相等
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness
+
+https://vue3js.cn/interview/JavaScript/==%20_===.html
+
+JavaScript provides three different value-comparison operations:
+
+- === - Strict Equality Comparison ("strict equality", "identity", "triple equals")
+- == - Abstract Equality Comparison ("loose equality", "double equals")
+- Object.is provides SameValue (new in ES2015).
+- 
+Which operation you choose depends on what sort of comparison you are looking to perform. Briefly:
+
+- double equals (==) will perform a type conversion when comparing two things, and will handle NaN, -0, and +0 specially to conform to IEEE 754 (so NaN != NaN, and -0 == +0); | 类型转换有り
+- triple equals (===) will do the same comparison as double equals (including the special handling for NaN, -0, and +0) but without type conversion; if the types differ, false is returned. | 类型转换無し
+- Object.is does no type conversion and no special handling for NaN, -0, and +0 (giving it the same behavior as === except on those special numeric values). | 相比全等，不特殊于 NaN、-0、+0
+
+## `==` は loose equality | 双等号，宽相等
+
+- 两个都为简单类型，字符串和布尔值都会转换成数值，再比较
+- 简单类型与引用类型比较，对象转化成其原始类型的值，再比较
+- 两个都为引用类型，则比较它们是否指向同一个对象
+- null 和 undefined 相等
+- 存在 NaN 则返回 false
+
+## `===` は strict equlity | 三等号，全等
+
+`undefined !== null`
+
+## `==` 乄 `===`
+
+除了在比较对象属性为null或者undefined的情况下，用相等操作符 ==，否则建议一律 ===
+
+```js
+const obj = {};
+
+if(obj.x == null){  // 等效于  if(obj.x === null || obj.x === undefined)
+  ...
+}
+
+
+// anders wird `==` weird werden
+'' == '0' // false
+0 == '' // true
+0 == '0' // true
+1 == [1] // true: Array.toString() is join(','), so 1
+0 == [] // true: first, [] -> ''; then, '' == 0
+        // ABER: `!![]` ist whar. da es ist 'to Boolean', und als Objekt, es ist whar. 
+
+false == 'false' // false
+false == '0' // true
+
+false == undefined // false
+false == null // false
+null == undefined // true
+
+' \t\r\n' == 0 // true
+```
 
 # Myonh-De Leng
 
