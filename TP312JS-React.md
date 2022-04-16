@@ -1,2 +1,11 @@
+- [Virtual DOM vs. real DOM](#virtual-dom-vs-real-dom)
+  - ['diff' in React (vs. traditional 'diff')](#diff-in-react-vs-traditional-diff)
+- [Myonh-De Leng](#myonh-de-leng)
+
+# Virtual DOM vs. real DOM
+
+## 'diff' in React (vs. traditional 'diff')
+
+传统diff算法通过循环递归对节点进行依次对比，效率低下，算法复杂度达到 O(n^3)，react将算法进行一个优化，复杂度姜维O(n)
 
 # Myonh-De Leng

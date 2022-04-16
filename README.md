@@ -10,6 +10,8 @@ pdf个人笔记用12号红褐色华文隶书。
 
 不入OneDrive测试中。
 
+For GitBook config: https://docs.gitbook.com/integrations/git-sync/content-configuration
+
 # 相关中图法分类号
 
 - A 马克思主义、列宁主义、毛泽东思想、邓小平理论
