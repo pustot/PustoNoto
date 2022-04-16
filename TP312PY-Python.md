@@ -19,7 +19,7 @@
   - 若报错："ERROR: Could not install packages due to an EnvironmentError: [Errno 13] Permission denied: '/usr/local/bin/pip' Consider using the `--user` option or check the permissions."
     - 则加上 `--user`。示例：`pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple --user transformers`
 
-```sh
+```shell
 export PATH=/Users/<you>/Library/Python/3.8/bin:$PATH
 
 pip install -U -r requirements.txt # -U: to newest
@@ -38,7 +38,7 @@ pip install -U -r requirements.txt # -U: to newest
 - 元组 `tuple`
   - 具名元组 `collections.namedtuple`
 
-```py
+```python
 '''
 具名元组
 '''
@@ -73,7 +73,7 @@ print( user.name )
 - 内置函数（built-in function）
   - `any(iterable)`：判断可迭代参数中是不是有 True 者，也就是不全是 `'', 0, False`
 
-```py
+```python
 '''
 try/except 异常处理
 '''
@@ -90,7 +90,7 @@ except ValueError as e:
 
 - 堆 heapq
 
-```py
+```python
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
         # built-in heap is min-root
@@ -119,7 +119,7 @@ heapq.heappush(nums, new_ele)
   - 类方法（class method）`@classmethod`：需要把类本身传给函数
   - `mixin` （Mix-in）即利用多重继承的支持，将比较通用的功能写成父类，在创建新类时直接继承这些功能
 
-```py
+```python
 """
 类定义
 """
@@ -158,7 +158,7 @@ setattr(obj, name, value)
     - 带参数：其中定义的 decorator 里面定义 wrapper。相当于执行 `foo = some_deco(some_param)(foo)`
     - > 装饰器本质上是一个 Python 函数，它可以让其他函数在不需要做任何代码变动的前提下增加额外功能，装饰器的返回值也是一个函数对象。它经常用于有切面需求的场景，比如：插入日志、性能测试、事务处理、缓存、权限校验等场景。装饰器是解决这类问题的绝佳设计，有了装饰器，我们就可以抽离出大量与函数功能本身无关的雷同代码并继续重用。
 
-```py
+```python
 """
 函数之装饰器
 """
@@ -197,7 +197,7 @@ def foo():
 
 # csv
 
-```py
+```python
 import csv
 import codecs
 with codecs.open('foobar.csv', 'r', 'utf8') as csvfile:
@@ -250,7 +250,7 @@ with codecs.open('foobar.csv', 'r', 'utf8') as csvfile:
 
 # pytest
 
-```sh
+```shell
 pytest -k 'test_something'
 ```
 
@@ -260,7 +260,7 @@ pytest -k 'test_something'
 
 - Counter：计数器，实乃字典之子类
 
-```py
+```python
 from collections import Counter
 bar = dict(Counter(foo))
 duplicateds = [k for k,v in bar.items() if v > 1] # 包含 bar 中重复出现了的元素
@@ -279,7 +279,7 @@ duplicateds = [k for k,v in bar.items() if v > 1] # 包含 bar 中重复出现�
 
 ## os：操作系统交互
 
-```py
+```python
 import os
 
 if not os.path.exists(file_name):
@@ -293,7 +293,7 @@ os.environ["CUDA_VISIBLE_DEVICES"]="0, 1, 2, 3" # 规定程序可见的 CUDA
 
 文档测试 `doctest`，写了样例，main 中导入 doctest 并写句，则运行此文件会测试样例，有错误时报错。
 
-```py
+```python
 def abs(n):
     '''
     Function to get absolute value of number.
@@ -317,7 +317,7 @@ if __name__=='__main__':
 
 ## time
 
-```py
+```python
 import time
 time_start = time.time()
 
@@ -330,7 +330,7 @@ time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
 
 ## re 正则表达式
 
-```py
+```python
 nre_str = re.sub('reg_ex', 'womit_subben_mochten', 'orig_str')
 template = re.sub(r'\u3000|\s*|\t|\r|\n', '', template) # いろんな空白义符号を去
 

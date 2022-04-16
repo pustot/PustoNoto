@@ -10,7 +10,7 @@
 - [Myonh-De Leng](#myonh-de-leng)
   - [判断元素在可视区域（懒加载etc）](#判断元素在可视区域懒加载etc)
 
-```js
+```javascript
 var a
 let b
 console.log('Hello World!')
@@ -46,7 +46,7 @@ The set of types in the JavaScript language consists of primitive values and obj
     - `Symbol("foo")` 获得唯一的符号，即再次 `Symbol("foo")` 获得的是不同的。
     - `typeof Symbol('foo') === 'symbol'`
 
-```js
+```javascript
 // about `Symbol`
 var sym = Symbol("foo");
 var obj = {[sym]: 1}; // 必须用 [] 创建键。 {sym: 1} 则是用字符串 sym 作为键
@@ -66,7 +66,7 @@ obj[Object(sym)];     // still 1
     - RegExp
     - ...
 
-```js
+```javascript
 // Object
 let person = {
     name: "Nicholas",
@@ -113,7 +113,7 @@ let sum = (num1, num2) => {
 - constructor
 - Object.prototype.toString.call()
 
-```js
+```javascript
 console.log(typeof []);  // object
 
 console.log([] instanceof Array);  // true
@@ -158,7 +158,7 @@ Which operation you choose depends on what sort of comparison you are looking to
 
 除了在比较对象属性为null或者undefined的情况下，用相等操作符 ==，否则建议一律 ===
 
-```js
+```javascript
 const obj = {};
 
 if(obj.x == null){  // 等效于  if(obj.x === null || obj.x === undefined)

@@ -12,6 +12,8 @@ pdf个人笔记用12号红褐色华文隶书。
 
 For GitBook config: https://docs.gitbook.com/integrations/git-sync/content-configuration
 
+For better compatibility, 'd better write the selector of code blocks as full name, such as `javascript`, `python` and `shell`.
+
 # 相关中图法分类号
 
 - A 马克思主义、列宁主义、毛泽东思想、邓小平理论
