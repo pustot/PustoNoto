@@ -126,5 +126,6 @@
 * [TP391-TextTech.md](TP391-TextTech.md)
 * [TP393-ComputerNetwork.md](TP393-ComputerNetwork.md)
 * [TS803.23-LaTeX.md](TS803.23-LaTeX.md)
+* [U461-AutomotiveTheory.md](U461-AutomotiveTheory.md)
 * [U463.62-InVehicleNetwork.md](U463.62-InVehicleNetwork.md)
 * [U467.4-AutomotiveVibration.md](U467.4-AutomotiveVibration.md)
