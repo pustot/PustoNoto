@@ -1,5 +1,7 @@
 Medicine&HealthSciences | 医药、卫生
 
+CLC: R
+
 术语零
 
 - CRO: 受托研究机构 (Contract research organization)。CROは、医薬品開発業務受託機関 (Contract Research Organization)の略称。

@@ -2,6 +2,8 @@ NumericalAnalysis | 数值分析
 
 Numerical Analysis, Analyse Numérique, Numerische Analyse
 
+CLC: O241
+
 数学之分支也，研究分析用计算机求解数学计算问题的数值计算方法及其理论。以数字计算机求解数学问题的理论和方法为研究对象，为计算数学的主体部分。
 
 # 绪论

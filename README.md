@@ -107,6 +107,10 @@ An auxiliary rule of my applying Dewey: put as many CS-related notes to 004-006 
 ## Class 100 – Philosophy and psychology
 
 - 150 Psychology
+    - 153 Cognition and Memory
+        - 153.1 Learning, Memory, And Motivation
+        - 153.2 Formation and association of ideas
+        - 153.8 Decision Making And Persuasion
     - 155 Developmental and Differential Psychology
 
 ## Class 200 – Religion
@@ -118,16 +122,34 @@ An auxiliary rule of my applying Dewey: put as many CS-related notes to 004-006 
 - 320 Political Science
 - 330 Economics
     - 330 Economics
+        - 330.0 >
+            - 330.01 Philosophy and Psychology
+                - 330.019 Psychology
         - 330.1 Theory
             - 330.18 Econometrics
     - 331 Labor economics
     - 332 Finance
     - 338 Production
 - 340 Law
+    - 340 Law
+        - 340.1 Theory
+    - 341 Law of Nations
+    - 342 Constitutional and administrative law
+        - .5 Asia
+            - .51 China & Korea
+    - 343 Military, defense, public property, public finance, tax, commerce {trade}, industrial law
+    - 344 Labor, social service, education, cultural law [Option B: Law > Europe]
+    - 345 Criminal Law
+    - 346 Private Law
+    - 347 Courts And Procedure
+    - 348 Cases, Laws, Regulations
+    - 349 By Jurisdiction
 - 350 Public Administration, Military Science
 - 360 Social Problems and services; associations
 - 370 Education
 - 380 Commerce, Communications, Transportation
+    - 381 Commerce
+        - 381.4 Specific products and services
 - 390 Customs, Etiquette, Folklore
 
 ## Class 400 – Language
@@ -171,15 +193,64 @@ https://en.wikipedia.org/wiki/List_of_ISO_639-3_codes
 - 480 Classical and modern Greek languages
 - 490 Other languages
 
-## Class 500 – Science
+## Class 500 – Natural Sciences and Mathematics
+
+- 500 General Science
+- 510 Mathematics
+    - 510 General Mathematics
+    - 511 General Principles
+    - 512 Algebra
+        - 512.5 Linear, multilinear, multidimensional Algebra
+    - 513 Arithmetic
+    - 514 Topology
+    - 515 Analysis
+    - 516 Geometry
+    - 517 Calculus
+    - 518 Numerical Analysis
+    - 519 Applied Mathematics, Probabilities
+        - 519.2 Probabilities
+        - 519.5 Statistical Mathematics
+- 520 Astronomy
+- 530 Physics
+- 540 Chemistry
+- 550 Earth Sciences & Geology
+- 560 Fossils & Prehistoric Life
+- 570 Life Sciences, Biology
+- 580 Plants
+- 590 Zoology
 
 ## Class 600 – Technology
+
+- 600 General Technology
+- 610 Medicine and Health
+- 620 Engineering and Allied Operations
+    - 620 Engineering
+        - 620.1 Engineering Mechanics and Materials Science
+            - 620.11 Engineering Materials
+        - 620.3 Vibrations
+    - 621 Applied physics
+        - 621.3 Electrical, magnetic, optical, communications, computer engineering; electronics, lighting
+            - 621.39 Computer Engineering
+        - 621.8 Machine Engineering
+    - 624 Civil Engineering
+    - 629 Other Branches
+        - 629.2 Automotive engineering
+- 630 Agriculture & Related Technologies
+- 640 Home and Family Management
+- 650 Management and Auxiliary Services
+- 660 Chemical Technology
+- 670 Manufacturing
+- 680 Manufacture of products for specific uses, handicrafts
+- 690 Building
 
 ## Class 700 – Arts and recreation
 
 ## Class 800 – Literature
 
 ## Class 900 – History and geography
+
+- 900 History
+    - 909 World History
 
 # Related CLC (Chinese Library Classification) Codes | 相关中图法分类号
 

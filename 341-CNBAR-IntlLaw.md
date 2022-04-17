@@ -6,4 +6,6 @@ CNBAR-IntlLaw | 法考-三国法
 
 国际经济法, international economic law, 国際経済法（こくさいけいざいほう）, Internationales Wirtschaftsrecht, международное экономическое право
 
+CLC: D99
+
 本三国法知识基于法考，法考基于杨帆（瑞达）。

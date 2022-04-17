@@ -1,5 +1,7 @@
 TimelinesOfWorldHistory | 世界历史年表
 
+CLC: K108
+
 https://en.wikipedia.org/wiki/Timelines_of_world_history
 
 记录一些历史事件。将世界历史放在同一时间轴，理清各个事件所处的时期及相互关系，减少错误的主观印象带来的错位感。

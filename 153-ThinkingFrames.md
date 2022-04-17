@@ -1,5 +1,7 @@
 ThinkingFrames | 思维框架
 
+CLC: B804.1
+
 杂点：
 
 - 金字塔原理
