@@ -92,6 +92,7 @@ An auxiliary rule of my applying Dewey: put as many CS-related notes to 004-006 
         - 005.7 Data
             - 005.73 Data Structures
             - 005.74 General Databases And Data Files
+                - *经查询一些，区块链入此*
         - 005.8 Computer Security
             - 005.82 Cryptography and Steganography
     - 006 Special computer methods (e.g. AI, multimedia, VR)[4]
