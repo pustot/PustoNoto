@@ -16,10 +16,14 @@ files = files.filter(file => path.extname(file) == ".md")
 
 // console.log(files)
 
-let ans = '';
+let ans = '* [README.md](README.md)\n';
 let prevdir = '';
 
 for (let file of files) {
+    if (file === 'README.md') // already written as the first line
+        continue;
+    if (file === 'SUMMARY.md') // GitBook TOC, not real content
+        continue;
     let parsed = path.parse(file);
     if (parsed.dir == '')
         ans += '* [' + parsed.base + '](' + parsed.base + ')\n';
