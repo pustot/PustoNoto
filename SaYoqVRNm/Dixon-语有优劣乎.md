@@ -1,3 +1,5 @@
+Are Some Languages Better than Others | 语有优劣乎
+
 *Name: Are Some Languages Better than Others?*
 
 *Author: R. M. W. Dixon*

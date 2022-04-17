@@ -1,4 +1,4 @@
-IntlLaw | 国际法（三国法）
+CNBAR-IntlLaw | 法考-三国法
 
 国际法, international law, 国際法（こくさいほう）, Völkerrecht, 국제법（国际法）, luật quốc tế （律国际）
 
