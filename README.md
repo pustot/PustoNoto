@@ -16,6 +16,13 @@ For better compatibility, 'd better write the selector of code blocks as full na
 
 # Related Dewey class no. | 相关杜威分类号
 
+Principles: 
+
+- use as short a class number as possible, 
+    - cuz it is just a notebook with non-large scale, not a bibliothek,
+    - and alphabetical order of files will help to find items with same class number, naturally
+- refer to classic textbooks or so.
+
 https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes
 
 https://www.oclc.org/en/dewey/resources.html
@@ -25,6 +32,10 @@ https://www.librarything.com/mds/005.43
 http://classify.oclc.org/classify2/
 
 ## Class 000 – Computer science, information and general works
+
+https://www.oclc.org/content/dam/oclc/webdewey/help/000.pdf
+
+An auxiliary rule of my applying Dewey: put as many CS-related notes to 004-006 as possible.
 
 - 000 Computer science, knowledge and systems
     - 000 Computer science, information and general works
@@ -45,6 +56,8 @@ http://classify.oclc.org/classify2/
                     - *I also includes HTML CSS etc. for convenience*
                 - 005.136 Assembly Languages
             - 005.14 Software Testing
+            - 005.15 Software Documentation
+            - 005.16 Maintenance
         - 005.2 Programming for Specific Evironments
         - 005.3 Programs
         - 005.4 Systems programming and programs
@@ -55,6 +68,7 @@ http://classify.oclc.org/classify2/
                 - 005.453 Compilers
                 - 005.456 Assemblers
         - 005.5 General purpose application programs
+            - 005.52 Document Software
         - 005.6 Firmware, Microprogramming
         - 005.7 Data
             - 005.73 Data Structures
@@ -81,103 +95,90 @@ http://classify.oclc.org/classify2/
         - 006.8 Virtual Reality
     - 007–009 [Unassigned]
 - 010 Bibliographies
-    - 010 Bibliography
-    - 011 Bibliographies
-    - 012 Bibliographies of individuals
-    - 013 [Unassigned]
-    - 014 Bibliographies of anonymous and pseudonymous works
-    - 015 Bibliographies of works from specific places
-    - 016 Bibliographies of works on specific subjects
-    - 017 General subject catalogs
-    - 018 Catalogs arranged by author, date, etc.
-    - 019 Dictionary catalogs
 - 020 Library and information sciences
-    - 020 Library and information sciences
-    - 021 Library relationships (with archives, information centers, etc.)
-    - 022 Administration of physical plant
-    - 023 Personnel management
-    - 024 [Unassigned]
-    - 025 Library operations
-    - 026 Libraries for specific subjects
-    - 027 General libraries
-    - 028 Reading and use of other information media
-    - 029 [Unassigned]
 - 030 Encyclopedias and books of facts
-    - 030 General encyclopedic works
-    - 031 Encyclopedias in American English
-    - 032 Encyclopedias in English
-    - 033 Encyclopedias in other Germanic languages
-    - 034 Encyclopedias in French, Occitan, and Catalan
-    - 035 Encyclopedias in Italian, Romanian, and related languages
-    - 036 Encyclopedias in Spanish and Portuguese
-    - 037 Encyclopedias in Slavic languages
-    - 038 Encyclopedias in Scandinavian languages
-    - 039 Encyclopedias in other languages
 - 040 Unassigned (formerly Biographies)
 - 050 Magazines, journals and serials
-    - 050 General serial publications
-    - 051 Serials in American English
-    - 052 Serials in English
-    - 053 Serials in other Germanic languages
-    - 054 Serials in French, Occitan, and Catalan
-    - 055 Serials in Italian, Romanian, and related languages
-    - 056 Serials in Spanish and Portuguese
-    - 057 Serials in Slavic languages
-    - 058 Serials in Scandinavian languages
-    - 059 Serials in other languages
 - 060 Associations, organizations and museums
-    - 060 General organizations and museum science
-    - 061 Organizations in North America
-    - 062 Organizations in British Isles; in England
-    - 063 Organizations in central Europe; in Germany
-    - 064 Organizations in France and Monaco
-    - 065 Organizations in Italy and adjacent islands
-    - 066 Organizations in Iberian peninsula and adjacent islands
-    - 067 Organizations in eastern Europe; in Russia
-    - 068 Organizations in other geographic areas
-    - 069 Museum science
 - 070 News media, journalism and publishing
-    - 070 News media, journalism, and publishing
-    - 071 Newspapers in North America
-    - 072 Newspapers in British Isles; in England
-    - 073 Newspapers in central Europe; in Germany
-    - 074 Newspapers in France and Monaco
-    - 075 Newspapers in Italy and adjacent islands
-    - 076 Newspapers in Iberian peninsula and adjacent islands
-    - 077 Newspapers in eastern Europe; in Russia
-    - 078 Newspapers in Scandinavia
-    - 079 Newspapers in other geographic areas
 - 080 Quotations
-    - 080 General collections
-    - 081 Collections in American English
-    - 082 Collections in English
-    - 083 Collections in other Germanic languages
-    - 084 Collections in French, Occitan, Catalan
-    - 085 Collections in Italian, Romanian, and related languages
-    - 086 Collections in Spanish and Portuguese
-    - 087 Collections in Slavic languages
-    - 088 Collections in Scandinavian languages
-    - 089 Collections in other languages
 - 090 Manuscripts and rare books
-    - 090 Manuscripts and rare books
-    - 091 Manuscripts
-    - 092 Block books
-    - 093 Incunabula
-    - 094 Printed books
-    - 095 Books notable for bindings
-    - 096 Books notable for illustrations
-    - 097 Books notable for ownership or origin
-    - 098 Prohibited works, forgeries, and hoaxes
-    - 099 Books notable for format
 
 ## Class 100 – Philosophy and psychology
+
+- 150 Psychology
+    - 155 Developmental and Differential Psychology
+
 ## Class 200 – Religion
+
 ## Class 300 – Social sciences
+
+- 300 Social Sciences
+- 310 Statistics
+- 320 Political Science
+- 330 Economics
+    - 330 Economics
+        - 330.1 Theory
+            - 330.18 Econometrics
+    - 331 Labor economics
+    - 332 Finance
+    - 338 Production
+- 340 Law
+- 350 Public Administration, Military Science
+- 360 Social Problems and services; associations
+- 370 Education
+- 380 Commerce, Communications, Transportation
+- 390 Customs, Etiquette, Folklore
+
 ## Class 400 – Language
+
+For specific languages, i.e. 420 - 499, abandon Dewey, as it is western-centric. Instead, use 400 plus ISO code.
+
+https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+
+https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
+
+https://en.wikipedia.org/wiki/List_of_ISO_639-3_codes
+
+- 400 Language
+    - 400 Language
+    - 401 Philosophy and theory, international languages
+    - 402 Miscellany
+    - 403 Dictionaries, encyclopedias, concordances
+    - 404 Special topics of language
+    - 405 Serial publications
+    - 406 Organizations and management
+    - 407 Education, research, related topics
+    - 408 Groups of people
+    - 409 Geographic treatment and biography
+- 410 Linguistics
+    - 410 Linguistics
+    - 411 Writing systems of standard forms of languages
+    - 412 Etymology of standard forms of languages
+    - 413 Dictionaries of standard forms of languages
+    - 414 Phonology and phonetics of standard forms of languages
+    - 415 Grammar of standard forms of languages
+    - 416 No longer used — formerly "Prosody"
+    - 417 Dialectology and historical linguistics
+    - 418 Standard usage (Prescriptive linguistics)
+    - 419 Sign languages
+- 420 English and Old English languages
+- 430 German and related languages
+- 440 French and related languages
+- 450 Italian, Romanian and related languages
+- 460 Spanish, Portuguese, Galician
+- 470 Latin and Italic languages
+- 480 Classical and modern Greek languages
+- 490 Other languages
+
 ## Class 500 – Science
+
 ## Class 600 – Technology
+
 ## Class 700 – Arts and recreation
+
 ## Class 800 – Literature
+
 ## Class 900 – History and geography
 
 # Related CLC (Chinese Library Classification) Codes | 相关中图法分类号
