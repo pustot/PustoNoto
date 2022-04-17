@@ -2,9 +2,9 @@ const fs   = require("fs");
 const path = require("path");
 let files  = [];
 
-function ThroughDirectory(Directory) {
-    fs.readdirSync(Directory).forEach(File => {
-        const Absolute = path.join(Directory, File);
+function ThroughDirectory(directory) {
+    fs.readdirSync(directory).forEach(file => {
+        const Absolute = path.join(directory, file);
         if (fs.statSync(Absolute).isDirectory()) return ThroughDirectory(Absolute);
         else return files.push(Absolute);
     });
