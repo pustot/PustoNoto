@@ -29,6 +29,8 @@ https://www.oclc.org/en/dewey/resources.html
 
 https://www.librarything.com/mds/005.43
 
+- library thing 里面点击浏览分类挺方便、直观的
+
 http://classify.oclc.org/classify2/
 
 ## Class 000 – Computer science, information and general works
@@ -41,12 +43,29 @@ An auxiliary rule of my applying Dewey: put as many CS-related notes to 004-006 
     - 000 Computer science, information and general works
     - 001 Knowledge
     - 002 The book (writing, libraries, and book-related topics)
-    - 003 Systems
+    - 003 System Theory
+        - 003.0 Systems Theory -- Subdivisions
+        - 003.1 System Identification
+        - 003.2 Futuring
+        - 003.3 Computer Simulation
+        - 003.5 Communication and Control
+        - 003.7 Kinds of Systems
+        - 003.8 Systems and Time
     - 004 Data processing and computer science
         - 004.0 Computer Hardware -- Subdivisions
             - 004.01 Theory And Instruction
                 - 004.015 Computer Mathematics
+        - 004.1 By Computer Type
+        - 004.2 Computer Architectures
+        - 004.3 Modes of Processing
+            - 004.33 Real-Time Computing
+            - 004.35 Parallel Computing
+            - 004.36 Distributed Computing
+        - 004.5 Memory and Storage
         - 004.6 Networking
+            - 004.65 Network Analysis, Architecture and Design
+        - 004.7 Peripherals
+        - 004.9 Non-Electronic Computing
     - 005 Computer programming, programs and data
         - 005.1 Programming
             - 005.12 Systems Analysis and Design
@@ -96,6 +115,7 @@ An auxiliary rule of my applying Dewey: put as many CS-related notes to 004-006 
     - 007–009 [Unassigned]
 - 010 Bibliographies
 - 020 Library and information sciences
+    - 028 Books and Reading
 - 030 Encyclopedias and books of facts
 - 040 Unassigned (formerly Biographies)
 - 050 Magazines, journals and serials
@@ -106,12 +126,19 @@ An auxiliary rule of my applying Dewey: put as many CS-related notes to 004-006 
 
 ## Class 100 – Philosophy and psychology
 
+- 120 Philosophy Of Humanity
+    - 123 Chance, Free Will, And Necessity
+        - 123.3 Chance
+        - 123.5 Free Will
+        - 123.7 Necessity
 - 150 Psychology
     - 153 Cognition and Memory
         - 153.1 Learning, Memory, And Motivation
         - 153.2 Formation and association of ideas
         - 153.8 Decision Making And Persuasion
     - 155 Developmental and Differential Psychology
+        - 155.2 Individual Psychology
+            - 155.24 Coping and Adaptation
 
 ## Class 200 – Religion
 
@@ -132,11 +159,15 @@ An auxiliary rule of my applying Dewey: put as many CS-related notes to 004-006 
     - 338 Production
 - 340 Law
     - 340 Law
+        - 340.0 Law
+            - 340.09 Biography and History
+                - 340.095 Asia
         - 340.1 Theory
     - 341 Law of Nations
     - 342 Constitutional and administrative law
         - .5 Asia
             - .51 China & Korea
+                - *部门法之下级分类皆类此*
     - 343 Military, defense, public property, public finance, tax, commerce {trade}, industrial law
     - 344 Labor, social service, education, cultural law [Option B: Law > Europe]
     - 345 Criminal Law
@@ -231,10 +262,20 @@ https://en.wikipedia.org/wiki/List_of_ISO_639-3_codes
     - 621 Applied physics
         - 621.3 Electrical, magnetic, optical, communications, computer engineering; electronics, lighting
             - 621.39 Computer Engineering
+                - 621.391 General works on specific types of computers
+                - 621.392 Systems analysis and design, computer architecture
+                - 621.395 Circuitry
+                - 621.397 Storage
+                - 621.398 Interfacing and communications devices, peripherals
+                - 621.399 Devices for special computer methods
         - 621.8 Machine Engineering
     - 624 Civil Engineering
     - 629 Other Branches
+        - 629.1 Aviation
         - 629.2 Automotive engineering
+            - 629.28 Tests, driving, maintenance, repair
+        - 629.4 Astronauts and Space Travel
+        - 629.8 Automata
 - 630 Agriculture & Related Technologies
 - 640 Home and Family Management
 - 650 Management and Auxiliary Services
@@ -245,7 +286,15 @@ https://en.wikipedia.org/wiki/List_of_ISO_639-3_codes
 
 ## Class 700 – Arts and recreation
 
+- 700 The Arts / Fine and decorative arts
+    - 709 Historical, geographic, persons treatment of fine and
+- 790 Amusements and Recreation
+
 ## Class 800 – Literature
+
+- 800 By Topic
+    - 800 Literature: general works
+    - 804 Essays, lectures, addresses
 
 ## Class 900 – History and geography
 
