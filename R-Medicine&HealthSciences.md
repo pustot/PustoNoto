@@ -1,4 +1,4 @@
-Medicine | 医药、卫生
+Medicine&HealthSciences | 医药、卫生
 
 术语零
 

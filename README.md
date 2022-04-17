@@ -16,22 +16,25 @@ For better compatibility, 'd better write the selector of code blocks as full na
 
 # 相关中图法分类号
 
-- A 马克思主义、列宁主义、毛泽东思想、邓小平理论
-- B 哲学、宗教  
-    - B80 思维科学
-        - B804 思维方式
-            - B804.1 抽象思维
-    - B84 心理学  
-        - B844 发展心理学（人类心理学）
-- C 社会科学总论
-    - C8 统计学
+[Chinese Library Classification](https://en.wikipedia.org/wiki/Chinese_Library_Classification)
+
+- A 马克思主义、列宁主义、毛泽东思想、邓小平理论 | Marxism, Leninism, Maoism and Deng Xiaoping theory
+- B 哲学、宗教 | Philosophy and religions
+    - B8 Cognitive science
+        - B80 思维科学
+            - B804 思维方式
+                - B804.1 抽象思维
+        - B84 心理学  
+            - B844 发展心理学（人类心理学）
+- C 社会科学总论 | Social sciences
+    - C8 统计学 | Statistics in social sciences
         - C81 统计方法
             - C819 统计技术设备
         - C83 世界各国统计资料
             - C831 世界
             - C832 中国
-- D 政治、法律
-    - D9 法律
+- D 政治、法律 | Politics and law
+    - D9 法律 | Law
         - D90 法律理论（法学）
             - D903 法理学
         - D91 法学各部门
@@ -53,33 +56,49 @@ For better compatibility, 'd better write the selector of code blocks as full na
             - D929 中国法制史
         - D93/97 各国法律
         - D99 国际法
-- E 军事
-- F 经济
-    - F0 经济学
+- E 军事 | Military science
+- F 经济 | Economics
+    - F0 经济学 | Economics
         - F01 经济学基本理论
         - F06 经济学分支科学
             - F069.9 其他
-    - F2 经济计划与管理
+    - F2 经济计划与管理 | Economic planning and management
         - F22 经济计算、经济数学方法
             - F224 经济数学方法
                 - F224.0 数量经济学
         - F27 企业经济
             - F273 企业生产管理
-    - F4 工业经济
+    - F4 工业经济 | Industrial economics
         - F40 工业经济理论
             - F407 工业部门经济
                 - F407.4 金属加工、机械工业
                     - F407.47 交通运输机械工业
                         - F407.471 汽车
-    - F8 财政、金融
+    - F8 财政、金融 | Finance and banking
         - F83 金融、银行
             - F830 金融、银行理论
-- G 文化、科学、教育、体育
-- H 语言、文字
-    - H0 语言学
-        - H02 文字学
-    - H1 汉语
-        - H11 语音
+- G 文化、科学、教育、体育 | Culture, science, education and sports
+- H 语言、文字 | Languages and linguistics
+    - H0 语言学 | Linguistics
+        - H01 Phonetics
+            - H019 Method of recitation, oratory of speech
+        - H02 文字学 | Grammatology
+        - H03 Semantics, lexicology and meaning of words
+            - H033 Idiom
+            - H034 Adage
+        - H04 Syntax
+        - H05 Study of writing, rhetoric
+            - H059 Study of translation
+        - H06 Lexicography
+            - H061 Dictionaries
+    - H1 汉语 | Chinese language
+        - H10
+            - H102 Regulation, standardisation of Chinese language, promotion of Putonghua
+            - H109
+                - H109.2 Ancient Chinese language
+                - H109.4 Modern Chinese language
+        - H11 语音 | Phone (historical Chinese phonology)
+        - H12 Grammatology
         - H17 方言
             - H171 古代方言
             - H172 北方话（官话方言）
@@ -91,7 +110,7 @@ For better compatibility, 'd better write the selector of code blocks as full na
             - H177 闽语（福佬话）
             - H178 粤语（广东话、白话）
             - H179 其他汉语方言
-    - H2 中国少数民族语言
+    - H2 中国少数民族语言 | Languages of China's ethnic minorities
         - H212 蒙古语
         - H214 藏语
         - H215 维吾尔语
@@ -103,51 +122,52 @@ For better compatibility, 'd better write the selector of code blocks as full na
         - H236 哈萨克语
         - H282 京语（越南语）
         - H284 高山语
-    - H3 常用外国语
-        - H31 英语
+    - H3 常用外国语 | Commonly used foreign languages
+        - H31 英语 | English language
             - H319 英语教学
-        - H32 法语
-        - H33 德语
-        - H34 西班牙语
-        - H35 俄语
-        - H36 日语
-        - H37 阿拉伯语
-    - H4 汉藏语系
+        - H32 法语 | French language
+        - H33 德语 | German language
+        - H34 西班牙语 | Spanish language
+        - H35 俄语 | Russian language
+        - H36 日语 | Japanese language
+        - H37 阿拉伯语 | Arabic language
+    - H4 汉藏语系 | Family of Sino-Tibetan languages
         - H41 壮侗语族（侗傣语族）
             - H411 老挝语（寮语）
             - H412 泰语（暹罗语）
         - H42 藏缅语族
         - H43 苗瑶语族
         - H44 越南语
-    - H5 阿尔泰语系（突厥-蒙古-通古斯语系）
+    - H5 阿尔泰语系（突厥-蒙古-通古斯语系） | Family of Altaic languages (Turkic, Mongolian and Tungusic)
         - H51 突厥语族
             - H512 土耳其语
         - H55 朝鲜语
-    - H61 南亚语系（澳斯特罗-亚细亚语系）
-    - H62 南印语系（达罗毗荼语系、德拉维达语系）
-        - H622 泰米尔语
-        - H624 卡那拉语
-            - *Kannada 吧？*
-    - H63 南岛语系（马来亚-玻里尼西亚语系）
-        - H631 印度尼西亚语族
-            - H631.1 马来语（马来西亚国语）
-        - H634 玻里尼西亚语族
-            - > 夏威夷语、汤加语等入此。
-            - H634.1 毛利语
-    - H64 东北亚诸语言
-    - H65 高加索语系（伊比利亚-高加索语系）
-    - H66 乌拉尔语系（芬兰-乌戈尔语系）
-        - H661 芬兰语族
-            - H661.1 芬兰语（苏奥密语）
-            - H661.3 爱沙尼亚语
-        - H662 乌拉尔语族
-            - H662.1 匈牙利语
-    - H67 闪-含语系（阿非罗-亚细亚语系）
-        - H671 闪语族
-            - H671.1 阿卡德语（亚述-巴比伦语）
-            - H671.3 希伯来语
-        - H673 埃及-科普特语族
-    - H7 印欧语系
+    - H6 Language families in other areas of the world
+        - H61 南亚语系（澳斯特罗-亚细亚语系） | Austroasiatic languages and Tai languages (Mainland Southeast Asia))
+        - H62 南印语系（达罗毗荼语系、德拉维达语系） | Dravidian languages (South India)
+            - H622 泰米尔语
+            - H624 卡那拉语
+                - *Kannada 吧？*
+        - H63 南岛语系（马来亚-玻里尼西亚语系） | Austronesian languages (Malayo-Polynesian)
+            - H631 印度尼西亚语族
+                - H631.1 马来语（马来西亚国语）
+            - H634 玻里尼西亚语族
+                - > 夏威夷语、汤加语等入此。
+                - H634.1 毛利语
+        - H64 东北亚诸语言 | Paleosiberian languages (Siberia)
+        - H65 高加索语系（伊比利亚-高加索语系） | Ibero-Caucasian languages (Caucasus Mountains)
+        - H66 乌拉尔语系（芬兰-乌戈尔语系） | Uralic languages
+            - H661 芬兰语族
+                - H661.1 芬兰语（苏奥密语）
+                - H661.3 爱沙尼亚语
+            - H662 乌拉尔语族
+                - H662.1 匈牙利语
+        - H67 闪-含语系（阿非罗-亚细亚语系） | Afroasiatic languages (Southwest Asia, Arabian Peninsula, North Africa)
+            - H671 闪语族
+                - H671.1 阿卡德语（亚述-巴比伦语）
+                - H671.3 希伯来语
+            - H673 埃及-科普特语族
+    - H7 印欧语系 | Indo-European languages
         - H71 印度语族
             - H711 古印度语
                 - > 包括吠陀语、梵语、巴利语、普拉克利特语。
@@ -175,70 +195,75 @@ For better compatibility, 'd better write the selector of code blocks as full na
         - H791 希腊语族
             - H791.1 古希腊语
             - H791.3 新希腊语
-    - H81 非洲诸语言
-        - H815 尼日尔-刚果语系
-            - H823 班图分语支
-                - > 包括斯瓦西里语、刚果语……祖鲁语、豪撒语……
-    - H83 美洲诸语言
-        - H831 那华特耳语……（墨西哥、危地马拉境内语言）
-        - H832 图皮-瓜拉尼语系（巴拉圭、巴西西南部）
-            - > 瓜拉尼语入此。
-        - H834 奎出瓦语（秘鲁、厄瓜多尔、玻利维亚）
-        - H836 那瓦荷语（美国西南部）
-        - H839 爱斯基摩-阿留申语系（北美洲极北部）
-    - H84 大洋洲诸语言
-    - H9 国际辅助语
+    - H8 Language families on other continents
+        - H81 非洲诸语言 | African languages
+            - H815 尼日尔-刚果语系
+                - H823 班图分语支
+                    - > 包括斯瓦西里语、刚果语……祖鲁语、豪撒语……
+        - H83 美洲诸语言 | American languages
+            - H831 那华特耳语……（墨西哥、危地马拉境内语言）
+            - H832 图皮-瓜拉尼语系（巴拉圭、巴西西南部）
+                - > 瓜拉尼语入此。
+            - H834 奎出瓦语（秘鲁、厄瓜多尔、玻利维亚）
+            - H836 那瓦荷语（美国西南部）
+            - H839 爱斯基摩-阿留申语系（北美洲极北部）
+        - H84 大洋洲诸语言 | Papuan languages
+    - H9 国际辅助语 | International auxiliary languages (Interlingua, Ido, Esperanto, etc.)
         - H91 世界语
         - *注：逻辑语、克林贡语、高地瓦雷利亚语、精灵语在此*
-- I 文学
-- J 艺术
-    - J0 艺术理论
-    - J1 世界各国艺术概况
+- I 文学 | Literature
+- J 艺术 | Art
+    - J0 艺术理论 | Theory of fine art
+    - J1 世界各国艺术概况 | Fine art of the world
         - J11 世界艺术
             - J110.9 艺术史、艺术思想史
                 - J110.99 艺术流派及其研究
-- K 历史、地理
-    - K1 世界史
+- K 历史、地理 | History and geography
+    - K0 Historical theory
+    - K1 世界史 | History of the world
         - K10 通史
             - K108 年表
-- N 自然科学总论
-- O 数理科学和化学  
-    - O1 数学
+    - K8 Biography, archaeology
+    - K9 Geography
+- N 自然科学总论 | Natural science
+- O 数理科学和化学 | Mathematics, physics and chemistry
+    - O1 Mathematics
         - O15 代数、数论、组合理论  
             - O151.2 线性代数
             - O158 离散数学
         - O17 数学分析
+    - O2 Applied mathematics
         - O21 概率论与数理统计
         - O24 计算数学  
             - O241 数值分析
-    - O3 力学
-    - O4 物理学
-    - O6 化学
-    - O7 晶体学
-- P 天文学、地球科学
-- Q 生物科学
-- R 医药、卫生
-- S 农业科学
-- T 工业技术 
+    - O3 力学 | Mechanics
+    - O4 物理学 | Physics
+    - O6 化学 | Chemistry
+    - O7 晶体学 | Crystallography
+- P 天文学、地球科学 | Astronomy and geoscience
+- Q 生物科学 | Life sciences
+- R 医药、卫生 | Medicine and health sciences
+- S 农业科学 | Agricultural science
+- T 工业技术 | Industrial technology
     - T-0 工业技术理论
     - T-1 工业技术现状与发展
     - T-2 机构、团体、会议
     - T-6 参考工具书
-    - TB 一般工业技术
-    - TD 矿业工程
-    - TE 石油、天然气工业
-    - TF 冶金工业
-    - TG 金属学与金属工艺
-    - TH 机械、仪表工业
-    - TJ 武器工业
-    - TK 能源与动力工程
-    - TL 原子能技术
-    - TM 电工技术
-    - TN 无线电电子学、电信技术
+    - TB 一般工业技术 | General industrial technology
+    - TD 矿业工程 | Mining engineering
+    - TE 石油、天然气工业 | Petroleum, natural gas
+    - TF 冶金工业 | Extractive metallurgy, smelting
+    - TG 金属学与金属工艺 | Metallurgy, metalworking
+    - TH 机械、仪表工业 | Machinery, instrumentation
+    - TJ 武器工业 | Military technology
+    - TK 能源与动力工程 | Power plant
+    - TL 原子能技术 | Nuclear technology
+    - TM 电工技术 | Electrical engineering
+    - TN 无线电电子学、电信技术 | Electronic engineering, telecommunication engineering
         - TN91 通信
             - TN918 通信保密与通信安全
                 - TN918.1 理论
-    - TP 自动化技术、计算机技术  
+    - TP 自动化技术、计算机技术 | Automation, computer engineering
         - TP1 自动化基础理论  
             - TP18 人工智能理论  
                 - TP181 自动推理、机器学习
@@ -271,16 +296,18 @@ For better compatibility, 'd better write the selector of code blocks as full na
             - TP39 计算机的应用  
                 - TP391 信息处理（信息加工）
                 - TP393 计算机网络
-    - TQ 化学工业
-    - TS 轻工业、手工业  
+    - TQ 化学工业 | Chemical engineering
+    - TS 轻工业、手工业 | Light industry, handicraft
         - TS8 印刷工业  
             - TS80 一般性问题  
                 - TS803 机械与设备  
                     - TS803.2 排版设备
-    - TU 建筑科学
-    - TV 水利工程
-- U 交通运输
-    - U4 公路运输
+    - TU 建筑科学 | Construction engineering
+    - TV 水利工程 | Water resources, hydraulic engineering
+- U 交通运输 | Transportation
+    - U1 General transport
+    - U2 Railway transport
+    - U4 公路运输 | Highway transport
         - U46 汽车工程
             - U461 汽车理论
             - U462 整车设计与计算
@@ -297,6 +324,7 @@ For better compatibility, 'd better write the selector of code blocks as full na
             - U471 汽车驾驶与使用
             - U472 汽车保养与修理
             - U473 汽车用燃料、润滑料
-- V 航空、航天
-- X 环境科学、安全科学
-- Z 综合性图书
+    - U6 Marine transport
+- V 航空、航天 | Aviation and Aerospace
+- X 环境科学、安全科学 | Environmental science
+- Z 综合性图书 | General works
