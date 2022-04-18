@@ -51,7 +51,7 @@ An auxiliary rule of my applying Dewey: put as many CS-related notes to 004-006 
         - 003.5 Communication and Control
         - 003.7 Kinds of Systems
         - 003.8 Systems and Time
-    - 004 Data processing and computer science
+    - 004 Data processing and computer science | 计算机架构及基础构成
         - 004.0 Computer Hardware -- Subdivisions
             - 004.01 Theory And Instruction
                 - 004.015 Computer Mathematics
@@ -66,8 +66,11 @@ An auxiliary rule of my applying Dewey: put as many CS-related notes to 004-006 
             - 004.65 Network Analysis, Architecture and Design
         - 004.7 Peripherals
         - 004.9 Non-Electronic Computing
-    - 005 Computer programming, programs and data
+    - 005 Computer programming, programs and data | 计算机程序与数据
         - 005.1 Programming
+            - 005.11 Techniques
+                - 005.114 Functional Programming
+                - 005.117 Object-Oriented Programming
             - 005.12 Systems Analysis and Design
             - 005.13 Languages
                 - 005.131 Formal Specification; Mathematical Languages
@@ -79,6 +82,7 @@ An auxiliary rule of my applying Dewey: put as many CS-related notes to 004-006 
             - 005.16 Maintenance
         - 005.2 Programming for Specific Evironments
         - 005.3 Programs
+            - 005.37 Intranets, Servlets
         - 005.4 Systems programming and programs
             - 005.42 Systems programming
             - 005.43 Systems programs
@@ -92,10 +96,10 @@ An auxiliary rule of my applying Dewey: put as many CS-related notes to 004-006 
         - 005.7 Data
             - 005.73 Data Structures
             - 005.74 General Databases And Data Files
-                - *经查询一些，区块链入此*
         - 005.8 Computer Security
             - 005.82 Cryptography and Steganography
-    - 006 Special computer methods (e.g. AI, multimedia, VR)[4]
+        - *not sure about blockchain, to 005.74 or 005.824,, so simply 005*
+    - 006 Special computer methods (e.g. AI, multimedia, VR)[4] | 计算机之特定应用
         - 006.2 Special purpose systems
         - 006.3 Artificial Intelligence
             - 006.31 Machine Learning
@@ -157,6 +161,8 @@ An auxiliary rule of my applying Dewey: put as many CS-related notes to 004-006 
             - 330.18 Econometrics
     - 331 Labor economics
     - 332 Finance
+        - 332.4 Money
+            - 332.42 Alternatives To Fiat
     - 338 Production
 - 340 Law
     - 340 Law
