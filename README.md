@@ -4,6 +4,10 @@
 
 Taking notes of knowledge, especially those learned and utilized only occasionally but significant, as concise and logical as possible. 笔记，尤其记录重要但不常学用的知识，尽量简明有序。
 
+# Fav
+
+[FrontEndTech](./006.76-FrontEndTech.md)
+
 # 一些传统
 
 pdf个人笔记用12号红褐色华文隶书。
