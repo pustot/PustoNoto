@@ -6,7 +6,9 @@ Taking notes of knowledge, especially those learned and utilized only occasional
 
 # Fav
 
-[FrontEndTech](./006.76-FrontEndTech.md)
+- [FrontEndTech](./006.76-FrontEndTech.md)
+- [TextTech](./006.35-TextTech.md)
+- [Crypto](./005.82-Cryptography.md)
 
 # 一些传统
 
