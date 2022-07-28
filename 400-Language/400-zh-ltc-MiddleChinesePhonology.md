@@ -18,6 +18,9 @@ CLC: H11
 - [等呼- Knowpia百科](https://www.knowpia.cn/pages/%E7%AD%89%E5%91%BC)
 - [unt 切韵朗读音：早期中古汉语的一种可读实现](https://zhuanlan.zhihu.com/p/58227457)
     - [unt个人博客此文链接](https://phesoca.com/aws/281/)
+- [广韵校本上.pdf - mdict](https://mdx.mdict.org/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%B7%A5%E5%85%B7%E4%B9%A6/%E5%8F%A4%E9%9F%B3%E9%9F%B5%E8%AF%AD%E6%B3%95%E7%AD%89/%E5%B9%BF%E9%9F%B5%E6%A0%A1%E6%9C%AC%20%E4%B8%8A.pdf)
+- [广韵校本下册.pdf - mdict](https://mdx.mdict.org/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%B7%A5%E5%85%B7%E4%B9%A6/%E5%8F%A4%E9%9F%B3%E9%9F%B5%E8%AF%AD%E6%B3%95%E7%AD%89/%E5%B9%BF%E9%9F%B5%E6%A0%A1%E6%9C%AC%E4%B8%8B%E5%86%8C.pdf)
+- [泽存堂本广韵・《宋本广韵》（中国书店1982年据张氏泽存堂本影印）.pdf](https://downloads.freemdict.com/%E5%B0%9A%E6%9C%AA%E6%95%B4%E7%90%86/%E9%9B%86%E5%90%88/%E6%96%87%E5%AD%97%E8%AF%8D%E5%85%B8/%E5%AD%97%EF%BC%8C%E8%AF%8D%EF%BC%8C%E5%8F%A5%EF%BC%8C%E7%AF%87%E5%B7%A5%E5%85%B7%E4%B9%A6/1%E3%80%81%E5%AD%97/%E3%80%8A%E5%AE%8B%E6%9C%AC%E5%B9%BF%E9%9F%B5%E3%80%8B%EF%BC%88%E4%B8%AD%E5%9B%BD%E4%B9%A6%E5%BA%971982%E5%B9%B4%E6%8D%AE%E5%BC%A0%E6%B0%8F%E6%B3%BD%E5%AD%98%E5%A0%82%E6%9C%AC%E5%BD%B1%E5%8D%B0%EF%BC%89.pdf)
 
 字音的构造：（韵典网）
 
