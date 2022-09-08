@@ -24,6 +24,8 @@ CLC: H11
 - [AWs-309 切韵拟音J - 绯索卡 · Phesoca](https://phesoca.com/aws/309/)
 - [切韵拼音 - 绯索卡 · Phesoca](https://phesoca.com/tshet/)
 - [切韵拟音 L 预览（UntPhesoca的想法 - 知乎）](https://www.zhihu.com/pin/1547712591362981888)
+- [【汉语音韵学笔记】束娄东切韵拟音V8 - msoeg的文章 - 知乎](https://zhuanlan.zhihu.com/p/145409852)
+- [中古擬音 - 雪齋的文章 - 知乎 （看评论区讨论）](https://zhuanlan.zhihu.com/p/560047021)
 
 字音的构造：（韵典网）
 
