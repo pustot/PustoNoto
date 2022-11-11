@@ -19,7 +19,7 @@ For GitBook config: https://docs.gitbook.com/integrations/git-sync/content-confi
 
 For better compatibility, 'd better write the selector of code blocks as full name, such as `javascript`, `python` and `shell`.
 
-GitHub now supports $L^AT_EX$ , Wunderbar! 注意，为了 GitHub 正确显示公式， `$` 前后须留空格，尤其是中文标点附近容易忘。
+GitHub now supports $L^AT_EX$ , Wunderbar! 注意，为了 GitHub 正确显示公式， `$[some expression]$` 前后须留空格，尤其是中文标点附近容易忘。
 
 # Related Dewey class no. | 相关杜威分类号
 
