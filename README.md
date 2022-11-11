@@ -6,9 +6,8 @@ Taking notes of knowledge, especially those learned and utilized only occasional
 
 # Fav
 
-- [FrontEndTech](./006.76-FrontEndTech.md)
-- [TextTech](./006.35-TextTech.md)
-- [Crypto](./005.82-Cryptography.md)
+- 计科目录 [TOC-ComputerSci](./000-TOC-ComputerSci.md)
+- 前端技术 [FrontEndTech](./006.76-FrontEndTech.md)
 
 # 一些传统
 
