@@ -3,7 +3,7 @@ Table of content on Computer Science and related technologies.
 
 收录：优先考虑软件开发就职及履职实际需求。
 
-分类：在实际需要的基础上，参考 CCS。ACM电脑分类系统（ACM Computing Classification System，CCS）是由美国计算机协会(ACM)设计的计算学科分类系统。该系统在范围、目标和结构上可与数学学科分类标准(MSC)相媲美，因此被各种ACM期刊用于按区域组织主题。[2012 version](https://www.acm.org/publications/class-2012)
+分类：在实际需要的基础上，参考 CCS [2012 version](https://www.acm.org/publications/class-2012) （ACM电脑分类系统， ACM Computing Classification System，CCS），且尽量扁平
 
 - Computer Fundamentals | 基本理论
   - [005.73-DataStructure](./005.73-DataStructure.md) 数结算法
@@ -13,8 +13,26 @@ Table of content on Computer Science and related technologies.
   - [005.453-Compilation](./005.453-Compilation.md) 编译
 - Software Development | 软开
   - [005.1-SoftwareEng](./005.1-SoftwareEng.md) 软工
+  - [005.12-DesignPattern](./005.12-DesignPattern.md) 设计模式
+  - [005.1-ProgramDesign](./005.1-ProgramDesign.md)
+  - [005.3-DistributedSys](./005.3-DistributedSys.md) 分布式
   - 语言，后端或通用
     - [005.133-AllLangCompare](./005.133-AllLangCompare.md)
+    - [005.133-C++](./005.133-C++.md)
+    - [005.133-Java](./005.133-Java.md)
+    - [005.133-Python](./005.133-Python.md)
+  - 语言，前端
+    - [005.133-HTML](./005.133-HTML.md)
+    - [005.133-CSS](./005.133-CSS.md)
+    - [005.133-JavaScript](./005.133-JavaScript.md)
+    - [005.133-TypeScript](./005.133-TypeScript.md)
+    - [005.133-React](./005.133-React.md)
+    - [005.133-Vue](./005.133-Vue.md)
+  - 技术，后端
+    - [005.3-Docker](./005.3-Docker.md)
+    - [005.3-Git](./005.3-Git.md)
+    - [005.43-Linux](./005.43-Linux.md)
+  - 技术，前端 [006.76-FrontEndTech](./006.76-FrontEndTech.md)
 - Künstliche Intelligenz | 人工智能
   - [006.3-DataScience](./006.3-DataScience.md)
   - [006.31-MachineLearning](./006.31-MachineLearning.md)
@@ -27,6 +45,7 @@ Table of content on Computer Science and related technologies.
 - Informationssicherheit | 信安
   - [005.82-Cryptography](./005.82-Cryptography.md)
 - Math of CS | 计科通用数学
+  - [004.015-DiscreteMath](./004.015-DiscreteMath.md)
   - [510-MathOverview](./510-MathOverview.md)
   - [510-ElementaryMath](./510-ElementaryMath.md)
   - [512.5-LinAlg](./512.5-LinAlg.md)
