@@ -1,6 +1,8 @@
 
 Table of content on Computer Science and related technologies. 
 
+# 索引
+
 收录：优先考虑软件开发就职及履职实际需求。
 
 分类：在实际需要的基础上，参考 CCS [2012 version](https://www.acm.org/publications/class-2012) （ACM电脑分类系统， ACM Computing Classification System，CCS），且尽量扁平
@@ -53,7 +55,7 @@ Table of content on Computer Science and related technologies.
   - [519.5-SPSS](./519.5-SPSS.md)
   - [515-MathAnalysis](./515-MathAnalysis.md)
 
-Useful learning resources
+# Useful learning resources
 
 - Ready-to-read tutorials | 教程本身:
   - Multiple areas:
