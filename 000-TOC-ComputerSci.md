@@ -69,5 +69,6 @@ Table of content on Computer Science and related technologies.
 - Ready-to-read tutorials | 教程本身:
     - Multiple areas:
         - [小林coding](https://xiaolincoding.com/) 小林，包含图解网络、图解系统、图解 MySQL、图解 Redis，外加一些其他学习建议
+        - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) java 操系 网络 数结 数据库 搜索引擎 开发工具 系统设计 分布式 高性能 高可用
 - Collection of online courses | 网课收集:
     - [CS自学指南 csdiy.wiki](https://csdiy.wiki/) 作者北大信科，整理CS很多领域的自学课程以及其自学经验，[Github pkuflyingpig](https://github.com/pkuflyingpig/cs-self-learning/)
