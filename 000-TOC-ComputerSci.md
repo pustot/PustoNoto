@@ -70,5 +70,8 @@ Table of content on Computer Science and related technologies.
     - Multiple areas:
         - [小林coding](https://xiaolincoding.com/) 小林，包含图解网络、图解系统、图解 MySQL、图解 Redis，外加一些其他学习建议
         - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) java 操系 网络 数结 数据库 搜索引擎 开发工具 系统设计 分布式 高性能 高可用
+        - [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) java 数据库 操系 网络 以及其他一些学习资源的聚合
+        - [febobo/web-interview](https://github.com/febobo/web-interview) 前端很多领域， vue react js ts Node 等，即 vue3jc.cn 网站
+        - [Spring Boot面试题（掘金网站上 小杰要吃蛋 整理的一系列面试题）](https://juejin.cn/post/6844904125709156359) 开头是一系列面试题的索引，java各方向为主
 - Collection of online courses | 网课收集:
     - [CS自学指南 csdiy.wiki](https://csdiy.wiki/) 作者北大信科，整理CS很多领域的自学课程以及其自学经验，[Github pkuflyingpig](https://github.com/pkuflyingpig/cs-self-learning/)
