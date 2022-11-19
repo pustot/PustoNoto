@@ -34,6 +34,7 @@ Table of content on Computer Science and related technologies.
         - [005.133-TypeScript](./005.133-TypeScript.md)
         - [005.133-React](./005.133-React.md)
         - [005.133-Vue](./005.133-Vue.md)
+        - [005.133-Angular](./005.133-Angular.md)
     - 技术，后端
         - [005.3-Docker](./005.3-Docker.md)
         - [005.3-Git](./005.3-Git.md)
