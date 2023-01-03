@@ -3,6 +3,9 @@ nexus:
 
 - Ethnologue https://www.ethnologue.com/
     - [The Ethnologue 200 - What are the top 200 most spoken languages?](https://www.ethnologue.com/guides/ethnologue200)
+    - 维基百科引用之
+        - https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers
+        - https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers
     - [Chinese](https://www.ethnologue.com/subgroups/chinese) （看一下语言分类标准，汉语收录16种，与 ISO 639-3 一致（去掉三种古语））
 - World Atlas of Language Structures (WALS) https://wals.info/
 
