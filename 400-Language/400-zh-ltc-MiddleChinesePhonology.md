@@ -2,6 +2,8 @@ MiddleChinesePhonology | 中古汉语语音
 
 CLC: H11
 
+Linguists sometimes refer to the system of the Qieyun as **Early Middle Chinese** and the variant revealed by the rime tables as **Late Middle Chinese**.
+
 > 被視爲《廣韻》中最複雜的現象的「重紐」問題至今仍是研究的熱點，目前各家研究的成果分歧很大，還在爭論當中。不過隨着研究的深入，僅僅通過考古是難再更上一層樓了。更深入的研究需要通過構擬上古漢語，並依此下推出中古漢語重紐的來源。這方面的研究被稱爲「古音學」（研究周秦古音），與研究《切韻》中古音系的「今音學」不同，上古音系的構擬還很不成熟，有待於漢藏語系之間的語言橫向比較和歷史比較語言學的進一步發展。
 
 参考链接

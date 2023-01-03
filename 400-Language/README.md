@@ -1,3 +1,11 @@
+
+nexus:
+
+- Ethnologue https://www.ethnologue.com/
+    - [The Ethnologue 200 - What are the top 200 most spoken languages?](https://www.ethnologue.com/guides/ethnologue200)
+    - [Chinese](https://www.ethnologue.com/subgroups/chinese) （看一下语言分类标准，汉语收录16种，与 ISO 639-3 一致（去掉三种古语））
+- World Atlas of Language Structures (WALS) https://wals.info/
+
 # 多邻国
 
 - 可以集中看所有单词（没有释义）、知识讲解、个人数据、全站对比： https://duome.eu/PustoT

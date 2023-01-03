@@ -1,0 +1,2 @@
+
+Bambara (Arabic script: بامبارا), also known as Bamana (N'Ko script: ߓߡߊߣߊ߲) or Bamanankan (ߓߡߊߣߊ߲ߞߊ߲), is a lingua franca and national language of Mali spoken by perhaps 15 million people, natively by 5 million Bambara people and about 10 million second-language users. It is estimated that about 80 percent of the population of Mali speak Bambara as a first or second language. It has a subject–object–verb clause structure and two lexical tones. 马里的各语言中，有最多母语者的语言。
