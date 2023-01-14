@@ -46,6 +46,7 @@ Table of content on Computer Science and related technologies.
         - DevOps & Infrastructure [005.1-DevOps](./005.1-DevOps.md) 运开
             - (e.g. DevOps Eng, Platform Eng, Site Reliability Eng)
 - Künstliche Intelligenz | 人工智能
+    - [006.3-AITools.md](./006.3-AITools.md)
     - [006.3-DataScience](./006.3-DataScience.md)
     - [006.31-MachineLearning](./006.31-MachineLearning.md)
     - [006.32-DeepLearning](./006.32-DeepLearning.md)

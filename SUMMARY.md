@@ -33,6 +33,7 @@
 * [005.73-DataStructure.md](005.73-DataStructure.md)
 * [005.74-DataBase.md](005.74-DataBase.md)
 * [005.82-Cryptography.md](005.82-Cryptography.md)
+* [006.3-AITools.md](006.3-AITools.md)
 * [006.3-DataScience.md](006.3-DataScience.md)
 * [006.31-MachineLearning.md](006.31-MachineLearning.md)
 * [006.32-DeepLearning.md](006.32-DeepLearning.md)
