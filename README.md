@@ -89,6 +89,8 @@ An auxiliary rule of my applying Dewey: put as many CS-related notes to 004-006 
             - 005.15 Software Documentation
             - 005.16 Maintenance
         - 005.2 Programming for Specific Evironments
+            - 005.27 For Networked Multimedia Systems
+                - 005.276 Web Programming
         - 005.3 Programs
             - 005.37 Intranets, Servlets
         - 005.4 Systems programming and programs

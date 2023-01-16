@@ -20,14 +20,16 @@ Table of content on Computer Science and related technologies.
         - [005.1-ProgramDesign](./005.1-ProgramDesign.md) 程序设计，含面向对象
         - [004.36-DistributedSys](./004.36-DistributedSys.md) 分布式
         - [004.3-Concurrency](./004.3-Concurrency.md) 并发
-    - 语言，后端或通用
+    - 语言（或框架），后端或通用
         - [005.133-AllLangCompare](./005.133-AllLangCompare.md)
         - [005.133-C++](./005.133-C++.md)
         - [005.133-Java](./005.133-Java.md)
         - [005.133-Python](./005.133-Python.md)
         - [005.133-Rust](./005.133-Rust.md)
         - [005.133-Kotlin](./005.133-Kotlin.md)
-    - 语言，前端
+        - [005.133-C#](./005.133-C#.md)
+        - [005.133-DotNET](./005.133-DotNET.md)
+    - 语言（或框架），前端
         - [005.133-HTML](./005.133-HTML.md)
         - [005.133-CSS](./005.133-CSS.md)
         - [005.133-JavaScript](./005.133-JavaScript.md)
@@ -35,7 +37,9 @@ Table of content on Computer Science and related technologies.
         - [005.133-React](./005.133-React.md)
         - [005.133-Vue](./005.133-Vue.md)
         - [005.133-Angular](./005.133-Angular.md)
+        - [005.133-PHP.md](./005.133-PHP.md)
     - 技术，后端
+        - [005.276-AWS](./005.276-AWS.md)
         - [005.3-Docker](./005.3-Docker.md)
         - [005.3-Git](./005.3-Git.md)
         - [005.43-Linux](./005.43-Linux.md)
