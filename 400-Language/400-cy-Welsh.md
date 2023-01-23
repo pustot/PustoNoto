@@ -1,0 +1,2 @@
+
+> Welsh (Cymraeg [kəmˈraːiɡ] (listen) or y Gymraeg [ə ɡəmˈraːiɡ]) is a Celtic language of the Brittonic subgroup that is native to the Welsh people. Welsh is spoken natively in Wales, by some in England, and in Y Wladfa (the Welsh colony in Chubut Province, Argentina).[6] Historically, it has also been known in English as "British",[7] "Cambrian",[8] "Cambric"[9] and "Cymric".[10]

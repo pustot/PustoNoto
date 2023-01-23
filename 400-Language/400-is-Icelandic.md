@@ -1,0 +1,1 @@
+Icelandic (/aɪsˈlændɪk/ (listen); Icelandic: íslenska pronounced [ˈis.tl̥ɛn.ska] (listen)) is a North Germanic language spoken by about 314,000 people, the vast majority of whom live in Iceland, where it is the national language.[1] Due to being a West Scandinavian language, it is most closely related to Faroese, western Norwegian dialects, and the extinct language, Norn.

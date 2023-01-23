@@ -1,3 +1,10 @@
+`cnp` for Northern Pinghua
+
+> The Northern Pinghua (Guìběi 桂北平话) is spoken in northern Guangxi, around the city of Guilin, in close proximity with Southwest Mandarin dialects.
+> - and also in a some places in Hunan, such as Tongdao.
+> - Younian dialect (ethnically Yao)
+
+`csp` for Southern Pinghua:
 
 > The Southern Pinghua (Guìnán 桂南平话) is spoken in southern Guangxi, around the city of Nanning. These varieties form a dialect continuum with Yue varieties spoken in that part of Guangxi (excluding enclaves of Cantonese, such as in Nanning).[8] Yu Jin subdivides this group into three types:[9]
 > - Yongjiang, spoken along the Yong River around Nanning.

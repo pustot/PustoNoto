@@ -1,0 +1,4 @@
+nb – Bokmål
+nn – Nynorsk
+
+Norwegian (Norwegian: norsk [ˈnɔʂk] (listen)) is a North Germanic language spoken mainly in Norway, where it is an official language. Along with Swedish and Danish, Norwegian forms a dialect continuum of more or less mutually intelligible local and regional varieties; some Norwegian and Swedish dialects, in particular, are very close. These Scandinavian languages, together with Faroese and Icelandic as well as some extinct languages, constitute the North Germanic languages. Faroese and Icelandic are not mutually intelligible with Norwegian in their spoken form because continental Scandinavian has diverged from them. While the two Germanic languages with the greatest numbers of speakers, English and German, have close similarities with Norwegian, neither is mutually intelligible with it. Norwegian is a descendant of Old Norse, the common language of the Germanic peoples living in Scandinavia during the Viking Age.

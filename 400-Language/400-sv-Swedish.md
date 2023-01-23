@@ -1,0 +1,1 @@
+Swedish (svenska [ˈsvɛ̂nːska] (listen)) is a North Germanic language spoken predominantly in Sweden and in parts of Finland.[2] It has at least 10 million native speakers, the fourth most spoken Germanic language and the first among any other of its type in the Nordic countries overall.
