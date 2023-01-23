@@ -1,0 +1,1 @@
+The **Klingon language** (Klingon: tlhIngan Hol, pIqaD:  , pronounced [ˈt͡ɬɪ.ŋɑn xol]) is the constructed language spoken by a fictional alien race called the Klingons, in the Star Trek universe.

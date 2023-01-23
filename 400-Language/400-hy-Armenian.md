@@ -1,0 +1,3 @@
+Indo-European - Armenian
+
+**Armenian** (classical: հայերէն, reformed: հայերեն, hayeren, [hɑjɛˈɾɛn]) is an Indo-European language and an independent branch of that family of languages. It is the official language of both Armenia and Artsakh, the latter of which is unrecognized by the United Nations but has recognition from 3 non-UN states. Historically spoken in the Armenian Highlands, today Armenian is widely spoken throughout the Armenian diaspora. Armenian is written in its own writing system, the Armenian alphabet, introduced in 405 AD by the priest Mesrop Mashtots. The total number of Armenian speakers worldwide is estimated between 5 and 7 million.[29][30]
