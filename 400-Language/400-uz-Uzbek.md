@@ -1,0 +1,3 @@
+Turkic - Common Turkic - Karluk[2] - Uzbek
+
+> Uzbek (Latin script: Oʻzbekcha, Oʻzbek tili; Cyrillic script: Ўзбекча, Ўзбек тили; Perso-Arabic script: اۉزبېکچە, اۉزبېک تیلی), formerly known as Turki or Western Turki, is a Turkic language spoken by Uzbeks. It is the official, and national language of Uzbekistan. Uzbek is spoken as either native or second language by 44 million people around the world (L1+L2), making it the second-most widely spoken Turkic language after Turkish. There are two major variants of Uzbek language, Northern Uzbek spoken in Uzbekistan, Kyrgyzstan, Kazakhstan, Tajikistan, Turkmenistan and China and Southern Uzbek spoken in Afghanistan and Pakistan.[5][6]
