@@ -29,6 +29,8 @@ Table of content on Computer Science and related technologies.
         - [005.133-Go](./005.133-Go.md)
         - [005.133-Rust](./005.133-Rust.md)
         - [005.133-DotNET](./005.133-DotNET.md)
+        - [005.133-Perl](./005.133-Perl.md)
+        - [005.133-Ruby](./005.133-Ruby.md)
         - [005.133-Kotlin](./005.133-Kotlin.md)
     - 语言（或框架），前端
         - [005.133-HTML](./005.133-HTML.md)
