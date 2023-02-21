@@ -29,6 +29,7 @@ Table of content on Computer Science and related technologies.
         - [005.133-Go](./005.133-Go.md)
         - [005.133-Rust](./005.133-Rust.md)
         - [005.133-DotNET](./005.133-DotNET.md)
+        - [005.133-PHP](./005.133-PHP.md)
         - [005.133-Perl](./005.133-Perl.md)
         - [005.133-Ruby](./005.133-Ruby.md)
         - [005.133-Kotlin](./005.133-Kotlin.md)
@@ -40,7 +41,6 @@ Table of content on Computer Science and related technologies.
         - [005.133-React](./005.133-React.md)
         - [005.133-Vue](./005.133-Vue.md)
         - [005.133-Angular](./005.133-Angular.md)
-        - [005.133-PHP.md](./005.133-PHP.md)
     - 技术，后端
         - [005.276-AWS](./005.276-AWS.md)
         - [005.3-Docker](./005.3-Docker.md)
