@@ -4,6 +4,16 @@ CLC: H791.3
 
 - 多邻国：更新至 ABC
 
+# History and some ancient forms
+
+## Mycenaean Greek | 麦锡尼希腊语
+
+> Mycenaean Greek is the **most ancient attested form of the Greek** language, on the Greek mainland and Crete in Mycenaean Greece (16th to 12th centuries BC), before the hypothesised Dorian invasion, often cited as the terminus ad quem for the introduction of the Greek language to Greece. The language is preserved in inscriptions in **Linear B**, a script first attested on Crete before the 14th century BC. Most inscriptions are on clay tablets found in Knossos, in central Crete, as well as in Pylos, in the southwest of the Peloponnese. Other tablets have been found at Mycenae itself, Tiryns and Thebes and at Chania, in Western Crete.[1] The language is named after Mycenae, one of the major centres of Mycenaean Greece.
+
+线性文字B！
+
+偶然看到的单词 𐀀𐀵𐀫𐀦: https://en.wiktionary.org/wiki/%F0%90%80%80%F0%90%80%B5%F0%90%80%AB%F0%90%80%A6
+
 # 字母与发音
 
 ## 古希腊语
