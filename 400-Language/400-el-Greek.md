@@ -131,7 +131,11 @@ Here is where you'll find them:
 
 # phrasebook
 
+https://en.wikivoyage.org/wiki/Greek_phrasebook
+
 word | IPA | meaning
 -|-|-
 γεια | /ˈʝa/ | hi (to single person)
 γεια σας | /ˈʝasas/ | hi (to a group of people. γεια σου for informal?)
+ευχαριστώ  | /ef.xa.ɾiˈsto/ | thank you!, thanks!
+λυπάμαι | /liˈpa.me/ | I'm sorry
