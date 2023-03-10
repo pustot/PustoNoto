@@ -129,3 +129,9 @@ Here is where you'll find them:
 Ω = V
 Σ = S σ/ς Sigma has two different types in the lower case. When it is at the beginning of or inside the word it is written as σ but when it is at the end of a word it is written as ς this can be found at w**
 
+# phrasebook
+
+word | IPA | meaning
+-|-|-
+γεια | /ˈʝa/ | hi (to single person)
+γεια σας | /ˈʝasas/ | hi (to a group of people. γεια σου for informal?)
