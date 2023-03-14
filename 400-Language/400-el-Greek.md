@@ -94,17 +94,19 @@ Modern Greek has only ONE accent, that is placed above the accented vowels, and 
 
     Capital letters can take accents ONLY on the first letter. However, it can be omitted. E.g ΌΧΙ / ΟΧΙ (Ohee), but ΕΣΥ (eSEE).
 
+打字：win键盘上用 `;` 键打，先按 `;` 再按元音
+
 ### Punctuation Marks
 
 The Period, or full stop, the comma, and the exclamation mark are the same as English.
 
 The Greek question mark looks just like the English semicolon ; and can be found on the Q when you are on the Greek keyb
 
-### WHERE TO FIND THE GREEK LETTERS ON YOU QWERTY KEYBOARD
+### 打字：WHERE TO FIND THE GREEK LETTERS ON YOU QWERTY KEYBOARD
 
 **Of the 24 letters in the Greek alphabet 13 are exactly the same in appearance as the Latin.
 
-These are A, B, E, H, I, K, M, N, O, T, X, Y, Z (They are not always pronounced the same but they are typed on the same key.
+These are A, B, E, H, I, K, M, N, O, T, X, Y, Z (They are not always pronounced the same but they are typed on the same key.) （注意N-nu, Y-ypsilon）
 
 7 keys have the same sound: And are found on that key.
 
@@ -123,11 +125,11 @@ That leaves only 4 Greek letters with places you have to learn.
 
 Here is where you'll find them:
 
-Θ = U
-Ξ = J
-Ψ = C
-Ω = V
-Σ = S σ/ς Sigma has two different types in the lower case. When it is at the beginning of or inside the word it is written as σ but when it is at the end of a word it is written as ς this can be found at w**
+Θ = U （不知道为啥，难道是有弧线）
+Ξ = J （Ξξ, ksi/xi 其实可以用YKW的姓X名J来记）
+Ψ = C （可能ps的发音多少可以跟c有关把，但是看外形用U不香么）
+Ω = V （是不是因为 ypsilon 已经给了 Y，所以这个 omega 就给了在拉丁语中可以是u的v？）
+ς: Σ Sigma has two different types in the lower case. When it is at the beginning of or inside the word it is written as σ but when it is at the end of a word it is written as ς this can be found at `w` （但是把w给omega不香么）
 
 # phrasebook
 
