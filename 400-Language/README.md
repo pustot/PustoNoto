@@ -28,3 +28,6 @@ nexus:
 ```
 ⁰¹²³⁴⁵⁶
 ```
+
+- [Mathematical Alphanumeric Symbols - Wikipedia](https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols)
+    - Fraktur - Bold: 𝕬𝕭𝕮𝕯𝕰𝕱𝕲
