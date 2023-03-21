@@ -141,3 +141,7 @@ word | IPA | meaning
 γεια σας | /ˈʝasas/ | hi (to a group of people. γεια σου for informal?)
 ευχαριστώ  | /ef.xa.ɾiˈsto/ | thank you!, thanks!
 λυπάμαι | /liˈpa.me/ | I'm sorry
+Αντίο | /aˈdio/ | Goodbye.
+Καλημέρα | /kaliˈmera/ | Good day. / Good morning.
+Καλησπέρα | /kaliˈspera/ | Good evening.
+Καληνύχτα | /ka.liˈni.xta/ | Good night.
