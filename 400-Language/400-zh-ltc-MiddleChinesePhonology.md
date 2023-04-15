@@ -4,6 +4,8 @@ CLC: H11
 
 Linguists sometimes refer to the system of the Qieyun as **Early Middle Chinese** and the variant revealed by the rime tables as **Late Middle Chinese**.
 
+**⚠️注意：由于学习顺序，部分内容直接使用了 polyhedron 前辈的古韵罗马字，其他内容亦可能包含过时观点。正在补课，当前倾向于「切韵拼音」及「切韵通俗拟音」（但 ɨ ʉ ɛ æ 好难发准）。**
+
 > 被視爲《廣韻》中最複雜的現象的「重紐」問題至今仍是研究的熱點，目前各家研究的成果分歧很大，還在爭論當中。不過隨着研究的深入，僅僅通過考古是難再更上一層樓了。更深入的研究需要通過構擬上古漢語，並依此下推出中古漢語重紐的來源。這方面的研究被稱爲「古音學」（研究周秦古音），與研究《切韻》中古音系的「今音學」不同，上古音系的構擬還很不成熟，有待於漢藏語系之間的語言橫向比較和歷史比較語言學的進一步發展。
 
 参考链接
@@ -673,6 +675,50 @@ $\space$  |          |9泰      |
 <div class="table-caption"><hanla></hanla><span class="table-number">表<hanla></hanla>10d</span><span class="table-caption-text">ɲ、ŋ、ŋʷ<hanla></hanla>韵尾韵母对照</span></div>
 
 <table><thead><tr><th>摄</th><th>韵序</th><th>韵母</th><th>朗读音</th><th>白一平</th><hanla></hanla><th>poly</th></tr></thead><tbody><tr><hanla></hanla><td>通</td><td>上平<hanla></hanla>1</td><hanla></hanla><td>东<sub>一</sub></td><hanla></hanla><td>uŋʷ</td><td>uwng</td><td>ung</td></tr><tr><hanla></hanla><td>通</td><td>上平<hanla></hanla>1</td><hanla></hanla><td>东<sub>三</sub></td><hanla></hanla><td>ẅuŋʷ</td><td>juwng</td><td>iung</td></tr><tr><hanla></hanla><td>通</td><td>上平<hanla></hanla>2</td><hanla></hanla><td>冬</td><hanla></hanla><td>oŋʷ</td><td>owng</td><td>uung</td></tr><tr><hanla></hanla><td>通</td><td>上平<hanla></hanla>3</td><hanla></hanla><td>钟</td><hanla></hanla><td>ẅɔŋʷ</td><td>jowng</td><td>yung</td></tr><tr><hanla></hanla><td>江</td><td>上平<hanla></hanla>4</td><hanla></hanla><td>江</td><hanla></hanla><td>ɻæŋʷ</td><td>aewng</td><td>rung</td></tr><tr><hanla></hanla><td>宕</td><td>下平<hanla></hanla>10</td><hanla></hanla><td>阳<sub>开</sub></td><hanla></hanla><td>j̈ɐŋ</td><td>jang</td><td>iang</td></tr><tr><hanla></hanla><td>宕</td><td>下平<hanla></hanla>10</td><hanla></hanla><td>阳<sub>合</sub></td><hanla></hanla><td>ẅɐŋ</td><td>jwang</td><td>yang</td></tr><tr><hanla></hanla><td>宕</td><td>下平<hanla></hanla>11</td><hanla></hanla><td>唐<sub>开</sub></td><hanla></hanla><td>ɑŋ</td><td>ang</td><td>ang</td></tr><tr><hanla></hanla><td>宕</td><td>下平<hanla></hanla>11</td><hanla></hanla><td>唐<sub>合</sub></td><hanla></hanla><td>wɑŋ</td><td>wang</td><td>uang</td></tr><tr><hanla></hanla><td>梗</td><td>下平<hanla></hanla>12</td><hanla></hanla><td>庚<sub>二开</sub></td><hanla></hanla><td>ɻaɲ</td><td>aeng</td><td>rang</td></tr><tr><hanla></hanla><td>梗</td><td>下平<hanla></hanla>12</td><hanla></hanla><td>庚<sub>二合</sub></td><hanla></hanla><td>wɻaɲ</td><td>waeng</td><td>ruang</td></tr><tr><hanla></hanla><td>梗</td><td>下平<hanla></hanla>12</td><hanla></hanla><td>庚<sub>三开</sub></td><hanla></hanla><td>ɻjaɲ</td><td>jaeng</td><td>ieng</td></tr><tr><hanla></hanla><td>梗</td><td>下平<hanla></hanla>12</td><hanla></hanla><td>庚<sub>三合</sub></td><hanla></hanla><td>ɻɥaɲ</td><td>jwaeng</td><td>yeng</td></tr><tr><hanla></hanla><td>梗</td><td>下平<hanla></hanla>13</td><hanla></hanla><td>耕<sub>开</sub></td><hanla></hanla><td>ɻæɲ</td><td>eang</td><td>reng</td></tr><tr><hanla></hanla><td>梗</td><td>下平<hanla></hanla>13</td><hanla></hanla><td>耕<sub>合</sub></td><hanla></hanla><td>wɻæɲ</td><td>weang</td><td>rueng</td></tr><tr><hanla></hanla><td>梗</td><td>下平<hanla></hanla>14</td><hanla></hanla><td>清<sub>开</sub></td><hanla></hanla><td>jɛɲ<br>ɻjɛɲ</td><td>jieng<br>jeng</td><td>jeng<br>ieng</td></tr><tr><hanla></hanla><td>梗</td><td>下平<hanla></hanla>14</td><hanla></hanla><td>清<sub>合</sub></td><hanla></hanla><td>ɥɛɲ<br>ɻɥɛɲ</td><td>jwieng<br>jweng</td><td>jyeng<br>yeng</td></tr><tr><hanla></hanla><td>梗</td><td>下平<hanla></hanla>15</td><hanla></hanla><td>青<sub>开</sub></td><hanla></hanla><td>eɲ</td><td>eng</td><td>eng</td></tr><tr><hanla></hanla><td>梗</td><td>下平<hanla></hanla>15</td><hanla></hanla><td>青<sub>合</sub></td><hanla></hanla><td>weɲ</td><td>weng</td><td>ueng</td></tr><tr><hanla></hanla><td>曾</td><td>下平<hanla></hanla>16</td><hanla></hanla><td>蒸</td><hanla></hanla><td>ɻiŋ<br>iŋ</td><td>ing</td><td>ing</td></tr><tr><hanla></hanla><td>曾</td><td>入声<hanla></hanla>24</td><hanla></hanla><td>职<sub>合</sub></td><hanla></hanla><td>ɻɥik</td><td>wik</td><td>yk</td></tr><tr><hanla></hanla><td>曾</td><td>下平<hanla></hanla>17</td><hanla></hanla><td>登<sub>开</sub></td><hanla></hanla><td>ɘŋ</td><td>ong</td><td>ong</td></tr><tr><hanla></hanla><td>曾</td><td>下平<hanla></hanla>17</td><hanla></hanla><td>登<sub>合</sub></td><hanla></hanla><td>wɘŋ</td><td>wong</td><td>uong</td></tr></tbody></table>
+
+## unt: 切韵通俗拟音
+
+https://phesoca.com/aws/337/
+
+搭配切韵拼音很舒适：
+
+https://phesoca.com/tupa/
+
+### 切韵拼音→切韵通俗拟音：字符替换流程
+
+```markdown
+# 声调
+
+音节尾的 q → 上声标记,
+音节尾的 h → 去声标记,
+
+# 声韵母
+
+ng → ŋ,
+
+# 声母
+
+q → ʔ, gh → ɣ, 音节首的 h → x, h → ʰ,
+tr → ʈ, dr → ɖ, nr → ɳ, sr → ʂ, zr → ʐ,
+tj → tɕ, dj → dʑ, nj → ɲ, sj → ɕ, zj → ʑ,
+g → ɡ,
+
+# 韵母
+
+y → ɨ, 后接元音字母的 wi → y, wi → yi,
+ee → ɛ, ae → æ, oeu → ɔ,
+u → ɨu, oɨu → u, 非音节尾的 w → u, 后接 ŋ、k 以外字母的 ɨu → ʉ,
+eo → ə, ɨo → ɨə, 前不接 y、ʉ 且后接 j、n、t 的 o → uo, 后接 ŋ、k 以外字母的 o → ə,
+音节尾的或后接 ŋ、k 的 a → ɑ,
+```
+
+总结（自然语言）（但书写在括号，实在记不住先记主要的）
+
+- [y]: 原 wi → y （但不接元音则为 yi）
+- [ɨ]: 原 y → ɨ；
+- [ʉ] 及拼音 u: 原 ou 为 u，原 w 亦 u；原 u 则 ʉ（但接 ŋ、k 为 ɨu）
+- [ə] 及拼音 o: eo → ə, ɨo → ɨə；o → ə，（但后接 ŋ、k 时为 o，前不接 y、ʉ 且后接 j、n、t 的 o → uo）
+- （[ɑ] 是 a 在音节尾的或后接 ŋ、k 的变体，但不构成对立，我觉得无论 a 还是 ɑ，能与 [æ] 区分即可）
 
 # 一些中古音助记
 
