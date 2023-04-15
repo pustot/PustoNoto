@@ -130,18 +130,3 @@ Here is where you'll find them:
 Ψ = C （可能ps的发音多少可以跟c有关把，但是看外形用U不香么）
 Ω = V （是不是因为 ypsilon 已经给了 Y，所以这个 omega 就给了在拉丁语中可以是u的v？）
 ς: Σ Sigma has two different types in the lower case. When it is at the beginning of or inside the word it is written as σ but when it is at the end of a word it is written as ς this can be found at `w` （但是把w给omega不香么）
-
-# phrasebook
-
-https://en.wikivoyage.org/wiki/Greek_phrasebook
-
-word | IPA | meaning
--|-|-
-γεια | /ˈʝa/ | hi (to single person)
-γεια σας | /ˈʝasas/ | hi (to a group of people. γεια σου for informal?)
-ευχαριστώ  | /ef.xa.ɾiˈsto/ | thank you!, thanks!
-λυπάμαι | /liˈpa.me/ | I'm sorry
-Αντίο | /aˈdio/ | Goodbye.
-Καλημέρα | /kaliˈmera/ | Good day. / Good morning.
-Καλησπέρα | /kaliˈspera/ | Good evening.
-Καληνύχτα | /ka.liˈni.xta/ | Good night.
