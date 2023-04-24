@@ -31,3 +31,5 @@ nexus:
 
 - [Mathematical Alphanumeric Symbols - Wikipedia](https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols)
     - Fraktur - Bold: 𝕬𝕭𝕮𝕯𝕰𝕱𝕲
+- [CJK Unified Ideographs - Wikipedia](https://en.wikipedia.org/wiki/CJK_Unified_Ideographs)
+    - 可以看 Unicode 給漢字分配了哪些 blocks
