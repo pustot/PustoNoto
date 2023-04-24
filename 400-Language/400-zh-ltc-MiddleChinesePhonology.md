@@ -653,6 +653,19 @@ $\space$  |          |9泰      |
 
 ![广州话声调规律表](./pic/H11/广州话声调规律表.PNG)
 
+# 轉寫、拼音
+
+## 切韻拼音 TUPA
+
+https://phesoca.com/tupa/
+
+https://zhuanlan.zhihu.com/p/478751152
+
+最長的拼寫是 10 個字母，只有兩例：
+
+- tsrhoeungh 初二江去: 䎫
+- tsrhyaengh 初開三庚去: 㵾
+
 # 拟音
 
 ## 【已过时】unt 切韵朗读音
