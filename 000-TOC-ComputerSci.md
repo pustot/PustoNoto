@@ -84,3 +84,6 @@ Table of content on Computer Science and related technologies.
         - [Spring Boot面试题（掘金网站上 小杰要吃蛋 整理的一系列面试题）](https://juejin.cn/post/6844904125709156359) 开头是一系列面试题的索引，java各方向为主
 - Collection of online courses | 网课收集:
     - [CS自学指南 csdiy.wiki](https://csdiy.wiki/) 作者北大信科，整理CS很多领域的自学课程以及其自学经验，[Github pkuflyingpig](https://github.com/pkuflyingpig/cs-self-learning/)
+- 资料收集
+    - [HongYiMU/TheAlgorithm](https://github.com/HongYiMU/TheAlgorithm) 一些书
+    - [billhhh/The-C-Book](https://github.com/billhhh/The-C-Book) 一些书，fork的上面的库
