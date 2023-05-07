@@ -1,6 +1,7 @@
 * [README.md](README.md)
 * [000-TOC-ComputerSci.md](000-TOC-ComputerSci.md)
 * [004.015-DiscreteMath.md](004.015-DiscreteMath.md)
+* [004.2-CompOrgNArch.md](004.2-CompOrgNArch.md)
 * [004.3-Concurrency.md](004.3-Concurrency.md)
 * [004.36-DistributedSys.md](004.36-DistributedSys.md)
 * [004.6-ComputerNetwork.md](004.6-ComputerNetwork.md)

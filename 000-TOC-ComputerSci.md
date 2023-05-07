@@ -9,6 +9,7 @@ Table of content on Computer Science and related technologies.
 
 - Computer Fundamentals | 基本理论
     - [005.73-DataStructure](./005.73-DataStructure.md) 数结算法
+    - [004.2-CompOrgNArch](./004.2-CompOrgNArch.md)
     - [005.43-OperatingSystem](./005.43-OperatingSystem.md) 操系
     - [004.6-ComputerNetwork](./004.6-ComputerNetwork.md) 计网
     - [005.74-DataBase](./005.74-DataBase.md) 数据库
