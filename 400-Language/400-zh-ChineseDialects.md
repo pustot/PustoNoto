@@ -12,6 +12,14 @@ CLC: H17
 
 # 杂散学习
 
+## 中州韵（官话）
+
+据说新马的变体，即新马华语，有入声调（“第五声”）： 
+
+- https://zh.wikipedia.org/wiki/%E6%96%B0%E9%A6%AC%E8%8F%AF%E8%AA%9E#%E8%AA%9E%E9%9F%B3
+- > 简单来说，新马华语即是在中国境外出现的一种全新的官话方言的子方言，这种官话方言最大的特征是有入声；两地的华语介绍请见马来西亚华语和新加坡华语。
+- [变与不变之间 ：新加坡华语与新加坡华语的形成机制 Variant and invariant : a preliminary approach to the exploration of the emergence of Singapore Mandarin](https://dr.ntu.edu.sg/bitstream/10356/65844/1/CHOO%20Yuen_PhD%20Thesis%202015_Re-submission%20%20.pdf)
+
 ## 粤语
 
 [维基百科-粤语](https://zh.wikipedia.org/wiki/%E7%B2%A4%E8%AF%AD)
