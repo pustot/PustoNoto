@@ -23,6 +23,8 @@ CLC: H177
 - 教育部语文成果网： https://language.moe.gov.tw/
 - 臺灣閩南語羅馬字拼音方案 http://ws.moe.edu.tw/001/Upload/FileUpload/3677-15601/Documents/151609.pdf
 - 咱来学闽南语 语词1 https://language.moe.gov.tw/upload/download/jts/02%E8%AA%9E%E8%A9%9E1.pdf
+- 台湾闽南语认证网站 https://blgjts.moe.edu.tw/tmt/index.php
+    - 该网站列的自学资源 https://blgjts.moe.edu.tw/tmt/view.php?page=resource
 - 9小时通过闽南语考试 https://www.youtube.com/watch?v=ThcdcgQR38E
 - wiki 闽南语 母音和声调 https://zh.wikipedia.org/wiki/%E9%97%BD%E5%8D%97%E8%AF%AD#%E6%AF%8D%E9%9F%B3%E5%92%8C%E8%81%B2%E8%AA%BF
 - 闽南语连读变调 https://zh.wikipedia.org/wiki/%E9%96%A9%E5%8D%97%E8%AA%9E%E9%80%A3%E8%AE%80%E8%AE%8A%E8%AA%BF
