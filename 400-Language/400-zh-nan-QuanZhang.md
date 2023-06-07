@@ -45,5 +45,195 @@ CLC: H177
 
 可能会为了学习资料丰富主要学台湾的某种腔，并偶尔学用泉州府城腔念古诗文？也可能为了演化的一致性只学或主要学泉州音？要是我有闽南语区的朋友就好了，不过即便认识，也没有人可以让我整天缠着问发音吧。
 
+！！！对了，想学五月天的闽南语歌，虽然也没有几首特别爱的
+
+# 音系
+
+可观察这个，用哪些国际音标描写： [帮助:台湾话国际音标 - wiki](https://zh.wikipedia.org/wiki/Help:%E8%87%BA%E7%81%A3%E8%A9%B1%E5%9C%8B%E9%9A%9B%E9%9F%B3%E6%A8%99)
+
+一些注意：
+
+- s ts tsh j 后跟 i 时发颚化的音，也就是 ɕ t͡ɕ t͡ɕʰ d͡ʑ/ʑ
+    - /t͡ɕ˭/、/t͡ɕʰ/、/ɕ/、/d͡ʑ/跟/ʑ/在部分腔调（如厦门腔）中，并不会颚化，发为/t͡s˭/、/t͡sʰ/、/s/、/d͡z/和/z/。
+
 # 潮汕话との関係
 
+# 语料学习
+
+## 五月天 勇敢
+
+- 【台語歌曲：正字・台羅】④勇敢（五月天） https://ameblo.jp/tsap-gueh-lau-10/entry-12463157164.html
+
+上段：推薦用字に書き換えた歌詞（元々の歌詞と漢字が違う部分はオレンジ）
+
+下段：台羅
+
+ 
+
+＝＝＝
+
+ 
+
+勇敢
+
+Ióng-kám
+
+
+敢講這是失去希望的時代
+kám-kóng tse sī sit-khì hi-bāng ê sî-tāi
+
+
+敢講這是失去期待的所在
+kám-kóng tse sī sit-khì kî-thāi ê sóo-tsāi
+
+
+敢講咱一世人只有忍耐　只有憤慨　只有無奈
+kám-kóng lán tsi̍t-sì-lâng tsí-ū jím-nāi tsí-ū hùn-khài tsí-ū bô-nāi
+
+
+只有目屎無人知　吞落腹肚內
+tsí-ū ba̍k-sái bô lâng tsai thun lo̍h pak-tóo lāi
+
+
+看著心願慢慢變做毋甘願
+khuànn-tio̍h sim-guān bān-bān piàn-tsò m̄-kam-guān
+
+
+才知期待袂當恬恬仔等待
+tsiah tsai kî-thāi bē-tàng tiām-tiām-á tán-thāi
+
+
+毋管咱是天才抑是奴才　只有拚著 所有氣力
+m̄-kuán lán sī thian-tsâi iah-sī lôo-tsâi tsí-ū piànn-tio̍h sóo-ū khuì-la̍t
+
+
+挑戰無情的世間　一工一冬　一世人到永遠
+thiau-tsiàn bô-tsîng ê sè-kan tsi̍t kang tsi̍t tang tsi̍t-sì-lâng kàu íng-uán
+
+
+一擺閣一擺
+tsi̍t pái koh tsi̍t pái
+
+
+毋知影　啥人咧安排　命運好歹　一人攏一款
+m̄-tsai-iánn siáng teh an-pâi miā-ūn hó-pháinn tsi̍t lâng lóng tsi̍t khuán
+
+
+有時陣　想欲放棄　想欲怨嘆　想欲流目屎
+ū-sî-tsūn siūnn-beh hòng-khì siūnn-beh uàn-thàn siūnn-beh lâu ba̍k-sái
+
+
+等一工　烏暗過去　苦盡甘來　人生滋味才了解
+tán tsi̍t kang oo-àm kuè-khì khóo tsīn kam lâi jîn-sing tsu-bī tsiah liáu-kái
+
+
+為著彼个將來
+uī-tio̍h hit ê tsiông-lâi
+
+
+愛自己　勇敢再勇敢
+ài tsū-kí ióng-kám tsài ióng-kám
+
+
+若有一工若阮消失咧世間　①
+nā ū tsi̍t kang nā guán siau-sit teh sè-kan
+
+
+若有我的故事予啥人熟似
+nā ū guá ê kòo-sū hōo siánn-lâng si̍k-sāi
+
+
+毋管阮是成功抑是失敗　我的名字號做勇敢
+m̄-kuán guán sī sîng-kong iah-sī sit-pāi guá ê miâ-jī hō-tsuè ióng-kám
+
+
+唱做美麗的歌曲　一字一句　一世人到永遠
+tshiùnn-tsò bí-lē ê kua-khik tsi̍t jī tsi̍t kù tsi̍t-sì-lâng kàu íng-uán
+
+
+一擺閣一擺
+tsi̍t pái koh tsi̍t pái
+
+
+毋知影　啥人咧安排　命運好歹　一人攏一款
+m̄-tsai-iánn siáng teh an-pâi miā-ūn hó-pháinn tsi̍t lâng lóng tsi̍t khuán
+
+
+有時陣　想欲放棄　想欲怨嘆　想欲流目屎
+ū-sî-tsūn siūnn-beh hòng-khì siūnn-beh uàn-thàn siūnn-beh lâu ba̍k-sái
+
+
+等一工　烏暗過去　苦盡甘來　人生滋味才了解
+tán tsi̍t kâng oo-àm kuè-khì khóo tsīn kam lâi jîn-sing tsu-bī tsiah liáu-kái
+
+
+為著彼个將來
+uī-tio̍h hit-ê tsiông-lâi
+
+
+愛自己　勇敢再勇敢
+ài tsū-kí ióng-kám tsài ióng-kám
+
+
+風無情　雨無情　命運也無情
+hong bô-tsîng hōo bô-tsîng miā-ūn iā bô-tsîng
+
+
+若有膽　若有心　風雨算啥物
+nā ū tánn nā ū sim hong-hōo sǹg siánn-mi̍h
+
+
+飄浪一生　著愛盤過　上懸的海湧　②
+phiau-lōng it-sing tio̍h-ài puânn--kuè siōng-kuân ê hái-íng
+
+
+毋知影　啥人咧安排　命運好歹　一人攏一款
+m̄-tsai-iánn siáng teh an-pâi miā-ūn hó-pháinn tsi̍t lâng lóng tsi̍t khuán
+
+
+有時陣　想欲放棄　想欲怨嘆　想欲流目屎
+ū-sî-tsūn siūnn-beh hòng-khì siūnn-beh uàn-thàn siūnn-beh lâu ba̍k-sái
+
+
+等一工　烏暗過去　苦盡甘來　人生滋味才了解
+tán tsi̍t kang oo-àm kuè--khì khóo tsīn kam lâi jîn-sing tsu-bī tsiah liáu-kái
+
+
+為著彼个將來
+uī-tio̍h hit-ê tsiông-lâi
+
+
+愛自己　勇敢再勇敢
+ài tsū-kí ióng-kám tsài ióng-kám
+
+ 
+
+＊＊＊
+
+ 
+
+阿信は、
+
+・阮　gún（ほとんどウンと発音）
+
+・字　lī
+
+・做　tsuè
+
+と発音。
+
+ 
+
+＝＝＝
+
+ 
+
+①在＝佇咧(tī-leh)；也可拆開來念「佇tī」或「咧leh」，不管是單念哪一個或者是合在一起講都有很多人說。
+
+比方說：我在吃飯，可以讀作「我佇食飯」也可以念作「我咧食飯」當然也可以說「我佇咧食飯」。
+
+只是這首歌裡面的“在”，他們都剛好唱作「咧leh」。
+
+ 
+
+②翻越＝盤過(puânn--kuè)；這裡是比喻要跨越最困難著障礙，所以要用「盤過puânn--kuè」這個詞沒錯。
