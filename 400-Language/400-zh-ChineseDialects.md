@@ -12,7 +12,7 @@ CLC: H17
 
 # 划分
 
-- 官 cmn
+- 官 cmn https://zh.wikipedia.org/wiki/
     - 中原官话 zgyu
     - 兰银官话 lyiu
     - 西南官話/上江官话 xghu
@@ -21,26 +21,27 @@ CLC: H17
     - 胶辽官话 jliu
     - 北京官话 bjgh
     - 东北官话 dbiu
-- 吴 wuu
+- 吴 wuu https://wuu.wikipedia.org/wiki/
 - 闽 mclr
     - 沿海闽语
-        - 闽东话 cdo
+        - 闽东话 cdo https://cdo.wikipedia.org/wiki/
         - 莆仙话 cpx
-        - 闽南话 nan
+        - 闽南话 nan https://zh-min-nan.wikipedia.org/wiki/
         - 琼雷话
     - 沿山闽语
         - 闽中话 czo
         - 闽北话 mnp
         - 邵将话
-- 粤 yue
-- 客 hak
+- 粤 yue https://zh-yue.wikipedia.org/wiki/
+- 客 hak https://hak.wikipedia.org/wiki/
 - 晋 cjy
 - 徽 czh
-- 赣 gan
+- 赣 gan https://gan.wikipedia.org/wiki/
 - 平
     - 桂北平话 cnp
     - 桂南平话 csp
 - 湘 hsn
+- （文言） lzh http://zh-classical.wikipedia.org/wiki/
 
 # 杂散学习
 
@@ -146,12 +147,27 @@ loh8 chih7 pah7 cieu5 zeh8
 
 本次列车终点站为：宇宙中心。下一站：曹州牡丹园。可换乘五号线。
 
+（朗读时想要同一种方言集中写，研究时想要按句子每一句写各个方言的读法）
+
 cosmic center
 
 方言|发音
-中文|本次列车终点站为
+-|-
+文|本次列车终点站为：宇宙中心
+文|下一站：曹州牡丹园
+文|可换乘五号线
+潮拼|bung2-ce3 liêg8-cia1 zong1-diam2-zam6 ui5 : u2-diu6 dong1-sim1
+潮拼|ê6-zêg8-zam6 : cao5-ziu1 bhou2-duan1-hng5
+潮拼|ko2 uan7-sêng6 ngou6-ho7 suan3
+潮|bung35-ce213 liêg2-cia33 zong33-diam35-zam35 ui55 : u35-diu35 dong33-sim33
+潮|ê21-zêg2-zam35 : cao11-ziu33 bhou35-duan33-hng55
+潮|ko52 uan21-sêng35 ngou21-ho11 suan213
+
+
 bung2-ce3 liêg8-cia1 zong1-diam2-zam6 ui5 : u2-diu6 dong1-sim1
 
 bung24-ce213 liêg21-cia33 zong23-diam24-zam35 ui55 : u24-diu35 dong23-sim33
 
 （粗） bung35-ce213 liêg2-cia33 zong33-diam35-zam35 ui55 : u35-diu35 dong33-sim33
+
+ê6-zêg8-zam6 : cao5-ziu1 bhou2-duan1-hng5
