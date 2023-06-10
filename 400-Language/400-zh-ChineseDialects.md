@@ -10,6 +10,38 @@ CLC: H17
 
 [（网页）语言维基-汉字古今中外读音查询](https://langwiki.org/tools/dict/)
 
+# 划分
+
+- 官 cmn
+    - 中原官话 zgyu
+    - 兰银官话 lyiu
+    - 西南官話/上江官话 xghu
+    - 江淮官話/淮語/下江官话 juai
+    - 冀鲁官话 jlua
+    - 胶辽官话 jliu
+    - 北京官话 bjgh
+    - 东北官话 dbiu
+- 吴 wuu
+- 闽 mclr
+    - 沿海闽语
+        - 闽东话 cdo
+        - 莆仙话 cpx
+        - 闽南话 nan
+        - 琼雷话
+    - 沿山闽语
+        - 闽中话 czo
+        - 闽北话 mnp
+        - 邵将话
+- 粤 yue
+- 客 hak
+- 晋 cjy
+- 徽 czh
+- 赣 gan
+- 平
+    - 桂北平话 cnp
+    - 桂南平话 csp
+- 湘 hsn
+
 # 杂散学习
 
 ## 中州韵（官话）
@@ -68,7 +100,7 @@ liok24 tshit33 pat33 kiu24 sip24
 33 52 213 2 55 35 11 4
 
 前字变调：1-1，2-6，3-5，4-8，5-7，6-9，7-9，8-4
-（9是高降调）
+（9是新的低降调）
 
 （文读）
 diê5-7 ziu1 uê7
@@ -109,3 +141,17 @@ ih7 lian6 se1 sy5 u1
 loh8 chih7 pah7 cieu5 zeh8
 
 连读音变：只有阴平（声调1）开头是一直降，别的都是头低二高然后降，虽然调值还有些许差别
+
+# 讀著玩
+
+本次列车终点站为：宇宙中心。下一站：曹州牡丹园。可换乘五号线。
+
+cosmic center
+
+方言|发音
+中文|本次列车终点站为
+bung2-ce3 liêg8-cia1 zong1-diam2-zam6 ui5 : u2-diu6 dong1-sim1
+
+bung24-ce213 liêg21-cia33 zong23-diam24-zam35 ui55 : u24-diu35 dong23-sim33
+
+（粗） bung35-ce213 liêg2-cia33 zong33-diam35-zam35 ui55 : u35-diu35 dong33-sim33
