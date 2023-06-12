@@ -175,6 +175,7 @@ cosmic center
 文|本次列车终点站为：宇宙中心
 文|下一站：曹州牡丹园
 文|可换乘五号线
+普|（普通話真好讀）
 菏|列1
 石|beon22 cii21 lie42 chei55 zhung55 dien22 zhan21 wey42 : yu22 zhei21 zhung55 xin55
 石|xiɑ+21 i42 zhan21 : caw42 zhei55 mu22 dan55 yuen42
