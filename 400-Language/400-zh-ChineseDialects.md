@@ -200,10 +200,10 @@ cosmic center
 閩南|**khó41 uānn11-sêng24 gōo11-hō11-suànn11**
 潮拼|bung2-ce3 liêg8-cia1 zong1-diam2-zam6 ui5 : u2-diu6 dong1-sim1
 潮拼|ê6-zêg8-zam6 : cao5-ziu1 bhou2-duan1-hng5
-潮拼|ko2 uan7-sêng6 ngou6-ho7 suan3
+潮拼|ko2 uan7-sêng5 ngou6-ho7 suan3
 潮|**bung35-ce213 liêg2-cia33 zong33-diam35-zam35 ui55 : u35-diu35 dong33-sim33**
 潮|**ê21-zêg2-zam35 : cao11-ziu33 bhou35-duan33-hng55**
-潮|**ko52 uan21-sêng35 ngou21-ho11 suan213**
+潮|**ko52 uan21-sêng55 ngou21-ho11 suan213**
 切|**ponq tshih liet tjhiae tjung temq treemh ue : uoq druh trung sim**
 切|**ghaeq qit treemh : dzaw tju mouq tan uon**
 切|**khaq ghwanh zjyng ngoq ghawh sienh**
