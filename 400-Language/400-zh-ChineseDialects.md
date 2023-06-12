@@ -1,8 +1,8 @@
 CLC: H17
 
-十大方言：官吴闽粤客，晋徽赣平湘（「观吴闽粤客，进徽赣平乡」，中间三对字按地理南北也）
+各方言的总论 + 多种初步学习的撇步 + 多方言朗读材料
 
-当前关注：粤语、吴语上海话、闽南语泉州话、闽南语潮汕话
+当前关注：中官菏泽话、西官石屏话、西官昆明话、京官普通话、吴语上海话、客家话（四县腔/梅县腔）、粤语广州/香港话、闽南语泉漳话（臺北腔）、闽南语潮汕话；（什么时候开启湘、赣……？）
 
 # 汉字古今中外读音
 
@@ -11,6 +11,12 @@ CLC: H17
 [（网页）语言维基-汉字古今中外读音查询](https://langwiki.org/tools/dict/)
 
 # 划分
+
+~~七大方言：官吴闽粤客湘赣。十大方言：官吴闽粤客，晋徽赣平湘（「观吴闽粤客，进徽赣平乡」，中间三对字按地理南北也）~~
+
+按筆畫順序排，七大：中（中州韻，指官話）4、吳7、客9、湘12、粵13、閩14、贛24
+
+後面的徽（分自吳語）、晉（分自官話）、平（南歸粵語，北未歸片？）劃分出來多少有點不夠傳統，所以我比較支持先記七大再記這三個
 
 - 官 cmn https://zh.wikipedia.org/wiki/
     - 中原官话 zgyu
@@ -22,6 +28,9 @@ CLC: H17
     - 北京官话 bjgh
     - 东北官话 dbiu
 - 吴 wuu https://wuu.wikipedia.org/wiki/
+- 客 hak https://hak.wikipedia.org/wiki/
+- 湘 hsn
+- 粤 yue https://zh-yue.wikipedia.org/wiki/
 - 闽 mclr
     - 沿海闽语
         - 闽东话 cdo https://cdo.wikipedia.org/wiki/
@@ -32,18 +41,15 @@ CLC: H17
         - 闽中话 czo
         - 闽北话 mnp
         - 邵将话
-- 粤 yue https://zh-yue.wikipedia.org/wiki/
-- 客 hak https://hak.wikipedia.org/wiki/
+- 赣 gan https://gan.wikipedia.org/wiki/
 - 晋 cjy
 - 徽 czh
-- 赣 gan https://gan.wikipedia.org/wiki/
 - 平
     - 桂北平话 cnp
     - 桂南平话 csp
-- 湘 hsn
 - （文言） lzh http://zh-classical.wikipedia.org/wiki/
 
-# 杂散学习
+# 初步学习
 
 ## 中州韵（官话）
 
@@ -143,7 +149,11 @@ loh8 chih7 pah7 cieu5 zeh8
 
 连读音变：只有阴平（声调1）开头是一直降，别的都是头低二高然后降，虽然调值还有些许差别
 
+## 客家话
+
 # 讀著玩
+
+## 菏泽地铁报站
 
 本次列车终点站为：宇宙中心。下一站：曹州牡丹园。可换乘五号线。
 
@@ -162,7 +172,9 @@ cosmic center
 潮|bung35-ce213 liêg2-cia33 zong33-diam35-zam35 ui55 : u35-diu35 dong33-sim33
 潮|ê21-zêg2-zam35 : cao11-ziu33 bhou35-duan33-hng55
 潮|ko52 uan21-sêng35 ngou21-ho11 suan213
-
+閩南台羅|pún-tshù lia̍t-tshia tsiong-tiám-tsām uî : ú-tiū tiong-sim
+閩南台羅|ē-tsi̍t-tsām : tsô-tsiu bóo-tan-hn̂g
+閩南台羅|khó uānn-sêng gōo-hō-suànn
 
 bung2-ce3 liêg8-cia1 zong1-diam2-zam6 ui5 : u2-diu6 dong1-sim1
 
