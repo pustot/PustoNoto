@@ -176,27 +176,36 @@ cosmic center
 文|下一站：曹州牡丹园
 文|可换乘五号线
 菏|列1
-沪|pen5-tshy5 lih8-tsho1 tson1-ti5-ze6 we6 ：yu6-zeu6 tson1-shin1
-沪|gho6-ih7-ze6 ：zau6-tseu1 meu6-te1-yoe6
-沪|khu5 woe6-zen6 ng6-ghau6-shi5
-客拼|bun³¹ cii⁵⁵ lied⁵ ca²⁴ zung²⁴-11 diam⁵⁵ zam⁵⁵ vi¹¹ : i³¹ qiu⁵⁵ zung²⁴-11 xim²⁴
-客拼|haˊ idˋ zam⁵⁵ : coˇ zuˊ meuˋ danˊ ienˇ
-客拼|koˋ von siinˇ ng31 ho xien
-广|bun2 ci3 lit6 ce1 zung1 dim2 zaam6 wai4 : jyu5 zau6 zung1 sam1
-广|haa6 jat1 zaam6 : cou4 zau1 maau5 daan1 jyun4
-广|ho2 wun6 sing4 ng5 hou6 sin3
-閩南台羅|pún-tshù lia̍t-tshia tsiong-tiám-tsām uî : ú-tiū tiong-sim
-閩南台羅|ē-tsi̍t-tsām : tsô-tsiu bóo-tan-hn̂g
-閩南台羅|khó uānn-sêng gōo-hō-suànn
+石|beon22 cii21 lie42 chei55 zhung55 dien22 zhan21 wey42 : yu22 zhei21 zhung55 xin55
+石|xiɑ+21 i42 zhan21 : caw42 zhei55 mu22 dan55 yuen42
+石|ko22 huan21 cheon42 v22 hao21 xien21
+昆|bɐn55 cii21 lie31 cheo44 zhung44 die55 zhaa21 wei31 : yu55 zhɐu21 zhung44 xin44
+昆|xia+21 i31 zhaa21 : caaow31 zhɐu44 mu55 daa35 ie31 
+昆|ko55 huaa21 chɐn31 v55 haow212 xie212
+沪|**pen5-tshy5 lih8-tsho1 tson1-ti5-ze6 we6 ：yu6-zeu6 tson1-shin1**
+沪|**gho6-ih7-ze6 ：zau6-tseu1 meu6-te1-yoe6**
+沪|**khu5 woe6-zen6 ng6-ghau6-shi5**
+客拼|**bun³¹ cii⁵⁵ lied⁵ ca²⁴ zung²⁴-11 diam⁵⁵ zam⁵⁵ vi¹¹ : i³¹ qiu⁵⁵ zung²⁴-11 xim²⁴**
+客拼|**haˊ idˋ zam⁵⁵ : coˇ zuˊ meuˋ danˊ ienˇ**
+客拼|**koˋ von siinˇ ng31 ho xien**
+广|**bun2 ci3 lit6 ce1 zung1 dim2 zaam6 wai4 : jyu5 zau6 zung1 sam1**
+广|**haa6 jat1 zaam6 : cou4 zau1 maau5 daan1 jyun4**
+广|**ho2 wun6 sing4 ng5 hou6 sin3**
+閩南台羅|pún2-tshù3 lia̍t8-tshia1 tsiong1-tiám2-tsām7 uî5 : ú2-tiū7 tiong1-sim1
+閩南台羅|ē7-tsi̍t8-tsām7 : tsô5-tsiu1 bóo2-tan1-hn̂g5
+閩南台羅|khó2 uānn7-sêng5 gōo7-hō7-suànn3
+閩南|**pún44-tshù11 lia̍t3-tshia44 tsiong33-tiám44-tsām33 uî24 : ú44-tiū33 tiong33-sim44**
+閩南|**ē11-tsi̍t3-tsām33 : tsô33-tsiu44 bóo44-tan44-hn̂g24**
+閩南|**khó41 uānn11-sêng24 gōo11-hō11-suànn11**
 潮拼|bung2-ce3 liêg8-cia1 zong1-diam2-zam6 ui5 : u2-diu6 dong1-sim1
 潮拼|ê6-zêg8-zam6 : cao5-ziu1 bhou2-duan1-hng5
 潮拼|ko2 uan7-sêng6 ngou6-ho7 suan3
-潮|bung35-ce213 liêg2-cia33 zong33-diam35-zam35 ui55 : u35-diu35 dong33-sim33
-潮|ê21-zêg2-zam35 : cao11-ziu33 bhou35-duan33-hng55
-潮|ko52 uan21-sêng35 ngou21-ho11 suan213
-切|ponq tshih liet tjhiae tjung temq treemh ue : uoq druh trung sim
-切|ghaeq qit treemh : dzaw tju mouq tan uon
-切|khaq ghwanh zjyng ngoq ghawh sienh
+潮|**bung35-ce213 liêg2-cia33 zong33-diam35-zam35 ui55 : u35-diu35 dong33-sim33**
+潮|**ê21-zêg2-zam35 : cao11-ziu33 bhou35-duan33-hng55**
+潮|**ko52 uan21-sêng35 ngou21-ho11 suan213**
+切|**ponq tshih liet tjhiae tjung temq treemh ue : uoq druh trung sim**
+切|**ghaeq qit treemh : dzaw tju mouq tan uon**
+切|**khaq ghwanh zjyng ngoq ghawh sienh**
 
 bung2-ce3 liêg8-cia1 zong1-diam2-zam6 ui5 : u2-diu6 dong1-sim1
 
