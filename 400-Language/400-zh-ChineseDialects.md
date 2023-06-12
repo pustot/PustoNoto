@@ -97,6 +97,15 @@ liok24 tshit33 pat33 kiu24 sip24
 
 [维基百科-台湾话](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E8%A9%B1)
 
+一般的羅馬化是台羅。
+
+調號|1|2|3|4|5|6|7|8|9
+-|-|-|-|-|-|-|-|-|-
+调类|阴平|阴上|阴去|阴入|阳平|阳上|阳去|阳入|無
+符號|a|á|à|ah|â|ǎ|ā|a̍h|a̋
+臺北|44|41|11|32|24|-|33|4|
+變調|7|1|2|8ptk/2h|7|-|3|7ptk/3h|
+
 ### 潮汕片
 
 [维基百科-潮州话](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E8%AF%9D)
@@ -166,15 +175,28 @@ cosmic center
 文|本次列车终点站为：宇宙中心
 文|下一站：曹州牡丹园
 文|可换乘五号线
+菏|列1
+沪|pen5-tshy5 lih8-tsho1 tson1-ti5-ze6 we6 ：yu6-zeu6 tson1-shin1
+沪|gho6-ih7-ze6 ：zau6-tseu1 meu6-te1-yoe6
+沪|khu5 woe6-zen6 ng6-ghau6-shi5
+客拼|bun³¹ cii⁵⁵ lied⁵ ca²⁴ zung²⁴-11 diam⁵⁵ zam⁵⁵ vi¹¹ : i³¹ qiu⁵⁵ zung²⁴-11 xim²⁴
+客拼|haˊ idˋ zam⁵⁵ : coˇ zuˊ meuˋ danˊ ienˇ
+客拼|koˋ von siinˇ ng31 ho xien
+广|bun2 ci3 lit6 ce1 zung1 dim2 zaam6 wai4 : jyu5 zau6 zung1 sam1
+广|haa6 jat1 zaam6 : cou4 zau1 maau5 daan1 jyun4
+广|ho2 wun6 sing4 ng5 hou6 sin3
+閩南台羅|pún-tshù lia̍t-tshia tsiong-tiám-tsām uî : ú-tiū tiong-sim
+閩南台羅|ē-tsi̍t-tsām : tsô-tsiu bóo-tan-hn̂g
+閩南台羅|khó uānn-sêng gōo-hō-suànn
 潮拼|bung2-ce3 liêg8-cia1 zong1-diam2-zam6 ui5 : u2-diu6 dong1-sim1
 潮拼|ê6-zêg8-zam6 : cao5-ziu1 bhou2-duan1-hng5
 潮拼|ko2 uan7-sêng6 ngou6-ho7 suan3
 潮|bung35-ce213 liêg2-cia33 zong33-diam35-zam35 ui55 : u35-diu35 dong33-sim33
 潮|ê21-zêg2-zam35 : cao11-ziu33 bhou35-duan33-hng55
 潮|ko52 uan21-sêng35 ngou21-ho11 suan213
-閩南台羅|pún-tshù lia̍t-tshia tsiong-tiám-tsām uî : ú-tiū tiong-sim
-閩南台羅|ē-tsi̍t-tsām : tsô-tsiu bóo-tan-hn̂g
-閩南台羅|khó uānn-sêng gōo-hō-suànn
+切|ponq tshih liet tjhiae tjung temq treemh ue : uoq druh trung sim
+切|ghaeq qit treemh : dzaw tju mouq tan uon
+切|khaq ghwanh zjyng ngoq ghawh sienh
 
 bung2-ce3 liêg8-cia1 zong1-diam2-zam6 ui5 : u2-diu6 dong1-sim1
 
