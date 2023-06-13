@@ -263,10 +263,10 @@ cosmic center
 广|**ho2 wun6 sing4 ng5 hou6 sin3**
 閩南台羅|pún2-tshù3 lia̍t8-tshia1 tsiong1-tiám2-tsām7 uî5 : ú2-tiū7 tiong1-sim1
 閩南台羅|ē7-tsi̍t8-tsām7 : tsô5-tsiu1 bóo2-tan1-hn̂g5
-閩南台羅|khó2 uānn7-sêng5 gōo7-hō7-suànn3
+閩南台羅|khó2 uānn7-sêng5 gōo7-hō7 suànn3
 閩南|**pún44-tshù11 lia̍t3-tshia44 tsiong33-tiám44-tsām33 uî24 : ú44-tiū33 tiong33-sim44**
 閩南|**ē11-tsi̍t3-tsām33 : tsô33-tsiu44 bóo44-tan44-hn̂g24**
-閩南|**khó41 uānn11-sêng24 gōo11-hō11-suànn11**
+閩南|**khó41 uānn11-sêng24 gōo11-hō3 suànn11**
 潮拼|bung2-ce3 liêg8-cia1 zong1-diam2-zam6 ui5 : u2-diu6 dong1-sim1
 潮拼|ê6-zêg8-zam6 : cao5-ziu1 bhou2-duan1-hng5
 潮拼|ko2 uan7-sêng5 ngou6-ho7 suan3
