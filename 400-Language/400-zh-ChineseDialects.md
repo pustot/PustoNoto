@@ -252,9 +252,9 @@ cosmic center
 沪|**pen5-tshy5 lih8-tsho1 tson1-ti5-ze6 we6 ：yu6-zeu6 tson1-shin1**
 沪|**gho6-ih7-ze6 ：zau6-tseu1 meu6-te1-yoe6**
 沪|**khu5 woe6-zen6 ng6-ghau6-shi5**
-客拼|bun³¹ cii⁵⁵ lied⁵ ca²⁴ zung²⁴-11 diam⁵⁵ zam⁵⁵ vi¹¹ : i³¹ qiu⁵⁵ zung²⁴-11 xim²⁴
-客拼|haˊ idˋ zam⁵⁵ : coˇ zuˊ meuˋ danˊ ienˇ
-客拼|koˋ von siinˇ ng31 ho xien
+客拼|bunˋ cii lied caˊ zungˊ-diam-zam viˇ : iˋ qiu zungˊ-ximˊ
+客拼|haˊ idˋ zam : coˇ zuˊ meuˋ danˊ ienˇ
+客拼|koˋ von siinˇ ngˋ ho xien
 客|**bun31 cii55 lied5 ca24 zung11-diam55 zam55 vi11 : i31 qiu55 zung11-xim24**
 客|**ha24 id2 zam55 : co11 zu24 meu31 dan24 ien11**
 客|**ko31 von55 siin11 ng31 ho55 xien55**
