@@ -62,6 +62,12 @@ CLC: H17
 - > 简单来说，新马华语即是在中国境外出现的一种全新的官话方言的子方言，这种官话方言最大的特征是有入声；两地的华语介绍请见马来西亚华语和新加坡华语。
 - [变与不变之间 ：新加坡华语与新加坡华语的形成机制 Variant and invariant : a preliminary approach to the exploration of the emergence of Singapore Mandarin](https://dr.ntu.edu.sg/bitstream/10356/65844/1/CHOO%20Yuen_PhD%20Thesis%202015_Re-submission%20%20.pdf)
 
+### 西官-石屏话
+
+阳平 42 这个感觉不能起太高不能降太低，有点上海话的阴去（5）声调的词语的第一个音节的感觉！！
+
+ao的发音是个谜
+
 ## 吴语
 
 [维基百科-上海话](https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E8%AF%9D)
@@ -87,6 +93,8 @@ CLC: H17
 大陆（暂用来查梅县话；可批量标音） https://syndict.com/
 
 台湾（暂用来查四县腔） https://hakkadict.moe.edu.tw/
+
+另外维基辞典上还是四县腔的数据全
 
 梅县腔、四县腔都是粤台片-嘉应小片
 
@@ -261,12 +269,12 @@ cosmic center
 文|可换乘五号线
 普|（普通話真好讀）
 菏|列1
-石|beon22 cii21 lie42 chei55 zhung55 dien22 zhan21 wey42 : yu22 zhei21 zhung55 xin55
-石|xiɑ+21 i42 zhan21 : caw42 zhei55 mu22 dan55 yuen42
-石|ko22 huan21 cheon42 v22 hao21 xien21
-昆|bɐn55 cii21 lie31 cheo44 zhung44 die55 zhaa21 wei31 : yu55 zhɐu21 zhung44 xin44
-昆|xia+21 i31 zhaa21 : caaow31 zhɐu44 mu55 daa35 ie31 
-昆|ko55 huaa21 chɐn31 v55 haow212 xie212
+石|bən22 cɿ21 lie42 chei55 zhung55 dien22 zhan21 wey42 : yu22 zhei21 zhung55 xin55
+石|xiɑ21 i42 zhan21 : cao42 zhei55 mu22 dan55 yuen42
+石|ko22 huan21 chən42 v22 hao21 xien21
+昆|bɐn55-cɿ21 lie31 chə44 zhung44-die55-zha21 wei31 : yu55-zhɐu21 zhung44 xin44
+昆|xiɑ21 i31 zha21 : cɐɔ31 zhɐu44 mu55-da35-ie31 
+昆|ko55-hua21-chɐn31 v55-hɐɔ212-xie212
 沪|**pen5-tshy5 lih8-tsho1 tson1-ti5-ze6 we6 ：yu6-zeu6 tson1-shin1**
 沪|**gho6-ih7-ze6 ：zau6-tseu1 meu6-te1-yoe6**
 沪|**khu5 woe6-zen6 ng6-ghau6-shi5**
