@@ -219,6 +219,7 @@ https://en.wikipedia.org/wiki/List_of_ISO_639-3_codes
     - 405 Serial publications
     - 406 Organizations and management
     - 407 Education, research, related topics
+        - 407.1 Language--education
     - 408 Groups of people
     - 409 Geographic treatment and biography
 - 410 Linguistics
