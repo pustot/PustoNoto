@@ -20,3 +20,11 @@ Indogermanisch - Germanisch - Westgermanisch - Hochdeutsch - Standardhochdeutsch
     - wiki
         - > There are a few settings where speaking Standard German is demanded or polite, e.g., in education (but not during breaks in school lessons, where the teachers will speak in Swiss German with students), in multilingual parliaments (the federal parliaments and a few cantonal and municipal ones), in the main news broadcast or in the presence of non-Alemannic speakers. This situation has been called a "medial diglossia", since the spoken language is mainly the dialect, whereas the written language is mainly (the Swiss variety of) Standard German.
         - This **"medial diglossia"** very like hong kong
+
+# 词汇
+
+《德语词汇联想与速记》
+
+> 据我的经验之谈，只要能把这本单词学完直接就能考过B1！！！抱着啃就完事儿~
+> 
+> https://www.zhihu.com/question/20074082/answer/2662107229
