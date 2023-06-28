@@ -10,6 +10,8 @@ CLC: H17
 
 [（网页）语言维基-汉字古今中外读音查询](https://langwiki.org/tools/dict/)
 
+漢字古今音資料庫 https://xiaoxue.iis.sinica.edu.tw/ccr/
+
 # 划分
 
 ~~七大方言：官吴闽粤客湘赣。十大方言：官吴闽粤客，晋徽赣平湘（「观吴闽粤客，进徽赣平乡」，中间三对字按地理南北也）~~

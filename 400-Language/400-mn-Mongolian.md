@@ -6,3 +6,5 @@ Mongolian[note 1] is the official language of Mongolia and both the most widely 
 Mongol
 
 [ˈmɔ̙̃ɴɢɞ̜̆ɮ çe̝ɮ]
+
+西里尔至蒙文的在线转换（俺不了解正确率）： http://trans.mglip.com/
