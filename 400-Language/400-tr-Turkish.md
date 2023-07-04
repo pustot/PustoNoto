@@ -8,6 +8,7 @@ Türkçe: [ˈtyɾctʃe]
 - https://docs.google.com/document/d/1H4AosjIJ5DziCQDrO52Iru5Cb7gR_8XQJ5mf_4A1PtE/edit?usp=sharing
 - https://blog.sina.com.cn/s/blog_526568800102vmm1.html
 - https://en.wiktionary.org/wiki/Appendix:Turkish_suffixes
+- 后缀列表 https://www.dnathan.com/language/turkish/tsd/
 
 # 发音与拼写
 
