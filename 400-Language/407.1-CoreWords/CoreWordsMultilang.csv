@@ -1,34 +1,111 @@
 Word,Mandarin,Cantonese (JyutPing),Japanese (仮名),German,Korean,French,Spanish,Vietnamese,Dutch,Swedish,Portuguese,Italian,Arabic,Russian,Malay,Latin,Turkish
-🆙Animal,动物 (dòngwù),動物 [dung6 mat6],動物 (どうぶつ),Tier,동물 (dongmul),animal,animal,động vật,dier,djur,animal,animale,حيوان (ḥayawān),животное (zhivotnoye),haiwan,animalis,canlı
-dog,狗 (gǒu),狗 [gau2],犬 (いぬ),Hund,개 (gae),chien,perro,chó,hond,hund,cachorro,cane,كلب (kalb),собака (sobaka),anjing,canis,köpek
-cat,猫 (māo),貓 [maau1],猫 (ねこ),Katze,고양이 (goyangi),chat,gato,mèo,kat,katt,gato,gatto,قطة (qittah),кот (kot),kucing,felis,kedi
-fish,鱼 (yú),魚 [jyu4],魚 (さかな),Fisch,물고기 (mulgogi),poisson,pez,cá,vis,fisk,peixe,pesce,سمك (samak),рыба (ryba),ikan,ichthys,balık
-bird,鸟 (niǎo),鳥 [niu5],鳥 (とり),Vogel,새 (sae),oiseau,pájaro,chim,gevleugeld dier,fågel,pássaro,uccello,طائر (ta'ir),птица (ptitsa),burung,avis,kuş
-cow,牛 (niú),牛 [ngau4],牛 (うし),Kuh,소 (so),vache,vaca,con bò,koe,kossa,vaca,mucca,بقرة (baqarah),корова (korova),lembu,bos,tavuk
-pig,猪 (zhū),豬 [zyu1],豚 (ぶた),Schwein,돼지 (dwaeji),cochon,cerdo,lợn,varken,gris,porco,maiale,خنزير (khinzir),свинья (svinyya),babi,porcus,domuz
-mouse,老鼠 (lǎoshǔ),老鼠 [lou5 syu2],ネズミ (ねずみ),Maus,쥐 (jwi),souris,rat,chuột,muis,mus,rato,topo,فأر (fa'r),мышь (mysh'),tikus,mus,mouse
-horse,马 (mǎ),馬 [maa5],馬 (うま),Pferd,말 (mal),cheval,caballo,ngựa,paard,häst,cavalo,cavallo,حصان (husan),лошадь (loshad'),kuda,equs,at
-wing,翅膀 (chìbǎng),翼 [jik6],羽 (はね),Flügel,날개 (nalgae),aile,ala,canh,schachtelvleugel,vinge,asa,ala,جناح (junāḥ),крыло (krylo),sayap,penna,kanat
-animal,动物 (dòngwù),動物 [dung6 mat6],動物 (どうぶつ),Tier,동물 (dongmul),animal,animal,động vật,dier,djur,animal,animale,حيوان (ḥayawān),животное (zhivotnoye),haiwan,animalis,canlı
-🆙Transportation,交通 (jiāotōng),交通 [gaau1 tung1],交通 (こうつう),Transport,교통 (gyotong),transport,transporte,giao thông,vervoer,transporte,transporte,trasporto,نقل (naql),транспорт (transport),pengangkutan,transveho,copula
-train,火车 (huǒchē),火車 [fo2 ce1],列車 (れっしゃ),Zug,기차 (gicha),train,tren,tàu,trein,tåg,trem,treno,قطار (qitār),поезд (poyezd),kereta api,currus,tren
-plane,飞机 (fēijī),飛機 [fei1 gei1],飛行機 (ひこうき),Flugzeug,비행기 (bihaenggi),avion,avión,máy bay,vliegtuig,flyg,avião,aereo,طائرة (ta'irah),самолёт (samolyot),kapal terbang,volaticus,tayyare
-car,汽车 (qìchē),汽車 [hei3 ce1],車 (くるま),Auto,자동차 (jadongcha),voiture,coche,xe hơi,auto,bil,bus,auto,سيارة (sayyārah),машина (mashina),kereta,mobil,araba
-truck,卡车 (kǎchē),卡車 [kaa1 ce1],トラック (とらっく),Lastwagen,트럭 (teureok),camion,camión,xe tải,vrachtwagen,lastbil,caminhão,camion,شاحنة (shahinah),грузовик (gruzovik),trak,merces,binek
-bicycle,自行车 (zìxíngchē),自行車 [zi6 hang4 ce1],自転車 (じてんしゃ),Fahrrad,자전거 (jajeongeo),vélo,bicicleta,xe đạp,fiets,cykel,bicicleta,bicicletta,دراجة هوائية (dirājah hawā'iyyah),велосипед (velosiped),basikal,bigati,bisiklet
-bus,公共汽车 (gōnggòng qìchē),巴士 [baa1 si6],バス (ばす),Bus,버스 (beoseu),bus,autobús,xe buýt,bus,buss,ônibus,autobus,حافلة (ḥāfilah),автобус (avtobus),bas,omnibus,otobüs
-boat,船 (chuán),船 [syun4],ボート (ぼーと),Boot,배 (bae),bateau,barco,thuyền,boot,båt,barco,barca,قارب (qārib),лодка (lodka),bot,navis,tekne
-ship,船 (chuán),船 [syun4],船 (ふね),Schiff,선박 (seonbak),navire,barco,tàu,boot,fartyg,navio,nave,سفينة (safina),корабль (korabl'),kapal,karavella,gemi
-tire,轮胎 (lúntāi),輪胎 [lun4 toi1],タイヤ (たいや),Reifen,타이어 (tai-eo),pneu,llanta,vỏ xe,wiel,däck,pneu,pneumatico,إطار (iṭār),шина (shina),tayar,rota,pneumatik
-gasoline,汽油 (qìyóu),汽油 [hei3 jau4],ガソリン (がそりん),Benzin,휘발유 (hwibaryu),essence,gasolina,xi lanh,xylol,bensin,gasolina,benzina,بنزين (banzīn),бензин (benzin),benzina,benzene,benzin
-Engine,引擎 (yǐnqíng),引擎 (jan5 king4),エンジン (enjin),Motor (der),엔진 (enjin),moteur,motor,động cơ,motor,motor,motor,motore,محرك (maharak),двигатель (dvigatel'),mesin,motor,motor
-(train) ticket,车票 (chēpiào),車票 [ce1 piu3],切符 (きっぷ),(Zug)ticket,표 (pyo),billet,billete,vé tàu,ticket,biljett,bilhete,biglietto,تذكرة (tadhkhirah),билет (bilet),tiket,ticket,ticket
-transportation,交通 (jiāotōng),交通 [gaau1 tung1],交通 (こうつう),Transport,교통 (gyotong),transport,transporte,giao thông,vervoer,transporte,transporte,trasporto,نقل (naql),транспорт (transport),pengangkutan,transveho,copula
-passenger,乘客 (chéngkè),乘客 [sing4 haak3],乗客 (じょうきゃく),Passagier,승객 (seung-gaek),passager,pasajero,hành khách,passagier,resenär,passageiro,passeggero,راكب (rakib),пассажир (passazhir),penumpang,commeatus,yolcu
-driver,司机 (sījī),司機 [si1 gei1],運転手 (うんてんしゅ),Fahrer,운전자 (unjeonja),conducteur,conductor,tài xế,bestuurder,förare,motorista,autista,سائق (sayyāq),водитель (voditel'),pemandu,promitor,sürücü
-pass,通过 (tōngguò),通過 [tung1 gwo3],通過 (つうか),Passieren,통과하다 (tonggwahada),passer,pasar,đi qua,passeren,gå igenom,passar,passare,يمر (yumur),проходить (prokhodit'),lulus,mense,geçmek
-road,道路 (dàolù),道路 [dou6 lou6],道 (みち),Straße,도로 (doro),route,camino,đường,weg,väg,estrada,strada,طريق (ṭarīq),дорога (doroga),jalan raya,via,vakit
-traffic,交通 (jiāotōng),交通 [gaau1 tung1],交通 (こうつう),Verkehr,교통 (gyotong),trafic,tráfico,giao thông,verkeer,tillfart,tráfego,traffico,مرور (murūr),движение (dvizheniye),lalu lintas,cursus,trafik
-stop,停 (tíng),停 [ting4],止まる (とまる),Halt,멈추다 (meomchuda),arrêter,detener,dừng,stop,sluta,parar,frenare,توقف (tawaqquf),остановка (ostanovka),henti,bastantesi,durmak
-start,开始 (kāishǐ),開始 [hoi1 ci2],始まる (はじまる),Start,시작하다 (sijakhada),démarrer,iniciar,bắt đầu,starta,startar,iniciar,iniziare,بداية (bida'ah),старт (start),mulakan,incipere,başlama
-parking,停车 (tíngchē),停車 [ting4 ce1],駐車 (ちゅうしゃ),Parken,주차 (jucha),stationnement,estacionamiento,bãi đỗ xe,parkeren,parkering,estacionamento,parcheggio,وقوف السيارات (wuqūf alsayyārāt),парковка (parkovka),tempat letak kenderaan,park,oto
+🆙animal,动物,動物 (dung6 mat6),動物 (どうぶつ),Tier,동물,animal,animal,động vật,dier,djur,animal,animale,حيوان (hayawan),животное,hewan,animal,hayvan
+dog,狗,狗 (gau2),犬 (いぬ),Hund,개,chien,perro,chó,hond,hund,cachorro,cane,كلب (kalb),собака,anjing,canis,köpek
+cat,猫,貓 (maau1),猫 (ねこ),Katze,고양이,chat,gato,mèo,kat,katt,gato,gatto,قطة (qittah),кот,kucing,felis,kedi
+fish,鱼,魚 (jyu4),魚 (さかな),Fisch,물고기,poisson,pez,cá,vis,fisk,peixe,pesce,سمك (samak),рыба,ikan,ichthys,balık
+bird,鸟,鳥 (niu5),鳥 (とり),Vogel,새,oiseau,pájaro,chim,carn,fågel,pássaro,uccello,طائر (ta'ir),птица,burung,avis,kuş
+cow,牛,牛 (ngau4),牛 (うし),Kuh,소,vache,vaca,bò,koe,ko,krowa,bovino,بقرة (baqara),корова,lembu,bos,inek
+pig,猪,豬 (zyu1),豚 (ぶた),Schwein,돼지,cochon,cerdo,lợn,varken,gris,porco,خنزير (khanzir),свинья,babi,sus,domuz
+mouse,老鼠,老鼠 (lou5 syu2),ネズミ,Maus,쥐,souris,rat,chuột,muis,mus,rato,topo,فأر (fa'r),мышь,tikus,mus,mouse
+horse,马,馬 (maa5),馬 (うま),Pferd,말,cheval,caballo,ngựa,paard,häst,cavalo,cavallo,حصان (hisan),лошадь,kuda,equus,at
+wing,翅膀,翅膀 (ci4 bong2),羽 (はね),Flügel,날개,aile,ala,cánh,vleugel,vinge,asa,ala,جناح (janah),крыло,sehel,ala,kanat
+🆙transportation,交通,交通 (gaau1 tung1),交通 (こうつう),Transport,교통,transport,transporte,giao thông,vervoer,transport,transporte,trasporto,نقل (naql),транспорт,pengangkutan,transitus,taşıma
+train,火车,火車 (fo2 ce1),電車 (でんしゃ),Zug,기차,train,tren,tàu,trein,tåg,trem,treno,قطار (qitar),поезд,kereta api,tren,tren,yolcu treni
+plane,飞机,飛機 (fei1 gei1),飛行機 (ひこうき),Flugzeug,비행기,avion,avión,máy bay,vliegtuig,flyg,avião,aereo,طائرة (ta'ira),самолет,pesawat terbang,aeroplanum,uçak
+car,汽车,汽車 (hei3 ce1),車 (くるま),Auto,차,voiture,coche,xe hơi,auto,bil,carro,auto,سيارة (sayyara),автомобиль,mobil,currus,araba
+truck,卡车,卡車 (kaa1 ce1),トラック,LKW,트럭,camion,camión,xe tải,vrachtwagen,lastbil,caminhão,camion,شاحنة (shahina),грузовик,lori,raeda,camyon
+bicycle,自行车,自行車 (zi6 hang4 ce1),自転車 (じてんしゃ),Fahrrad,자전거,vélo,bicicleta,xe đạp,fiets,cykel,bicicleta,bicicletta,دراجة (diraja),велосипед,basikal,rota,bisiklet
+bus,公共汽车,巴士 (baa1 si2),バス,Bus,버스,bus,autobús,xe buýt,bus,buss,ônibus,autobus,حافلة (hafilah),автобус,bas,autocinetum,otobüs
+boat,船,船 (syun4),ボート,Boot,배,bateau,barco,thuyền,boot,båt,barco,barca,قارب (qarib),лодка,perahu,navis,tekne
+ship,船,船 (syun4),船 (ふね),Schiff,선박,bateau,barco,tàu,chip,skepp,navio,nave,سفينة (safina),корабль,kapal,linter,nave
+tire,轮胎,輪胎 (leon4 toi4),タイヤ,Reifen,타이어,pneu,llanta,lốp,band, däck,pneu,pneumatico,إطار (it'aar),шина,tayar,rota,lastik
+gasoline,汽油,汽油 (hei3 jau4),ガソリン,Benzin,휘발유,essence,gasolina,xăng,benzine,bensin,gasolina,benzina,بنزين (benzine),бензин,petrol,petrol,gaz yağı
+engine,引擎,引擎 (jan5 cing1),エンジン,Motor,엔진,moteur,motor,động cơ,motor,motor,motor,motore,محرك (muharrik),двигатель,enjin,enigne,motor
+(train) ticket,火车票,火車票 (fo2 ce1 piu3),切符 (きっぷ),Fahrkarte,기차표,billet,billete,vé xe lửa,treinkaartje,tågbiljett,bilhete,biglietto,تذكرة القطار (tazkira alqitar),билет,teksi kereta api,billethea,tren bileti
+🆙location,位置,位置 (wai2 sik1),場所 (ばしょ),Ort,위치,emplacement,ubicación,vị trí,locatie,plats,localização,posizione,موقع (mawqea'),место,lokasi,loca,lokalite
+city,城市,城市 (sing4 si5),都市 (とし),Stadt,도시,ville,ciudad,thành phố,stad,stad,cidade,città,مدينة (madina),город,bandar,kotaşehir
+house,房子,屋企 (uk1 kei2),家 (いえ),Haus,집,maison,casa,nhà,huis,hus,casa,casa,بيت (bayt),дом,rumah,domus,ev
+apartment,公寓,樓 (lau4),アパート,Apartment,아파트,appartement,apartamento,chung cư,appartement,lägenhet,apartamento,appartamento,شقة (shaqa),квартира,pangsapuri,domus,ev
+street/road,街道,街 (gaai1 dou6),道路 (どうろ),Straße,도로,rue,calle,đường-địa phương,straat,gata,rua,strada,شارع (shaari),улица,jalan,platea,cadde
+airport,机场,機場 (gei1 coeng4),空港 (くうこう),Flughafen,공항,aéroport,aeropuerto,sân bay,luchthaven,flygplats,aeroporto,aeroporto,مطار (matar),аэропорт,lapangan terbang,portus aëris,havalimanı
+train station,火车站,火車站 (fo2 ce1 zaam6),駅 (えき),Bahnhof,기차역,gare,estación,nhà ga,treinstation,tågstation,estação de trem,stazione ferroviaria,محطة قطار (mahattat qitar),вокзал,stesen kereta api,castrum,istasyon
+bridge,桥,橋 (kiu4),橋 (はし),Brücke,다리,pont,puente,cầu,brug,bro,ponte,ponte,جسر (jisr),мост,jambatan,pontem,pont
+hotel,酒店,酒店 (zau2 dim3),ホテル,Hotel,호텔,hôtel,hotel,khách sạn,hotel,hotell,hotel,فندق (funduq),отель,hotel,albergo,otel
+restaurant,餐馆,食肆 (sik6 zi6),レストラン,Restaurant,레스토랑,restaurant,restaurante,nhà hàng,restaurant,restaurang,restaurante,ristorante,مطعم (mat'am),ресторан,restoran,coenaculum,restoran
+farm,农场,農場 (nung4 coeng4),農場 (のうじょう),Bauernhof,농장,ferme,granja,nông trại,boerderij,bondgård,fazenda,fattoria,مزرعة (mazra'a),ферма,ladang,rusticus locus,çiftlik
+court,法院,法院 (faat3 jyun2),裁判所 (さいばんしょ),Gericht,법원,tribunal,tribunal,tòa án,rechtbank,domstol,tribunal,tribunale,محكمة (mahkama),суд,mahkamah,forum,adliye
+school,学校,學校 (hok6 haau6),学校 (がっこう),Schule,학교,école,escuela,trường,hogeschool,skola,escola,scuola,مدرسة (madrasa),школа,sekolah,schola,okul
+office,办公室,辦公室 (baan6 gung1 sat1),オフィス,Büro,사무실,bureau,oficina,văn phòng,kantoor,kontor,escritório,ufficio,مكتب (maktab),офис,pejabat,officium,ofis
+room,房间,房間 (fong4 gaan1),部屋 (へや),Zimmer,방,chambre,cuarto,phòng,kamer,rumsala,quarto,stanzetta,غرفة (ghurfa),комната,bilik,camera,cam
+town,镇,鎮 (zan3),町 (ちょう),Stadt,마을,village,pueblo,thị trấn,dorp,stad,cidade,villaggio,بلدة (balda),городок,bandar,villa,villa
+university,大学,大學 (daai6 hok6),大学 (だいがく),Universität,대학교,université,universidad,đại học,universiteit,universitet,universidade,università,جامعة (jamia),университет,universiti,universitas,universitas
+club,俱乐部,會所 (wui2 so2),クラブ,Verein,클럽,club,club,clb,clubb,sällskap,clube,club,نادي (nadi),клуб,kelab,sodalitas,klüp
+bar,酒吧,酒吧 (zau2 baa1),バー,Bar,바,bar,bar,quán bar,bar,bar,bar,مقهى (maqha),бар,bar,bar,bar
+park,公园,公園 (gung1 jyun2),公園 (こうえん),Park,공원,parc,parque,công viên,park,park,parque,parco,حديقة (hadika),парк,taman,parkus,park
+camp,营地,營地 (jing4 dei6),キャンプ,Lager,캠프,campamento,camp,trại khu,campingplats,läger,campismo,campeggio,مخيم (makhayyam),лагерь,khemah,castra,camp
+store/shop,商店,商店 (soeng1 dim3),店舗 (てんぽ),Geschäft,상점,magasin,tienda,cửa hàng,winkel,butik,loja,متجر (matjar),магазин,kedai,taberna,mağaza
+theater,剧院,劇院 (gek6 jyun2),劇場 (げきじょう),Theater,극장,théâtre,teatro,rạp hát,theater,teater,teatro,مسرح (masrah),театр,teater,coenaculum,tiyatro
+library,图书馆,圖書館 (tou4 syu1 gun2),図書館 (としょかん),Bibliothek,도서관,bibliothèque,biblioteca,thư viện,bibliotheek,bibliotek,biblioteca,biblioteca,مكتبة (maktaba),библиотека,perpustakaan,bibliotheca,kütüphane
+hospital,医院,醫院 (ji1 jyun2),病院 (びょういん),Krankenhaus,병원,hôpital,hospital,bệnh viện,ziekenhuis,sjukhus,hospital,ospedale,مستشفى (mustashfa),больница,hospital,hospitium,hastane
+church,教堂,教堂 (gaau3 tong4),教会 (きょうかい),Kirche,교회,église,iglesia,nhà thờ,kerk,kyrka,igreja,chiesa,كنيسة (kanisa),церковь,gereja,basilica,ecclesia
+market,市场,市場 (si5 coeng4),市場 (いちば),Markt,시장,marché,mercado,chợ,markt,marknad,mercado,mercato,سوق (souq),рынок,pasar,forum mercatus,pazar
+country,国家,國家 (gwok3 gaa1),国 (くに),Land,나라,pays,país,quốc gia,land,land,país,paese,بلد (balad),страна,negara,res publica,ülke
+building,建筑物,建築物 (gin3 zuk1 mat6),建物 (たてもの),Gebäude,건물,bâtiment,edificio,toà nhà,gebouw,byggnad,prédio,edificio,بناية (bina'),здание,bangunan,aedificium,bina
+ground,地面,地 (dei6),地面 (じめん),Boden,땅,sol,suelo,mặt đất,grond,mark,terra,أرض (ard),земля,tanah,tellus,yer
+space (outer space),太空,太空 (taai3 hung1),宇宙 (うちゅう),Weltraum,우주,espace,espacio,không gian,ruimte,rymd,espaço,spazio,الفضاء الخارجي (al-fada' al-khariji),космос,angkasa,spatium,astrum
+bank,银行,銀行 (ngan4 hong4),銀行 (ぎんこう),Bank,은행,banque,banco,ngân hàng,bank,bank,banco,banca,بنك (bank),банк,bank,banka,banka
+🆙clothing,衣物,衣物 (ji1 mat6),衣類 (いるい),Kleidung,의류,vêtement,ropa,quần áo,kleding,kläder,roupa,abbigliamento,ملابس (malābis),одежда,pakaian,vestimenta,vestis,giysi
+hat,帽子,帽子 (bou6 zi2),帽子 (ぼうし),Hut,모자,chapeau,sombrero,mũ,n hoed,hatt, chapéu,cappello,قبعة (qubʿah),шляпа,topi,caputium,şapka
+dress,连衣裙,連衣裙 (lin4 ji1 kwan4),ドレス (doresu),Kleid,드레스,robe,vestido,áo liền,vrouwelijke jurk,klänning,vestido,vestito,فستان (fustaan),платье,gaun,vestis,elbise
+suit,西装,西裝 (sai1 cong1),スーツ (sūtsu),Anzug,정장,costume,traje,áo vest,n pak,kostym,terno,abito,بدلة (badla),костюм,jas,vestis,elbise
+skirt,裙子,裙子 (kwan4 zi2),スカート (sukāto),Rock,치마,jupe,falda,chân váy,rok,kjol,saia,gonna,تنورة (tanūrah),юбка,rok,vestis,etek
+shirt,衬衫,襯衫 (can1 saam1),シャツ (shatsu),Hemd,셔츠,chemise,camisa,áo sơ mi,hemd,skjorta,camisa,camicia,قميص (qamīṣ),рубашка,kaos,kkásmira,camisia,şişört
+T-shirt, T恤, T恤 (T seoi6),Tシャツ (T shatsu),T-Shirt,T셔츠,T-shirt,camiseta,áo phông,T-shirt,T-tröja,camiseta,maglietta,T-شيرت (T-shīrt),футболка,T-baju,under tunicamisia,tişört
+pants,裤子,褲子 (fu3 zi2),パンツ (pantsu),Hose,바지,pantalon,pantalones,quần,korte broek,byxor,calça,pantaloni,بنطلون (bantalūn),штаны,celana,pantalones,braccae,pantolon
+shoes,鞋,鞋 (haai4),靴 (くつ),Schuhe,신발,chaussures,zapatos,giày,schoenen,skor,sapatos,scarpe,أحذية (ʾaḥḍiyah),обувь,sepatu,calcei,ayakkabı
+pocket,口袋,口袋 (hau2 doi6),ポケット (poketto),Tasche,포켓,poches,bolsillo,ngăn túi,zak,zak,fundo,borsa,جيب (jayb),карман,saku,kola,loculus,cep
+coat,外套,外套 (ngoi6 tou3),コート (kōto),Mantel,코트,manteau,abrigo,áo khoác,jas,rock,casaco,cappotto,معطف (maʿṭaf),пальто,ceket,paenula,palto
+stain,污点,污點 (wu1 dim2),シミ (shimi),Fleck,얼룩, tache,mancha,vết bẩn,vlek,fläck,mancha,macchia,بقعة (baqʿah),пятно,noda,macula,leke
+🆙color,颜色,顏色 (ngaan4 sik1),色 (いろ),Farbe,색상,couleur,color,color,kleur,färg,cor, colore,لون (lawn),цвет,warna,color,renk
+red,红色,紅色 (hung4 sik1),赤 (あか),rot,빨간색,rouge,rojo,đỏ,rood,röd,vermelho,rosso,أحمر (aḥmar),красный,merah,rubrum,kırmızı
+green,绿色,綠色 (luk6 sik1),緑 (みどり),grün,초록색,vert,verde,xanh lá,cq groen,grön,verde,verde,أخضر (akhḍar),зеленый,hijau,viridis,yeşil
+blue (light),浅蓝色,淺藍色 (cim1 laam4 sik1),水色 (みずいろ),hellblau,하늘색,bleu claro,azul claro,xanh nhạt,lichtblauw,ljusblå,azul claro,azzurro chiaro,أزرق فاتح (azraq fatih),голубой,biru muda,caeruleus clarius,açık mavi
+blue (dark),深蓝色,深藍色 (sam1 laam4 sik1),紺色 (こんいろ),dunkelblau,짙은 파랑색,bleu foncé,azul oscuro,xanh đậm,donkerblauw,mörkblå,azul escuro,blu scuro,أزرق غامق (azraq ghamiq),синий,biru gelap,aerius obscurus,koyu mavi
+yellow,黄色,黃色 (wong4 sik1),黄 (きいろ),gelb,노란색,jaune,amarillo,vàng,geel,gul,amarelo,giallo,أصفر (aṣfar),желтый,kuning,flavus,sarı
+brown,棕色,棕色 (zung1 sik1),茶色 (ちゃいろ),braun,갈색,marron,marrón,nâu,bruin,brun,marrom,marrone,بني (bunī),коричневый,coklat,rufus,kahverengi
+pink,粉红色,粉紅色 (fan2 hung4 sik1),ピンク (pinku),rosa,분홍색,rose,rosa,hồng,roze,rosa,rosa,rosa,زهري (zahri),розовый,merah jambu,roseus,pembe
+orange,橙色,橙色 (caang2 sik1),オレンジ (orenji),orange,주황색,orange,naranja,da cam,oranje,apelsin,laranja,arancione,برتقالي (burtuqālī),оранжевый,oren,citrinus,turuncu
+black,黑色,黑色 (hak1 sik1),黒 (くろ),schwarz,검은색,noir,negro,đen,zwart,svart,preto,nero,أسود (aswad),черный,hitam,ater,nin
+white,白色,白色 (baak6 sik1),白 (しろ),weiß,흰색,blanc,blanco,trắng,wit,vit,branco,bianco,أبيض (abyaḍ),белый,putih,candens,beyaz
+gray,灰色,灰色 (fo1 sik1),灰 (はい),grau,회색,gris,gris,xám,grijs,grå,cinza,grigio,رمادي (ramādī),серый,abu-abu,cinereus,gri
+🆙people,人,人 (jan4),人 (ひと),Menschen,사람, gens, gente,người, mensen,människor,pessoas,persone,شخص (shakhs),люди,orang, homo,insan
+son,儿子,仔 (zi2),息子 (むすこ),Sohn,아들, fils,hijo,con trai,zoon,son,filho,figlio,ابن (ibn),сын,anak lelaki,filho, oğul
+daughter,女儿,女仔 (neoi5),娘 (むすめ),Tochter,딸, fille,hija,con gái,dochter,dotter,filha,figlia,ابنة (ibna),дочь,anak perempuan,filha, kız
+mother,母亲,妈妈 (maa1 maa1),母 (はは),Mutter,어머니, mère,madre,mẹ,moeder,mor,mãe,madre,أم (um),мать,ibu, mãe, anne
+father,父亲,爸爸 (baa1 baa1),父 (ちち),Vater,아버지, père,padre,cha,vader,far,pai,padre,أب (ab),отец,bapa, pai, baba
+parent,父母,父母 (fu6 mou5),両親 (りょうしん),Eltern,부모, parents,padres,phụ huynh,ouders,föräldrar,pais,genitori,الوالدين (alwālidayn),родители,ibu bapa, pais, ebeveyn
+baby,婴儿,嬰兒 (jeng1 ji4),赤ちゃん (あかちゃん),Baby,아기, bébé,bebé,em bé,baby,baby,baby,bambino,طفل رضيع (ṭifl raḍīʿ),ребенок,bayi, bebê, bebek
+man,男人,男人 (naam4 jan4),男 (おとこ),Mann,남자, homme,hombre,đàn ông,man,man, homem,uomo,رجل (rajul),мужчина,lelaki, homem, erkek
+woman,女人,女人 (neoi5 jan4),女 (おんな),Frau,여자, femme,mujer,phụ nữ,vrouw,kvinna,mulher,donna,امرأة (imra'a),женщина,perempuan, mulher, kadın
+brother,兄弟,兄弟 (hing1 dai6),兄弟 (きょうだい),Bruder,형제, frère,hermano,anh em,zoon,broder,irmão,fratello,أخ (akh),брат,abang, irmão, erkek kardeş
+sister,姐妹,姊妹 (zeoi1 mui6),姉妹 (しまい),Schwester,자매, sœur,hermana,chị em,zus,syster,irmã,sorella,أخت (ukht),сестра,kakak perempuan, irmã, kız kardeş
+family,家庭,家庭 (gaa1 ting4),家族 (かぞく),Familie,가족, famille,familia,gia đình,familie,familj,família,famiglia,أسرة (usra),семья,keluarga, família, aile
+grandfather,爷爷,公公 (joeng1 joeng1),おじいさん (ojiisan),Großvater,할아버지, grand-père,abuelo,ông nội,grootvader,farfar,avô,nonno,جد (jid),дедушка,datuk, avô, dede
+grandmother,奶奶,婆婆 (po4 po4),おばあさん (obaasan),Großmutter,할머니, grand-mère,abuela,bà nội,grootmoeder,farmor,avó,nonna,جدة (jidda),бабушка,nenek, avó, nine
+husband,丈夫,丈夫 (zoeng6 fu1),夫 (おっと),Ehemann,남편, mari,esposo,chồng,echtgenoot,make,marido,marito,زوج (zawj),муж,suami, marido, koca
+wife,妻子,妻 (cai1),妻 (つま),Ehefrau,아내, femme,esposa,vợ,echtgenote,hustru,esposa,moglie,زوجة (zawja),жена,isteri, esposa, eş
+king,国王,國王 (gwok3 wong4),王 (おう),König,왕, roi,rey,vua,koning,kung,rei,re,ملك (malik),король,raja, rei, kral
+queen,皇后,皇后 (wong4 hau6),王妃 (おうひ),Königin,왕비, reine,reina,hậu,koningin,drottning,rainha,regina,ملكة (malika),королева,permaisuri, rainha, kraliçe
+president,总统,總統 (zung2 tung2),大統領 (だいとうりょう),Präsident,대통령, président,presidente,tổng thống,president,presidente,presidente,رئيس (ra'īs),президент,presiden, presidente, cumhurbaşkanı
+neighbor,邻居,鄰居 (leon4 geoi1),隣人 (となりびと),Nachbar,이웃, voisin,vecino,hàng xóm,buurman,granne,vizinho,vicino,جار (jar),сосед,tetangga, vizinho, komşu
+boy,男孩,男仔 (naam4 zai2),男の子 (おとこのこ),Junge,소년, garçon,niño,con trai,jongen,pojke,menino,ragazzo,صبي (sabi),мальчик,kanak-kanak lelaki, rapaz, oğlan
+girl,女孩,女仔 (neoi5 zai2),女の子 (おんなのこ),Mädchen,소녀, fille,niña,gái,meisje,flicka,menina,ragazza,بنت (bint),девушка,kanak-kanak perempuan, rapariga, kız
+child,孩子,仔 (zai2),子供 (こども),Kind,아이, enfant,niño,trẻ em,kind,barn,criança,bambino,طفل (ṭifl),ребенок,kanak-kanak, criança, çocuk
+adult,成人,成人 (sing4 jan4),大人 (おとな),Erwachsene,성인, adulte,adulto,người lớn,volwassene,vuxen,adulto,adulto,بالغ (bāligh),взрослый,orang dewasa, adulto, yetişkin
+human,人,人 (jan4),人間 (にんげん),Mensch,인간, humain,humano,con người,mens, människa,humano,umano,إنسان (insān),человек,manusia, humano, insan
+friend,朋友,朋友 (pang4 jau5),友達 (ともだち),Freund,친구, ami,amigo,bạn bè,vriend,vän,amigo,amico,صديق (sadiq),друг,teman, amigo, arkadaş
+victim,受害者,受害者 (sau6 hoi6 ze2),被害者 (ひがいしゃ),Opfer,피해자, victime,víctima,nạn nhân,slachtoffer,offer,vítima,vittima,ضحية (ḍaḥiya),жертва,mangsa, vítima, mağdur
+player,玩家,玩家 (waan4 gaa1),プレーヤー (ぷれーいやー),Spieler,플레이어, joueur,jugador,người chơi,speler,spelare,jogador,giocatore,لاعب (lāʿib),игрок,pemain, jogador, oyuncu
+fan,粉丝,粉絲 (fan2 si1),ファン (ふぁん),Fan,팬, fan,fan,tán thành,fan,fan,fã,tifoso,مشجع (mushaqqiʿ),болельщик,peminat, fã, hayran
+crowd,人群,人群 (jan4 kwan4),人々 (ひとびと),Menge,군중, foule,multitud,đám đông,massa,massa,multidão,folla,الحشد (alhashd),толпа,kerumunan, multidão, kalabalık
+person,人,人 (jan4),人 (ひと),Person,사람, personne,persona,người,persoon,person,pessoa,persona,شخص (shakhs),человек,orang, pessoa, kişi

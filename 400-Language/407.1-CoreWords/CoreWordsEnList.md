@@ -10,6 +10,18 @@ Here are the requirements that please be very careful with:
 
 )
 
+（好像给他格式让他模仿会更好一些，只用语言描述还是不好听懂。）
+( Your format should be like this:
+
+```
+Word,Mandarin,Cantonese (Hanzi,JyutPing),Japanese (仮名),German,Korean,French,Spanish,Vietnamese,Dutch,Swedish,Portuguese,Italian,Arabic,Russian,Malay,Latin,Turkish
+dog,狗,狗 (gau2),犬 (いぬ),Hund,개,chien,perro,chó,hond,hund,cachorro,cane,كلب (kalb),собака,anjing,canis,köpek
+```
+
+now write the list with these words: )
+
+🆙
+
 Animal: dog, cat, fish, bird, cow, pig, mouse, horse, wing, animal.
 
 Transportation: train, plane, car, truck, bicycle, bus, boat, ship, tire, gasoline, engine, (train) ticket, transportation.
