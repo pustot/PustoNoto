@@ -586,5 +586,67 @@ old (young),老,老 (lou5),年をとる (としをとる),alt,늙은,vieux,viejo
 good,好,好 (hou2),いい (いい),gut,좋은,bon,bueno,tốt,goed,bra,bom,buono,جيد (jayyid),хороший,baik,bonus,iyi
 bad,坏,壞 (waai6),悪い (わるい),schlecht,나쁜,mauvais,malo,xấu,slecht,dålig,mau,cattivo,سيء (sayy'),плохой,buruk,malus,kötü
 wet,湿,濕 (sap1),濡れた (ぬれた),nass,젖은,mouillé,mojado,ẩm ướt,nat,blöt,molhado,bagnato,رطب (ratb),мокрый,basah,umidus,yaş
+dry,干燥,乾燥 (gon1 coeng4),乾燥 (かんそう),trocken,건조한,sec,seco,khô,droog,torr,seco,secco,جاف (jaf),сухой,kering,siccus,kuru
+sick,生病,病 (seng1 beng6),病気 (びょうき),krank,아픈,malade,enfermo,bệnh,ziek,sjuk,doente,malato,مريض (maridh),больной,sakit,aegrotus,hasta
+healthy,健康,健康 (gin6 hong1),健康 (けんこう),gesund,건강한,en bonne santé,saludable,khỏe,gezond,hälsosam,saudável,sano,صحي (sahih),здоровый,sihat,sanus,sağlıklı
+loud,大声,大聲 (daai6 seng1),大きい (おおきい),laut,시끄러운,bruyant,alto,ồn ào,luid,högljudd,ruidoso,forte,صاخب (sakhb),громкий,kuat,clamosus,gürültülü
+quiet,安静,安靜 (on1 zing6),静か (しずか),leise,조용한,silencieux,tranquilo,yên tĩnh,stil,tyst,silencioso,tranquillo,هادئ (hadie'),тихий,tenang,tacitus,sessiz
+happy,高兴,高興 (gou1 hing1),嬉しい (うれしい),glücklich,행복한,heureux,feliz,hạnh phúc,blij,lycklig,feliz,felice,سعيد (sa'id),счастливый,gembira,felix,mutlu
+sad,难过,難過 (naan4 gwo3),悲しい (かなしい),traurig,슬픈,triste,triste,buồn,verdrietig,sorglig,triste,triste,حزين (hazin),грустный,sedih,tristis,üzgün
+beautiful,美丽,靚 (mei5 lei4),美しい (うつくしい),schön,아름다운,beau,hermoso,đẹp,mooi,vacker,bonito,bello,جميل (jameel),красивый,cantik,pulcher,güzel
+ugly,丑,醜 (cau2),醜い (みにくい),hässlich,추한,laid,feo,xấu,lelijk,ful,feio,brutto,قبيح (qabeih),уродливый,buruk,turpis,çirkin
+deaf,聋,聾 (lung4),聾 (ろう),taub,귀머거리,sourd,sordo,điếc,doof,döv,surdo,sordo,أصم (asam),глухой,bisu,surdus,sağır
+blind,盲,盲 (maang4),盲目 (もうもく),blind,맹인,aveugle,ciego,mùa,blind,blind,surdo,cieco,عمي (amy),слепой,buta,caecus,kör
+nice,好,好 (hou2),いい (ii),nett,좋은,gentil,amable,tốt,mooi,trevlig,legal,gentile,لطيف (latif),хороший,baik,niceus,hoş
+mean,意思,意思 (ji3 si1),意味 (いみ),gemein,심술궂은,méchant,malo,có ý nghĩa,gemeen,elak,nasty,cattivo,يعني (ya'ani),означать,buruk,bonus,malum
+rich,有钱,有錢 (jau5 cin2),金持ち (かねもち),reich,부자인,riche,rico,giàu,rijk,rik,rico,ricco,غني (ghani),богатый,kaya,dives,zengin
+poor,穷,窮 (kung4),貧乏 (びんぼう),arm,가난한,pauvre,pobre,nghèo,arm, fattig,pobre,povero,فقير (faqeer),бедный,miskin,pauper,fakir
+thick,厚,厚 (hau5),厚い (あつい),dick,두꺼운,épais,grueso,dày,dik,tjock,espesso,spesso,سميك (samic),толстый,tebal,crassus,kalın
+thin,薄,薄 (baak6),薄い (うすい),dünn,얇은,mince,delgado,mỏng,dun,tunn,magro,sottile,رقيق (raqiq),тонкий,tipis,tenuis,ince
+expensive,贵,貴 (gwai3),高い (たかい),teuer,비싼,cher,caro,mắc,kostbaar,dyr,caro,costoso,غالي (ghali),дорогой,mahal,carus,değerli
+cheap,便宜,便宜 (bin6 ji2),安い (やすい),billig,싼,bon marché,barato,rẻ,goedkoop,billig,barato,economico,رخيص (rakhees),дешевый,murah,vilis,ucuz
+flat,平,平 (ping4),平ら (たいら),flach,평평한,plat,plano,bằng phẳng,plat,platt,plano,piano,مسطح (mustaḥ),плоский,datar,pinguis,düz
+curved,曲,彎 (waan1),曲がった (まがった),gebogen,곡선,curvé,curvado,cung,gebogen,kurvig,curvo,curvo,منحني (munhni),изогнутый,melengkung,curvus,eğri
+male,男,男 (naam4),男性 (だんせい),männlich,남성,mâle,macho,nam,mannelijk,manlig,masculino,maschile,ذكر (thakar),мужской,lelaki,masculus,erkek
+female,女,女 (neoi5),女性 (じょせい),weiblich,여성,femelle,hembra,nữ,vrouwelijk,kvinnlig,feminino,femminile,أنثى (ontha),женский,perempuan,femina,dişi
+tight,紧,緊 (gan2),きつい (kitsui),eng,꽉 막힌,serré,ajustado,chặt,strak,tight,apertado,stretto,ضيق (dayq),тугой,ketat,tensus,stram
+loose,松,鬆 (sung1),ゆるい (yurui),locker,헐거운,lâche,flojo,lỏng,los,loss,largo,largo,فضفاض (fadfad),свободный,longgar,laxus,gevşek
+high,高,高 (gou1),高い (たかい),hoch,높은,haut,alto,cao,hoog,hög,alto,alto,عالي (a'ali),высокий,tinggi,altus,yüksek
+low,低,低 (dai1),低い (ひくい),niedrig,낮은,bas,bajo,thấp,laag,låg,baixo,basso,منخفض (mankhafidh),низкий,rendah,humilis,düşük
+soft,软,軟 (jyun5),柔らかい (やわらかい),weich,부드러운,doux,suave,mềm,zacht,mjuk,macio,morbido,ناعم (naem),мягкий,lembut,mollis,yumuşak
+hard,硬,硬 (ngaang6),固い (かたい),hart,딱딱한,dur,duro,cứng,hard,hård,duro,duro,صعب (saa'b),твердый,keras,durus,zor/sert
+deep,深,深 (sam1),深い (ふかい),tief,깊은,profond,profundo,sâu,diep,djup,profundo,profondo,عميق (ameeq),глубокий,dalam,altus,derin
+shallow,浅,淺 (cin2),浅い (あさい),flach,얕은,peu profond,superficial,nông,ondiep,grund,raso,superficiale,سطحي (sathhee),мелкий,cetek,superficialis,sığ
+clean,干净,乾淨 (gon1 jing2),きれい (kirei),sauber,깨끗한,propre,limpio,sạch,schoon,ren,limpo,pulito,نظيف (nazif),чистый,bersih,mundus,temiz
+dirty,脏,髒 (zong1),汚い (きたない),schmutzig,더러운,sale,sucio,bẩn,vuil,smutsig,sujo,sporco,قذر (qadhir),грязный,kotor,immundus,kirli
+strong,强,強 (koeng4),強い (つよい),stark,강한,fort,fuerte,mạnh,sterk,stark,forte,forte,قوي (qawi),сильный,kuat,validus,güçlü
+weak,弱,弱 (joek6),弱い (よわい),schwach,약한,faible,débil,yếu,zwak,svag,fraco,debole,ضعيف (da'eef),слабый,lemah,infimus,zayıf
+dead,死,死 (sei2),死んだ (しんだ),tot,죽은,morto,muerto,chết,dood,död,morto,morto,ميت (mayyit),мертвый,mati,mortuus,ölü
+alive,活,活 (wut6),生きている (いきている),lebendig,살아있는,vivant,vivo,sống,levend,levande,vivo,vivo,حي (hayy),живой,hidup,vivus,canlı
+heavy,重,重 (zung6),重い (おもい),schwer,무거운,lourd,pesado,nặng,zwaar,tyngd,pesado,pesante,ثقيل (thaqeel),тяжелый,berat,gravis,ağır
+light (heavy),轻,輕 (hing1),重い (おもい),leicht,가벼운,léger,liviano,nhẹ,licht,lätt,leve,leggero,خفيف (khafif),легкий,ringan,levissimus,hafif
+dark,黑暗,黑暗 (hak1 am3),暗い (くらい),dunkel,어두운,sombre,oscuro,tối,donker,mörk,escuro,scuro,داكن (dakun),темный,gelap,tenebrosus,karanlık
+light (dark),明亮,明亮 (ming4 loeng6),明るい (あかるい),hell,밝은,lumière,claro,sáng,licht,ljus,claro,chiaro,ضوء (daw'),светлый,terang,clarus,açık
+nuclear,核能,核能 (hat1 nang4),原子力 (げんしりょく),nuklear,핵,nucléaire,nuclear,hạt nhân,kernenergie,kärnkraft,nuclear,nucleare,نووي (nawawi),ядерный,nuklir,nuclearis,nükleer
+famous,著名,著名 (coek3 ming4),有名 (ゆうめい),berühmt,유명한,célèbre,famoso,nổi tiếng,bekend,berömd,famoso,famoso,مشهور (mashhur),известный,terkenal,celeber,ünlü
 🆙pronouns,代词,代詞 (doi6 ci4),代名詞 (だいめいし),Pronomen,대명사,pronoms,pronombres,đại từ,voornaamwoorden,pronomen,pronomes,pronomi,ضمائر (dama'ir),местоимения,kata ganti,zastanici,zaamirler
+I,我,我 (ngo5),私 (わたし),ich,나,je,yo,tôi,ik,jag,eu,io,أنا (ana),я,aku,ego,ben
+you (singular),你,你 (nei5),あなた,du,너,tu,tú,bạn,jij,du,você,tu,أنت (anta),ты,kamu,tu,veter
+he,他,佢 (keoi5),彼 (かれ),er,그,il,él,anh,hij,han,ele,lui,هو (huwa),он,dia,is,o
+she,她,佢 (keoi5),彼女 (かのじょ),sie,그녀,elle,ella,cô,hij,zhon,ela,lei,هي (hiya),она,ia,ea,o
+it,它,佢 (keoi5),それ (sore),es,그것,il,ello,nó,het,det,ele,esso,هو (huwa),оно,ia,illud,o
+we,我们,我哋 (ngo5 dei6),私たち (わたしたち),wir,우리,nous,nosotros,chúng tôi,wij,vi,nós,noi,نحن (nahnu),мы,kita,nos,iz
+you (plural),你们,你哋 (nei5 dei6),あなたたち,ihr,너희,vous,vosotros,các bạn,jullie,ni,vocês,voi,أنتم (antum),вы,kalian,vos,i
+they,他们,佢哋 (keoi5 dei6),彼ら (ひら),sie,그들,ils,ellos,họ,zij,de,elei,loro,هم (hum),они, mereka,ei,they
+this,这,呢个 (ne1 go3),これ (kore),dieses,이,ceci,este,đây,dit,denna,este,questo,هذا (hatha),это,ini,hic,şu
+that,那,嗰个 (go2 go3),それ (sore),das,그,cela,ese,đó,dat,det,aquele,quello,ذلك (dhalik),тот,itu,ille,o
+these,这些,呢啲 (ne1 di1),これら (korera),diese,이들,ces,estos,những này,deze,dessa,estes,questi,هؤلاء (hula'),эти,ini,hi,şunlar
+those,那些,嗰啲 (go2 di1),それら (sorera),diese,그들,ceux,aquellos,những kia,die,dessa,aqueles,quelli,تلك (tilka),те,itu,illi,şunlar
 🆙question words,疑问词,疑問詞 (ji4 man6 ci4),疑問詞 (ぎもんし),Fragepronomen,의문사,mots interrogatifs,pronombres interrogativos,từ để hỏi,vraagwoorden,frågeord,palavras interrogativas,parole interrogative,أدوات الاستفهام (adawat al-istifham),вопросительные слова,kata tanya,quaestione verba,soru kelimeleri
+who,谁,邊個 (bin1 go3),誰 (だれ),wer,누구,qui,quién,ai,wie,vem,quem,chi,من (man),кто,siapa,quis,kim
+what,什么,乜嘢 (mat1 je5),何 (なに),was,무엇,quoi,qué,gì,wat,vad,o que,cosa,ما (ma),что,apa,quid,ne
+when,什么时候,幾時 (gei2 si4),いつ (itsu),wann,언제,quand,cuándo,khi,wanneer,när,quando,quando,متى (mata),когда,kapan,quando,ne zaman
+where,哪里,邊度 (bin1 dou6),どこ (doko),wo,어디,où,dónde,ở đâu,waar,var,onde,dove,أين (ayn),где,dimanakah,ubi,nerede
+why,为什么,點解 (dim2 gaai2),なぜ (naze),warum,왜,pourquoi,por qué,tại sao,waarom,varför,por que,perché,لماذا (limadha),почему,mengapa,cur,niçin
+how,怎么,點解 (dim2 gaai2),どのように (dono yo ni),wie,어떻게,comment,cómo,làm sao,hoe,hur,como,come,كيف (kayfa),как,bagaimana,quomodo,nasıl
+which,哪个,邊個 (bin1 go3),どちら (dochira),welche,어느,lequel,cuál,nào,welke,vilken,qual,quale,أي (ay),который,mana,qui,hangi
