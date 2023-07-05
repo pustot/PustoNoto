@@ -482,6 +482,88 @@ afternoon,下午,下午 (haa6 ng5),午後 (ごご),Nachmittag,오후,après-midi
 evening,晚上,晚上 (maan5 soeng6),夜 (よる),Abend,저녁,soir,tarde,tối,avond,kväll,noite,sera,مساء (masāʼ),вечер,malam,vesper,vaka
 night,夜晚,夜晚 (je6 maan5),夜 (よる),Nacht,밤,nuit,noche,đêm,nacht,natt,noite,notte,ليل (layl),ночь,malam,nox,gece
 🆙verbs,动词,動詞 (dung6 ci4),動詞 (どうし),Verben,동사,verbes,verbos,động từ,werkwoorden,verb,verbos,verbi,أفعال (af'al),глаголы,kata kerja,verba,fîiller
+work,工作,工作 (gung1 zok3),働く (はたらく),arbeiten,일하다,travailler,trabajar,làm việc,werken,arbeta,trabalhar,lavorare,يعمل (yaʿmal),работать,bekerja,operari,çalışmak
+play,玩,玩 (waan2),遊ぶ (あそぶ),spielen,놀다,jouer,jugar,chơi,spelen,leka,jogar,gioire,يلعب (yalʿab),играть,bermain,ludere,oynamak
+walk,走,行 (haang4),歩く (あるく),gehen,걷다,marcher,caminar,đi bộ,lopen,gå,andar,camminare,يلتفت (yaltatif),идти,berjalan,ambulare,yürümek
+run,跑,跑 (paau2),走る (はしる),rennen,달리다,courir,correr,chạy,rennen,springa,correr,correre,يجري (yajri),бежать,berlari,curre,koşmak
+drive,开车,開車 (hoi1 ce1),運転する (うんてんする),fahren,운전하다,conduire,conducir,lái xe,rijden,köra,dirigir,guidare,يقود (yaqūd),водить,memandu,dūcere,sürmek
+fly,飞,飛 (fei1),飛ぶ (とぶ),fliegen,날다,voler,volar,bay,vliegen,flyga,voar,volare,يطير (yatīr),летать,terbang,volare,uçmak
+swim,游泳,游泳 (jau4 wing6),泳ぐ (およぐ),schwimmen,수영하다,nager,nadar,bơi,zwemmen,simma,nadar,nuotare,يسبح (yasbah),плавать,berenang,natare,yüzmek
+go,去,去 (heoi3),行く (いく),gehen,가다,aller,ir,đi,gan,åka,ir,andare,يلتقي (yltaqy),идти,pergi,ire,gitmek
+stop,停,停 (ting4),止まる (とまる),halten,멈추다,arrêter,detener,dừng,stoppen,stanna,parar,fermare,توقف (tawaqquf),остановиться,berhenti,sistere,durmak
+follow,跟随,跟隨 (gan1 ceoi4),従う (したがう),folgen,따르다,suivre,seguir,theo,volgen,följa,seguir,seguire,يتبع (yatabiʿ),следовать,mengikuti,sequi,izlemek
+think,想,諗 (soeng2),考える (かんがえる),denken,생각하다,penser,pensar,suy nghĩ,denken,tänka,pensar,pensare,يفكر (yufakir),думать,berpikir,cogitare,düşünmek
+speak/say,说,講 (gong2),話す (はなす),sprechen,말하다,parler,hablar,nói,spreken,tala,falar,dire,يتحدث (yatahadath),говорить,bercakap,loqui,konuşmak
+eat,吃,食 (sik6),食べる (たべる),essen,먹다,manger,comer,ăn,eten,äta,comer,mangiare,يأكل (yaʾkul),есть,makan,mangiare,yemek
+drink,喝,飲 (jam2),飲む (のむ),trinken,마시다,boire,beber,uống,drinken,dricka,beber,bere,يشرب (yashrab),пить,minum,bibere,içmek
+kill,杀,殺 (saat3),殺す (ころす),töten,죽이다,tuer,matar,giết,doden,döda,matar,uccidere,يقتل (yaqtul),убивать,membunuh,necare,öldürmek
+die,死,死 (sei2),死ぬ (しぬ),sterben,죽다,mourir,morir,chết,sterven,dö,mostrar-se,morire,يموت (yumūt),умирать,mati,mori,mekmek
+smile,微笑,微笑 (mei4 siu3),微笑む (ほほえむ),lächeln,미소짓다,sourire,sonreír,cười,glimlachen,le,mostrar-se sorridente,sorridere,يبتسم (yabtasim),улыбаться,tersenyum,salve,sırıtmak
+laugh,笑,笑 (siu3),笑う (わらう),lachen,웃다,rire,reír,cười,lachen,skratta,ri,rirsi,يضحك (yudhik),смеяться,tersenyum,ridere,gülümsemek
+cry,哭,哭 (huk1),泣く (なく),weinen,울다,pleurer,llorar,khóc,huilen,gråta,chorar,piangere,يبكي (yabki),плакать,menangis,lacrimare,ağlamak
+buy,买,買 (maai5),買う (かう),kaufen,사다,acheter,comprar,mua,kopen,köpa,comprar,comprare,يشتري (yashtarī),купить,membeli,emere,satın almak
+pay,付款,付款 (fu6 fun2),支払う (しはらう),bezahlen,지불하다,payer,pagar,trả tiền,betalen,betala,pagar,pagare,يدفع (yudfaʿ),платить,membayar,solvitur,ödemek
+sell,卖,賣 (maai6),売る (うる),verkaufen,팔다,vendre,vender,bán,verkopen,sälja,vender,vendere,يبيع (yabiʿu),продавать,membeli,venundare,satmak
+shoot(a gun),射击,射擊 (se6 gik1),撃つ (うつ),schießen,쏘다,tirer,disparar,bắn,schieten,skjuta,atirar,sparare,يطلق النار (yatluq alnnar),стрелять,menembak,sparare,ateş etmek
+learn,学,學 (hok6),学ぶ (まなぶ),lernen,배우다,apprendre,aprender,học,leren,lära sig,aprender,imparare,يتعلم (yataʿalam),учиться,belajar,disce,ders almak
+jump,跳,跳 (tiu3),跳ぶ (とぶ),springen,점프하다,sauter,saltar,nhảy,springen,hoppa,pular,saltare,يقفز (yaqfuza),прыгать,loncat,salto atla,sıçramak
+smell,闻,聞 (man4),嗅ぐ (かぐ),riechen,냄새를 맡다,sentir,oler,ngửi,ruiken,känna lukten,cheirar,odorare,يشم (yashumu),нюхать,menghidu,flaire,koklamak
+hear (a sound),听到,聽到 (teng1 dou3),聞く (きく),hören,들다,entendre,oir,nghe,horen,höra,ouvir,ascoltare,يسمع (yasmaʿ),слышать,mendengar,audire,duymak
+listen (music),听,聽 (teng1),聴く (きく),hören,듣다,écouter,escuchar,nghe,horen,lyssna,ouvir,ascoltare,يستمع (yastamiʿ),слушать,mendengarkan,audio audire,dinlemek
+taste,尝,嚐 (coeng2),味わう (あじわう),schmecken,맛보다,goûter,saborear,thưởng thức,proeven,smaka,saborear,gustare,يذوق (yadhuq),пробовать,mencicipi,saporis,lezzet almak
+touch,触摸,觸摸 (juk1 muk6),触る (さわる),berühren,만지다,toucher,tocar,chạm aanraken,aanraken,ta på,tocar,toccare,يلمس (yalams),трогать,menyentuh,tangere,dokunmak
+see (a bird),看见,看見 (hon1 gin3),見る (みる),sehen,보다,voir,ver,thấy,zien,se,ver,vendere,يشاهد (yashahid),видеть,melihat,videre,görmek
+watch (TV),看,睇 (hon1 tai2),見る (みる),schauen,보다,regarder,ver,watch,zien,titta,assistir,guardare,يشاهد (yashahid),смотреть,menonton,videre,izlemek
+kiss,吻,吻 (man5),キスする (きすする),küssen,키스하다,embrasser,besar,hôn,kussen,kyssa,beijar,baciare,يقبل (yaqbil),целовать,ciuman,oscula,öpmek
+burn,燃烧,燒 (jin4 siu1),燃える (もえる),brennen,타다,brûler,quemar,đốt,branden,brinna,queimar,bruciare,يحرق (yaharriq),гореть,membakar,adure,palamak
+melt,融化,融化 (jung4 faa3),溶ける (とける),schmelzen,녹다,fondre,derretir,chảy,smelten,smälta,derreter,sciogliere,يذوب (yadhub),плавить,mencairkan,liquescere,erimek
+dig,挖,挖 (waa1),掘る (ほる),graben,파다,creuser,cavar,khắc,graven,gräva,cavar,scavare,يحفر (yuhaffir),копать,menggali,effodere,kazmak
+explode,爆炸,爆炸 (baau3 zaat3),爆発する (ばくはつする),explodieren,터지다,exploser,explotar,nổ,exploderen,explodera,explodir,esplodere,ينفجر (yanfajir),взрываться,meletup,explodit,patlamak
+sit,坐,坐 (zo6),座る (すわる),sitzen,앉다,asseoir,sentarse,ngồi,zitten,sitta,sentar-se,sedere,يجلس (yajlis),сидеть,duduk,sedere,oturmak
+stand,站,站 (zaam6),立つ (たつ),stehen,서다,se tenir debout,estar de pie,đứng,staan,stå,ficar de pé,star ritto,يقف (yaqif),стоять,berdiri,stare in piedi,durmak
+love,爱,愛 (oi3),愛する (あいする),lieben,사랑하다,aimer,amar,yêu,houden van,älska,amar,amare,يحب (yuhubb),любить,mencintai,amat,sevmek
+pass by,经过,經過 (ging1 gwo3),通り過ぎる (とおりすぎる),vorbeigehen,지나가다,passer,passar,lướt qua,passeren,gå förbi,passar,passare,يمر (yumur),проходить,melintasi,praeterire,geçmek
+cut,剪,剪 (zin2),切る (きる),schneiden,자르다,couper,cortar,cắt,snijden,klyva,cortar,tagliare,يقطع (yaqtaʿ),резать,membelah,cut,sıkılmak
+fight,打架,打架 (daa2 gaai2),戦う (たたかう),kämpfen,싸우다,se battre,pelear,chiến đấu,vechten,fightas,lutar,lottare,يقاتل (yaqatil),сражаться,berkelahi,pugna,kavga etmek
+lie down,躺下,躺下 (tong2 haa5),横になる (よこになる),sich hinlegen,누워 있다,s'allonger,tumbarse,nằm,liggen,lägga sig,deitar-se,coricarsi,يستلقي (yastalqī),лежать,berbaring,accubare,yatmak
+dance,跳舞,跳舞 (tiu3 mou5),踊る (おどる),tanzen,춤을 추다,danser,bailar, khiêu vũ,dansen,dansa,dançar,danzare,يرقص (yurqis),танцевать,menari,danza,dans etmek
+sleep,睡觉,睡覺 (seoi6 gaau3),眠る (ねむる),schlafen,자다,dormir,dormir,ngủ,slapen,sova,dormir,dormire,ينام (yunām),спать,tidur,dormire,uyumak
+wake up,醒,醒 (sing2),目が覚める (めがさめる),aufwachen,깨다,se réveiller,despertar,wake up,wakker worden,vakna,acordar,svegliarsi,يستيقظ (yastaqdi),просыпаться,bangun,surgite,uyanmak
+sing,唱,唱 (coeng3),歌う (うたう),singen,노래하다,chanter,cantar,hát,zingen,sjunga,cantar,cantare,يغني (yughni),петь,menyanyi,canta,şarkı söylemek
+count,数,數 (sou3),数える (かぞえる),zählen,세다,compter,contar,đếm,tellen,räkna,contar,contare,يحسب (yuhassib),считать,menghitung,numera,hesaplamak
+marry,结婚,結婚 (git3 fan1),結婚する (けっこんする),heiraten,결혼하다,se marier,casarse,kết hôn,trouwen,gifta sig,casar-se,sposarsi,يتزوج (yatazawwaj),жениться,menikah,nubere,evlenmek
+pray,祈祷,祈禱 (kei4 dou3),祈る (いのる),beten,기도하다,prier,rezar,cầu nguyện,bidden,be,orar,preghiera,يصلي (yasalli),молиться,berdoa,precari,dua etmek
+win,赢,贏 (jing1),勝つ (かつ),gewinnen,이기다,gagner,ganar,thắng,winnen,vinna,ganhar,vincere,يفوز (yafawuz),выиграть,menang,vincere,kazanmak
+lose,输,輸 (syu1),負ける (まける),verlieren,지다,perdre,perder,thua,verliezen,förlora,perder,perdere,يلزم (yulzim),проиграть,kalah,perdere,kaybetmek
+mix/stir,搅拌,攪拌 (gaau2 bun6),混ぜる (まぜる),mischen,섞다,mélanger,mezclar,trộn,mengen,blanda,misturar,miscelare,يمزج (yamazaj),смешивать,mencampur,confundere,karıştırmak
+bend,弯曲,彎曲 (waan1 kuk1),曲げる (まげる),biegen,구부리다,plier,doblar,uốn,buigen,böja,curvar,piegare,يعطف (yaʿtaf),гнуть,memutar,plicare,bükme
+wash,洗,洗 (sai2),洗う (あらう),waschen,씻다,laver,lavar,giặt,wassen,tvätta,lavar,lavare,يغسل (yughassil),мыть,mencuci,lotio,lamamak
+cook,煮,煮 (zyu2),料理する (りょうりする),kochen,요리하다,cuire,cocinar,nấu,koken,laga,cozinhar,cucinare,يطبخ (yatbukh),готовить,memasak,cenare,yemek yapmak
+open,打开,打開 (daa2 hoi1),開く (あく),öffnen,열다,ouvrir,abrir,mở,openen,öppna,abrir,aprire,يفتح (yaftaḥ),открыть,membuka,aperire,açmak
+close,关闭,關閉 (gwaan1 bai1),閉じる (とじる),schließen,닫다,fermer,cerrar,đóng,sluiten,stänga,fechar,chiudere,يغلق (yughliq),закрыть,menutup,claude,açmak
+write,写,寫 (se2),書く (かく),schreiben,쓰다,écrire,escribir,viết,schrijven,skriva,escrever,scrivere,يكتب (yaktub),писать,menulis,scribere,yazmak
+call,打电话,打電話 (daa2 din6 waa2),電話する (でんわする),anrufen,전화하다,appeler,llamar,gọi,bellen,rinna,chamar,chiamare,يتصل (yatasal),звонить,menelepon,chiamare,aramak
+turn,转动,轉動 (zyun2 dung6),回す (まわす),drehen,돌리다,tourner,girar,xoay,draaien,vrida,virar,girare,يدير (yudir),поворачивать,mengubah,girare,dönmek
+build,建造,建造 (gin3 zou6),建てる (たてる),bauen,지으다,construire,construir,xây dựng,bouwen,bygga,construir,costruire,يبني (yabni),строить,membangun,extruire,yapmak
+teach,教,教 (gaau3),教える (おしえる),lehren,가르치다,enseigner,enseñar,dạy,leren,undervisa,ensinar,insegnare,يعلم (yaʿlam),учить,mengajar,instruere,öğretmek
+grow,生长,生長 (sang1 coeng4),成長する (せいちょうする),wachsen,자라다,pousser,crecer,lớn lên,groeien,växa,crescer,crescere,ينمو (yanmuw),расти,tumbuh,crescere,büyümek
+draw,画,畫 (waa2),描く (かく),zeichnen,그리다,dessiner,dibujar,vẽ,tekenen,rita,desenhar,dipingere,يرسم (yurassim),рисовать,menggambar,delineare,çizmek
+feed,喂,喂 (wai4),養う (やしなう),füttern,먹이다,nourrir,alimentar,cho ăn,voeren,mata,alimentar,nutrire,يطعم (yatʿam),кормить,memberi makan,nutrire,beslemek
+catch,捕捉,捉 (fu1 zuk1),捕まえる (つかまえる),fangen,잡다,attraper,atrapar,bắt,vangen,fånga,pegar,catturare,يمسك (yamassik),ловить,menangkap,premĕs,ele geçirmek
+throw,扔,扔 (jing1),投げる (なげる),werfen,던지다,jeter,lanzar,ném,gooien,kasta,lançar,lanciare,يقذف (yaqadhif),бросать,membuang,iacere,fırlatmak
+clean,清洁,清潔 (cing1 git3),きれいにする (きれいにする),reinigen,청소하다,nettoyer,limpiar,lau,opruimen,städa,limpar,pulire,ينظف (yunazif),чистить,membersihkan,lustra,temizlemek
+find,找到,找到 (zaau2 dou2),見つける (みつける),finden,찾다,trouver,encontrar,tìm,vinden,hitta,encontrar,trovare,يجد (yajid),находить,mencari,trovare,bulmak
+fall,摔倒,摔倒 (seoi1 dou3),落ちる (おちる),fallen,떨어지다,tomber,caer,rơi,vallen,falla,cair,cadere,يسقط (yaseqṭ),падать,jatuh,labere,düşmek
+push,推,推 (teoi1),押す (おす),drücken,밀다,pousser,empujar,đẩy,duwen,trycka,empurrar,spingere,يدفع (yadfaʿ),толкать,mendorong,impellere,itmek
+pull,拉,lā,引っ張る (hikitsuru),ziehen,당기다,tirer,tirar,kéo,trekken,dra,puxar,tirare,جذب (jadhab),тянуть,tarik,pellere,çekmek
+carry,携带,攜帶 (heoi1 daai6),運ぶ (はこぶ),tragen,나르다,porter,llevar,mang,dragen,bära,carregar,portare,يحمل (yuhmil),нести,membawa,portare,taşımak
+break,打破,打破 (daa2 po3),壊す (こわす),brechen,부수다,casser,romper,đập,breken,bryta,quebrar,rompere,يكسر (yaksur),ломать,menghancurkan,rumpĕre,kırmak
+wear,穿,穿 (cyun1),着る (きる),tragen,입다,porter,llevar,mặc,dragen,bära,vestir,indossare,يلبس (yulbis),носить,pakai,vestis,giymek
+hang,挂,掛 (gwaa3),かける (かける),hängen,걸다,accrocher,colgar,treo,ophangen,hänga,pendurar,appendere,يعلق (yaʿliq),вешать,menempelkan,pendĕre,asmak
+shake,摇,搖 (jiu1),振る (ふる),schütteln,흔들다,secouer,agitar,lắc,schudden,skaka,agitar,scuotere,يرتج (yartaj),трясти,mengguncang,concŭtere,sallamak
+sign,签署,簽署 (cin1 cyu5),サインする (さいんする),unterschreiben,서명하다,signer,firmar,đánh dấu,ondertekenen,skriva under,assinar,firmare,يوقع (yauqaʿ),подписывать,membubuhi tanda tangan,signare,imzalamak
+beat,打,打 (daa2),打つ (うつ),schlagen,두드리다,battre,golpear,đánh,slaan,slå,bater,battere,يضرب (yudrab),бить,mengalahkan,battere,dövmek
+lift,抬起,抬起 (toi4 hei2),持ち上げる (もちあげる),heben,들다,lever,sostener,nâng,op tillen,lyfta,levantar,sollevare,يرفع (yurfaʿ),поднимать,mengangkat,supponere,kaldırmak
 🆙adjectives,形容词,形容詞 (jing4 jung2 ci4),形容詞 (けいようし),Adjektive,형용사,adjectifs,adjetivos,tính từ,bijvoeglijke naamwoorden,adjektiv,adjetivos,aggettivi,صفات (sifat),прилагательные,adjective,adjectives,sıfatlar
 🆙pronouns,代词,代詞 (doi6 ci4),代名詞 (だいめいし),Pronomen,대명사,pronoms,pronombres,đại từ,voornaamwoorden,pronomen,pronomes,pronomi,ضمائر (dama'ir),местоимения,kata ganti,zastanici,zaamirler
 🆙question words,疑问词,疑問詞 (ji4 man6 ci4),疑問詞 (ぎもんし),Fragepronomen,의문사,mots interrogatifs,pronombres interrogativos,từ để hỏi,vraagwoorden,frågeord,palavras interrogativas,parole interrogative,أدوات الاستفهام (adawat al-istifham),вопросительные слова,kata tanya,quaestione verba,soru kelimeleri
