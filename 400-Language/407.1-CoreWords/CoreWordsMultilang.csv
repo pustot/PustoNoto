@@ -565,5 +565,26 @@ sign,签署,簽署 (cin1 cyu5),サインする (さいんする),unterschreiben,
 beat,打,打 (daa2),打つ (うつ),schlagen,두드리다,battre,golpear,đánh,slaan,slå,bater,battere,يضرب (yudrab),бить,mengalahkan,battere,dövmek
 lift,抬起,抬起 (toi4 hei2),持ち上げる (もちあげる),heben,들다,lever,sostener,nâng,op tillen,lyfta,levantar,sollevare,يرفع (yurfaʿ),поднимать,mengangkat,supponere,kaldırmak
 🆙adjectives,形容词,形容詞 (jing4 jung2 ci4),形容詞 (けいようし),Adjektive,형용사,adjectifs,adjetivos,tính từ,bijvoeglijke naamwoorden,adjektiv,adjetivos,aggettivi,صفات (sifat),прилагательные,adjective,adjectives,sıfatlar
+long,长,長 (coeng4),長い (ながい),lang,긴,long,largo,dài,lang,lång,longo,lungo,طويل (tawil),длинный,panjang,longus,uzun
+short,短,短 (duan2),短い (みじかい),kurz,짧은,court,corto,ngắn,kort,korto,corto,corto,قصير (qasir),короткий,pendek,brevis,kısa
+tall,高,高 (gou1),高い (たかい),groß,키가 큰,grand,alto,cao,lang,lång,alto,alto,طويل (tawil),высокий,tinggi,altus,uzun boylu
+short (vs tall),矮,矮 (aai2),低い (ひくい),klein,키가 작은,petit,bajo,thấp,klein,korto,basso,basso,قصير (qasir),низкий,pendek (vs tinggi),brevis (vs altus),kısa (vs uzun boylu)
+wide,宽,闊 (fut3),広い (ひろい),breit,넓은,large,ancho,rộng,breed,bred,largo,largo,واسع (wasee),широкий,lebar,late,geniş
+narrow,窄,窄 (zaak3),狭い (せまい),eng,좁은,étroit,estreito,hẹp,smal,smal,ristretto,stretto,ضيق (dayiq),узкий,sempit,angustus,dar
+big/large,大,大 (daai6),大きい (おおきい),groß,큰,grande,grande,lớn,groot,stor,grande,grande,كبير (kabeer),большой,besar,magnus,büyük
+small/little,小,細 (sai3),小さい (ちいさい),klein,작은,petit,pequeño,nhỏ,klein,liten,piccolo,piccolo,صغير (saghir),маленький,kecil,parvus,küçük
+slow,慢,慢 (maan6),遅い (おそい),langsam,느린,lent,lento,chậm,langzaam,långsam,lento,lento,بطيء (batee'),медленный,lambat,tardus,yavaş
+fast,快,快 (faai3),速い (はやい),schnell,빠른,rapide,rápido,nhanh,snel,snabb,veloce,veloce,سريع (saree'),быстрый,cepat,citus,hızlı
+hot,热,熱 (jit6),熱い (あつい),heiß,더운,chaud,caliente,nóng,heet,varm,caldo,caldo,حار (har),горячий,panas,calidus,sıcak
+cold,冷,凉 (leung5),寒い (さむい),kalt,추운,froid,frío,lạnh,koud,kall,freddo,freddo,بارد (barid),холодный,dingin,frigidus,soğuk
+warm,暖,暖 (nyun5),暖かい (あたたかい),warm,따뜻한,chaud,cálido,ấm áp,warm,varm,caldo,caldo,دافئ (dafe'),теплый,ấm,calidus,sıcak
+cool,凉,凉 (leung5),涼しい (すずしい),kühl,시원한,frais,fresco,mát,koud,sval,fresco,fresco,بارد (barid),прохладный,sejuk,freddus,serin
+new,新,新 (san1),新しい (あたらしい),neu,새로운,nouveau,nuevo,mới,nieuw,ny,novo,nuovo,جديد (jadeed),новый,baru,novus,yeni
+old (new),旧,舊 (gau6),新しい (あたらしい),alt,새로운,vieux,nuevo,mới,oud,gammal,velho,vecchio (non nuovo),جديد (jadeed),новый,baru,novus,yeni
+young,年轻,年青 (nin4 cing1),若い (わかい),jung,젊은,jeune,joven,trẻ,jong,ung,jovem,giovane,شاب (shab),молодой,muda,iuvenis,genç
+old (young),老,老 (lou5),年をとる (としをとる),alt,늙은,vieux,viejo,già,oud,gammal,velho,vecchio,عجوز (ajooz),старый,tua,senex,yaşlı
+good,好,好 (hou2),いい (いい),gut,좋은,bon,bueno,tốt,goed,bra,bom,buono,جيد (jayyid),хороший,baik,bonus,iyi
+bad,坏,壞 (waai6),悪い (わるい),schlecht,나쁜,mauvais,malo,xấu,slecht,dålig,mau,cattivo,سيء (sayy'),плохой,buruk,malus,kötü
+wet,湿,濕 (sap1),濡れた (ぬれた),nass,젖은,mouillé,mojado,ẩm ướt,nat,blöt,molhado,bagnato,رطب (ratb),мокрый,basah,umidus,yaş
 🆙pronouns,代词,代詞 (doi6 ci4),代名詞 (だいめいし),Pronomen,대명사,pronoms,pronombres,đại từ,voornaamwoorden,pronomen,pronomes,pronomi,ضمائر (dama'ir),местоимения,kata ganti,zastanici,zaamirler
 🆙question words,疑问词,疑問詞 (ji4 man6 ci4),疑問詞 (ぎもんし),Fragepronomen,의문사,mots interrogatifs,pronombres interrogativos,từ để hỏi,vraagwoorden,frågeord,palavras interrogativas,parole interrogative,أدوات الاستفهام (adawat al-istifham),вопросительные слова,kata tanya,quaestione verba,soru kelimeleri
