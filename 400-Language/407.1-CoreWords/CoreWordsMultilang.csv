@@ -449,8 +449,38 @@ billion,十億,十亿 (sap6 jik1),十億 (じゅうおく),Milliarde,십억,mill
 4th,第四,第四 (dai6 sei3),第四 (だいよん),vierte,넷째,quatrième,cuarto,thứ tư,vierde,fjärde,quarto,quarto,الرابع (ar-rabe'),четвёртый (chetvyortyy),keempat,quartus,dördüncü
 5th,第五,第五 (dai6 ng5),第五 (だいご),fünfte,다섯째,cinquième,quinto,thứ năm,vijfde,femte,quinto,quinto,الخامس (al-khamis),пятый (pyatyy),kelima,quintus,beşinci
 🆙months,月份,月份 (jyut6 fan6),月 (つき),Monate,월,mois,meses,tháng,maanden,månader,meses,mesi,شهور (shuhur),месяцы,bulan,meses,aylar
+January,一月,一月 (jat1 jyut6),1月 (いちがつ),Januar,1월,janvier,enero,Tháng 1,januari,januari,janeiro,gennaio,يناير (yanāyir),январь,januari,januari,ocak
+February,二月,二月 (ji6 jyut6),2月 (にがつ),Februar,2월,février,febrero,Tháng 2,februari,februari,fevereiro,febbraio,فبراير (fibraʼir),февраль,februari,februari,şubat
+March,三月,三月 (saam1 jyut6),3月 (さんがつ),März,3월,mars,marzo,Tháng 3,maart,mars,março,marzo,مارس (māris),март,mac,mart,nisan
+April,四月,四月 (sei3 jyut6),4月 (しがつ),April,4월,avril,abril,Tháng 4,april,april,abril,aprile,أبريل (abrīl),апрель,april,april,nisan
+May,五月,五月 (ng5 jyut6),5月 (ごがつ),Mai,5월,mai,mayo,Tháng 5,mei,maj,maio,maggio,مايو (māyū),май,mei,maj,mayıs
+June,六月,六月 (luk6 jyut6),6月 (ろくがつ),Juni,6월,juin,junio,Tháng 6,juni,juni,junho,giugno,يونيو (yunyū),июнь,jun,juni,haziran
+July,七月,七月 (cat1 jyut6),7月 (しちがつ),Juli,7월,juillet,julio,Tháng 7,juli,juli,julho,luglio,يوليو (yūlyū),июль,julai,juli,temmuz
+August,八月,八月 (baat3 jyut6),8月 (はちがつ),August,8월,août,agosto,Tháng 8,augustus,augusti,agosto,agosto,أغسطس (ʼagustus),август,ogos,aukustos,ağustos
+September,九月,九月 (gau2 jyut6),9月 (くがつ),September,9월,septembre,septiembre,Tháng 9,september,september,setembro,settembre,سبتمبر (sibtambir),сентябрь,september,septembrie,eylül
+October,十月,十月 (sap6 jyut6),10月 (じゅうがつ),Oktober,10월,octobre,octubre,Tháng 10,oktober,oktober,outubro,ottobre,أكتوبر (ʼuktūbir),октябрь,oktober,octombrie,ekim
+November,十一月,十一月 (sap6 jat1 jyut6),11月 (じゅういちがつ),November,11월,novembre,noviembre,Tháng 11,november,november,novembro,novembre,نوفمبر (nūfambir),ноябрь,november,noiembrie,kasım
+December,十二月,十二月 (sap6 ji6 jyut6),12月 (じゅうにがつ),Dezember,12월,décembre,diciembre,Tháng 12,december,december,dezembro,dicembre,ديسمبر (dīsimbir),декабрь,disember,decembrie,aralık
 🆙days of the week,星期,星期 (sing1 kei4),曜日 (ようび),Wochentage,요일,jours de la semaine,días de la semana,ngày trong tuần,dagen van de week,veckodagar,dias da semana,giorni della settimana,أيام الأسبوع (ayam al-usbu'),дни недели,hari-hari dalam seminggu,dies hebdomadis,haftanın günleri
+Monday,星期一,星期一 (sing1 kei4 jat1),月曜日 (げつようび),Montag,월요일,lundi,lunes,Thứ Hai,maandag,måndag,segunda-feira,lunedì,الاثنين (al-ithnayn),понедельник,isnin,lunae,lunes
+Tuesday,星期二,星期二 (sing1 kei4 ji6),火曜日 (かようび),Dienstag,화요일,mardi,martes,Thứ Ba,dinsdag,tisdag,terça-feira,martedì,الثلاثاء (althalāthāʼ),вторник,selasa,martis,martes
+Wednesday,星期三,星期三 (sing1 kei4 saam1),水曜日 (すいようび),Mittwoch,수요일,mercredi,miércoles,Thứ Tư,woensdag,onsdag,quarta-feira,mercoledì,الأربعاء (al-arbiʻāʼ),среда,rabu,mercurii,çarşamba
+Thursday,星期四,星期四 (sing1 kei4 sei3),木曜日 (もくようび),Donnerstag,목요일,jeudi,jueves,Thứ Năm,donderdag,torsdag,quinta-feira,giovedì,الخميس (al-khamīs),четверг,khamis,iovis,perşembe
+Friday,星期五,星期五 (sing1 kei4 ng5),金曜日 (きんようび),Freitag,금요일,vendredi,viernes,Thứ Sáu,vrijdag,fredag,sexta-feira,venerdì,الجمعة (al-jumʻah),пятница,jumaat,veneris,cuma
+Saturday,星期六,星期六 (sing1 kei4 luk6),土曜日 (どようび),Samstag,토요일,samedi,sábado,Thứ Bảy,zaterdag,lördag,sábado,sabato,السبت (al-sabt),суббота,sabtu,sabbati,cumartesi
+Sunday,星期日,星期日 (sing1 kei4 jat6),日曜日 (にちようび),Sonntag,일요일,dimanche,domingo,Chủ Nhật,zondag,söndag,domingo,domenica,الأحد (al-ʼahad),воскресенье,ahad,dies dominica,cumartesi
 🆙time,时间,時間 (si4 gaan3),時間 (じかん),Zeit,시간,temps,tiempo,thời gian,tijd,tid,tempo,tempo,الوقت (al-waqt),время,masa,tempus,zaman
+year,年,年 (nin4),年 (ねん),Jahr,년,an,año,năm,jaar,år,ano,anno,سنة (sanah),год,tahun,annus,yıl
+month,月,月 (jyut6),月 (つき),Monat,달,mois,mes,tháng,maand,månad,mês,mese,شهر (shahr),месяц,bulan,mensis,ay
+week,周,周 (zau1),週 (しゅう),Woche,주,semaine,semana,tuần,week,vecka,semana,settimana,أسبوع (usbūʿ),неделя,minggu,hebdomas,hafta
+day,天,日 (tin1),日 (にち),Tag,날,jour,día,ngày,dag,dag,dia,giorno,يوم (yawm),день,hari,dies,gün
+hour,小时,小時 (siu3 si4),時間 (じかん),Stunde,시간,heure,hora,giờ,uur,timme,hora,ora,ساعة (sa'ah),час,jam,jam,saat
+minute,分钟,分鐘 (fan1 zung1),分 (ふん),Minute,분,minute,minuto,phút,minuut,minut,minuto,minuto,دقيقة (daqīqah),минута,saat,minuta,dakika
+second,秒,秒 (miu5),秒 (びょう),Sekunde,초,seconde,segundo,giây,seconde,sekund,segundo,secondo,ثانية (thāniyah),секунда,detik,secunda,saniye
+morning,早上,早上 (zou2 soeng5),朝 (あさ),Morgen,아침,matin,mañana,sáng,morgen,morgon,manhã,mattina,صباح (ṣabāḥ),утро,pagi,mane,morning
+afternoon,下午,下午 (haa6 ng5),午後 (ごご),Nachmittag,오후,après-midi,tarde,chiều,middag,eftermiddag,tarde,pomeriggio,بعد الظهر (baʻdha dhuhr),день,petang,post meridiem,öğleden sonra
+evening,晚上,晚上 (maan5 soeng6),夜 (よる),Abend,저녁,soir,tarde,tối,avond,kväll,noite,sera,مساء (masāʼ),вечер,malam,vesper,vaka
+night,夜晚,夜晚 (je6 maan5),夜 (よる),Nacht,밤,nuit,noche,đêm,nacht,natt,noite,notte,ليل (layl),ночь,malam,nox,gece
 🆙verbs,动词,動詞 (dung6 ci4),動詞 (どうし),Verben,동사,verbes,verbos,động từ,werkwoorden,verb,verbos,verbi,أفعال (af'al),глаголы,kata kerja,verba,fîiller
 🆙adjectives,形容词,形容詞 (jing4 jung2 ci4),形容詞 (けいようし),Adjektive,형용사,adjectifs,adjetivos,tính từ,bijvoeglijke naamwoorden,adjektiv,adjetivos,aggettivi,صفات (sifat),прилагательные,adjective,adjectives,sıfatlar
 🆙pronouns,代词,代詞 (doi6 ci4),代名詞 (だいめいし),Pronomen,대명사,pronoms,pronombres,đại từ,voornaamwoorden,pronomen,pronomes,pronomi,ضمائر (dama'ir),местоимения,kata ganti,zastanici,zaamirler
