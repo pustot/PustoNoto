@@ -257,10 +257,114 @@ camera,相机,相機,カメラ,Kamera,카메라,caméra,cámara,máy ảnh,camer
 television,电视,電視,テレビ,Fernseher,텔레비전,télévision,televisión,ti vi,televisie,television,televisão,televisione,تلفزيون,телевизор,televisyen,televisio,televizyon
 radio,收音机,收音機,ラジオ,Radio,라디오,radio,radio,đài radio,radio,radio,rádio,radio,راديو,радио,radio,radio,radyo
 🆙body,身体,身體 (san1 tai2),体 (からだ),Körper,신체,corps,cuerpo,thân thể,lichaam,kropp,corpo,corpo,جسد (jism),тело,tubuh,corpus,vücut
+head,头,頭 (tau4),頭 (あたま),Kopf,머리,tête,cabeza,đầu,hoofd,huvud,cabeça,testa,رأس (ras),голова,kepala,caput,kafa
+neck,脖子,頸 (but3 zi2),首 (くび),Hals,목,cou,cuello,cổ,nek,hals,pescoço,collo,رقبة (raqabah),шея,leher,collum,boyun
+face,脸,面 (lim5),顔 (かお),Gesicht,얼굴,visage,cara,khuôn mặt,gezicht,ansikte,rosto,viso,وجه (wajh),лицо,muka,vultus,yüz
+beard,胡须,鬍鬚 (wu4 sou1),ひげ,Haar,Hüftwuchs,barbe,barba,râu,baard,skägg,barba,barba,لحية (lahyah),борода,janggut,barba,akil
+hair,头发,頭髮 (tau4 faat3),髪 (かみ),Haare,머리카락,cheveux,pelo,tóc,haar,hår,cabelo,capelli,شعر (sha'r),волосы,rambut,capillus,saç
+eye,眼睛,眼 (ngaan5 zing1),目 (め),Auge,눈,œil,ojo,mắt,oog,öga,olho,occhio,عين (ayn),глаз,mata,oculus,göz
+mouth,嘴巴,口 (zeoi2 baa1),口 (くち),Mund,입,bouche,boca,miệng,mond,mun,mouth,bocca,فم (fam),рот,mulut,os,ayak
+lip,嘴唇,唇 (zeon1 ceon4),唇 (くちびる),Lippe,입술,lèvre,labio,môi,lip,läpp,lábio,labbro,شفة (shafa),губа,bibir,labiis,dişilik
+nose,鼻子,鼻 (bei6 zi2),鼻 (はな),Nase,코,nez,nariz,mũi,neus,näsa,nariz,naso,أنف (anf),нос,hidung,nasus,burun
+tooth,牙齿,齒 (ngaa4 ci2),歯 (は),Zahn,이, dent,diente,răng,tand,tand,dente,dente,سن (sin),зуб,gigi,dens,diş
+ear,耳朵,耳 (ji5 dou6),耳 (みみ),Ohr,귀,oreja,oreja,tai,oor,öra,orecchio,orecchio,أذن (udhun),ухо,telinga,auris,kulak
+tear (drop),眼泪,淚 (lei6),涙 (なみだ),Träne,눈물,larme,lágrima,nước mắt,traan,tår,lágrima,lacrime,دمعة (dam'ah),слеза,air mata,lacrima,göz yaş
+tongue,舌头,舌頭 (sit3 tau2),舌 (した),Zunge,혀,langue,lengua,lưỡi,tong,tunga,língua,lingua,لسان (lisan),язык,lidah,lingua,dil
+back,背部,背 (bui3),背中 (せなか),Rücken,등,dos,espalda,lưng,rug,rücke,costas,schiena,ظهر (zahr),спина,punggung,dorsum,sırt
+toe,脚趾,腳趾 (geok3 zi1),足の指 (あしのゆび),Zehe,발가락,orteil,dedo del pie,ngón chân,teen,toa,dedo do pé,dito del piede,إصبع القدم (isba' al-qadam),палец ноги,jari kaki,pes digitus,parmak
+finger,手指,手指 (sau2 zi2),指 (ゆび),Finger,손가락,doigt,dedo,cái tay,vinger,finger,dedo,dito,إصبع (isba'),палец,pelukan,tango,dokunma
+foot,脚,腳 (geok3),足 (あし),Fuß,발,pied,pie,chân,voet,fot,pé,piede,قدم (qadam),стопа,kaki,pes,ayak
+hand,手,手 (sau2),手 (て),Hand,손,main,mano,tay,hand,hand,mão,mano,يد (yad),рука,tangan,manus,el
+leg,腿,腿 (teoi2),脚 (あし),Bein,다리,jambe,pierna,chân,been,bent,péna,pierna,قدم (qadam),нога,kaki,crus,gamba
+arm,手臂,手臂 (sau2 bei3),腕 (うで),Arm,팔,bras,brazo,cánh tay,arm,arm,bra,brazzo,ذراع (dhira'),рука,tangan,cubitus,kol
+shoulder,肩膀,肩膀 (gin1 bong1),肩 (かた),Schulter,어깨,épaule,hombro,vai,shoulder,axel,ombro,spalla,كتف (katif),плечо,bahu,humerus,omuz
+heart,心脏,心臟 (sam1 zong1),心臓 (しんぞう),Herz,심장,cœur,corazón,trái tim,hart,hjärta,coração,cuore,قلب (qalb),сердце,hati,cor,cœur
+blood,血,血 (hyut3),血 (ち),Blut,피,sangre,sangre,máu,bloed,blod,sangue,sangue,دم (dam),кровь,darah,sanguis,kan
+brain,脑,腦 (naau5),脳 (のう),Gehirn,뇌,cerveau,cerebro,não,hersenen,hjärna,cérebro,cervello,دماغ (dimagh),мозг,otak,cerebrum,beyin
+knee,膝盖,膝蓋 (zik6 goi2),膝 (ひざ),Knie,무릎,genou,rodilla,gối,knie,knä,joelho,ginocchio,ركبة (rukba),колено,lutut,genu,fare
+sweat,汗,汗 (hon6),汗 (あせ),Schweiß,땀,transpiration,sudor,mồ hôi,zweet,svett,suor,sudore,عرق (araq),пот,keringat,sudor,ter
+disease,疾病,疾病 (zap1 beng6),病気 (びょうき),Krankheit,질병,maladie,enfermedad,bệnh,ziekte,sjukdom,doença,malattia,مرض (maradh),болезнь,penyakit,morbus,hastalık
+bone,骨头,骨頭 (gwat1 tau2),骨 (ほね),Knochen,뼈,os,hueso,xương,bot,ben,osso,osso,عظم (adh'am),кость,tulang,os,iskelet
+voice,声音,聲音 (seng1 jam1),声 (こえ),Stimme,목소리,voix,voz,giọng,norm,stämma,voz,voce,صوت (sawt),голос,suara,vox,vurgu
+skin,皮肤,皮膚 (pei4 fu1),皮膚 (ひふ),Haut,피부,peau,piel,da,huid,hud,pele,pelle,جلد (jild),кожа,kulit,cutis,cilt
 🆙nature,自然,自然 (zi6 jin4),自然 (しぜん),Natur,자연,nature,naturaleza,thiên nhiên,natuur,naturza,priroda,natureza,طبيعة (tabi'a),природа,alam semula jadi,natura,doğa
+sea,海洋,海 (hoi2),海 (うみ),Meer,바다,mer,mar,b biển,zee,hav,mar,mare,بحر (bahar),море,laut,mare,deniz
+ocean,海洋,海洋 (hoi2 joeng4),海洋 (かいよう),Ozean,대양,océan,océano,đại dương,oceaan,havet,oceano,oceano,محيط (muhit),океан,lautan,oceanus,okyanus
+river,河,河 (ho4),川 (かわ),Fluss,강,rivière,río,sông,rivier,flod,rio,fiume,نهر (nahr),река,sungai,flumen,nehir
+mountain,山,山 (saan1),山 (やま),Berg,산,montaña,montaña,núi,berg,berg,montanha,montagna,جبل (jabal),гора,gunung,montis,dağ
+rain,雨,雨 (jyu5),雨 (あめ),Regen,비,pluie,lluvia,mưa,regen,regn,chuva,pioggia,مطر (matar),дождь,hujan,imber,yağmur
+snow,雪,雪 (syut3),雪 (ゆき),Schnee,눈,neige,nieve,tuyết,sneeuw,snö,neve,neve,ثلج (thalj),снег,salju,nix,kar
+tree,树,樹 (syu6),木 (き),Baum,나무,arbre,árbol,cây,boom,träd,árvore,albero,شجرة (shajara),дерево,pohon,arbor, ağaç
+sun,太阳,太陽 (taai3 joeng4),太陽 (たいよう),Sonne,해,soleil,sol,mặt trời,zon,sol,sol,sole,شمس (shams),солнце,matahari,sol, güneş
+moon,月亮,月亮 (jyut6 loeng6),月 (つき),Mond,달,lune,luna, mặt trăng,maan,måne,lua,luna,قمر (qamar),луна,bulan,luna,ay
+world,世界,世界 (sai3 gaai3),世界 (せかい),Welt,세계,monde,mundo,thế giới,wereld,värld,mundo,mondo,عالم (alam),мир,dunia,mundus,dünya
+Earth,地球,地球 (dei6 kau4),地球 (ちきゅう),Erde,지구,terre,Tierra,Trái đất,Aarde,Jord,Terra,Terra,أرض (ard),Земля,Bumi,Terra,Dünya
+forest,森林,森林 (sam1 lam4),森林 (しんりん),Wald,숲,forêt,bosque,rừng,bos,skog,floresta,bosco,غابة (ghabah),лес,hutan,silva,orman
+sky,天空,天空 (tin1 hung1),空 (そら),Himmel,하늘,ciel,cie lo,bầu trời, lucht,himmel, céu,cie lo,سماء (samaa'),небо,langit,caelum,gökyüzü
+plant,植物,植物 (zik6 mat6),植物 (しょくぶつ),Pflanze,식물,plante,planta,thực vật,plant, växt,planta,pianta,نبات (nabat),растение,tumbuhan,plantae,bitki
+wind,风,風 (fung1),風 (かぜ),Wind,바람,vent, viento,gió,wind,vind,vento,vento,رياح (riyah),ветер,gió,ventus,rüzgar
+soil/earth,土地,土地 (tou2 dei6),土壌 (つち),Boden,흙, sol/terre,tierra,đất,aarde,jord,solo/terra,terra,أرض (ard),земля,tanah,solum,toprak
+flower,花,花 (faa1),花 (はな),Blume,꽃,fleur,flor,hoa,bloem,blomma,flo r,fiore,زهرة (zahra),цветок,bunga,flos,çiçek
+valley,山谷,山谷 (saan1 guk1),谷 (たに),Tal,계곡,vallée,valle,thung lũng, vallei,dal,vale,valle,وادي (wadi),долина,thung lũng,vallis,vadi
+root,根,根 (gan1),根 (ね),Wurzel,뿌리, racine,raíz,gốc,wortel,rot,raiz,radice,جذر (jazar),корень,akar,radix,kök
+lake,湖,湖 (wu4),湖 (みずうみ),See,호,lac,lago,hồ,meer,sjö,lago,lago,بحيرة (buhayrah),озеро,danau,lacus,göl
+star,星星,星 (sing1),星 (ほし),Stern,별,étoile,estrella,ngôi sao,ster, stjärna,estrela,stella,نجمة (najmah),звезда,bintang,stella,yıldız
+grass,草,草 (cou2),草 (くさ),Gras,풀,herbe, hierba,cỏ,gras,gräs,erva,erba,عشب (ushb),трава,rumput,herba,ot
+leaf,叶子,葉 (jip6 zi2),葉 (は),Blatt,잎,feuille, hoja,lá,blad,blad,folha,foglia,ورقة (warqah),лист,daun,folium,yaprak
+air,空气,空氣 (hung1 hei3),空気 (くうき),Luft,공기,air,aire,không khí,lucht,luft, ar,aria,هواء (hawa'),воздух,udara,aer,ağır
+sand,沙,沙 (saa1),砂 (すな),Sand,모래,sable,arena,cát,zand,sand,sabbia,areia,رمل (raml),песок,pasir,arena,kum
+beach,海滩,海灘 (hoi2 taan1),浜辺 (はまべ),Strand,해변,plage, playa,bãi biển,strand,strand,praia,spiaggia,شاطئ (shaṭī'),пляж,pantai,littus,kumsal
+wave,波,波 (bo1),波 (なみ),Welle,파도, vague,onda,sóng,golf,våg,onda,onda,موجة (mawjah),волна,ghi,unda,dalga
+fire,火,火 (fo2),火 (ひ),Feuer,불,feu,fuego,lửa,vuur,eld,fogo, fuoco,نار (nar),огонь,api,ignis,ateş
+ice,冰,冰 (beng1),氷 (こおり),Eis,얼음,gla ce,hielo,đá,ijs,is,gelo,ghiaccio,جليد (jalyd),лед,es,brex,gökyüzü
+island,岛,島 (dou2),島 (しま),Insel,섬,île,isla,đảo,eiland,ö, ilha,isola,جزيرة (jazīrah),остров,pulau,insula,ada
+hill,山丘,山丘 (saan1 kau4),丘 (おか),Hügel,언덕,colline,colina,đồi,heuvel,kulle,colina,collina,تل (tall),холм,bukit,colles,tepesi
+heat,热,熱 (jit6),熱 (ねつ),Hitze,열,cha leur,calor,nhiệt đới,warmte,värme,calor,calore,حرارة (hararah),жара,haba,calor,ısı
 🆙materials,材料,材料 (coi4 liu2),素材 (そざい),Material,재료,matériaux,materiales,vật liệu,materiaal,material,materiais,materiale,مواد (mawad),материалы,bahan,basis,materyal
+glass,玻璃,玻璃 (bo1 lei4),ガラス (がらす),Glas,유리,verre,vidrio,kính,glas,glass,vidro,vetro,زجاج (zujaj),стекло,kaca,vitrum,cam
+metal,金属,金屬 (gam1 suk6),金属 (きんぞく),Metall,금속,métal,metal,kim loại,metaal,metall,metal,metallo,معدن (ma'din),металл,logam,metallum,metal
+plastic,塑料,塑膠 (so1 gaau1),プラスチック (ぷらすちっく),Plastik,플라스틱,plastique,plástico,nhựa,kunststof,plast,plástico,plastica,بلاستيك (blāstīk),пластик,plastikum,plastik,plastik
+wood,木材,木材 (muk6 coi4),木材 (もくざい),Holz,나무,bois,madera,gỗ,hout,trä,madeira,legno,خشب (khashab),дерево,kayu,lignum,ahşap
+stone,石头,石頭 (sek6 tau4),石 (いし),Stein,돌,pierre,piedra,đá,steen,sten,pedra,pietra,حجر (hajar),камень,batu,lapis,lâp
+diamond,钻石,鑽石 (zyun1 sek6),ダイヤモンド (だいやもんど),Diamant,다이아몬드,diamant,diamante,kim cương,diamant,diamant,diamante,diamante,ألماس (almās),алмаз,berlian,diamas,adamantem
+clay,黏土,黏土 (nim4 tou2),粘土 (ねんど),Ton,점토,argile,arcilla,gạch, klei,lera,argila,terra,طين (tīn),глина,tanah liat,caenum,kil
+dust,灰尘,灰塵 (fai1 can4),ほこり (hokori),Staub,먼지,poussière,polvo,bụi,stof,damm,pó,polvere,غبار (ghubar),пыль,debu,pulvis,toz
+gold,黄金,黃金 (wong4 gam1),金 (きん),Gold,금,or,oro,vàng,goud,guld,ouro,oro,ذهب (dhahab),золото,emas,aurum,altın
+copper,铜,銅 (tung4),銅 (どう),Kupfer,구리,cuivre,cobre,đồng,koper,koppar,cobre,rame,نحاس (nihās),медь,tembaga,cuprum,bakır
+silver,银,銀 (ngan4),銀 (ぎん),Silber,은,argent,plata,bạc,zilver,silver,prata,argento,فضة (fiddah),серебро,perak,argentum,gümüş
 🆙math/measurements,数学/测量,數學/測量 (suk1 hok6/cak1 loeng4),数学/計測 (すうがく/けいそく),Mathematik/ Messung,수학/측정,math/mesure,matemáticas,toán học/đo lường,wiskunde/meting,matematik/mätning,matemática/mensuração,matematica/misurazione,رياضيات/قياس (riyadiyat/qiyas),математика/измерения,matematik/pengukuran,mathesis/mensura,matematik/ölçüm
+meter,米,米 (mai5),メートル (めーとる),Meter,미터,mètre,metro,mét, meter,meter,metro,metro,متر (mitr),метр,meter,meter,meter
+centimeter,厘米,厘米 (lei4 mai5),センチメートル (せんちめーとる),Zentimeter,센티미터,centimètre,centímetro,centimet,centimeter,centimeter,centimetro,centimetro,سنتيمتر (sentimetr),сантиметр,centimeter,centimeter,centimetre
+kilogram,公斤,公斤 (gung1 gan1),キログラム (きろぐらむ),Kilogramm,킬로그램,kilogramme,kilogramo,kilôgam,kilogram,kilogram,kilogrammo,chilogrammo,كيلوجرام (kīlūjirām),килограмм,kilogram,kilogram,kilogram
+inch,英寸,英寸 (jing1 cyun3),インチ (いんち),Zoll,인치,pouce,pulgada,inches,inch,tum,polegada,pollice,بوصة (būṣah),дюйм,inci,uncia,inch
+foot,英尺,呎 (cing1 cek3),フィート (ふぃーと),Fuß,피트,pied,pie,foot,voet,fot,pé,pé,قدم (qadam),фут,kaki,pes,pied
+pound,磅,磅 (bong6),ポンド (ぽんど),Pfund,파운드,livre,libra,pound,pound,pund,libra,libbra,رطل (ratl),фунт,pound,pound,pound
+half,半,半 (bun3),半 (はん),halb,반,moitié,medio,nửa,half,hälft,metade,metà,نصف (nisf),половина,setengah,semi,half
+circle,圆,圓 (jyun4),円 (えん),Kreis,원,cercle,círculo,hình tròn,cirkel,cirkel,círculo,circolo,دائرة (dāʼirah),круг,bulatan,circulus,daire
+square,平方,平方 (ping4 fong1),平方 (へいほう),Quadrat,제곱,carré,cuadrado,hình vuông,vierkant,kvadrat,quadrado,quadrato,مربع (murabbaʻ),квадрат,persegi,kvadratus,kare
+temperature,温度,溫度 (wan1 dou6),温度 (おんど),Temperatur,온도,température,temperatura,nhiệt độ,temperatuur,temperatur,temperatura,temperatura,درجة حرارة (darajat ḥarārah),температура,suhu,temperatura,ısı
+date,日期,日期 (jat6 jat6),日付 (ひづけ),Datum,날짜,date,fecha,ngày,datum,datum,data,data,تاريخ (tārīkh),дата,tarikh,data,tarih
+weight,重量,重量 (zung6 loeng6),重さ (おもさ),Gewicht,무게,poids,peso,trọng lượng,gewicht,vikt,peso,peso,وزن (wazn),вес,berat,pondus,ağırlık
+edge,边缘,邊緣 (bin1 jyun4),端 (はし),Kante,가장자리,bordes,borde,cạnh,rand,kant,borda,bordo,حافة (haafa),край,tepi,margo,kenar
+corner,角落,角落 (gok3 lok6),角 (かど),Ecke,구석,coin,esquina,góc,hoek,hörn,canto,angolo,زاوية (zāwiyah),угол,sudut,angulus,köşe
 🆙misc nouns,其他名词,其他名詞 (kei4 ta1 ming4 ci4),その他の名詞 (そのたのめいし),Sonstiges Substantiv,기타 명사,autres noms,otros sustantivos,các danh từ khác,diverse zelfstandige naamwoorden,övriga substantiv,outros substantivos,altri sostantivi,أسماء متفرقة (asma' mutafarriqa),другие существительные,kata nama lain,lēxica alia,various isimler
+map,地图,地圖 (dei6 tou4),地図 (ちず),Karte,지도,carte,map,bản đồ,karta,karta,mapa,mappa,خريطة (kharita),карта,peta,mappa,harita
+dot,点,點 (dim2),点 (てん),Punkt,점,point,punto,chấm,punt,punkt,ponto,punto,نقطة (nuqta),точка,titik,punctum,nokta
+consonant,辅音,輔音 (fu6 jam1),子音 (しいん),Konsonant,자음,consonne,consonante,phụ âm,medeklinker,konsonant,consoante,consonante,حرف ساكن (harf sakin),согласная,konsonan,consonans,konsonant
+vowel,元音,元音 (jyun4 jam1),母音 (ぼいん),Vokal,모음,voyelle,vocal,nguyên âm,klinker,vokal,vogal,vocale,حرف متحرك (harf mutaharrik),гласная,vokal,vocalis,vokal
+light,光,光 (gwong1),光 (ひかり),Licht,빛,lumière,luz,ánh sáng,licht,ljus,luz,luce,ضوء (daw'),свет,cahaya,lux,ışık
+sound,声音,聲音 (seng1 jam1),音 (おん),Klang,소리,son,sonido,âm thanh,geluid,ljud,som,suono,صوت (sawt),звук,suara,sonus,sound
+yes,是,係 (hai6),はい (hai),Ja,네,oui,sí,vâng,ja,ja,sim,sì,نعم (naam),да,ya,ita,evet
+no,不是,唔係 (m4 hai6),いいえ (iie),Nein,아니오,non,no,không,nee,nej,não,no,لا (la),нет,tidak,non,hayır
+piece,片,片 (pin3),部分 (ぶぶん),Stück,조각,morceau,pedazo,mảnh,stuk,bit,peça,pezzo,قطعة (qitaa),кусок,potongan,pars,tane
+pain,痛,痛 (tung3),痛み (いたみ),Schmerz,아픔,douleur,dolor,đau,pijn,smärta,dor,dolore,ألم (alam),боль,sakit,dolor,acı
+injury,伤,傷 (soeng1),怪我 (けが),Verletzung,부상,blessure,lesión,vết thương,blessure,skada,lesão,lesione,إصابة (isabah),травма,luka,laesio,yaralanma
+hole,洞,洞 (dung6),穴 (あな),Loch,구멍,trou,agujero,lỗ,gat,hål,buraco,buco,حفرة (hafra),отверстие,lubang,cavum,delik
+image,图像,圖像 (tou4 coeng2),画像 (がぞう),Bild,이미지,image,imagen,hình ảnh,afbeelding,bild,imagem,immagine,صورة (sura),изображение,gambar,imago,resim
+pattern,图案,圖案 (tou4 on3),模様 (もよう),Muster,무늬,modèle,patrón,mẫu,patroon,mönster,padrão,disegno,نمط (namit),узор,pola,pars,model
+noun,名词,名詞 (ming4 ci4),名詞 (めいし),Substantiv,명사,nom,sustantivo,danh từ,naamwoord,substantiv,substantivo,sostantivo,اسم (ism),существительное,kata benda,nomen,isim
+verb,动词,動詞 (dung6 ci4),動詞 (どうし),Verb,동사,verbe,verbo,động từ,werkwoord,verb,verbo,verbo,فعل (fi'l),глагол,kata kerja,verbum,fiil
+adjective,形容词,形容詞 (jing4 jung2 ci4),形容詞 (けいようし),Adjektiv,형용사,adjectif,adjetivo,tính từ,bijvoeglijk naamwoord,adjektiv,adjetivo,aggettivo,صفة (sifa),прилагательное,kata sifat,adjectiv,sıfat
 🆙directions,方向,方向 (fong1 hoeng3),方向 (ほうこう),Richtungen,방향,directions,direcciones,hướng,richtingen,riktningar,instruções,indicazioni,اتجاهات (itijahat),направления,arahan,regiones,yonlar
 🆙seasons,季节,季節 (gwai1 zit3),季節 (きせつ),Jahreszeiten,계절,saisons,estaciones,mùa,seizoenen,säsonger,estações,stagioni,فصول (fusul),сезоны,musim,tempestates,mevsimler
 🆙numbers,数字,數字 (syu3 zi6),数字 (すうじ),Zahlen,숫자,nombres,números,số,getallen,siffror,números,numeri,أرقام (arqam),числа,angka,numeri,rakamlar
