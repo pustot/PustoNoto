@@ -11,11 +11,13 @@ Here are the requirements that please be very careful with:
 )
 
 （好像给他格式让他模仿会更好一些，只用语言描述还是不好听懂。）
-( Your format should be like this:
+( Please write a CSV file of multilingual word list, with words in English compared to Mandarin, Cantonese, Japanese, German, Korean, French, Spanish, Vietnamese, Dutch,Swedish,Portuguese,Italian,Arabic,Russian,Malay,Latin,Turkish. Your format should be like this:
 
 ```
-Word,Mandarin,Cantonese (Hanzi,JyutPing),Japanese (仮名),German,Korean,French,Spanish,Vietnamese,Dutch,Swedish,Portuguese,Italian,Arabic,Russian,Malay,Latin,Turkish
+Word,Mandarin,Cantonese (JyutPing),Japanese (仮名),German,Korean,French,Spanish,Vietnamese,Dutch,Swedish,Portuguese,Italian,Arabic,Russian,Malay,Latin,Turkish
+🆙animal,动物,動物 (dung6 mat6),動物 (どうぶつ),Tier,동물,animal,animal,động vật,dier,djur,animal,animale,حيوان (hayawan),животное,hewan,animal,hayvan
 dog,狗,狗 (gau2),犬 (いぬ),Hund,개,chien,perro,chó,hond,hund,cachorro,cane,كلب (kalb),собака,anjing,canis,köpek
+cat,猫,貓 (maau1),猫 (ねこ),Katze,고양이,chat,gato,mèo,kat,katt,gato,gatto,قطة (qittah),кот,kucing,felis,kedi
 ```
 
 now write the list with these words: )

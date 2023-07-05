@@ -18,7 +18,7 @@ bicycle,自行车,自行車 (zi6 hang4 ce1),自転車 (じてんしゃ),Fahrrad,
 bus,公共汽车,巴士 (baa1 si2),バス,Bus,버스,bus,autobús,xe buýt,bus,buss,ônibus,autobus,حافلة (hafilah),автобус,bas,autocinetum,otobüs
 boat,船,船 (syun4),ボート,Boot,배,bateau,barco,thuyền,boot,båt,barco,barca,قارب (qarib),лодка,perahu,navis,tekne
 ship,船,船 (syun4),船 (ふね),Schiff,선박,bateau,barco,tàu,chip,skepp,navio,nave,سفينة (safina),корабль,kapal,linter,nave
-tire,轮胎,輪胎 (leon4 toi4),タイヤ,Reifen,타이어,pneu,llanta,lốp,band, däck,pneu,pneumatico,إطار (it'aar),шина,tayar,rota,lastik
+tire,轮胎,輪胎 (leon4 toi4),タイヤ,Reifen,타이어,pneu,llanta,lốp,band,däck,pneu,pneumatico,إطار (it'aar),шина,tayar,rota,lastik
 gasoline,汽油,汽油 (hei3 jau4),ガソリン,Benzin,휘발유,essence,gasolina,xăng,benzine,bensin,gasolina,benzina,بنزين (benzine),бензин,petrol,petrol,gaz yağı
 engine,引擎,引擎 (jan5 cing1),エンジン,Motor,엔진,moteur,motor,động cơ,motor,motor,motor,motore,محرك (muharrik),двигатель,enjin,enigne,motor
 (train) ticket,火车票,火車票 (fo2 ce1 piu3),切符 (きっぷ),Fahrkarte,기차표,billet,billete,vé xe lửa,treinkaartje,tågbiljett,bilhete,biglietto,تذكرة القطار (tazkira alqitar),билет,teksi kereta api,billethea,tren bileti
@@ -40,7 +40,7 @@ room,房间,房間 (fong4 gaan1),部屋 (へや),Zimmer,방,chambre,cuarto,phòn
 town,镇,鎮 (zan3),町 (ちょう),Stadt,마을,village,pueblo,thị trấn,dorp,stad,cidade,villaggio,بلدة (balda),городок,bandar,villa,villa
 university,大学,大學 (daai6 hok6),大学 (だいがく),Universität,대학교,université,universidad,đại học,universiteit,universitet,universidade,università,جامعة (jamia),университет,universiti,universitas,universitas
 club,俱乐部,會所 (wui2 so2),クラブ,Verein,클럽,club,club,clb,clubb,sällskap,clube,club,نادي (nadi),клуб,kelab,sodalitas,klüp
-bar,酒吧,酒吧 (zau2 baa1),バー,Bar,바,bar,bar,quán bar,bar,bar,bar,مقهى (maqha),бар,bar,bar,bar,bar
+bar,酒吧,酒吧 (zau2 baa1),バー,Bar,바,bar,bar,quán bar,bar,bar,bar,bar,مقهى (maqha),бар,bar,bar,bar
 park,公园,公園 (gung1 jyun2),公園 (こうえん),Park,공원,parc,parque,công viên,park,park,parque,parco,حديقة (hadika),парк,taman,parkus,park
 camp,营地,營地 (jing4 dei6),キャンプ,Lager,캠프,campamento,camp,trại khu,campingplats,läger,campismo,campeggio,مخيم (makhayyam),лагерь,khemah,castra,camp
 store/shop,商店,商店 (soeng1 dim3),店舗 (てんぽ),Geschäft,상점,magasin,tienda,cửa hàng,winkel,butik,loja,negozio,متجر (matjar),магазин,kedai,taberna,mağaza
@@ -55,18 +55,18 @@ ground,地面,地 (dei6),地面 (じめん),Boden,땅,sol,suelo,mặt đất,gro
 space (outer space),太空,太空 (taai3 hung1),宇宙 (うちゅう),Weltraum,우주,espace,espacio,không gian,ruimte,rymd,espaço,spazio,الفضاء الخارجي (al-fada' al-khariji),космос,angkasa,spatium,astrum
 bank,银行,銀行 (ngan4 hong4),銀行 (ぎんこう),Bank,은행,banque,banco,ngân hàng,bank,bank,banco,banca,بنك (bank),банк,bank,banka,banka
 🆙clothing,衣物,衣物 (ji1 mat6),衣類 (いるい),Kleidung,의류,vêtement,ropa,quần áo,kleding,kläder,roupa,abbigliamento,ملابس (malābis),одежда,pakaian,vestimenta,giysi
-hat,帽子,帽子 (bou6 zi2),帽子 (ぼうし),Hut,모자,chapeau,sombrero,mũ,n hoed,hatt, chapéu,cappello,قبعة (qubʿah),шляпа,topi,caputium,şapka
+hat,帽子,帽子 (bou6 zi2),帽子 (ぼうし),Hut,모자,chapeau,sombrero,mũ,n hoed,hatt,chapéu,cappello,قبعة (qubʿah),шляпа,topi,caputium,şapka
 dress,连衣裙,連衣裙 (lin4 ji1 kwan4),ドレス (doresu),Kleid,드레스,robe,vestido,áo liền,vrouwelijke jurk,klänning,vestido,vestito,فستان (fustaan),платье,gaun,vestis,elbise
 suit,西装,西裝 (sai1 cong1),スーツ (sūtsu),Anzug,정장,costume,traje,áo vest,n pak,kostym,terno,abito,بدلة (badla),костюм,jas,vestis,elbise
 skirt,裙子,裙子 (kwan4 zi2),スカート (sukāto),Rock,치마,jupe,falda,chân váy,rok,kjol,saia,gonna,تنورة (tanūrah),юбка,rok,vestis,etek
 shirt,衬衫,襯衫 (can1 saam1),シャツ (shatsu),Hemd,셔츠,chemise,camisa,áo sơ mi,hemd,skjorta,camisa,camicia,قميص (qamīṣ),рубашка,baju kemeja,camisia,gömlek
-T-shirt, T恤, T恤 (T seoi6),Tシャツ (T shatsu),T-Shirt,T셔츠,T-shirt,camiseta,áo phông,T-shirt,T-tröja,camiseta,maglietta,T-شيرت (T-shīrt),футболка,T-baju,under tunicamisia,tişört
+T-shirt,T恤,T恤 (T seoi6),Tシャツ (T shatsu),T-Shirt,T셔츠,T-shirt,camiseta,áo phông,T-shirt,T-tröja,camiseta,maglietta,T-شيرت (T-shīrt),футболка,T-baju,under tunicamisia,tişört
 pants,裤子,褲子 (fu3 zi2),パンツ (pantsu),Hose,바지,pantalon,pantalones,quần,korte broek,byxor,calça,pantaloni,بنطلون (bantalūn),штаны,celana,brācae,pantolon
 shoes,鞋,鞋 (haai4),靴 (くつ),Schuhe,신발,chaussures,zapatos,giày,schoenen,skor,sapatos,scarpe,أحذية (ʾaḥḍiyah),обувь,sepatu,calcei,ayakkabı
 pocket,口袋,口袋 (hau2 doi6),ポケット (poketto),Tasche,포켓,poches,bolsillo,ngăn túi,zak,zak,fundo,borsa,جيب (jayb),карман,saku,sinus,cep
 coat,外套,外套 (ngoi6 tou3),コート (kōto),Mantel,코트,manteau,abrigo,áo khoác,jas,rock,casaco,cappotto,معطف (maʿṭaf),пальто,ceket,paenula,palto
-stain,污点,污點 (wu1 dim2),シミ (shimi),Fleck,얼룩, tache,mancha,vết bẩn,vlek,fläck,mancha,macchia,بقعة (baqʿah),пятно,noda,macula,leke
-🆙color,颜色,顏色 (ngaan4 sik1),色 (いろ),Farbe,색상,couleur,color,color,kleur,färg,cor, colore,لون (lawn),цвет,warna,color,renk
+stain,污点,污點 (wu1 dim2),シミ (shimi),Fleck,얼룩,tache,mancha,vết bẩn,vlek,fläck,mancha,macchia,بقعة (baqʿah),пятно,noda,macula,leke
+🆙color,颜色,顏色 (ngaan4 sik1),色 (いろ),Farbe,색상,couleur,color,color,kleur,färg,cor,colore,لون (lawn),цвет,warna,color,renk
 red,红色,紅色 (hung4 sik1),赤 (あか),rot,빨간색,rouge,rojo,đỏ,rood,röd,vermelho,rosso,أحمر (aḥmar),красный,merah,rubrum,kırmızı
 green,绿色,綠色 (luk6 sik1),緑 (みどり),grün,초록색,vert,verde,xanh lá,cq groen,grön,verde,verde,أخضر (akhḍar),зеленый,hijau,viridis,yeşil
 blue (light),浅蓝色,淺藍色 (cim1 laam4 sik1),水色 (みずいろ),hellblau,하늘색,bleu claro,azul claro,xanh nhạt,lichtblauw,ljusblå,azul claro,azzurro chiaro,أزرق فاتح (azraq fatih),голубой,biru muda,caeruleus clarius,açık mavi
@@ -78,34 +78,196 @@ orange,橙色,橙色 (caang2 sik1),オレンジ (orenji),orange,주황색,orange
 black,黑色,黑色 (hak1 sik1),黒 (くろ),schwarz,검은색,noir,negro,đen,zwart,svart,preto,nero,أسود (aswad),черный,hitam,ater,nin
 white,白色,白色 (baak6 sik1),白 (しろ),weiß,흰색,blanc,blanco,trắng,wit,vit,branco,bianco,أبيض (abyaḍ),белый,putih,candens,beyaz
 gray,灰色,灰色 (fo1 sik1),灰 (はい),grau,회색,gris,gris,xám,grijs,grå,cinza,grigio,رمادي (ramādī),серый,abu-abu,cinereus,gri
-🆙people,人,人 (jan4),人 (ひと),Menschen,사람, gens, gente,người, mensen,människor,pessoas,persone,شخص (shakhs),люди,orang, homo,insan
-son,儿子,仔 (zi2),息子 (むすこ),Sohn,아들, fils,hijo,con trai,zoon,son,filho,figlio,ابن (ibn),сын,anak lelaki,filho, oğul
-daughter,女儿,女仔 (neoi5),娘 (むすめ),Tochter,딸, fille,hija,con gái,dochter,dotter,filha,figlia,ابنة (ibna),дочь,anak perempuan,filha, kız
-mother,母亲,妈妈 (maa1 maa1),母 (はは),Mutter,어머니, mère,madre,mẹ,moeder,mor,mãe,madre,أم (um),мать,ibu, mãe, anne
-father,父亲,爸爸 (baa1 baa1),父 (ちち),Vater,아버지, père,padre,cha,vader,far,pai,padre,أب (ab),отец,bapa, pai, baba
-parent,父母,父母 (fu6 mou5),両親 (りょうしん),Eltern,부모, parents,padres,phụ huynh,ouders,föräldrar,pais,genitori,الوالدين (alwālidayn),родители,ibu bapa, pais, ebeveyn
-baby,婴儿,嬰兒 (jeng1 ji4),赤ちゃん (あかちゃん),Baby,아기, bébé,bebé,em bé,baby,baby,baby,bambino,طفل رضيع (ṭifl raḍīʿ),ребенок,bayi, bebê, bebek
-man,男人,男人 (naam4 jan4),男 (おとこ),Mann,남자, homme,hombre,đàn ông,man,man, homem,uomo,رجل (rajul),мужчина,lelaki, homem, erkek
-woman,女人,女人 (neoi5 jan4),女 (おんな),Frau,여자, femme,mujer,phụ nữ,vrouw,kvinna,mulher,donna,امرأة (imra'a),женщина,perempuan, mulher, kadın
-brother,兄弟,兄弟 (hing1 dai6),兄弟 (きょうだい),Bruder,형제, frère,hermano,anh em,zoon,broder,irmão,fratello,أخ (akh),брат,abang, irmão, erkek kardeş
-sister,姐妹,姊妹 (zeoi1 mui6),姉妹 (しまい),Schwester,자매, sœur,hermana,chị em,zus,syster,irmã,sorella,أخت (ukht),сестра,kakak perempuan, irmã, kız kardeş
-family,家庭,家庭 (gaa1 ting4),家族 (かぞく),Familie,가족, famille,familia,gia đình,familie,familj,família,famiglia,أسرة (usra),семья,keluarga, família, aile
-grandfather,爷爷,公公 (joeng1 joeng1),おじいさん (ojiisan),Großvater,할아버지, grand-père,abuelo,ông nội,grootvader,farfar,avô,nonno,جد (jid),дедушка,datuk, avô, dede
-grandmother,奶奶,婆婆 (po4 po4),おばあさん (obaasan),Großmutter,할머니, grand-mère,abuela,bà nội,grootmoeder,farmor,avó,nonna,جدة (jidda),бабушка,nenek, avó, nine
-husband,丈夫,丈夫 (zoeng6 fu1),夫 (おっと),Ehemann,남편, mari,esposo,chồng,echtgenoot,make,marido,marito,زوج (zawj),муж,suami, marido, koca
-wife,妻子,妻 (cai1),妻 (つま),Ehefrau,아내, femme,esposa,vợ,echtgenote,hustru,esposa,moglie,زوجة (zawja),жена,isteri, esposa, eş
-king,国王,國王 (gwok3 wong4),王 (おう),König,왕, roi,rey,vua,koning,kung,rei,re,ملك (malik),король,raja, rei, kral
-queen,皇后,皇后 (wong4 hau6),王妃 (おうひ),Königin,왕비, reine,reina,hậu,koningin,drottning,rainha,regina,ملكة (malika),королева,permaisuri, rainha, kraliçe
-president,总统,總統 (zung2 tung2),大統領 (だいとうりょう),Präsident,대통령, président,presidente,tổng thống,president,president,presidente,presidente,رئيس (ra'īs),президент,presiden, presidente, cumhurbaşkanı
-neighbor,邻居,鄰居 (leon4 geoi1),隣人 (となりびと),Nachbar,이웃, voisin,vecino,hàng xóm,buurman,granne,vizinho,vicino,جار (jar),сосед,tetangga, vizinho, komşu
-boy,男孩,男仔 (naam4 zai2),男の子 (おとこのこ),Junge,소년, garçon,niño,con trai,jongen,pojke,menino,ragazzo,صبي (sabi),мальчик,kanak-kanak lelaki, rapaz, oğlan
-girl,女孩,女仔 (neoi5 zai2),女の子 (おんなのこ),Mädchen,소녀, fille,niña,gái,meisje,flicka,menina,ragazza,بنت (bint),девушка,kanak-kanak perempuan, rapariga, kız
-child,孩子,仔 (zai2),子供 (こども),Kind,아이, enfant,niño,trẻ em,kind,barn,criança,bambino,طفل (ṭifl),ребенок,kanak-kanak, criança, çocuk
-adult,成人,成人 (sing4 jan4),大人 (おとな),Erwachsene,성인, adulte,adulto,người lớn,volwassene,vuxen,adulto,adulto,بالغ (bāligh),взрослый,orang dewasa, adulto, yetişkin
-human,人,人 (jan4),人間 (にんげん),Mensch,인간, humain,humano,con người,mens, människa,humano,umano,إنسان (insān),человек,manusia, humano, insan
-friend,朋友,朋友 (pang4 jau5),友達 (ともだち),Freund,친구, ami,amigo,bạn bè,vriend,vän,amigo,amico,صديق (sadiq),друг,teman, amigo, arkadaş
-victim,受害者,受害者 (sau6 hoi6 ze2),被害者 (ひがいしゃ),Opfer,피해자, victime,víctima,nạn nhân,slachtoffer,offer,vítima,vittima,ضحية (ḍaḥiya),жертва,mangsa, vítima, mağdur
-player,玩家,玩家 (waan4 gaa1),プレーヤー (ぷれーいやー),Spieler,플레이어, joueur,jugador,người chơi,speler,spelare,jogador,giocatore,لاعب (lāʿib),игрок,pemain, jogador, oyuncu
-fan,粉丝,粉絲 (fan2 si1),ファン (ふぁん),Fan,팬, fan,fan,tán thành,fan,fan,fã,tifoso,مشجع (mushaqqiʿ),болельщик,peminat, fã, hayran
-crowd,人群,人群 (jan4 kwan4),人々 (ひとびと),Menge,군중, foule,multitud,đám đông,massa,massa,multidão,folla,الحشد (alhashd),толпа,kerumunan, multidão, kalabalık
-person,人,人 (jan4),人 (ひと),Person,사람, personne,persona,người,persoon,person,pessoa,persona,شخص (shakhs),человек,orang, pessoa, kişi
+🆙people,人,人 (jan4),人 (ひと),Menschen,사람,gens,gente,người,mensen,människor,pessoas,persone,شخص (shakhs),люди,orang,homo,insan
+son,儿子,仔 (zi2),息子 (むすこ),Sohn,아들,fils,hijo,con trai,zoon,son,filho,figlio,ابن (ibn),сын,anak lelaki,filho,oğul
+daughter,女儿,女仔 (neoi5),娘 (むすめ),Tochter,딸,fille,hija,con gái,dochter,dotter,filha,figlia,ابنة (ibna),дочь,anak perempuan,filha,kız
+mother,母亲,妈妈 (maa1 maa1),母 (はは),Mutter,어머니,mère,madre,mẹ,moeder,mor,mãe,madre,أم (um),мать,ibu,mãe,anne
+father,父亲,爸爸 (baa1 baa1),父 (ちち),Vater,아버지,père,padre,cha,vader,far,pai,padre,أب (ab),отец,bapa,pai,baba
+parent,父母,父母 (fu6 mou5),両親 (りょうしん),Eltern,부모,parents,padres,phụ huynh,ouders,föräldrar,pais,genitori,الوالدين (alwālidayn),родители,ibu bapa,pais,ebeveyn
+baby,婴儿,嬰兒 (jeng1 ji4),赤ちゃん (あかちゃん),Baby,아기,bébé,bebé,em bé,baby,baby,baby,bambino,طفل رضيع (ṭifl raḍīʿ),ребенок,bayi,bebê,bebek
+man,男人,男人 (naam4 jan4),男 (おとこ),Mann,남자,homme,hombre,đàn ông,man,man,homem,uomo,رجل (rajul),мужчина,lelaki,homem,erkek
+woman,女人,女人 (neoi5 jan4),女 (おんな),Frau,여자,femme,mujer,phụ nữ,vrouw,kvinna,mulher,donna,امرأة (imra'a),женщина,perempuan,mulher,kadın
+brother,兄弟,兄弟 (hing1 dai6),兄弟 (きょうだい),Bruder,형제,frère,hermano,anh em,zoon,broder,irmão,fratello,أخ (akh),брат,abang,irmão,erkek kardeş
+sister,姐妹,姊妹 (zeoi1 mui6),姉妹 (しまい),Schwester,자매,sœur,hermana,chị em,zus,syster,irmã,sorella,أخت (ukht),сестра,kakak perempuan,irmã,kız kardeş
+family,家庭,家庭 (gaa1 ting4),家族 (かぞく),Familie,가족,famille,familia,gia đình,familie,familj,família,famiglia,أسرة (usra),семья,keluarga,família,aile
+grandfather,爷爷,公公 (joeng1 joeng1),おじいさん (ojiisan),Großvater,할아버지,grand-père,abuelo,ông nội,grootvader,farfar,avô,nonno,جد (jid),дедушка,datuk,avô,dede
+grandmother,奶奶,婆婆 (po4 po4),おばあさん (obaasan),Großmutter,할머니,grand-mère,abuela,bà nội,grootmoeder,farmor,avó,nonna,جدة (jidda),бабушка,nenek,avó,nine
+husband,丈夫,丈夫 (zoeng6 fu1),夫 (おっと),Ehemann,남편,mari,esposo,chồng,echtgenoot,make,marido,marito,زوج (zawj),муж,suami,marido,koca
+wife,妻子,妻 (cai1),妻 (つま),Ehefrau,아내,femme,esposa,vợ,echtgenote,hustru,esposa,moglie,زوجة (zawja),жена,isteri,esposa,eş
+king,国王,國王 (gwok3 wong4),王 (おう),König,왕,roi,rey,vua,koning,kung,rei,re,ملك (malik),король,raja,rei,kral
+queen,皇后,皇后 (wong4 hau6),王妃 (おうひ),Königin,왕비,reine,reina,hậu,koningin,drottning,rainha,regina,ملكة (malika),королева,permaisuri,rainha,kraliçe
+president,总统,總統 (zung2 tung2),大統領 (だいとうりょう),Präsident,대통령,président,presidente,tổng thống,president,president,presidente,presidente,رئيس (ra'īs),президент,presiden,presidente,cumhurbaşkanı
+neighbor,邻居,鄰居 (leon4 geoi1),隣人 (となりびと),Nachbar,이웃,voisin,vecino,hàng xóm,buurman,granne,vizinho,vicino,جار (jar),сосед,tetangga,vizinho,komşu
+boy,男孩,男仔 (naam4 zai2),男の子 (おとこのこ),Junge,소년,garçon,niño,con trai,jongen,pojke,menino,ragazzo,صبي (sabi),мальчик,kanak-kanak lelaki,rapaz,oğlan
+girl,女孩,女仔 (neoi5 zai2),女の子 (おんなのこ),Mädchen,소녀,fille,niña,gái,meisje,flicka,menina,ragazza,بنت (bint),девушка,kanak-kanak perempuan,rapariga,kız
+child,孩子,仔 (zai2),子供 (こども),Kind,아이,enfant,niño,trẻ em,kind,barn,criança,bambino,طفل (ṭifl),ребенок,kanak-kanak,criança,çocuk
+adult,成人,成人 (sing4 jan4),大人 (おとな),Erwachsene,성인,adulte,adulto,người lớn,volwassene,vuxen,adulto,adulto,بالغ (bāligh),взрослый,orang dewasa,adulto,yetişkin
+human,人,人 (jan4),人間 (にんげん),Mensch,인간,humain,humano,con người,mens,människa,humano,umano,إنسان (insān),человек,manusia,humano,insan
+friend,朋友,朋友 (pang4 jau5),友達 (ともだち),Freund,친구,ami,amigo,bạn bè,vriend,vän,amigo,amico,صديق (sadiq),друг,teman,amigo,arkadaş
+victim,受害者,受害者 (sau6 hoi6 ze2),被害者 (ひがいしゃ),Opfer,피해자,victime,víctima,nạn nhân,slachtoffer,offer,vítima,vittima,ضحية (ḍaḥiya),жертва,mangsa,vítima,mağdur
+player,玩家,玩家 (waan4 gaa1),プレーヤー (ぷれーいやー),Spieler,플레이어,joueur,jugador,người chơi,speler,spelare,jogador,giocatore,لاعب (lāʿib),игрок,pemain,jogador,oyuncu
+fan,粉丝,粉絲 (fan2 si1),ファン (ふぁん),Fan,팬,fan,fan,tán thành,fan,fan,fã,tifoso,مشجع (mushaqqiʿ),болельщик,peminat,fã,hayran
+crowd,人群,人群 (jan4 kwan4),人々 (ひとびと),Menge,군중,foule,multitud,đám đông,massa,massa,multidão,folla,الحشد (alhashd),толпа,kerumunan,multidão,kalabalık
+person,人,人 (jan4),人 (ひと),Person,사람,personne,persona,người,persoon,person,pessoa,persona,شخص (shakhs),человек,orang,pessoa,kişi
+🆙Job,工作,工作 (gung1 zok3),仕事 (しごと),Beruf,직업,métier,trabajo,công việc,baan,job,trabalho,lavoro,وظيفة (wazifa),работа,pekerjaan,officium,iş
+Teacher,老师,老師 (lou5 si1),先生 (せんせい),Lehrer,선생님,professeur,profesor,giáo viên,leraar,lärare,professor,professore,مدرس (modaris),учитель,guru,magister,öğretmen
+Student,学生,學生 (hok6 saang1),学生 (がくせい),Schüler,학생,étudiant,estudiante,sinh viên,student,elev,aluno,studente,طالب (taleb),студент,pelajar,discipulus,öğrenci
+Lawyer,律师,律師 (lut6 si1),弁護士 (べんごし),Anwalt,변호사,avocat,abogado,luật sư,advocaat,advokat,advogado,avvocato,محام (muhammam),адвокат,peguam,advocatus,avukat
+Doctor,医生,醫生 (ji1 saang1),医者 (いしゃ),Arzt,의사,médecin,médico,bác sĩ,dokter,läkare,médico,medico,طبيب (tabib),врач,doktor,medicus,doktor
+Patient,病人,病人 (beng6 jan4),患者 (かんじゃ),Patient,환자,patient,paciente,bệnh nhân,patiënt,patiente,paciente,paziente,مريض (mareedh),пациент,pesakit,aeger,hasta
+Waiter,服务员,服務員 (fuk6 mou6 jyun4),ウェイター,Kellner,웨이터,serveur,camarero,đầu bếp,ober,kypare,garçom,cameriere,نادل (naadil),официант,pelayan,ministra mensarum,garson
+Secretary,秘书,秘書 (bei3 syu1),秘書 (ひしょ),Sekretär,비서,secrétaire,secretario,thư ký,secretaris,sekreterare,secretário,segretario,سكرتير (sikritir),секретарь,setiausaha,tabellarius,sekreter
+Priest,神父,神父 (san4 fu6),神父 (しんぷ),Priester,신부,prêtre,padre,cha sứ,priester,präst,padre,sacerdote,كاهن (kahan),священник,paderi,sacerdos,papaz
+Police,警察,警察 (ging2 caat3),警察 (けいさつ),Polizei,경찰,police,policía,cảnh sát,politie,polis,polícia,polizia,شرطة (shurta),полиция,polis,praefectus,polis
+Army,军队,軍隊 (gwan1 deoi2),軍 (ぐん),Armee,군대,armée,ejército,quân đội,leger,armé,exército,esercito,جيش (jaysh),армия,askar,exercitus,ordu
+Soldier,士兵,士兵 (si6 bing1),兵士 (へいし),Soldat,병사,soldat,soldado,chiến sĩ,soldaat,soldat,soldado,soldato,جندي (jundi),солдат,askar,miles,asker
+Artist,艺术家,藝術家 (ngai6 seot6 gaa1),芸術家 (げいじゅつか),Künstler,예술가,artiste,artista,nghệ sĩ,kunstenaar,konstnär,artista,artista,فنان (fanān),художник,seniman,artifex,sanatçı
+Author,作者,作者 (coeng3 zyu2),著者 (ちょしゃ),Autor,작가,auteur,autor,tác giả,auteur,författare,autor,autore,مؤلف (mo'allef),автор,penulis,scriptor,yazar
+Manager,经理,經理 (ging1 lei5),マネージャー,Manager,매니저,manager,gerente,quản lý,manager,chef,chefe,manager,مدير (mudir),менеджер,pengurus,magister,müdür
+Reporter,记者,記者 (gei3 ze2),レポーター,Reporter,기자,journaliste,reportero,phóng viên,journalist,journalist,repórter,giornalista,صحفي (sahafi),репортер,wartawan,index,muhabir
+Actor,演员,演員 (jin2 jyun4),俳優 (はいゆう),Schauspieler,배우,acteur,actor,diễn viên,acteur,skådespelare,ator,attore,ممثل (mumathil),актер,pelakon,histrio,aktör
+🆙society,社会,社會 (se5 wui2),社会 (しゃかい),Gesellschaft,사회,société,sociedad,xã hội,maatschappij,samhälle,sociedade,società,مجتمع (mujtama'),общество,masyarakat,societas,toplum
+Religion,宗教,宗教 (zung1 gaau3),宗教 (しゅうきょう),Religion,종교,religion,religión,tôn giáo,religie,religion,religião,religione,دين (deen),религия,agama,religio,din
+Heaven,天堂,天堂 (tin1 tong4),天国 (てんごく),Himmel,천국,cieux,cielo,thiên đường,hemel,himmel,paraíso,paradiso,الجنة (aljannah),небо,surga,caelum,cennet
+Hell,地狱,地獄 (dei6 juk6),地獄 (じごく),Hölle,지옥,enfer,infierno,địa ngục,hel,hel,inferno,inferno,جحيم (jahim),ад,neraka,infernus,cehennem
+Death,死亡,死亡 (sei2 mong4),死 (し),Tod,사망,mort,muerte,chết,dood,död,morte,morte,الموت (almawt),смерть,kematian,mors,ölüm
+Medicine,药物,藥物 (joek6 mat6),薬 (くすり),Medizin,의약품,médicament,medicina,thuốc,medicijn,medicin,medicina,medicina,دواء (dawa'),лекарство,ubat,medicamentum,ilaç
+Money,钱,錢 (cin4),お金 (おかね),Geld,돈,argent,dinero,tiền,geld,pengar,dinheiro,soldi,نقود (nuqud),деньги,wang,pecunia,para
+Dollar,美元,美元 (mei5 jyun4),ドル,Dollar,달러,dollar,dólar,đô la,dollar,dollar,dólar,dollaro,دولار (dolar),доллар,dolar,dollar,dolar
+Bill,账单,賬單 (zoeng3 dan1),請求書 (きんがくしょ),Rechnung,청구서,facture,factura,hóa đơn,rekening,räkningen,factura,fattura,فاتورة (fātūrah),счёт,bil,factura,fatura
+Marriage,婚姻,婚姻 (fan1 jan1),結婚 (けっこん),Ehe,결혼,mariage,matrimonio,hôn nhân,huwelijk,äktenskap,casamento,matrimonio,زواج (zawāj),брак,perkahwinan,matrimonium,evlilik
+Wedding,婚礼,婚禮 (fan1 lai5),結婚式 (けっこんしき),Hochzeit,결혼식,mariage,boda,đám cưới,bruiloft,bröllop,casamento,matrimonio,حفلة الزفاف (ḥaflat alzifāf),свадьба,perkahwinan,nuptiae,düğün
+Team,团队,團隊 (tyun4 deoi6),チーム,Team,팀,équipe,equipo,nhóm,team,lag,time,squadra,فريق (fariq),команда,pasukan,manus,takım
+Race (ethnicity),种族,種族 (zung2 zuk6),人種 (じんしゅ),Rasse,인종,race,raza,chủng tộc,ras,rast,raça,razza,عرق (ʿaraq),раса,bangsa,gens,ırk
+Sex (the act),性,性 (sing3),セックス,Geschlecht,성별,sexe,sexo,giới tính,geslacht,kön,sexo,sesso,جنس (jins),пол,seks,sexus,cinsiyet
+Sex (gender),性别,性別 (sing3 bit6),性別 (せいべつ),Geschlecht,성별,sexe,sexo,giới tính,geslacht,kön,sexo,sesso,جنس (jins),пол,seks,sexus,cinsiyet
+Murder,谋杀,謀殺 (mau4 saat3),殺人 (さつじん),Mord,살인,meurtre,asesinato,giết người,moord,mord,assassinato,omicidio,قتل (qatl),убийство,pembunuhan,homicidium,cinayet
+Prison,监狱,監獄 (gaam1 juk6),刑務所 (けいむしょ),Gefängnis,교도소,prison,cárcel,ngục tù,gevangenis,fängelse,prisão,prigione,سجن (sijn),тюрьма,penjara,carcer,hapishane
+Technology,科技,科技 (fo1 gei6),テクノロジー,Technologie,기술,technologie,tecnología,công nghệ,technologie,teknik,tecnologia,tecnologia,تكنولوجيا (teknūlūjīā),технология,teknologi,technologia,teknoloji
+Energy,能源,能源 (nang4 jyun4),エネルギー,Energie,에너지,énergie,energía,năng lượng,energie,energi,energia,energia,طاقة (taqa),энергия,tenaga,vis,enerji
+War,战争,戰爭 (zin3 zang1),戦争 (せんそう),Krieg,전쟁,guerre,guerra,chiến tranh,oorlog,krig,guerra,guerra,حرب (harb),война,perang,bellum,savaş
+Peace,和平,和平 (wo4 ping4),平和 (へいわ),Frieden,평화,paix,paz,hòa bình,vrede,fred,paz,pace,سلام (salaam),мир,damai,pax,barış
+Attack,攻击,攻擊 (gung1 gik1),攻撃 (こうげき),Angriff,공격,attaque,ataque,tấn công,aanval,attack,ataque,attacco,هجوم (hujūm),атака,serangan,impugnatio,saldırı
+Election,选举,選舉 (syun2 zeoi2),選挙 (せんきょ),Wahl,선거,élection,elección,cử tri,verkiezing,val,eleição,elezione,انتخابات (intikhabat),выборы,pilihan,electio,seçim
+Magazine,杂志,雜誌 (zaap6 zi3),雑誌 (ざっし),Magazin,잡지,magazine,revista,tạp chí,tijdschrift,tidskrift,revista,rivista,مجلة (majallah),журнал,majalah,diurnalis,dergi
+Newspaper,报纸,報紙 (bou3 zi2),新聞 (しんぶん),Zeitung,신문,journal,journal,báo chí,krant,tidning,jornal,giornale,جريدة (jarida),газета,surat khabar,diurna,gazete
+Poison,毒药,毒藥 (duk6 joek6),毒 (どく),Gift,독약,poison,veneno,thuốc độc,gif,gift,veneno,veleno,سم (sam),яд,racun,venenum,zehir
+Gun,枪,槍 (coeng1),銃 (じゅう),Waffe,총,arme,arma,súng,wapen,vapen,arma,arma,بندقية (bunduqiyyah),пистолет,meriam,ferrum,silah
+Sport,运动,運動 (wan6 dung6),スポーツ,Sport,스포츠,sport,deporte,môn thể thao,sport,sport,sport,sport,رياضة (riyāḍah),спорт,sukan,ludus,spor
+Race (sport),比赛,比賽 (bei2 coi3),レース (れーす),Rennen,경주,course,carrera,cuộc đua,rennen,löp,gara,gara,سباق (sabaaq),гонка,lumba,cursus,yarış
+Exercise,锻炼,鍛煉 (dyun3 lin6),運動 (うんどう),Übung,운동,exercice,ejercicio,tập luyện,oefening,övning,exercício,esercizio,ممارسة (mumārasah),упражнение,latihan,exercitatio,egzersiz
+Ball,球,球 (kau4),ボール,Ball,공,balle,pelota,quả bóng,bal,boll,bola,palla,كرة (kurrah),мяч,bola,globus,top
+Game,游戏,遊戲 (jau4 hei3),ゲーム,Spiel,게임,jeu,juego,trò chơi,spel,spel,jogo,gioco,لعبة (li'ba),игра,permainan,ludus,oyun
+Price,价格,價格 (gaa3 gok3),価格 (かかく),Preis,가격,prix,precio,giá,geldprijs,pris,preço,prezzo,سعر (s'ar),цена,harga,pretium,fiyat
+Contract,合同,合同 (gap6 tung4),契約 (けいやく),Vertrag,계약,contrat,contrato,hợp đồng,contract,avtal,contrato,contratto,عقد (aqd),контракт,perjanjian,contractus,sözleşme
+Drug,药物,藥物 (joek6 mat6),薬物 (やくぶつ),Droge,약,drogue,droga,thuốc,drug,drog,droga,droga,دواء (dawa'),наркотик,dadah,medicamentum,ilaç
+Sign,标志,標誌 (biu1 zi1),サイン,Zeichen,표지,signe,seña,biểu tượng,teken,skylt,sinal,segno,علامة (ʿalamat),знак,tanda,signum,işaret
+Science,科学,科學 (fo1 hok6),科学 (かがく),Wissenschaft,과학,science,ciencia,khoa học,wetenschap,vetenskap,ciência,scienza,علم (ʿilm),наука,sains,scientia,bilim
+God,神,神 (san4),神 (かみ),Gott,신,Dieu,Dios,Thượng đế,god,gud,Deus,dio,الله (Allah),бог,Tuhan,deus,Tanrı
+🆙art,艺术,藝術 (ngai6 seot6),芸術 (げいじゅつ),Kunst,예술,art,arte,nghệ thuật,kunst,konst,arte,arte,فن (fan),искусство,seni,syntagma,kunst
+band,乐队,樂隊 (lok6 deoi6),バンド (ばんど),Band,밴드,groupe,banda,nhóm nhạc,band,banda,banda,banda,فرقة (firqa),группа,kumpulan,capella,müzik grubu
+song,歌曲,歌曲 (go1 kuk1),歌曲 (かきょく),Lied,노래,chanson,canción,bài hát,lied,sång,música,canto,أغنية (aghani),песня,lagu,cantus,şarkı
+instrument (musical),乐器,樂器 (lok6 hei3),楽器 (がっき),Instrument,악기,instrumento,instrument,nhạc cụ,instrument,instrument,instrumento,strumento,آلة موسيقية (ala'at mousiqiya),музыкальный инструмент,alat muzik,organum,çalgı aleti
+music,音乐,音樂 (jam1 ngok6),音楽 (おんがく),Musik,음악,musique,música,nhạc,muziek,musik,música,musica,موسيقى (mousiqa),музыка,muzik,musica,müzik
+movie,电影,電影 (din6 jing2),映画 (えいが),Film,영화,film,película,phim,film,film,film,film,فيلم (film),фильм,filem,pellicula,film
+🆙beverage,饮料,飲品 (jam2 ban2),飲み物 (のみもの),Getränk,음료,boisson,bebida,đồ uống,drank,dryck,bebida,bevanda,مشروب (mashroob),напиток,minuman,potus,icecek
+coffee,咖啡,咖啡 (kaa1 fe1),コーヒー (こーひー),Kaffee,커피,café,café,cà phê,koffie,kaffe,café,caffè,قهوة (qahwa),кофе,kopi,coffea,kahve
+tea,茶,茶 (caa4),お茶 (おちゃ),Tee,차,thé,té,trà,the,thee,chá,tè,شاي (shay),чай,teh,camellia,çay
+wine,葡萄酒,葡萄酒 (pou4 tou4 zau2),ワイン (わいん),Wein,와인,vin,vino,rượu,gewoon wijn,vin,vinho,vino,نبيذ (nabeez),вино,wain,wine,vino
+beer,啤酒,啤酒 (bei1 zau2),ビール (びーる),Bier,맥주,bière,cerveza,bia,bier,öl,cerveja,birra,بيرة (beera),пиво,bir,bier,şarap
+juice,果汁,果汁 (gwo2 zat1),ジュース (じゅーす),Saft,주스,jus,zumo,nước ép,sap,juice,suco,succo,عصير (asir),сок,jus,baccar,jüs
+water,水,水 (seoi2),水 (みず),Wasser,물,eau,agua,nước,water,vatten,água,acqua,ماء (maa'),вода,air,aqua,su
+milk,牛奶,牛奶 (ngau4 naai5),牛乳 (ぎゅうにゅう),Milch,우유,lait,leche,sữa,melk,mjölk,leite,latte,حليب (halib),молоко,susu,lac,inek sütü
+🆙food,食物,食物 (sik6 mat6),食品 (しょくひん),Essen,음식,nourriture,comida,thức ăn,eten,mat,comida,cibo,طعام (Ta`am),еда,makanan,alimentum,yemek
+egg,蛋,蛋 (daan2),卵 (たまご),Ei,계란,œuf,huevo,trứng,ei,ägg,ovo,uovo,بيضة (bayda),яйцо,telur,ovum,yumurta
+cheese,奶酪,芝士 (zi1 si6),チーズ (ちーず),Käse,치즈,fromage,queso,phô mai,kaas,ost,queijo,formaggio,جبنة (jubnah),сыр,keju,caseus,peynir
+bread,面包,麵包 (min6 baau1),パン (ぱん),Brot,빵,pain,pan,banh mi,brood,bröd,pão,pane,خبز (khubz),хлеб,roti,panis,ekmek
+soup,汤,湯 (tong1),スープ (すーぷ),Suppe,국,soupe,sopa,súp,soep,soppa,sopa,zuppa,حساء (hasa'),суп,sup,supa,çorba
+cake,蛋糕,蛋糕 (daan2 gou1),ケーキ (けーき),Kuchen,케이크,gâteau,pastel,bánh,gâteau,tårta,bolo,torta,كعكة (ka'ka),торт,kuih,torta,pasta
+chicken,鸡,雞 (gai1),鶏肉 (とりにく),Huhn,닭,poulet,pollo,gà,kip,kyckling,frango,pollo,دجاجة (dajajah),курица,ayam,gallus,tavuk
+pork,猪肉,豬肉 (zyu1 juk6),豚肉 (ぶたにく),Schweinefleisch,돼지고기,porc,cerdo,thịt heo,varkensvlees,fläskkött,porco,maiale,لحم الخنزير (lahm al-khinzir),свинина,daging babi,caro suum,domuz eti
+beef,牛肉,牛肉 (ngau4 juk6),牛肉 (ぎゅうにく),Rindfleisch,쇠고기,boeuf,carne de res,bò,rundvlees,nötkött,carne,carne,لحم بقري (lahm baqri),говядина,daging lembu,taurus,sığır eti
+apple,苹果,蘋果 (ping4 gwo2),リンゴ (りんご),Apfel,사과,pomme,manzana,táo,appel,äpple,maçã,mela,تفاحة (tuffaha),яблоко,epalum,malus,elma
+banana,香蕉,香蕉 (hoeng1 ziu1),バナナ (ばなな),Banane,바나나,banane,plátano,chuối,banaan,banan,banana,banana,موز (mawz),банан,pisang,musa,muz
+orange,橙子,橙 (caang2 zi2),オレンジ (おれんじ),Orange,오렌지,orange,naranja,cam,sinaasappel,apelsin,laranja,arancia,برتقال (burtuqal),апельсин,oren,persica,Portakal
+lemon,柠檬,檸檬 (ning4 mung4),レモン (れもん),Zitrone,레몬,citron,limón,chanh,citroen,citron,limão,limone,ليمون (laymun),лимон,limau,citrus limon,sıkma limon
+corn,玉米,粟 (juk6),トウモロコシ (とうもろこし),Mais,옥수수,maïs,maíz,bắp,corn,mais,milho,mais,ذرة (dhura),кукуруза,jagung,zea mays,mısır
+rice,米饭,飯 (faan6),ご飯 (ごはん),Reis,밥,riz,arroz,gạo,rijst,riskorn,arroz,riso,أرز (arz),рис,nasi,oryza sativa,pilav
+oil,油,油 (jau4),油 (あぶら),Öl,기름,huile,aceite,dầu,olie,olja,óleo,olio,زيت (zait),масло,minyak,oleum,yağ
+seed,种子,種子 (zung2 zi2),種子 (たね),Samen,씨앗,graine,semilla,hạt,zaad,frö,semente,seme,بذرة (buthrah),семя,biji,badlum,çekirdek
+knife,刀,刀 (dou1),ナイフ (ないふ),Messer,칼,couteau,cuchillo,dao,mes,kastrull,faca,coltello,سكين (sikeen),нож,pisau,cutit,bıçak
+spoon,匙,匙 (ci4),スプーン (supuun),Löffel,숟가락,cuillère,cuchara,thìa,lepel,sked,colher,cucchiaio,ملعقة (malaqah),ложка,sudu,cochlearium,kaşık
+fork,叉,叉 (caa1),フォーク (ふぉーく),Gabel,포크,fourchette,tenedor,nĩm,vork,gaffel,garfo,forchetta,شوكة (shawkah),вилка,gardan,tunç,kılıç
+plate,盘子,碟 (dip6),皿 (さら),Teller,접시,assiette,plato,dĩa,bord,björk,prato,piatto,صحن (sahn),тарелка,pinggan,patella,tabak
+cup,杯子,杯 (bui1),カップ (かっぷ),Tasse,컵,tasse,taza,cốc,kop,kopp,chávena,tazza,كوب (kub),чашка,cawan,pyxis,bardak
+breakfast,早餐,早餐 (zou2 caan1),朝食 (ちょうしょく),Frühstück,아침식사,petit-déjeuner,desayuno,bữa sáng,ontbijt,frukost,café da manhã,colazione,وجبة الفطور (wajbat alfuTuur),завтрак,sarapan,jentaculum,kahvaltı
+lunch,午餐,午餐 (ng5 caan1),昼食 (ちゅうしょく),Mittagessen,점심식사,déjeuner,almuerzo,bữa trưa,lunch,lunch,almoço,pranzo,وجبة الغداء (wajbat alghada'),обед,makan tengah hari,prandium,öğle yemeği
+dinner,晚餐,晚餐 (maan5 caan1),夕食 (ゆうしょく),Abendessen,저녁식사,dîner,cena,bữa tối,avondeten,middag,jantar,cena,وجبة العشاء (wajbat aleasha'),ужин,makan malam,cena,akşam yemeği
+sugar,糖,糖 (tong4),砂糖 (さとう),Zucker,설탕,sucre,azúcar,đường,suiker,socker,açúcar,zucchero,سكر (sukkar),сахар,gula,saccharum,şeker
+salt,盐,鹽 (jim4),塩 (しお),Salz,소금,sel,sal,s muối,zout,salt,sal,zucchero,ملح (milh),соль,garam,sal,tuz
+bottle,瓶子,樽 (zung1),ボトル (ぼとる),Flasche,병,bouteille,botella,chai,fles,flaska,garrafa,bottiglia,زجاجة (zujaja),бутылка,botol,ampulla,şişe
+🆙home,家,屋企 (uk1 kei2),家 (いえ),Zuhause,집,maison,casa,nhà,huis,hem,casa,casa,منزل (manzil),дом,rumah,domus,ev
+table,桌子,枱 (tok3 zi2),机 (つくえ),Tisch,탁자,table,mesa,bàn,tafel,bord,mesa,tavolo,طاولة (taula),стол,meja,mensa,masa
+chair,椅子,椅 (ji1),椅子 (いす),Stuhl,의자,chaise,silla,ghế,stoel,stol,cadeira,sedia,كرسي (kursi),стул,kerusi,sella,sandalye
+bed,床,床 (coeng4),ベッド (べっど),Bett,침대,lit,cama,giường,bed,sovrum,cama,letto,سرير (saryr),кровать,tilam,lectus,yatak
+dream,梦,夢 (mung6),夢 (ゆめ),Traum,꿈,rêve,sueño,giấc mơ,droom,drom,sonho,sogno,حلم (hulm),сон,mimpi,somn,uyku
+window,窗,窗 (coeng1),窓 (まど),Fenster,창,fenêtre,ventana,cửa sổ,venster,fönster,janela,finestra,نافذة (nafidhah),окно,jendela,ianua,pencere
+door,门,門 (mun4),ドア (どあ),Tür,문,porte,puerta,cửa,deur,dörr,porta,porta,باب (bab),дверь,pintu,ianua,kapı
+bedroom,卧室,臥室 (ngoh6 sat1),寝室 (しんしつ),Schlafzimmer,침실,chambre,dormitorio,phòng ngủ,slaapkamer,sovrum,quarto,camera da letto,غرفة نوم (ghurfat nawm),спальня,bilik tidur,cubiculum dormitorium,yatak odası
+kitchen,厨房,廚房 (cyu4 fong1),キッチン (きっちん),Küche,부엌,cuisine,cocina,bếp,keuken,kök,cozinha,cucina,مطبخ (matbakh),кухня,dapur,cucina,mutfak
+bathroom,浴室,浴室 (juk6 sat1),浴室 (よくしつ),Badezimmer,욕실,salle de bain,baño,phòng tắm,badkamer,badrum,banheiro,bagno,حمام (hammam),ванная,ruang mandi,thermae bali,hamam
+pencil,铅笔,鉛筆 (jyun4 bat1),鉛筆 (えんぴつ),Bleistift,연필,crayon,lápiz,bút chì,potlood,penna,papel,matita,قلم رصاص (qalam raṣāṣ),карандаш,pensel,graphium,pencil
+pen,钢笔,鋼筆 (gong1 bat1),万年筆 (まんねんひつ),Füller,펜,stylo,pluma,bút mực,pen,växelpenna,caneta,penna,قلم (qalam),ручка,pena,calamus,pulpen
+photograph,照片,相片 (siu1 pin3),写真 (しゃしん),Fotografie,사진,photographie,fotografía,ảnh,foto,fotografi,fotografia,fotografia,صورة (sura),фотография,fotografi,fotographia,fotograf
+soap,肥皂,肥皂 (fei4 cou2),石けん (せっけん),Seife,비누,savon,jabón,xà phòng,zeep,tvål,sabão,sapone,صابون (sabun),мыло,sabun,sapo,sapun
+book,书,書 (syu1),本 (ほん),Buch,책,livre,libro,sách,boek,bok,livro,libro,كتاب (kitab),книга,buku,liber,kitap
+page,页,頁 (jip6),ページ (ぺーじ),Seite,페이지,page,página,trang,pagina,sida,página,pagina,صفحة (safhah),страница,muka,fascia,seyfah
+key,钥匙,鑰匙 (joek3 si4),鍵 (かぎ),Schlüssel,열쇠,clé,llave,chìa khóa,sleutel,nyckel,chave,chiave,مفتاح (miftāḥ),ключ,kunci,clavis,anahtar
+paint,颜料,油漆 (jau4 cat1),絵の具 (えのぐ),Farbe,페인트,peinture,pintura,sơn,verf,färg,tinta,pittura,دهان (dihan),краска,cat,coenit,boya
+letter,信,信 (seon3),手紙 (てがみ),Brief,편지,lettre,carta,thư,brief,brev,carta,lettera,رسالة (risālah),письмо,surat,epistula,mektup
+note,笔记,筆記 (bat1 gei3),ノート (のーと),Notiz,노트,note,nota,ghi chú,notitie,anteckning,nota,nota,ملاحظة (mulāḥaẓah),заметка,catatan,nota,not
+wall,墙,牆 (coeng4),壁 (かべ),Wand,벽,mur,pared,tường,wand,vägg,parede,muro,جدار (jidār),стена,dinding,murus,duvar
+paper,纸,紙 (zi2),紙 (かみ),Papier,종이,papier,papel,gia,papier,papper,papel,carta,ورقة (warqah),бумага,kertas,charta,kağıt
+floor,地板,地板 (dei6 baan2),床 (ゆか),Boden,바닥,sol,suelo,sàn,vloer,golv,piso,pavimento,أرضية (arḍīyah),пол,lantai,pavimentum,zemin
+ceiling,天花板,天花板 (tin1 faa1 baan2),天井 (てんじょう),Decke,천장,plafond,techo,trần,plafond,tak,teto,soffitto,سقف (saqf),потолок,siling,fastigium,tavan
+roof,屋顶,屋頂 (uk1 deng2),屋根 (やね),Dach,지붕,toit,techo,mái nhà,dak,tak,telhado,tetto,سقف (saqf),крыша,atap,tectum,çatı
+pool,游泳池,泳池 (jau4 jung4 ci4),プール (ぷーる),Pool,수영장,piscine,piscina,bể bơi,zwembad,bassäng,piscina,piscina,مسبح (musbah),бассейн,kolam renang,piscina,pool
+lock,锁,鎖 (so2),鍵 (かぎ),Schloss,자물쇠,serrure,cerradura,khóa,slot,lås,fechadura,serratura,قفل (qifl),замок,kunci,carenae ianuae,kilit
+telephone,电话,電話 (din6 waa2),電話 (でんわ),Telefon,전화,téléphone,teléfono,điện thoại,telefoon,telefon,telefone,telefono,هاتف (hatif),телефон,telefon,telephonium,telefon
+garden,花园,花園 (faa1 jyun4),庭園 (ていえん),Garten,정원,jardin,jardín,sân vườn,tuin,trädgård,jardim,giardino,حديقة (hadīqah),сад,taman,hortus,bahçe
+yard,院子,院 (jyun6 zi2),庭 (てい),Hof,마당,cour,patio,sân,tuin,gård,quintal,cortile,فناء (finā'),двор,halaman,atrium,courtyard
+needle,针,針 (zin1),針 (はり),Nadel,바늘,aiguille,aguja,kim,knaald,sticka,agulha,ago,إبرة (ibrah),игла,jarum,acus,ipe
+bag,袋子,袋 (doi1 zi2),袋 (ふくろ),Tasche,가방,sac,bolsa,túi,tas,väska,bolsa,borsa,حقيبة (haqibah),сумка,tas,bursa,çanta
+box,盒子,盒 (hak2 zi2),箱 (はこ),Schachtel,상자,boîte,caja,hộp,doos,ask,caixa,scatola,صندوق (sanduq),коробка,kotak,cista,şeker
+gift,礼物,禮物 (lai5 mat6),贈り物 (おくりもの),Geschenk,선물,cadeau,regalo,quà,cadeau,present,presente,regalo,هدية (hadīyah),подарок,hadiah,donum,hediye
+card,卡片,卡片 (kaa1 pin2),カード (かーど),Karte,카드,carte,tarjeta,thẻ,kaart,kort,cartão,carta,بطاقة (bitaqa),карта,kartu,tessera,kart
+ring,戒指,戒指 (gaai3 zi2),指輪 (ゆびわ),Ring,반지,bague,anillo,chiếc nhẫn,ring,ring,anel,anello,خاتم (khatam),кольцо,cincin,annulus,yüzük
+tool,工具,工具 (gung1 gu3),道具 (どうぐ),Werkzeug,도구,outil,herramienta,dụng cụ,gereedschap,verktyg,ferramenta,strumento,أداة (adāh),инструмент,alat,instrumentum,araç
+🆙electronics,电子产品,電子產品,電子製品,Elektronik,전자제품,électronique,electrónica,điện tử,elektronica,elektronik,eletrônicos,elettronica,إلكترونيات('iilikturuniaat),электроника,elektronik,electronics,elektronik
+clock,时钟,鐘,時計,Uhr,시계,horloge,reloj,đồng hồ,klok,klocka,relógio,orologio,ساعة,часы,jam,horologium,saat
+lamp,台灯,台燈,ランプ,Lampe,전등,lampe,lámpara,đèn,lamp,lampa,lâmpada,lampada,مصباح,лампа,lampu,lampas,lamba
+fan,风扇,風扇,扇風機,Ventilator,선풍기,ventilateur,ventilador,quạt,ventilator,fläkt,ventoinha,ventilatore,مروحة,вентилятор,kipas,flabellum,vantilatör
+cell phone,手机,手機,携帯電話,Handy,핸드폰,téléphone portable,teléfono móvil,điện thoại di động,mobiele telefoon,mobiltelefon,telefone celular,telefono cellulare,هاتف,мобильный телефон,telefon bimbit,mobiles telefonum,cep telefonu
+network,网络,網絡,ネットワーク,Netzwerk,네트워크,réseau,red,mạng,nätverk,network,rede,rete,شبكة,сеть,rangkaian,rete,network
+computer,电脑,電腦,コンピューター,Computer,컴퓨터,ordinateur,computadora,máy tính,computer,dator,computador,computer,كمبيوتر,компьютер,komputer,komputer,bilgisayar
+program,程序,程序,プログラム,Programm,프로그램,programme,programa,chương trình,program,program,programa,programma,برنامج,программа,program,programma,program
+laptop,笔记本电脑,筆記本電腦,ノートパソコン,Laptop,노트북,ordinateur portable,portátil,máy tính xách tay,laptop,laptop,laptop,laptop,لابتوب,ноутбук,laptop,laptop,laptop
+screen,屏幕,屏幕,スクリーン,Bildschirm,화면,écran,pantalla,màn hình,scherm,skärm,tela,schermo,شاشة,экран,skrin,sceen,ekran
+camera,相机,相機,カメラ,Kamera,카메라,caméra,cámara,máy ảnh,camera,kamera,câmera,fotocamera,كاميرا,камера,kamera,kamera,kamera
+television,电视,電視,テレビ,Fernseher,텔레비전,télévision,televisión,ti vi,televisie,television,televisão,televisione,تلفزيون,телевизор,televisyen,televisio,televizyon
+radio,收音机,收音機,ラジオ,Radio,라디오,radio,radio,đài radio,radio,radio,rádio,radio,راديو,радио,radio,radio,radyo
+🆙body,身体,身體 (san1 tai2),体 (からだ),Körper,신체,corps,cuerpo,thân thể,lichaam,kropp,corpo,corpo,جسد (jism),тело,tubuh,corpus,vücut
+🆙nature,自然,自然 (zi6 jin4),自然 (しぜん),Natur,자연,nature,naturaleza,thiên nhiên,natuur,naturza,priroda,natureza,طبيعة (tabi'a),природа,alam semula jadi,natura,doğa
+🆙materials,材料,材料 (coi4 liu2),素材 (そざい),Material,재료,matériaux,materiales,vật liệu,materiaal,material,materiais,materiale,مواد (mawad),материалы,bahan,basis,materyal
+🆙math/measurements,数学/测量,數學/測量 (suk1 hok6/cak1 loeng4),数学/計測 (すうがく/けいそく),Mathematik/ Messung,수학/측정,math/mesure,matemáticas,toán học/đo lường,wiskunde/meting,matematik/mätning,matemática/mensuração,matematica/misurazione,رياضيات/قياس (riyadiyat/qiyas),математика/измерения,matematik/pengukuran,mathesis/mensura,matematik/ölçüm
+🆙misc nouns,其他名词,其他名詞 (kei4 ta1 ming4 ci4),その他の名詞 (そのたのめいし),Sonstiges Substantiv,기타 명사,autres noms,otros sustantivos,các danh từ khác,diverse zelfstandige naamwoorden,övriga substantiv,outros substantivos,altri sostantivi,أسماء متفرقة (asma' mutafarriqa),другие существительные,kata nama lain,lēxica alia,various isimler
+🆙directions,方向,方向 (fong1 hoeng3),方向 (ほうこう),Richtungen,방향,directions,direcciones,hướng,richtingen,riktningar,instruções,indicazioni,اتجاهات (itijahat),направления,arahan,regiones,yonlar
+🆙seasons,季节,季節 (gwai1 zit3),季節 (きせつ),Jahreszeiten,계절,saisons,estaciones,mùa,seizoenen,säsonger,estações,stagioni,فصول (fusul),сезоны,musim,tempestates,mevsimler
+🆙numbers,数字,數字 (syu3 zi6),数字 (すうじ),Zahlen,숫자,nombres,números,số,getallen,siffror,números,numeri,أرقام (arqam),числа,angka,numeri,rakamlar
+🆙months,月份,月份 (jyut6 fan6),月 (つき),Monate,월,mois,meses,tháng,maanden,månader,meses,mesi,شهور (shuhur),месяцы,bulan,meses,aylar
+🆙days of the week,星期,星期 (sing1 kei4),曜日 (ようび),Wochentage,요일,jours de la semaine,días de la semana,ngày trong tuần,dagen van de week,veckodagar,dias da semana,giorni della settimana,أيام الأسبوع (ayam al-usbu'),дни недели,hari-hari dalam seminggu,dies hebdomadis,haftanın günleri
+🆙time,时间,時間 (si4 gaan3),時間 (じかん),Zeit,시간,temps,tiempo,thời gian,tijd,tid,tempo,tempo,الوقت (al-waqt),время,masa,tempus,zaman
+🆙verbs,动词,動詞 (dung6 ci4),動詞 (どうし),Verben,동사,verbes,verbos,động từ,werkwoorden,verb,verbos,verbi,أفعال (af'al),глаголы,kata kerja,verba,fîiller
+🆙adjectives,形容词,形容詞 (jing4 jung2 ci4),形容詞 (けいようし),Adjektive,형용사,adjectifs,adjetivos,tính từ,bijvoeglijke naamwoorden,adjektiv,adjetivos,aggettivi,صفات (sifat),прилагательные,adjective,adjectives,sıfatlar
+🆙pronouns,代词,代詞 (doi6 ci4),代名詞 (だいめいし),Pronomen,대명사,pronoms,pronombres,đại từ,voornaamwoorden,pronomen,pronomes,pronomi,ضمائر (dama'ir),местоимения,kata ganti,zastanici,zaamirler
+🆙question words,疑问词,疑問詞 (ji4 man6 ci4),疑問詞 (ぎもんし),Fragepronomen,의문사,mots interrogatifs,pronombres interrogativos,từ để hỏi,vraagwoorden,frågeord,palavras interrogativas,parole interrogative,أدوات الاستفهام (adawat al-istifham),вопросительные слова,kata tanya,quaestione verba,soru kelimeleri
