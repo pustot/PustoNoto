@@ -5,12 +5,12 @@ cat,猫,貓 (maau1),猫 (ねこ),Katze,고양이,chat,gato,mèo,kat,katt,gato,ga
 fish,鱼,魚 (jyu4),魚 (さかな),Fisch,물고기,poisson,pez,cá,vis,fisk,peixe,pesce,سمك (samak),рыба,ikan,ichthys,balık
 bird,鸟,鳥 (niu5),鳥 (とり),Vogel,새,oiseau,pájaro,chim,carn,fågel,pássaro,uccello,طائر (ta'ir),птица,burung,avis,kuş
 cow,牛,牛 (ngau4),牛 (うし),Kuh,소,vache,vaca,bò,koe,ko,krowa,bovino,بقرة (baqara),корова,lembu,bos,inek
-pig,猪,豬 (zyu1),豚 (ぶた),Schwein,돼지,cochon,cerdo,lợn,varken,gris,porco,خنزير (khanzir),свинья,babi,sus,domuz
+pig,猪,豬 (zyu1),豚 (ぶた),Schwein,돼지,cochon,cerdo,lợn,varken,gris,porco,maiale,خنزير (khanzir),свинья,babi,sus,domuz
 mouse,老鼠,老鼠 (lou5 syu2),ネズミ,Maus,쥐,souris,rat,chuột,muis,mus,rato,topo,فأر (fa'r),мышь,tikus,mus,mouse
 horse,马,馬 (maa5),馬 (うま),Pferd,말,cheval,caballo,ngựa,paard,häst,cavalo,cavallo,حصان (hisan),лошадь,kuda,equus,at
 wing,翅膀,翅膀 (ci4 bong2),羽 (はね),Flügel,날개,aile,ala,cánh,vleugel,vinge,asa,ala,جناح (janah),крыло,sehel,ala,kanat
 🆙transportation,交通,交通 (gaau1 tung1),交通 (こうつう),Transport,교통,transport,transporte,giao thông,vervoer,transport,transporte,trasporto,نقل (naql),транспорт,pengangkutan,transitus,taşıma
-train,火车,火車 (fo2 ce1),電車 (でんしゃ),Zug,기차,train,tren,tàu,trein,tåg,trem,treno,قطار (qitar),поезд,kereta api,tren,tren,yolcu treni
+train,火车,火車 (fo2 ce1),電車 (でんしゃ),Zug,기차,train,tren,tàu,trein,tåg,trem,treno,قطار (qitar),поезд,kereta api,tren,tren
 plane,飞机,飛機 (fei1 gei1),飛行機 (ひこうき),Flugzeug,비행기,avion,avión,máy bay,vliegtuig,flyg,avião,aereo,طائرة (ta'ira),самолет,pesawat terbang,aeroplanum,uçak
 car,汽车,汽車 (hei3 ce1),車 (くるま),Auto,차,voiture,coche,xe hơi,auto,bil,carro,auto,سيارة (sayyara),автомобиль,mobil,currus,araba
 truck,卡车,卡車 (kaa1 ce1),トラック,LKW,트럭,camion,camión,xe tải,vrachtwagen,lastbil,caminhão,camion,شاحنة (shahina),грузовик,lori,raeda,camyon
@@ -23,14 +23,14 @@ gasoline,汽油,汽油 (hei3 jau4),ガソリン,Benzin,휘발유,essence,gasolin
 engine,引擎,引擎 (jan5 cing1),エンジン,Motor,엔진,moteur,motor,động cơ,motor,motor,motor,motore,محرك (muharrik),двигатель,enjin,enigne,motor
 (train) ticket,火车票,火車票 (fo2 ce1 piu3),切符 (きっぷ),Fahrkarte,기차표,billet,billete,vé xe lửa,treinkaartje,tågbiljett,bilhete,biglietto,تذكرة القطار (tazkira alqitar),билет,teksi kereta api,billethea,tren bileti
 🆙location,位置,位置 (wai2 sik1),場所 (ばしょ),Ort,위치,emplacement,ubicación,vị trí,locatie,plats,localização,posizione,موقع (mawqea'),место,lokasi,loca,lokalite
-city,城市,城市 (sing4 si5),都市 (とし),Stadt,도시,ville,ciudad,thành phố,stad,stad,cidade,città,مدينة (madina),город,bandar,kotaşehir
+city,城市,城市 (sing4 si5),都市 (とし),Stadt,도시,ville,ciudad,thành phố,stad,stad,cidade,città,مدينة (madina),город,bandar,urbs,kotaşehir
 house,房子,屋企 (uk1 kei2),家 (いえ),Haus,집,maison,casa,nhà,huis,hus,casa,casa,بيت (bayt),дом,rumah,domus,ev
 apartment,公寓,樓 (lau4),アパート,Apartment,아파트,appartement,apartamento,chung cư,appartement,lägenhet,apartamento,appartamento,شقة (shaqa),квартира,pangsapuri,domus,ev
 street/road,街道,街 (gaai1 dou6),道路 (どうろ),Straße,도로,rue,calle,đường-địa phương,straat,gata,rua,strada,شارع (shaari),улица,jalan,platea,cadde
 airport,机场,機場 (gei1 coeng4),空港 (くうこう),Flughafen,공항,aéroport,aeropuerto,sân bay,luchthaven,flygplats,aeroporto,aeroporto,مطار (matar),аэропорт,lapangan terbang,portus aëris,havalimanı
 train station,火车站,火車站 (fo2 ce1 zaam6),駅 (えき),Bahnhof,기차역,gare,estación,nhà ga,treinstation,tågstation,estação de trem,stazione ferroviaria,محطة قطار (mahattat qitar),вокзал,stesen kereta api,castrum,istasyon
 bridge,桥,橋 (kiu4),橋 (はし),Brücke,다리,pont,puente,cầu,brug,bro,ponte,ponte,جسر (jisr),мост,jambatan,pontem,pont
-hotel,酒店,酒店 (zau2 dim3),ホテル,Hotel,호텔,hôtel,hotel,khách sạn,hotel,hotell,hotel,فندق (funduq),отель,hotel,albergo,otel
+hotel,酒店,酒店 (zau2 dim3),ホテル,Hotel,호텔,hôtel,hotel,khách sạn,hotel,hotell,hotel,hotel,فندق (funduq),отель,hotel,albergo,otel
 restaurant,餐馆,食肆 (sik6 zi6),レストラン,Restaurant,레스토랑,restaurant,restaurante,nhà hàng,restaurant,restaurang,restaurante,ristorante,مطعم (mat'am),ресторан,restoran,coenaculum,restoran
 farm,农场,農場 (nung4 coeng4),農場 (のうじょう),Bauernhof,농장,ferme,granja,nông trại,boerderij,bondgård,fazenda,fattoria,مزرعة (mazra'a),ферма,ladang,rusticus locus,çiftlik
 court,法院,法院 (faat3 jyun2),裁判所 (さいばんしょ),Gericht,법원,tribunal,tribunal,tòa án,rechtbank,domstol,tribunal,tribunale,محكمة (mahkama),суд,mahkamah,forum,adliye
@@ -40,30 +40,30 @@ room,房间,房間 (fong4 gaan1),部屋 (へや),Zimmer,방,chambre,cuarto,phòn
 town,镇,鎮 (zan3),町 (ちょう),Stadt,마을,village,pueblo,thị trấn,dorp,stad,cidade,villaggio,بلدة (balda),городок,bandar,villa,villa
 university,大学,大學 (daai6 hok6),大学 (だいがく),Universität,대학교,université,universidad,đại học,universiteit,universitet,universidade,università,جامعة (jamia),университет,universiti,universitas,universitas
 club,俱乐部,會所 (wui2 so2),クラブ,Verein,클럽,club,club,clb,clubb,sällskap,clube,club,نادي (nadi),клуб,kelab,sodalitas,klüp
-bar,酒吧,酒吧 (zau2 baa1),バー,Bar,바,bar,bar,quán bar,bar,bar,bar,مقهى (maqha),бар,bar,bar,bar
+bar,酒吧,酒吧 (zau2 baa1),バー,Bar,바,bar,bar,quán bar,bar,bar,bar,مقهى (maqha),бар,bar,bar,bar,bar
 park,公园,公園 (gung1 jyun2),公園 (こうえん),Park,공원,parc,parque,công viên,park,park,parque,parco,حديقة (hadika),парк,taman,parkus,park
 camp,营地,營地 (jing4 dei6),キャンプ,Lager,캠프,campamento,camp,trại khu,campingplats,läger,campismo,campeggio,مخيم (makhayyam),лагерь,khemah,castra,camp
-store/shop,商店,商店 (soeng1 dim3),店舗 (てんぽ),Geschäft,상점,magasin,tienda,cửa hàng,winkel,butik,loja,متجر (matjar),магазин,kedai,taberna,mağaza
-theater,剧院,劇院 (gek6 jyun2),劇場 (げきじょう),Theater,극장,théâtre,teatro,rạp hát,theater,teater,teatro,مسرح (masrah),театр,teater,coenaculum,tiyatro
+store/shop,商店,商店 (soeng1 dim3),店舗 (てんぽ),Geschäft,상점,magasin,tienda,cửa hàng,winkel,butik,loja,negozio,متجر (matjar),магазин,kedai,taberna,mağaza
+theater,剧院,劇院 (gek6 jyun2),劇場 (げきじょう),Theater,극장,théâtre,teatro,rạp hát,theater,teater,teatro,teatro,مسرح (masrah),театр,teater,coenaculum,tiyatro
 library,图书馆,圖書館 (tou4 syu1 gun2),図書館 (としょかん),Bibliothek,도서관,bibliothèque,biblioteca,thư viện,bibliotheek,bibliotek,biblioteca,biblioteca,مكتبة (maktaba),библиотека,perpustakaan,bibliotheca,kütüphane
 hospital,医院,醫院 (ji1 jyun2),病院 (びょういん),Krankenhaus,병원,hôpital,hospital,bệnh viện,ziekenhuis,sjukhus,hospital,ospedale,مستشفى (mustashfa),больница,hospital,hospitium,hastane
 church,教堂,教堂 (gaau3 tong4),教会 (きょうかい),Kirche,교회,église,iglesia,nhà thờ,kerk,kyrka,igreja,chiesa,كنيسة (kanisa),церковь,gereja,basilica,ecclesia
 market,市场,市場 (si5 coeng4),市場 (いちば),Markt,시장,marché,mercado,chợ,markt,marknad,mercado,mercato,سوق (souq),рынок,pasar,forum mercatus,pazar
 country,国家,國家 (gwok3 gaa1),国 (くに),Land,나라,pays,país,quốc gia,land,land,país,paese,بلد (balad),страна,negara,res publica,ülke
 building,建筑物,建築物 (gin3 zuk1 mat6),建物 (たてもの),Gebäude,건물,bâtiment,edificio,toà nhà,gebouw,byggnad,prédio,edificio,بناية (bina'),здание,bangunan,aedificium,bina
-ground,地面,地 (dei6),地面 (じめん),Boden,땅,sol,suelo,mặt đất,grond,mark,terra,أرض (ard),земля,tanah,tellus,yer
+ground,地面,地 (dei6),地面 (じめん),Boden,땅,sol,suelo,mặt đất,grond,mark,terra,terra,أرض (ard),земля,tanah,tellus,yer
 space (outer space),太空,太空 (taai3 hung1),宇宙 (うちゅう),Weltraum,우주,espace,espacio,không gian,ruimte,rymd,espaço,spazio,الفضاء الخارجي (al-fada' al-khariji),космос,angkasa,spatium,astrum
 bank,银行,銀行 (ngan4 hong4),銀行 (ぎんこう),Bank,은행,banque,banco,ngân hàng,bank,bank,banco,banca,بنك (bank),банк,bank,banka,banka
-🆙clothing,衣物,衣物 (ji1 mat6),衣類 (いるい),Kleidung,의류,vêtement,ropa,quần áo,kleding,kläder,roupa,abbigliamento,ملابس (malābis),одежда,pakaian,vestimenta,vestis,giysi
+🆙clothing,衣物,衣物 (ji1 mat6),衣類 (いるい),Kleidung,의류,vêtement,ropa,quần áo,kleding,kläder,roupa,abbigliamento,ملابس (malābis),одежда,pakaian,vestimenta,giysi
 hat,帽子,帽子 (bou6 zi2),帽子 (ぼうし),Hut,모자,chapeau,sombrero,mũ,n hoed,hatt, chapéu,cappello,قبعة (qubʿah),шляпа,topi,caputium,şapka
 dress,连衣裙,連衣裙 (lin4 ji1 kwan4),ドレス (doresu),Kleid,드레스,robe,vestido,áo liền,vrouwelijke jurk,klänning,vestido,vestito,فستان (fustaan),платье,gaun,vestis,elbise
 suit,西装,西裝 (sai1 cong1),スーツ (sūtsu),Anzug,정장,costume,traje,áo vest,n pak,kostym,terno,abito,بدلة (badla),костюм,jas,vestis,elbise
 skirt,裙子,裙子 (kwan4 zi2),スカート (sukāto),Rock,치마,jupe,falda,chân váy,rok,kjol,saia,gonna,تنورة (tanūrah),юбка,rok,vestis,etek
-shirt,衬衫,襯衫 (can1 saam1),シャツ (shatsu),Hemd,셔츠,chemise,camisa,áo sơ mi,hemd,skjorta,camisa,camicia,قميص (qamīṣ),рубашка,kaos,kkásmira,camisia,şişört
+shirt,衬衫,襯衫 (can1 saam1),シャツ (shatsu),Hemd,셔츠,chemise,camisa,áo sơ mi,hemd,skjorta,camisa,camicia,قميص (qamīṣ),рубашка,baju kemeja,camisia,gömlek
 T-shirt, T恤, T恤 (T seoi6),Tシャツ (T shatsu),T-Shirt,T셔츠,T-shirt,camiseta,áo phông,T-shirt,T-tröja,camiseta,maglietta,T-شيرت (T-shīrt),футболка,T-baju,under tunicamisia,tişört
-pants,裤子,褲子 (fu3 zi2),パンツ (pantsu),Hose,바지,pantalon,pantalones,quần,korte broek,byxor,calça,pantaloni,بنطلون (bantalūn),штаны,celana,pantalones,braccae,pantolon
+pants,裤子,褲子 (fu3 zi2),パンツ (pantsu),Hose,바지,pantalon,pantalones,quần,korte broek,byxor,calça,pantaloni,بنطلون (bantalūn),штаны,celana,brācae,pantolon
 shoes,鞋,鞋 (haai4),靴 (くつ),Schuhe,신발,chaussures,zapatos,giày,schoenen,skor,sapatos,scarpe,أحذية (ʾaḥḍiyah),обувь,sepatu,calcei,ayakkabı
-pocket,口袋,口袋 (hau2 doi6),ポケット (poketto),Tasche,포켓,poches,bolsillo,ngăn túi,zak,zak,fundo,borsa,جيب (jayb),карман,saku,kola,loculus,cep
+pocket,口袋,口袋 (hau2 doi6),ポケット (poketto),Tasche,포켓,poches,bolsillo,ngăn túi,zak,zak,fundo,borsa,جيب (jayb),карман,saku,sinus,cep
 coat,外套,外套 (ngoi6 tou3),コート (kōto),Mantel,코트,manteau,abrigo,áo khoác,jas,rock,casaco,cappotto,معطف (maʿṭaf),пальто,ceket,paenula,palto
 stain,污点,污點 (wu1 dim2),シミ (shimi),Fleck,얼룩, tache,mancha,vết bẩn,vlek,fläck,mancha,macchia,بقعة (baqʿah),пятно,noda,macula,leke
 🆙color,颜色,顏色 (ngaan4 sik1),色 (いろ),Farbe,색상,couleur,color,color,kleur,färg,cor, colore,لون (lawn),цвет,warna,color,renk
@@ -96,7 +96,7 @@ husband,丈夫,丈夫 (zoeng6 fu1),夫 (おっと),Ehemann,남편, mari,esposo,c
 wife,妻子,妻 (cai1),妻 (つま),Ehefrau,아내, femme,esposa,vợ,echtgenote,hustru,esposa,moglie,زوجة (zawja),жена,isteri, esposa, eş
 king,国王,國王 (gwok3 wong4),王 (おう),König,왕, roi,rey,vua,koning,kung,rei,re,ملك (malik),король,raja, rei, kral
 queen,皇后,皇后 (wong4 hau6),王妃 (おうひ),Königin,왕비, reine,reina,hậu,koningin,drottning,rainha,regina,ملكة (malika),королева,permaisuri, rainha, kraliçe
-president,总统,總統 (zung2 tung2),大統領 (だいとうりょう),Präsident,대통령, président,presidente,tổng thống,president,presidente,presidente,رئيس (ra'īs),президент,presiden, presidente, cumhurbaşkanı
+president,总统,總統 (zung2 tung2),大統領 (だいとうりょう),Präsident,대통령, président,presidente,tổng thống,president,president,presidente,presidente,رئيس (ra'īs),президент,presiden, presidente, cumhurbaşkanı
 neighbor,邻居,鄰居 (leon4 geoi1),隣人 (となりびと),Nachbar,이웃, voisin,vecino,hàng xóm,buurman,granne,vizinho,vicino,جار (jar),сосед,tetangga, vizinho, komşu
 boy,男孩,男仔 (naam4 zai2),男の子 (おとこのこ),Junge,소년, garçon,niño,con trai,jongen,pojke,menino,ragazzo,صبي (sabi),мальчик,kanak-kanak lelaki, rapaz, oğlan
 girl,女孩,女仔 (neoi5 zai2),女の子 (おんなのこ),Mädchen,소녀, fille,niña,gái,meisje,flicka,menina,ragazza,بنت (bint),девушка,kanak-kanak perempuan, rapariga, kız
