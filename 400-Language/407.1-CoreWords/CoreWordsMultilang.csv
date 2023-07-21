@@ -1,6 +1,20 @@
 ﻿en,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 1 DKTZ,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 1 DKTZ - khoung keen,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+long,长,tryangq,長 (coeng4),長い (ながい),lang,긴,long,largo,dài,lang,lång,longo,lungo,طويل (tawil),длинный,panjang,longus,uzun
+short,短,twanq,短 (duan2),短い (みじかい),kurz,짧은,court,corto,ngắn,kort,korto,corto,corto,قصير (qasir),короткий,pendek,brevis,kısa
+tall,高,kaw,高 (gou1),高い (たかい),groß,키가 큰,grand,alto,cao,lang,lång,alto,alto,طويل (tawil),высокий,tinggi,altus,uzun boylu
+short (vs tall),矮,qeeq,矮 (aai2),低い (ひくい),klein,키가 작은,petit,bajo,thấp,klein,korto,basso,basso,قصير (qasir),низкий,pendek (vs tinggi),brevis (vs altus),kısa (vs uzun boylu)
+wide,宽,khwan,闊 (fut3),広い (ひろい),breit,넓은,large,ancho,rộng,breed,bred,largo,largo,واسع (wasee),широкий,lebar,late,geniş
+narrow,窄,tsraek,窄 (zaak3),狭い (せまい),eng,좁은,étroit,estreito,hẹp,smal,smal,ristretto,stretto,ضيق (dayiq),узкий,sempit,angustus,dar
+big/large,大,dajh,大 (daai6),大きい (おおきい),groß,큰,grande,grande,lớn,groot,stor,grande,grande,كبير (kabeer),большой,besar,magnus,büyük
+small/little,小,siewq,細 (sai3),小さい (ちいさい),klein,작은,petit,pequeño,nhỏ,klein,liten,piccolo,piccolo,صغير (saghir),маленький,kecil,parvus,küçük
+thick,厚,ghouq,厚 (hau5),厚い (あつい),dick,두꺼운,épais,grueso,dày,dik,tjock,espesso,spesso,سميك (samic),толстый,tebal,crassus,kalın
+thin,薄,bak,薄 (baak6),薄い (うすい),dünn,얇은,mince,delgado,mỏng,dun,tunn,magro,sottile,رقيق (raqiq),тонкий,tipis,tenuis,ince
+high,高,kaw,高 (gou1),高い (たかい),hoch,높은,haut,alto,cao,hoog,hög,alto,alto,عالي (a'ali),высокий,tinggi,altus,yüksek
+low,低,tej,低 (dai1),低い (ひくい),niedrig,낮은,bas,bajo,thấp,laag,låg,baixo,basso,منخفض (mankhafidh),низкий,rendah,humilis,düşük
+deep,深,sjimh,深 (sam1),深い (ふかい),tief,깊은,profond,profundo,sâu,diep,djup,profundo,profondo,عميق (ameeq),глубокий,dalam,altus,derin
+shallow,浅,tshienq,淺 (cin2),浅い (あさい),flach,얕은,peu profond,superficial,nông,ondiep,grund,raso,superficiale,سطحي (sathhee),мелкий,cetek,superficialis,sığ
 小类directions,方向,puang sjyangh,方向 (fong1 hoeng3),方向 (ほうこう),Richtungen,방향,directions,direcciones,hướng,richtingen,riktningar,instruções,indicazioni,اتجاهات (itijahat),направления,arahan,regiones,yonlar
 top,顶部,tengq bouq,頂部 (dang2 bou6),上部 (うわべ),oben,위,top,arriba,trên,top,top,cima,alto,أعلى (a'ala),верх (verkh),atas,summus,üst
 bottom,底部,tejq bouq,底部 (dai2 bou6),底部 (そこぶ),unten,밑,bas,bajo,dưới,bodem,botten,fundo,fondo,أسفل (asfal),низ (niz),dasar,basis,alt
@@ -19,6 +33,12 @@ south,南,nom,南 (naam4),南 (みなみ),Süden,남,sud,sur,nam,zuid,syd,sul,su
 east,东,toung,東 (dung1),東 (ひがし),Osten,동,est,este,đông,oost,öst,leste,est,شرق (sharq),восток (vostok),timur,oriens,doğu
 west,西,sej,西 (sai1),西 (にし),Westen,서,ouest,oeste,tây,westen,väst,oeste,ovest,غرب (gharb),запад (zapad),barat,occidens,batı
 类 1 DKTZ - djy keen,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+slow,慢,maenh,慢 (maan6),遅い (おそい),langsam,느린,lent,lento,chậm,langzaam,långsam,lento,lento,بطيء (batee'),медленный,lambat,tardus,yavaş
+fast,快,khwaejh,快 (faai3),速い (はやい),schnell,빠른,rapide,rápido,nhanh,snel,snabb,veloce,veloce,سريع (saree'),быстрый,cepat,citus,hızlı
+new,新,sin,新 (san1),新しい (あたらしい),neu,새로운,nouveau,nuevo,mới,nieuw,ny,novo,nuovo,جديد (jadeed),новый,baru,novus,yeni
+old (new),旧,guh,舊 (gau6),新しい (あたらしい),alt,새로운,vieux,nuevo,mới,oud,gammal,velho,vecchio (non nuovo),جديد (jadeed),новый,baru,novus,yeni
+young,年轻,nen khiaengh,年青 (nin4 cing1),若い (わかい),jung,젊은,jeune,joven,trẻ,jong,ung,jovem,giovane,شاب (shab),молодой,muda,iuvenis,genç
+old (young),老,lawq,老 (lou5),年をとる (としをとる),alt,늙은,vieux,viejo,già,oud,gammal,velho,vecchio,عجوز (ajooz),старый,tua,senex,yaşlı
 类 1 DKTZ - sruoh lyangh,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 小类math/measurements,数学/测量,sruoh ghoeuk / tsrhyk lyang,數學/測量 (suk1 hok6/cak1 loeng4),数学/計測 (すうがく/けいそく),Mathematik/ Messung,수학/측정,math/mesure,matemáticas,toán học/đo lường,wiskunde/meting,matematik/mätning,matemática/mensuração,matematica/misurazione,رياضيات/قياس (riyadiyat/qiyas),математика/измерения,matematik/pengukuran,mathesis/mensura,matematik/ölçüm
 meter,米,mejq,米 (mai5),メートル (めーとる),Meter,미터,mètre,metro,mét, meter,meter,metro,metro,متر (mitr),метр,meter,meter,meter
@@ -123,6 +143,19 @@ which,哪个,naq kah,邊個 (bin1 go3),どちら (dochira),welche,어느,lequel,
 类 2 KKTD - seng gu,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 Earth,地球,dih gu,地球 (dei6 kau4),地球 (ちきゅう),Erde,지구,terre,Tierra,Trái Đất (𧀞𡐙),aarde,jord,Terra,Terra,أرض (ard),Земля,Bumi,Terra,Dünya
 类 2 KKTD - then zyangq,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+hot,热,njiet,熱 (jit6),熱い (あつい),heiß,더운,chaud,caliente,nóng,heet,varm,caldo,caldo,حار (har),горячий,panas,calidus,sıcak
+cold,冷,lengq,凉 (leung5),寒い (さむい),kalt,추운,froid,frío,lạnh,koud,kall,freddo,freddo,بارد (barid),холодный,dingin,frigidus,soğuk
+warm,暖,nwanq,暖 (nyun5),暖かい (あたたかい),warm,따뜻한,chaud,cálido,ấm áp,warm,varm,caldo,caldo,دافئ (dafe'),теплый,ấm,calidus,sıcak
+cool,凉,lyangh,凉 (leung5),涼しい (すずしい),kühl,시원한,frais,fresco,mát,koud,sval,fresco,fresco,بارد (barid),прохладный,sejuk,freddus,serin
+light,光,kwangh,光 (gwong1),光 (ひかり),Licht,빛,lumière,luz,ánh sáng,licht,ljus,luz,luce,ضوء (daw'),свет,cahaya,lux,ışık
+light (dark),明亮,myaeng lyangh,明亮 (ming4 loeng6),明るい (あかるい),hell,밝은,lumière,claro,sáng,licht,ljus,claro,chiaro,ضوء (daw'),светлый,terang,clarus,açık
+dark,黑暗,heok qomh,黑暗 (hak1 am3),暗い (くらい),dunkel,어두운,sombre,oscuro,tối,donker,mörk,escuro,scuro,داكن (dakun),темный,gelap,tenebrosus,karanlık
+wet,湿,sjip,濕 (sap1),濡れた (ぬれた),nass,젖은,mouillé,mojado,ẩm ướt,nat,blöt,molhado,bagnato,رطب (ratb),мокрый,basah,umidus,yaş
+dry,干燥,kan sawq,乾燥 (gon1 coeng4),乾燥 (かんそう),trocken,건조한,sec,seco,khô,droog,torr,seco,secco,جاف (jaf),сухой,kering,siccus,kuru
+burn,燃烧,njien sjiewh,燒 (jin4 siu1),燃える (もえる),brennen,타다,brûler,quemar,đốt,branden,brinna,queimar,bruciare,يحرق (yaharriq),гореть,membakar,adure,palamak
+melt,融化,jung hwaeh,融化 (jung4 faa3),溶ける (とける),schmelzen,녹다,fondre,derretir,chảy,smelten,smälta,derreter,sciogliere,يذوب (yadhub),плавить,mencairkan,liquescere,erimek
+nuclear,核能,gheek neongq,核能 (hat1 nang4),原子力 (げんしりょく),nuklear,핵,nucléaire,nuclear,hạt nhân,kernenergie,kärnkraft,nuclear,nucleare,نووي (nawawi),ядерный,nuklir,nuclearis,nükleer
+Energy,能源,neongq nguon,能源 (nang4 jyun4),エネルギー,Energie,에너지,énergie,energía,năng lượng,energie,energi,energia,energia,طاقة (taqa),энергия,tenaga,vis,enerji
 小类seasons,季节,kwih tset,季節 (gwai1 zit3),季節 (きせつ),Jahreszeiten,계절,saisons,estaciones,mùa,seizoenen,säsonger,estações,stagioni,فصول (fusul),сезоны,musim,tempestates,mevsimler
 Spring,春天,tjhwin then,春天 (ceon1 tin1),春 (はる),Frühling,봄,printemps,primavera,Mùa Xuân,lente,vår,primavera,primavera,ربيع (rabia),весна (vesna),musim semi,ver,açık
 Summer,夏天,ghaeh then,夏天 (haa6 tin1),夏 (なつ),Sommer,여름,été,verano,Mùa Hè,zomer,sommar,verão,estate,صيف (sif),лето (leto),musim panas,aestas, yaz
@@ -257,8 +290,25 @@ wing,翅膀,sjieh bang,翅膀 (ci4 bong2),羽 (はね),Flügel,날개,aile,ala,c
 类 3 KKSM - djyk mut,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 4 KKNL,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 4 KKNL - njin lwih,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+Race (ethnicity),种族,tjuongq dzouk,種族 (zung2 zuk6),人種 (じんしゅ),Rasse,인종,race,raza,chủng tộc,ras,rast,raça,razza,عرق (ʿaraq),раса,bangsa,gens,ırk
+Sex (the act),性,siaengh,性 (sing3),セックス,Geschlecht,성별,sexe,sexo,giới tính,geslacht,kön,sexo,sesso,جنس (jins),пол,seks,sexus,cinsiyet
+Sex (gender),性别,siaengh byet,性別 (sing3 bit6),性別 (せいべつ),Geschlecht,성별,sexe,sexo,giới tính,geslacht,kön,sexo,sesso,جنس (jins),пол,seks,sexus,cinsiyet
+male,男,nom,男 (naam4),男性 (だんせい),männlich,남성,mâle,macho,nam,mannelijk,manlig,masculino,maschile,ذكر (thakar),мужской,lelaki,masculus,erkek
+female,女,nryoq,女 (neoi5),女性 (じょせい),weiblich,여성,femelle,hembra,nữ,vrouwelijk,kvinnlig,feminino,femminile,أنثى (ontha),женский,perempuan,femina,dişi
 类 4 KKNL - gyonh khang,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+pain,痛,thoungh,痛 (tung3),痛み (いたみ),Schmerz,아픔,douleur,dolor,đau,pijn,smärta,dor,dolore,ألم (alam),боль,sakit,dolor,acı
+injury,伤,sjyangh,傷 (soeng1),怪我 (けが),Verletzung,부상,blessure,lesión,vết thương,blessure,skada,lesão,lesione,إصابة (isabah),травма,luka,laesio,yaralanma
+kill,杀,sreet,殺 (saat3),殺す (ころす),töten,죽이다,tuer,matar,giết,doden,döda,matar,uccidere,يقتل (yaqtul),убивать,membunuh,necare,öldürmek
+die,死,siq,死 (sei2),死ぬ (しぬ),sterben,죽다,mourir,morir,chết,sterven,dö,mostrar-se,morire,يموت (yumūt),умирать,mati,mori,mekmek
+sick,生病,sryaengh byaengh,病 (seng1 beng6),病気 (びょうき),krank,아픈,malade,enfermo,bệnh,ziek,sjuk,doente,malato,مريض (maridh),больной,sakit,aegrotus,hasta
+healthy,健康,gyonh khang,健康 (gin6 hong1),健康 (けんこう),gesund,건강한,en bonne santé,saludable,khỏe,gezond,hälsosam,saudável,sano,صحي (sahih),здоровый,sihat,sanus,sağlıklı
+dead,死,siq,死 (sei2),死んだ (しんだ),tot,죽은,morto,muerto,chết,dood,död,morto,morto,ميت (mayyit),мертвый,mati,mortuus,ölü
+alive,活,kwat,活 (wut6),生きている (いきている),lebendig,살아있는,vivant,vivo,sống,levend,levande,vivo,vivo,حي (hayy),живой,hidup,vivus,canlı
+Death,死亡,siq muang,死亡 (sei2 mong4),死 (し),Tod,사망,mort,muerte,chết,dood,död,morte,morte,الموت (almawt),смерть,kematian,mors,ölüm
+Medicine,药物,jyak mut,藥物 (joek6 mat6),薬 (くすり),Medizin,의약품,médicament,medicina,thuốc,medicijn,medicin,medicina,medicina,دواء (dawa'),лекарство,ubat,medicamentum,ilaç
 类 4 KKNL - qyimq zjyk,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+eat,吃,khek,食 (sik6),食べる (たべる),essen,먹다,manger,comer,ăn,eten,äta,comer,mangiare,يأكل (yaʾkul),есть,makan,mangiare,yemek
+drink,喝,qaejh,飲 (jam2),飲む (のむ),trinken,마시다,boire,beber,uống,drinken,dricka,beber,bere,يشرب (yashrab),пить,minum,bibere,içmek
 小类beverage,饮料,qyimq lewh,飲品 (jam2 ban2),飲み物 (のみもの),Getränk,음료,boisson,bebida,đồ uống,drank,dryck,bebida,bevanda,مشروب (mashroob),напиток,minuman,potus,icecek
 coffee,咖啡,khae phojq,咖啡 (kaa1 fe1),コーヒー (こーひー),Kaffee,커피,café,café,cà phê,koffie,kaffe,café,caffè,قهوة (qahwa),кофе,kopi,coffea,kahve
 tea,茶,drae,茶 (caa4),お茶 (おちゃ),Tee,차,thé,té,trà,the,thee,chá,tè,شاي (shay),чай,teh,camellia,çay
@@ -406,6 +456,19 @@ space (outer space),太空,thajh khoung,太空 (taai3 hung1),宇宙 (うちゅ�
 bank,银行,ngyin ghang,銀行 (ngan4 hong4),銀行 (ぎんこう),Bank,은행,banque,banco,ngân hàng,bank,bank,banco,banca,بنك (bank),банк,bank,banka,banka
 类 5 NLUJ,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 5 NLUJ - kaew thoung,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+walk,走,tsouq,行 (haang4),歩く (あるく),gehen,걷다,marcher,caminar,đi bộ,lopen,gå,andar,camminare,يلتفت (yaltatif),идти,berjalan,ambulare,yürümek
+run,跑,phaewq,跑 (paau2),走る (はしる),rennen,달리다,courir,correr,chạy,rennen,springa,correr,correre,يجري (yajri),бежать,berlari,curre,koşmak
+drive,开车,kheoj tjhiae,開車 (hoi1 ce1),運転する (うんてんする),fahren,운전하다,conduire,conducir,lái xe,rijden,köra,dirigir,guidare,يقود (yaqūd),водить,memandu,dūcere,sürmek
+fly,飞,puj,飛 (fei1),飛ぶ (とぶ),fliegen,날다,voler,volar,bay,vliegen,flyga,voar,volare,يطير (yatīr),летать,terbang,volare,uçmak
+swim,游泳,ju uaengh,游泳 (jau4 wing6),泳ぐ (およぐ),schwimmen,수영하다,nager,nadar,bơi,zwemmen,simma,nadar,nuotare,يسبح (yasbah),плавать,berenang,natare,yüzmek
+go,去,khyoq,去 (heoi3),行く (いく),gehen,가다,aller,ir,đi,gan,åka,ir,andare,يلتقي (yltaqy),идти,pergi,ire,gitmek
+stop,停,deng,停 (ting4),止まる (とまる),halten,멈추다,arrêter,detener,dừng,stoppen,stanna,parar,fermare,توقف (tawaqquf),остановиться,berhenti,sistere,durmak
+sit,坐,dzwaq,坐 (zo6),座る (すわる),sitzen,앉다,asseoir,sentarse,ngồi,zitten,sitta,sentar-se,sedere,يجلس (yajlis),сидеть,duduk,sedere,oturmak
+stand,站,treemh,站 (zaam6),立つ (たつ),stehen,서다,se tenir debout,estar de pie,đứng,staan,stå,ficar de pé,star ritto,يقف (yaqif),стоять,berdiri,stare in piedi,durmak
+lie down,躺下,thangq ghaeq,躺下 (tong2 haa5),横になる (よこになる),sich hinlegen,누워 있다,s'allonger,tumbarse,nằm,liggen,lägga sig,deitar-se,coricarsi,يستلقي (yastalqī),лежать,berbaring,accubare,yatmak
+turn,转动,trwienq doungq,轉動 (zyun2 dung6),回す (まわす),drehen,돌리다,tourner,girar,xoay,draaien,vrida,virar,girare,يدير (yudir),поворачивать,mengubah,girare,dönmek
+fall,摔倒,sruit tawq,摔倒 (seoi1 dou3),落ちる (おちる),fallen,떨어지다,tomber,caer,rơi,vallen,falla,cair,cadere,يسقط (yaseqṭ),падать,jatuh,labere,düşmek
+follow,跟随,keon zwie,跟隨 (gan1 ceoi4),従う (したがう),folgen,따르다,suivre,seguir,theo,volgen,följa,seguir,seguire,يتبع (yatabiʿ),следовать,mengikuti,sequi,izlemek
 小类transportation,交通,kaew thoung,交通 (gaau1 tung1),交通 (こうつう),Transport,교통,transport,transporte,giao thông,vervoer,transport,transporte,trasporto,نقل (naql),транспорт,pengangkutan,transitus,taşıma
 train,火车,hwaq tjhiae,火車 (fo2 ce1),電車 (でんしゃ),Zug,기차,train,tren,tàu,trein,tåg,trem,treno,قطار (qitar),поезд,kereta api,tren,tren
 plane,飞机,puj kyj,飛機 (fei1 gei1),飛行機 (ひこうき),Flugzeug,비행기,avion,avión,máy bay,vliegtuig,flyg,avião,aereo,طائرة (ta'ira),самолет,pesawat terbang,aeroplanum,uçak
@@ -443,13 +506,42 @@ Manager,经理,kengh lyq,經理 (ging1 lei5),マネージャー,Manager,매니�
 Reporter,记者,kyh tjiaeq,記者 (gei3 ze2),レポーター,Reporter,기자,journaliste,reportero,phóng viên,journalist,journalist,repórter,giornalista,صحفي (sahafi),репортер,wartawan,index,muhabir
 Actor,演员,jienq un,演員 (jin2 jyun4),俳優 (はいゆう),Schauspieler,배우,acteur,actor,diễn viên,acteur,skådespelare,ator,attore,ممثل (mumathil),актер,pelakon,histrio,aktör
 类 6 NLGD - keng tsejh,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+Money,钱,tsienq,錢 (cin4),お金 (おかね),Geld,돈,argent,dinero,tiền,geld,pengar,dinheiro,soldi,نقود (nuqud),деньги,wang,pecunia,para
+Dollar,美元,myiq nguon,美元 (mei5 jyun4),ドル,Dollar,달러,dollar,dólar,đô la,dollar,dollar,dólar,dollaro,دولار (dolar),доллар,dolar,dollar,dolar
+Bill,账单,tryangh tan,賬單 (zoeng3 dan1),請求書 (きんがくしょ),Rechnung,청구서,facture,factura,hóa đơn,rekening,räkningen,factura,fattura,فاتورة (fātūrah),счёт,bil,factura,fatura
+Price,价格,kaeh kak,價格 (gaa3 gok3),価格 (かかく),Preis,가격,prix,precio,giá,geldprijs,pris,preço,prezzo,سعر (s'ar),цена,harga,pretium,fiyat
+Contract,合同,kop doung,合同 (gap6 tung4),契約 (けいやく),Vertrag,계약,contrat,contrato,hợp đồng,contract,avtal,contrato,contratto,عقد (aqd),контракт,perjanjian,contractus,sözleşme
+buy,买,meeq,買 (maai5),買う (かう),kaufen,사다,acheter,comprar,mua,kopen,köpa,comprar,comprare,يشتري (yashtarī),купить,membeli,emere,satın almak
+pay,付款,puoh khwanq,付款 (fu6 fun2),支払う (しはらう),bezahlen,지불하다,payer,pagar,trả tiền,betalen,betala,pagar,pagare,يدفع (yudfaʿ),платить,membayar,solvitur,ödemek
+sell,卖,meeh,賣 (maai6),売る (うる),verkaufen,팔다,vendre,vender,bán,verkopen,sälja,vender,vendere,يبيع (yabiʿu),продавать,membeli,venundare,satmak
+sign,签署,tshiem djyoh,簽署 (cin1 cyu5),サインする (さいんする),unterschreiben,서명하다,signer,firmar,đánh dấu,ondertekenen,skriva under,assinar,firmare,يوقع (yauqaʿ),подписывать,membubuhi tanda tangan,signare,imzalamak
+rich,有钱,uq tsienq,有錢 (jau5 cin2),金持ち (かねもち),reich,부자인,riche,rico,giàu,rijk,rik,rico,ricco,غني (ghani),богатый,kaya,dives,zengin
+poor,穷,gung,窮 (kung4),貧乏 (びんぼう),arm,가난한,pauvre,pobre,nghèo,arm, fattig,pobre,povero,فقير (faqeer),бедный,miskin,pauper,fakir
+expensive,贵,kujh,貴 (gwai3),高い (たかい),teuer,비싼,cher,caro,mắc,kostbaar,dyr,caro,costoso,غالي (ghali),дорогой,mahal,carus,değerli
+cheap,便宜,bienh ngye,便宜 (bin6 ji2),安い (やすい),billig,싼,bon marché,barato,rẻ,goedkoop,billig,barato,economico,رخيص (rakhees),дешевый,murah,vilis,ucuz
 类 7 NLTK,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 7 NLTK - trie sjyk,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 7 NLTK - sy jwi,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+Religion,宗教,tsong kaewh,宗教 (zung1 gaau3),宗教 (しゅうきょう),Religion,종교,religion,religión,tôn giáo,religie,religion,religião,religione,دين (deen),религия,agama,religio,din
+Heaven,天堂,then dang,天堂 (tin1 tong4),天国 (てんごく),Himmel,천국,cieux,cielo,thiên đường,hemel,himmel,paraíso,paradiso,الجنة (aljannah),небо,surga,caelum,cennet
+Hell,地狱,dih nguok,地獄 (dei6 juk6),地獄 (じごく),Hölle,지옥,enfer,infierno,địa ngục,hel,hel,inferno,inferno,جحيم (jahim),ад,neraka,infernus,cehennem
+God,神,zjin,神 (san4),神 (かみ),Gott,신,Dieu,Dios,Thượng đế,god,gud,Deus,dio,الله (Allah),бог,Tuhan,deus,Tanrı
+pray,祈祷,gyj tawq,祈禱 (kei4 dou3),祈る (いのる),beten,기도하다,prier,rezar,cầu nguyện,bidden,be,orar,preghiera,يصلي (yasalli),молиться,berdoa,precari,dua etmek
 类 7 NLTK - ngyon mun,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+write,写,siaeq,寫 (se2),書く (かく),schreiben,쓰다,écrire,escribir,viết,schrijven,skriva,escrever,scrivere,يكتب (yaktub),писать,menulis,scribere,yazmak
+consonant,辅音,buoq qyim,輔音 (fu6 jam1),子音 (しいん),Konsonant,자음,consonne,consonante,phụ âm,medeklinker,konsonant,consoante,consonante,حرف ساكن (harf sakin),согласная,konsonan,consonans,konsonant
+vowel,元音,nguon qyim,元音 (jyun4 jam1),母音 (ぼいん),Vokal,모음,voyelle,vocal,nguyên âm,klinker,vokal,vogal,vocale,حرف متحرك (harf mutaharrik),гласная,vokal,vocalis,vokal
+noun,名词,miaeng zy,名詞 (ming4 ci4),名詞 (めいし),Substantiv,명사,nom,sustantivo,danh từ,naamwoord,substantiv,substantivo,sostantivo,اسم (ism),существительное,kata benda,nomen,isim
+verb,动词,doungq zy,動詞 (dung6 ci4),動詞 (どうし),Verb,동사,verbe,verbo,động từ,werkwoord,verb,verbo,verbo,فعل (fi'l),глагол,kata kerja,verbum,fiil
+adjective,形容词,gheng juong zy,形容詞 (jing4 jung2 ci4),形容詞 (けいようし),Adjektiv,형용사,adjectif,adjetivo,tính từ,bijvoeglijk naamwoord,adjektiv,adjetivo,aggettivo,صفة (sifa),прилагательное,kata sifat,adjectiv,sıfat
 类 7 NLTK - sjyk phanh,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 7 NLTK - dziaeng komq,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 7 NLTK - hy hyeh,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+play,玩,ngwanh,玩 (waan2),遊ぶ (あそぶ),spielen,놀다,jouer,jugar,chơi,spelen,leka,jogar,gioire,يلعب (yalʿab),играть,bermain,ludere,oynamak
+Ball,球,gu,球 (kau4),ボール,Ball,공,balle,pelota,quả bóng,bal,boll,bola,palla,كرة (kurrah),мяч,bola,globus,top
+Game,游戏,ju hyeh,遊戲 (jau4 hei3),ゲーム,Spiel,게임,jeu,juego,trò chơi,spel,spel,jogo,gioco,لعبة (li'ba),игра,permainan,ludus,oyun
+sing,唱,tjhyangh,唱 (coeng3),歌う (うたう),singen,노래하다,chanter,cantar,hát,zingen,sjunga,cantar,cantare,يغني (yughni),петь,menyanyi,canta,şarkı söylemek
+dance,跳舞,dew muoq,跳舞 (tiu3 mou5),踊る (おどる),tanzen,춤을 추다,danser,bailar, khiêu vũ,dansen,dansa,dançar,danzare,يرقص (yurqis),танцевать,menari,danza,dans etmek
 小类art,艺术,ngiejh zjwit,藝術 (ngai6 seot6),芸術 (げいじゅつ),Kunst,예술,art,arte,nghệ thuật,kunst,konst,arte,arte,فن (fan),искусство,seni,syntagma,kunst
 band,乐队,ngoeuk dojh,樂隊 (lok6 deoi6),バンド (ばんど),Band,밴드,groupe,banda,nhóm nhạc,band,banda,banda,banda,فرقة (firqa),группа,kumpulan,capella,müzik grubu
 song,歌曲,ka khuok,歌曲 (go1 kuk1),歌曲 (かきょく),Lied,노래,chanson,canción,bài hát,lied,sång,música,canto,أغنية (aghani),песня,lagu,cantus,şarkı
@@ -459,10 +551,16 @@ movie,电影,denh qyaengq,電影 (din6 jing2),映画 (えいが),Film,영화,fil
 类 7 NLTK - kyq nemh,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 8 NLKT,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 8 NLKT - sjin pyin,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+good,好,hawq,好 (hou2),いい (いい),gut,좋은,bon,bueno,tốt,goed,bra,bom,buono,جيد (jayyid),хороший,baik,bonus,iyi
+bad,坏,kweejh,壞 (waai6),悪い (わるい),schlecht,나쁜,mauvais,malo,xấu,slecht,dålig,mau,cattivo,سيء (sayy'),плохой,buruk,malus,kötü
 类 8 NLKT - kaew tsiejh,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 8 NLKT - munh ghouh,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 8 NLKT - qiew qyak,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 8 NLKT - kae deng,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+Marriage,婚姻,hon qin,婚姻 (fan1 jan1),結婚 (けっこん),Ehe,결혼,mariage,matrimonio,hôn nhân,huwelijk,äktenskap,casamento,matrimonio,زواج (zawāj),брак,perkahwinan,matrimonium,evlilik
+Wedding,婚礼,hon lejq,婚禮 (fan1 lai5),結婚式 (けっこんしき),Hochzeit,결혼식,mariage,boda,đám cưới,bruiloft,bröllop,casamento,matrimonio,حفلة الزفاف (ḥaflat alzifāf),свадьба,perkahwinan,nuptiae,düğün
+love,爱,qeojh,愛 (oi3),愛する (あいする),lieben,사랑하다,aimer,amar,yêu,houden van,älska,amar,amare,يحب (yuhubb),любить,mencintai,amat,sevmek
+marry,结婚,ket hon,結婚 (git3 fan1),結婚する (けっこんする),heiraten,결혼하다,se marier,casarse,kết hôn,trouwen,gifta sig,casar-se,sposarsi,يتزوج (yatazawwaj),жениться,menikah,nubere,evlenmek
 小类待分people,人,njin,人 (jan4),人 (ひと),Menschen,사람,gens,gente,người,mensen,människor,pessoas,persone,شخص (shakhs),люди,orang,homo,insan
 son,儿子,njie tsyq,仔 (zi2),息子 (むすこ),Sohn,아들,fils,hijo,con trai,zoon,son,filho,figlio,ابن (ibn),сын,anak lelaki,filho,oğul
 daughter,女儿,nryoq njie,女仔 (neoi5),娘 (むすめ),Tochter,딸,fille,hija,con gái,dochter,dotter,filha,figlia,ابنة (ibna),дочь,anak perempuan,filha,kız
@@ -497,28 +595,14 @@ person,人,njin,人 (jan4),人 (ひと),Person,사람,personne,persona,người,
 类 9 KKTT,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 9 KKTT - kweok kae,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 9 KKTT - tjienh tsreeng,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+War,战争,tjienh tsreeng,戰爭 (zin3 zang1),戦争 (せんそう),Krieg,전쟁,guerre,guerra,chiến tranh,oorlog,krig,guerra,guerra,حرب (harb),война,perang,bellum,savaş
+Peace,和平,ghwah byaeng,和平 (wo4 ping4),平和 (へいわ),Frieden,평화,paix,paz,hòa bình,vrede,fred,paz,pace,سلام (salaam),мир,damai,pax,barış
 类 99 gy tha,未分类词条,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 🆙society,社会,djiaeq kwajh,社會 (se5 wui2),社会 (しゃかい),Gesellschaft,사회,société,sociedad,xã hội,maatschappij,samhälle,sociedade,società,مجتمع (mujtama'),общество,masyarakat,societas,toplum
-Religion,宗教,tsong kaewh,宗教 (zung1 gaau3),宗教 (しゅうきょう),Religion,종교,religion,religión,tôn giáo,religie,religion,religião,religione,دين (deen),религия,agama,religio,din
-Heaven,天堂,then dang,天堂 (tin1 tong4),天国 (てんごく),Himmel,천국,cieux,cielo,thiên đường,hemel,himmel,paraíso,paradiso,الجنة (aljannah),небо,surga,caelum,cennet
-Hell,地狱,dih nguok,地獄 (dei6 juk6),地獄 (じごく),Hölle,지옥,enfer,infierno,địa ngục,hel,hel,inferno,inferno,جحيم (jahim),ад,neraka,infernus,cehennem
-Death,死亡,siq muang,死亡 (sei2 mong4),死 (し),Tod,사망,mort,muerte,chết,dood,död,morte,morte,الموت (almawt),смерть,kematian,mors,ölüm
-Medicine,药物,jyak mut,藥物 (joek6 mat6),薬 (くすり),Medizin,의약품,médicament,medicina,thuốc,medicijn,medicin,medicina,medicina,دواء (dawa'),лекарство,ubat,medicamentum,ilaç
-Money,钱,tsienq,錢 (cin4),お金 (おかね),Geld,돈,argent,dinero,tiền,geld,pengar,dinheiro,soldi,نقود (nuqud),деньги,wang,pecunia,para
-Dollar,美元,myiq nguon,美元 (mei5 jyun4),ドル,Dollar,달러,dollar,dólar,đô la,dollar,dollar,dólar,dollaro,دولار (dolar),доллар,dolar,dollar,dolar
-Bill,账单,tryangh tan,賬單 (zoeng3 dan1),請求書 (きんがくしょ),Rechnung,청구서,facture,factura,hóa đơn,rekening,räkningen,factura,fattura,فاتورة (fātūrah),счёт,bil,factura,fatura
-Marriage,婚姻,hon qin,婚姻 (fan1 jan1),結婚 (けっこん),Ehe,결혼,mariage,matrimonio,hôn nhân,huwelijk,äktenskap,casamento,matrimonio,زواج (zawāj),брак,perkahwinan,matrimonium,evlilik
-Wedding,婚礼,hon lejq,婚禮 (fan1 lai5),結婚式 (けっこんしき),Hochzeit,결혼식,mariage,boda,đám cưới,bruiloft,bröllop,casamento,matrimonio,حفلة الزفاف (ḥaflat alzifāf),свадьба,perkahwinan,nuptiae,düğün
 Team,团队,dwan dojh,團隊 (tyun4 deoi6),チーム,Team,팀,équipe,equipo,nhóm,team,lag,time,squadra,فريق (fariq),команда,pasukan,manus,takım
-Race (ethnicity),种族,tjuongq dzouk,種族 (zung2 zuk6),人種 (じんしゅ),Rasse,인종,race,raza,chủng tộc,ras,rast,raça,razza,عرق (ʿaraq),раса,bangsa,gens,ırk
-Sex (the act),性,siaengh,性 (sing3),セックス,Geschlecht,성별,sexe,sexo,giới tính,geslacht,kön,sexo,sesso,جنس (jins),пол,seks,sexus,cinsiyet
-Sex (gender),性别,siaengh byet,性別 (sing3 bit6),性別 (せいべつ),Geschlecht,성별,sexe,sexo,giới tính,geslacht,kön,sexo,sesso,جنس (jins),пол,seks,sexus,cinsiyet
 Murder,谋杀,mu sreet,謀殺 (mau4 saat3),殺人 (さつじん),Mord,살인,meurtre,asesinato,giết người,moord,mord,assassinato,omicidio,قتل (qatl),убийство,pembunuhan,homicidium,cinayet
 Prison,监狱,kaemh nguok,監獄 (gaam1 juk6),刑務所 (けいむしょ),Gefängnis,교도소,prison,cárcel,ngục tù,gevangenis,fängelse,prisão,prigione,سجن (sijn),тюрьма,penjara,carcer,hapishane
 Technology,科技,khwah gyeq,科技 (fo1 gei6),テクノロジー,Technologie,기술,technologie,tecnología,công nghệ,technologie,teknik,tecnologia,tecnologia,تكنولوجيا (teknūlūjīā),технология,teknologi,technologia,teknoloji
-Energy,能源,neongq nguon,能源 (nang4 jyun4),エネルギー,Energie,에너지,énergie,energía,năng lượng,energie,energi,energia,energia,طاقة (taqa),энергия,tenaga,vis,enerji
-War,战争,tjienh tsreeng,戰爭 (zin3 zang1),戦争 (せんそう),Krieg,전쟁,guerre,guerra,chiến tranh,oorlog,krig,guerra,guerra,حرب (harb),война,perang,bellum,savaş
-Peace,和平,ghwah byaeng,和平 (wo4 ping4),平和 (へいわ),Frieden,평화,paix,paz,hòa bình,vrede,fred,paz,pace,سلام (salaam),мир,damai,pax,barış
 Attack,攻击,koung kek,攻擊 (gung1 gik1),攻撃 (こうげき),Angriff,공격,attaque,ataque,tấn công,aanval,attack,ataque,attacco,هجوم (hujūm),атака,serangan,impugnatio,saldırı
 Election,选举,swienq kyoq,選舉 (syun2 zeoi2),選挙 (せんきょ),Wahl,선거,élection,elección,cử tri,verkiezing,val,eleição,elezione,انتخابات (intikhabat),выборы,pilihan,electio,seçim
 Magazine,杂志,dzop tjyh,雜誌 (zaap6 zi3),雑誌 (ざっし),Magazin,잡지,magazine,revista,tạp chí,tijdschrift,tidskrift,revista,rivista,مجلة (majallah),журнал,majalah,diurnalis,dergi
@@ -528,55 +612,26 @@ Gun,枪,tsrhaeng,槍 (coeng1),銃 (じゅう),Waffe,총,arme,arma,súng,wapen,va
 Sport,运动,unh doungq,運動 (wan6 dung6),スポーツ,Sport,스포츠,sport,deporte,môn thể thao,sport,sport,sport,sport,رياضة (riyāḍah),спорт,sukan,ludus,spor
 Race (sport),比赛,piq seojh,比賽 (bei2 coi3),レース (れーす),Rennen,경주,course,carrera,cuộc đua,rennen,löp,gara,gara,سباق (sabaaq),гонка,lumba,cursus,yarış
 Exercise,锻炼,twanh lenh,鍛煉 (dyun3 lin6),運動 (うんどう),Übung,운동,exercice,ejercicio,tập luyện,oefening,övning,exercício,esercizio,ممارسة (mumārasah),упражнение,latihan,exercitatio,egzersiz
-Ball,球,gu,球 (kau4),ボール,Ball,공,balle,pelota,quả bóng,bal,boll,bola,palla,كرة (kurrah),мяч,bola,globus,top
-Game,游戏,ju hyeh,遊戲 (jau4 hei3),ゲーム,Spiel,게임,jeu,juego,trò chơi,spel,spel,jogo,gioco,لعبة (li'ba),игра,permainan,ludus,oyun
-Price,价格,kaeh kak,價格 (gaa3 gok3),価格 (かかく),Preis,가격,prix,precio,giá,geldprijs,pris,preço,prezzo,سعر (s'ar),цена,harga,pretium,fiyat
-Contract,合同,kop doung,合同 (gap6 tung4),契約 (けいやく),Vertrag,계약,contrat,contrato,hợp đồng,contract,avtal,contrato,contratto,عقد (aqd),контракт,perjanjian,contractus,sözleşme
 Drug,药物,jyak mut,藥物 (joek6 mat6),薬物 (やくぶつ),Droge,약,drogue,droga,thuốc,drug,drog,droga,droga,دواء (dawa'),наркотик,dadah,medicamentum,ilaç
 Sign,标志,piewq tjyh,標誌 (biu1 zi1),サイン,Zeichen,표지,signe,seña,biểu tượng,teken,skylt,sinal,segno,علامة (ʿalamat),знак,tanda,signum,işaret
 Science,科学,khwah ghoeuk,科學 (fo1 hok6),科学 (かがく),Wissenschaft,과학,science,ciencia,khoa học,wetenschap,vetenskap,ciência,scienza,علم (ʿilm),наука,sains,scientia,bilim
-God,神,zjin,神 (san4),神 (かみ),Gott,신,Dieu,Dios,Thượng đế,god,gud,Deus,dio,الله (Allah),бог,Tuhan,deus,Tanrı
 🆙misc nouns,其他名词,ky tha miaeng zy,其他名詞 (kei4 ta1 ming4 ci4),その他の名詞 (そのたのめいし),Sonstiges Substantiv,기타 명사,autres noms,otros sustantivos,các danh từ khác,diverse zelfstandige naamwoorden,övriga substantiv,outros substantivos,altri sostantivi,أسماء متفرقة (asma' mutafarriqa),другие существительные,kata nama lain,lēxica alia,various isimler
 map,地图,dih do,地圖 (dei6 tou4),地図 (ちず),Karte,지도,carte,map,bản đồ,karta,karta,mapa,mappa,خريطة (kharita),карта,peta,mappa,harita
 dot,点,temq,點 (dim2),点 (てん),Punkt,점,point,punto,chấm,punt,punkt,ponto,punto,نقطة (nuqta),точка,titik,punctum,nokta
-consonant,辅音,buoq qyim,輔音 (fu6 jam1),子音 (しいん),Konsonant,자음,consonne,consonante,phụ âm,medeklinker,konsonant,consoante,consonante,حرف ساكن (harf sakin),согласная,konsonan,consonans,konsonant
-vowel,元音,nguon qyim,元音 (jyun4 jam1),母音 (ぼいん),Vokal,모음,voyelle,vocal,nguyên âm,klinker,vokal,vogal,vocale,حرف متحرك (harf mutaharrik),гласная,vokal,vocalis,vokal
-light,光,kwangh,光 (gwong1),光 (ひかり),Licht,빛,lumière,luz,ánh sáng,licht,ljus,luz,luce,ضوء (daw'),свет,cahaya,lux,ışık
 sound,声音,sjiaeng qyim,聲音 (seng1 jam1),音 (おん),Klang,소리,son,sonido,âm thanh,geluid,ljud,som,suono,صوت (sawt),звук,suara,sonus,sound
 yes,是,djieq,係 (hai6),はい (hai),Ja,네,oui,sí,vâng,ja,ja,sim,sì,نعم (naam),да,ya,ita,evet
 no,不是,put djieq,唔係 (m4 hai6),いいえ (iie),Nein,아니오,non,no,không,nee,nej,não,no,لا (la),нет,tidak,non,hayır
 piece,片,phenh,片 (pin3),部分 (ぶぶん),Stück,조각,morceau,pedazo,mảnh,stuk,bit,peça,pezzo,قطعة (qitaa),кусок,potongan,pars,tane
-pain,痛,thoungh,痛 (tung3),痛み (いたみ),Schmerz,아픔,douleur,dolor,đau,pijn,smärta,dor,dolore,ألم (alam),боль,sakit,dolor,acı
-injury,伤,sjyangh,傷 (soeng1),怪我 (けが),Verletzung,부상,blessure,lesión,vết thương,blessure,skada,lesão,lesione,إصابة (isabah),травма,luka,laesio,yaralanma
 hole,洞,doungh,洞 (dung6),穴 (あな),Loch,구멍,trou,agujero,lỗ,gat,hål,buraco,buco,حفرة (hafra),отверстие,lubang,cavum,delik
 image,图像,do zyangq,圖像 (tou4 coeng2),画像 (がぞう),Bild,이미지,image,imagen,hình ảnh,afbeelding,bild,imagem,immagine,صورة (sura),изображение,gambar,imago,resim
 pattern,图案,do qanh,圖案 (tou4 on3),模様 (もよう),Muster,무늬,modèle,patrón,mẫu,patroon,mönster,padrão,disegno,نمط (namit),узор,pola,pars,model
-noun,名词,miaeng zy,名詞 (ming4 ci4),名詞 (めいし),Substantiv,명사,nom,sustantivo,danh từ,naamwoord,substantiv,substantivo,sostantivo,اسم (ism),существительное,kata benda,nomen,isim
-verb,动词,doungq zy,動詞 (dung6 ci4),動詞 (どうし),Verb,동사,verbe,verbo,động từ,werkwoord,verb,verbo,verbo,فعل (fi'l),глагол,kata kerja,verbum,fiil
-adjective,形容词,gheng juong zy,形容詞 (jing4 jung2 ci4),形容詞 (けいようし),Adjektiv,형용사,adjectif,adjetivo,tính từ,bijvoeglijk naamwoord,adjektiv,adjetivo,aggettivo,صفة (sifa),прилагательное,kata sifat,adjectiv,sıfat
 🆙verbs,动词,doungq zy,動詞 (dung6 ci4),動詞 (どうし),Verben,동사,verbes,verbos,động từ,werkwoorden,verb,verbos,verbi,أفعال (af'al),глаголы,kata kerja,verba,fîiller
 work,工作,koung tsoh,工作 (gung1 zok3),働く (はたらく),arbeiten,일하다,travailler,trabajar,làm việc,werken,arbeta,trabalhar,lavorare,يعمل (yaʿmal),работать,bekerja,operari,çalışmak
-play,玩,ngwanh,玩 (waan2),遊ぶ (あそぶ),spielen,놀다,jouer,jugar,chơi,spelen,leka,jogar,gioire,يلعب (yalʿab),играть,bermain,ludere,oynamak
-walk,走,tsouq,行 (haang4),歩く (あるく),gehen,걷다,marcher,caminar,đi bộ,lopen,gå,andar,camminare,يلتفت (yaltatif),идти,berjalan,ambulare,yürümek
-run,跑,phaewq,跑 (paau2),走る (はしる),rennen,달리다,courir,correr,chạy,rennen,springa,correr,correre,يجري (yajri),бежать,berlari,curre,koşmak
-drive,开车,kheoj tjhiae,開車 (hoi1 ce1),運転する (うんてんする),fahren,운전하다,conduire,conducir,lái xe,rijden,köra,dirigir,guidare,يقود (yaqūd),водить,memandu,dūcere,sürmek
-fly,飞,puj,飛 (fei1),飛ぶ (とぶ),fliegen,날다,voler,volar,bay,vliegen,flyga,voar,volare,يطير (yatīr),летать,terbang,volare,uçmak
-swim,游泳,ju uaengh,游泳 (jau4 wing6),泳ぐ (およぐ),schwimmen,수영하다,nager,nadar,bơi,zwemmen,simma,nadar,nuotare,يسبح (yasbah),плавать,berenang,natare,yüzmek
-go,去,khyoq,去 (heoi3),行く (いく),gehen,가다,aller,ir,đi,gan,åka,ir,andare,يلتقي (yltaqy),идти,pergi,ire,gitmek
-stop,停,deng,停 (ting4),止まる (とまる),halten,멈추다,arrêter,detener,dừng,stoppen,stanna,parar,fermare,توقف (tawaqquf),остановиться,berhenti,sistere,durmak
-follow,跟随,keon zwie,跟隨 (gan1 ceoi4),従う (したがう),folgen,따르다,suivre,seguir,theo,volgen,följa,seguir,seguire,يتبع (yatabiʿ),следовать,mengikuti,sequi,izlemek
 think,想,syangq,諗 (soeng2),考える (かんがえる),denken,생각하다,penser,pensar,suy nghĩ,denken,tänka,pensar,pensare,يفكر (yufakir),думать,berpikir,cogitare,düşünmek
 speak/say,说,sjwiet,講 (gong2),話す (はなす),sprechen,말하다,parler,hablar,nói,spreken,tala,falar,dire,يتحدث (yatahadath),говорить,bercakap,loqui,konuşmak
-eat,吃,khek,食 (sik6),食べる (たべる),essen,먹다,manger,comer,ăn,eten,äta,comer,mangiare,يأكل (yaʾkul),есть,makan,mangiare,yemek
-drink,喝,qaejh,飲 (jam2),飲む (のむ),trinken,마시다,boire,beber,uống,drinken,dricka,beber,bere,يشرب (yashrab),пить,minum,bibere,içmek
-kill,杀,sreet,殺 (saat3),殺す (ころす),töten,죽이다,tuer,matar,giết,doden,döda,matar,uccidere,يقتل (yaqtul),убивать,membunuh,necare,öldürmek
-die,死,siq,死 (sei2),死ぬ (しぬ),sterben,죽다,mourir,morir,chết,sterven,dö,mostrar-se,morire,يموت (yumūt),умирать,mati,mori,mekmek
 smile,微笑,muj siewh,微笑 (mei4 siu3),微笑む (ほほえむ),lächeln,미소짓다,sourire,sonreír,cười,glimlachen,le,mostrar-se sorridente,sorridere,يبتسم (yabtasim),улыбаться,tersenyum,salve,sırıtmak
 laugh,笑,siewh,笑 (siu3),笑う (わらう),lachen,웃다,rire,reír,cười,lachen,skratta,ri,rirsi,يضحك (yudhik),смеяться,tersenyum,ridere,gülümsemek
 cry,哭,khouk,哭 (huk1),泣く (なく),weinen,울다,pleurer,llorar,khóc,huilen,gråta,chorar,piangere,يبكي (yabki),плакать,menangis,lacrimare,ağlamak
-buy,买,meeq,買 (maai5),買う (かう),kaufen,사다,acheter,comprar,mua,kopen,köpa,comprar,comprare,يشتري (yashtarī),купить,membeli,emere,satın almak
-pay,付款,puoh khwanq,付款 (fu6 fun2),支払う (しはらう),bezahlen,지불하다,payer,pagar,trả tiền,betalen,betala,pagar,pagare,يدفع (yudfaʿ),платить,membayar,solvitur,ödemek
-sell,卖,meeh,賣 (maai6),売る (うる),verkaufen,팔다,vendre,vender,bán,verkopen,sälja,vender,vendere,يبيع (yabiʿu),продавать,membeli,venundare,satmak
 shoot(a gun),射击,zjiaek kek,射擊 (se6 gik1),撃つ (うつ),schießen,쏘다,tirer,disparar,bắn,schieten,skjuta,atirar,sparare,يطلق النار (yatluq alnnar),стрелять,menembak,sparare,ateş etmek
 learn,学,ghoeuk,學 (hok6),学ぶ (まなぶ),lernen,배우다,apprendre,aprender,học,leren,lära sig,aprender,imparare,يتعلم (yataʿalam),учиться,belajar,disce,ders almak
 jump,跳,dew,跳 (tiu3),跳ぶ (とぶ),springen,점프하다,sauter,saltar,nhảy,springen,hoppa,pular,saltare,يقفز (yaqfuza),прыгать,loncat,salto atla,sıçramak
@@ -588,24 +643,14 @@ touch,触摸,tjhuok mo,觸摸 (juk1 muk6),触る (さわる),berühren,만지다
 see (a bird),看见,khanh kenh,看見 (hon1 gin3),見る (みる),sehen,보다,voir,ver,thấy,zien,se,ver,vendere,يشاهد (yashahid),видеть,melihat,videre,görmek
 watch (TV),看,khanh,睇 (hon1 tai2),見る (みる),schauen,보다,regarder,ver,watch,zien,titta,assistir,guardare,يشاهد (yashahid),смотреть,menonton,videre,izlemek
 kiss,吻,munq,吻 (man5),キスする (きすする),küssen,키스하다,embrasser,besar,hôn,kussen,kyssa,beijar,baciare,يقبل (yaqbil),целовать,ciuman,oscula,öpmek
-burn,燃烧,njien sjiewh,燒 (jin4 siu1),燃える (もえる),brennen,타다,brûler,quemar,đốt,branden,brinna,queimar,bruciare,يحرق (yaharriq),гореть,membakar,adure,palamak
-melt,融化,jung hwaeh,融化 (jung4 faa3),溶ける (とける),schmelzen,녹다,fondre,derretir,chảy,smelten,smälta,derreter,sciogliere,يذوب (yadhub),плавить,mencairkan,liquescere,erimek
 dig,挖,qweet,挖 (waa1),掘る (ほる),graben,파다,creuser,cavar,khắc,graven,gräva,cavar,scavare,يحفر (yuhaffir),копать,menggali,effodere,kazmak
 explode,爆炸,poeuk traeh,爆炸 (baau3 zaat3),爆発する (ばくはつする),explodieren,터지다,exploser,explotar,nổ,exploderen,explodera,explodir,esplodere,ينفجر (yanfajir),взрываться,meletup,explodit,patlamak
-sit,坐,dzwaq,坐 (zo6),座る (すわる),sitzen,앉다,asseoir,sentarse,ngồi,zitten,sitta,sentar-se,sedere,يجلس (yajlis),сидеть,duduk,sedere,oturmak
-stand,站,treemh,站 (zaam6),立つ (たつ),stehen,서다,se tenir debout,estar de pie,đứng,staan,stå,ficar de pé,star ritto,يقف (yaqif),стоять,berdiri,stare in piedi,durmak
-love,爱,qeojh,愛 (oi3),愛する (あいする),lieben,사랑하다,aimer,amar,yêu,houden van,älska,amar,amare,يحب (yuhubb),любить,mencintai,amat,sevmek
 pass by,经过,keng kwa,經過 (ging1 gwo3),通り過ぎる (とおりすぎる),vorbeigehen,지나가다,passer,passar,lướt qua,passeren,gå förbi,passar,passare,يمر (yumur),проходить,melintasi,praeterire,geçmek
 cut,剪,tsienq,剪 (zin2),切る (きる),schneiden,자르다,couper,cortar,cắt,snijden,klyva,cortar,tagliare,يقطع (yaqtaʿ),резать,membelah,cut,sıkılmak
 fight,打架,tengq kaeh,打架 (daa2 gaai2),戦う (たたかう),kämpfen,싸우다,se battre,pelear,chiến đấu,vechten,fightas,lutar,lottare,يقاتل (yaqatil),сражаться,berkelahi,pugna,kavga etmek
-lie down,躺下,thangq ghaeq,躺下 (tong2 haa5),横になる (よこになる),sich hinlegen,누워 있다,s'allonger,tumbarse,nằm,liggen,lägga sig,deitar-se,coricarsi,يستلقي (yastalqī),лежать,berbaring,accubare,yatmak
-dance,跳舞,dew muoq,跳舞 (tiu3 mou5),踊る (おどる),tanzen,춤을 추다,danser,bailar, khiêu vũ,dansen,dansa,dançar,danzare,يرقص (yurqis),танцевать,menari,danza,dans etmek
 sleep,睡觉,djwieh kaewh,睡覺 (seoi6 gaau3),眠る (ねむる),schlafen,자다,dormir,dormir,ngủ,slapen,sova,dormir,dormire,ينام (yunām),спать,tidur,dormire,uyumak
 wake up,醒,sengq,醒 (sing2),目が覚める (めがさめる),aufwachen,깨다,se réveiller,despertar,wake up,wakker worden,vakna,acordar,svegliarsi,يستيقظ (yastaqdi),просыпаться,bangun,surgite,uyanmak
-sing,唱,tjhyangh,唱 (coeng3),歌う (うたう),singen,노래하다,chanter,cantar,hát,zingen,sjunga,cantar,cantare,يغني (yughni),петь,menyanyi,canta,şarkı söylemek
 count,数,sruoq,數 (sou3),数える (かぞえる),zählen,세다,compter,contar,đếm,tellen,räkna,contar,contare,يحسب (yuhassib),считать,menghitung,numera,hesaplamak
-marry,结婚,ket hon,結婚 (git3 fan1),結婚する (けっこんする),heiraten,결혼하다,se marier,casarse,kết hôn,trouwen,gifta sig,casar-se,sposarsi,يتزوج (yatazawwaj),жениться,menikah,nubere,evlenmek
-pray,祈祷,gyj tawq,祈禱 (kei4 dou3),祈る (いのる),beten,기도하다,prier,rezar,cầu nguyện,bidden,be,orar,preghiera,يصلي (yasalli),молиться,berdoa,precari,dua etmek
 win,赢,jiaeng,贏 (jing1),勝つ (かつ),gewinnen,이기다,gagner,ganar,thắng,winnen,vinna,ganhar,vincere,يفوز (yafawuz),выиграть,menang,vincere,kazanmak
 lose,输,sjuoh,輸 (syu1),負ける (まける),verlieren,지다,perdre,perder,thua,verliezen,förlora,perder,perdere,يلزم (yulzim),проиграть,kalah,perdere,kaybetmek
 mix/stir,搅拌,kaewq phan,攪拌 (gaau2 bun6),混ぜる (まぜる),mischen,섞다,mélanger,mezclar,trộn,mengen,blanda,misturar,miscelare,يمزج (yamazaj),смешивать,mencampur,confundere,karıştırmak
@@ -614,9 +659,7 @@ wash,洗,senq,洗 (sai2),洗う (あらう),waschen,씻다,laver,lavar,giặt,wa
 cook,煮,tjyoq,煮 (zyu2),料理する (りょうりする),kochen,요리하다,cuire,cocinar,nấu,koken,laga,cozinhar,cucinare,يطبخ (yatbukh),готовить,memasak,cenare,yemek yapmak
 open,打开,tengq kheoj,打開 (daa2 hoi1),開く (あく),öffnen,열다,ouvrir,abrir,mở,openen,öppna,abrir,aprire,يفتح (yaftaḥ),открыть,membuka,aperire,açmak
 close,关闭,kwaen pet,關閉 (gwaan1 bai1),閉じる (とじる),schließen,닫다,fermer,cerrar,đóng,sluiten,stänga,fechar,chiudere,يغلق (yughliq),закрыть,menutup,claude,açmak
-write,写,siaeq,寫 (se2),書く (かく),schreiben,쓰다,écrire,escribir,viết,schrijven,skriva,escrever,scrivere,يكتب (yaktub),писать,menulis,scribere,yazmak
 call,打电话,tengq denh ghwaejh,打電話 (daa2 din6 waa2),電話する (でんわする),anrufen,전화하다,appeler,llamar,gọi,bellen,rinna,chamar,chiamare,يتصل (yatasal),звонить,menelepon,chiamare,aramak
-turn,转动,trwienq doungq,轉動 (zyun2 dung6),回す (まわす),drehen,돌리다,tourner,girar,xoay,draaien,vrida,virar,girare,يدير (yudir),поворачивать,mengubah,girare,dönmek
 build,建造,kyonh tshawh,建造 (gin3 zou6),建てる (たてる),bauen,지으다,construire,construir,xây dựng,bouwen,bygga,construir,costruire,يبني (yabni),строить,membangun,extruire,yapmak
 teach,教,kaewh,教 (gaau3),教える (おしえる),lehren,가르치다,enseigner,enseñar,dạy,leren,undervisa,ensinar,insegnare,يعلم (yaʿlam),учить,mengajar,instruere,öğretmek
 grow,生长,sryaengh tryangq,生長 (sang1 coeng4),成長する (せいちょうする),wachsen,자라다,pousser,crecer,lớn lên,groeien,växa,crescer,crescere,ينمو (yanmuw),расти,tumbuh,crescere,büyümek
@@ -626,7 +669,6 @@ catch,捕捉,boh tsroeuk,捉 (fu1 zuk1),捕まえる (つかまえる),fangen,�
 throw,扔,njyngh,扔 (jing1),投げる (なげる),werfen,던지다,jeter,lanzar,ném,gooien,kasta,lançar,lanciare,يقذف (yaqadhif),бросать,membuang,iacere,fırlatmak
 clean,清洁,tshiaeng ket,清潔 (cing1 git3),きれいにする (きれいにする),reinigen,청소하다,nettoyer,limpiar,lau,opruimen,städa,limpar,pulire,ينظف (yunazif),чистить,membersihkan,lustra,temizlemek
 find,找到,tsraewq tawh,找到 (zaau2 dou2),見つける (みつける),finden,찾다,trouver,encontrar,tìm,vinden,hitta,encontrar,trovare,يجد (yajid),находить,mencari,trovare,bulmak
-fall,摔倒,sruit tawq,摔倒 (seoi1 dou3),落ちる (おちる),fallen,떨어지다,tomber,caer,rơi,vallen,falla,cair,cadere,يسقط (yaseqṭ),падать,jatuh,labere,düşmek
 push,推,tjhwi,推 (teoi1),押す (おす),drücken,밀다,pousser,empujar,đẩy,duwen,trycka,empurrar,spingere,يدفع (yadfaʿ),толкать,mendorong,impellere,itmek
 pull,拉,lop,lā,引っ張る (hikitsuru),ziehen,당기다,tirer,tirar,kéo,trekken,dra,puxar,tirare,جذب (jadhab),тянуть,tarik,pellere,çekmek
 carry,携带,ghwej tajh,攜帶 (heoi1 daai6),運ぶ (はこぶ),tragen,나르다,porter,llevar,mang,dragen,bära,carregar,portare,يحمل (yuhmil),нести,membawa,portare,taşımak
@@ -634,34 +676,9 @@ break,打破,tengq phah,打破 (daa2 po3),壊す (こわす),brechen,부수다,c
 wear,穿,tjhwienh,穿 (cyun1),着る (きる),tragen,입다,porter,llevar,mặc,dragen,bära,vestir,indossare,يلبس (yulbis),носить,pakai,vestis,giymek
 hang,挂,kweeh,掛 (gwaa3),かける (かける),hängen,걸다,accrocher,colgar,treo,ophangen,hänga,pendurar,appendere,يعلق (yaʿliq),вешать,menempelkan,pendĕre,asmak
 shake,摇,jiewh,搖 (jiu1),振る (ふる),schütteln,흔들다,secouer,agitar,lắc,schudden,skaka,agitar,scuotere,يرتج (yartaj),трясти,mengguncang,concŭtere,sallamak
-sign,签署,tshiem djyoh,簽署 (cin1 cyu5),サインする (さいんする),unterschreiben,서명하다,signer,firmar,đánh dấu,ondertekenen,skriva under,assinar,firmare,يوقع (yauqaʿ),подписывать,membubuhi tanda tangan,signare,imzalamak
 beat,打,tengq,打 (daa2),打つ (うつ),schlagen,두드리다,battre,golpear,đánh,slaan,slå,bater,battere,يضرب (yudrab),бить,mengalahkan,battere,dövmek
 lift,抬起,deoj khyq,抬起 (toi4 hei2),持ち上げる (もちあげる),heben,들다,lever,sostener,nâng,op tillen,lyfta,levantar,sollevare,يرفع (yurfaʿ),поднимать,mengangkat,supponere,kaldırmak
 🆙adjectives,形容词,gheng juong zy,形容詞 (jing4 jung2 ci4),形容詞 (けいようし),Adjektive,형용사,adjectifs,adjetivos,tính từ,bijvoeglijke naamwoorden,adjektiv,adjetivos,aggettivi,صفات (sifat),прилагательные,adjective,adjectives,sıfatlar
-long,长,tryangq,長 (coeng4),長い (ながい),lang,긴,long,largo,dài,lang,lång,longo,lungo,طويل (tawil),длинный,panjang,longus,uzun
-short,短,twanq,短 (duan2),短い (みじかい),kurz,짧은,court,corto,ngắn,kort,korto,corto,corto,قصير (qasir),короткий,pendek,brevis,kısa
-tall,高,kaw,高 (gou1),高い (たかい),groß,키가 큰,grand,alto,cao,lang,lång,alto,alto,طويل (tawil),высокий,tinggi,altus,uzun boylu
-short (vs tall),矮,qeeq,矮 (aai2),低い (ひくい),klein,키가 작은,petit,bajo,thấp,klein,korto,basso,basso,قصير (qasir),низкий,pendek (vs tinggi),brevis (vs altus),kısa (vs uzun boylu)
-wide,宽,khwan,闊 (fut3),広い (ひろい),breit,넓은,large,ancho,rộng,breed,bred,largo,largo,واسع (wasee),широкий,lebar,late,geniş
-narrow,窄,tsraek,窄 (zaak3),狭い (せまい),eng,좁은,étroit,estreito,hẹp,smal,smal,ristretto,stretto,ضيق (dayiq),узкий,sempit,angustus,dar
-big/large,大,dajh,大 (daai6),大きい (おおきい),groß,큰,grande,grande,lớn,groot,stor,grande,grande,كبير (kabeer),большой,besar,magnus,büyük
-small/little,小,siewq,細 (sai3),小さい (ちいさい),klein,작은,petit,pequeño,nhỏ,klein,liten,piccolo,piccolo,صغير (saghir),маленький,kecil,parvus,küçük
-slow,慢,maenh,慢 (maan6),遅い (おそい),langsam,느린,lent,lento,chậm,langzaam,långsam,lento,lento,بطيء (batee'),медленный,lambat,tardus,yavaş
-fast,快,khwaejh,快 (faai3),速い (はやい),schnell,빠른,rapide,rápido,nhanh,snel,snabb,veloce,veloce,سريع (saree'),быстрый,cepat,citus,hızlı
-hot,热,njiet,熱 (jit6),熱い (あつい),heiß,더운,chaud,caliente,nóng,heet,varm,caldo,caldo,حار (har),горячий,panas,calidus,sıcak
-cold,冷,lengq,凉 (leung5),寒い (さむい),kalt,추운,froid,frío,lạnh,koud,kall,freddo,freddo,بارد (barid),холодный,dingin,frigidus,soğuk
-warm,暖,nwanq,暖 (nyun5),暖かい (あたたかい),warm,따뜻한,chaud,cálido,ấm áp,warm,varm,caldo,caldo,دافئ (dafe'),теплый,ấm,calidus,sıcak
-cool,凉,lyangh,凉 (leung5),涼しい (すずしい),kühl,시원한,frais,fresco,mát,koud,sval,fresco,fresco,بارد (barid),прохладный,sejuk,freddus,serin
-new,新,sin,新 (san1),新しい (あたらしい),neu,새로운,nouveau,nuevo,mới,nieuw,ny,novo,nuovo,جديد (jadeed),новый,baru,novus,yeni
-old (new),旧,guh,舊 (gau6),新しい (あたらしい),alt,새로운,vieux,nuevo,mới,oud,gammal,velho,vecchio (non nuovo),جديد (jadeed),новый,baru,novus,yeni
-young,年轻,nen khiaengh,年青 (nin4 cing1),若い (わかい),jung,젊은,jeune,joven,trẻ,jong,ung,jovem,giovane,شاب (shab),молодой,muda,iuvenis,genç
-old (young),老,lawq,老 (lou5),年をとる (としをとる),alt,늙은,vieux,viejo,già,oud,gammal,velho,vecchio,عجوز (ajooz),старый,tua,senex,yaşlı
-good,好,hawq,好 (hou2),いい (いい),gut,좋은,bon,bueno,tốt,goed,bra,bom,buono,جيد (jayyid),хороший,baik,bonus,iyi
-bad,坏,kweejh,壞 (waai6),悪い (わるい),schlecht,나쁜,mauvais,malo,xấu,slecht,dålig,mau,cattivo,سيء (sayy'),плохой,buruk,malus,kötü
-wet,湿,sjip,濕 (sap1),濡れた (ぬれた),nass,젖은,mouillé,mojado,ẩm ướt,nat,blöt,molhado,bagnato,رطب (ratb),мокрый,basah,umidus,yaş
-dry,干燥,kan sawq,乾燥 (gon1 coeng4),乾燥 (かんそう),trocken,건조한,sec,seco,khô,droog,torr,seco,secco,جاف (jaf),сухой,kering,siccus,kuru
-sick,生病,sryaengh byaengh,病 (seng1 beng6),病気 (びょうき),krank,아픈,malade,enfermo,bệnh,ziek,sjuk,doente,malato,مريض (maridh),больной,sakit,aegrotus,hasta
-healthy,健康,gyonh khang,健康 (gin6 hong1),健康 (けんこう),gesund,건강한,en bonne santé,saludable,khỏe,gezond,hälsosam,saudável,sano,صحي (sahih),здоровый,sihat,sanus,sağlıklı
 loud,大声,dajh sjiaeng,大聲 (daai6 seng1),大きい (おおきい),laut,시끄러운,bruyant,alto,ồn ào,luid,högljudd,ruidoso,forte,صاخب (sakhb),громкий,kuat,clamosus,gürültülü
 quiet,安静,qan dziaengq,安靜 (on1 zing6),静か (しずか),leise,조용한,silencieux,tranquilo,yên tĩnh,stil,tyst,silencioso,tranquillo,هادئ (hadie'),тихий,tenang,tacitus,sessiz
 happy,高兴,kaw hyngh,高興 (gou1 hing1),嬉しい (うれしい),glücklich,행복한,heureux,feliz,hạnh phúc,blij,lycklig,feliz,felice,سعيد (sa'id),счастливый,gembira,felix,mutlu
@@ -672,33 +689,16 @@ deaf,聋,loung,聾 (lung4),聾 (ろう),taub,귀머거리,sourd,sordo,điếc,do
 blind,盲,maeng,盲 (maang4),盲目 (もうもく),blind,맹인,aveugle,ciego,mùa,blind,blind,surdo,cieco,عمي (amy),слепой,buta,caecus,kör
 nice,好,hawq,好 (hou2),いい (ii),nett,좋은,gentil,amable,tốt,mooi,trevlig,legal,gentile,لطيف (latif),хороший,baik,niceus,hoş
 mean,意思,qyh syh,意思 (ji3 si1),意味 (いみ),gemein,심술궂은,méchant,malo,có ý nghĩa,gemeen,elak,nasty,cattivo,يعني (ya'ani),означать,buruk,bonus,malum
-rich,有钱,uq tsienq,有錢 (jau5 cin2),金持ち (かねもち),reich,부자인,riche,rico,giàu,rijk,rik,rico,ricco,غني (ghani),богатый,kaya,dives,zengin
-poor,穷,gung,窮 (kung4),貧乏 (びんぼう),arm,가난한,pauvre,pobre,nghèo,arm, fattig,pobre,povero,فقير (faqeer),бедный,miskin,pauper,fakir
-thick,厚,ghouq,厚 (hau5),厚い (あつい),dick,두꺼운,épais,grueso,dày,dik,tjock,espesso,spesso,سميك (samic),толстый,tebal,crassus,kalın
-thin,薄,bak,薄 (baak6),薄い (うすい),dünn,얇은,mince,delgado,mỏng,dun,tunn,magro,sottile,رقيق (raqiq),тонкий,tipis,tenuis,ince
-expensive,贵,kujh,貴 (gwai3),高い (たかい),teuer,비싼,cher,caro,mắc,kostbaar,dyr,caro,costoso,غالي (ghali),дорогой,mahal,carus,değerli
-cheap,便宜,bienh ngye,便宜 (bin6 ji2),安い (やすい),billig,싼,bon marché,barato,rẻ,goedkoop,billig,barato,economico,رخيص (rakhees),дешевый,murah,vilis,ucuz
 flat,平,byaeng,平 (ping4),平ら (たいら),flach,평평한,plat,plano,bằng phẳng,plat,platt,plano,piano,مسطح (mustaḥ),плоский,datar,pinguis,düz
 curved,曲,khuok,彎 (waan1),曲がった (まがった),gebogen,곡선,curvé,curvado,cung,gebogen,kurvig,curvo,curvo,منحني (munhni),изогнутый,melengkung,curvus,eğri
-male,男,nom,男 (naam4),男性 (だんせい),männlich,남성,mâle,macho,nam,mannelijk,manlig,masculino,maschile,ذكر (thakar),мужской,lelaki,masculus,erkek
-female,女,nryoq,女 (neoi5),女性 (じょせい),weiblich,여성,femelle,hembra,nữ,vrouwelijk,kvinnlig,feminino,femminile,أنثى (ontha),женский,perempuan,femina,dişi
 tight,紧,kinq,緊 (gan2),きつい (kitsui),eng,꽉 막힌,serré,ajustado,chặt,strak,tight,apertado,stretto,ضيق (dayq),тугой,ketat,tensus,stram
 loose,松,zuong,鬆 (sung1),ゆるい (yurui),locker,헐거운,lâche,flojo,lỏng,los,loss,largo,largo,فضفاض (fadfad),свободный,longgar,laxus,gevşek
-high,高,kaw,高 (gou1),高い (たかい),hoch,높은,haut,alto,cao,hoog,hög,alto,alto,عالي (a'ali),высокий,tinggi,altus,yüksek
-low,低,tej,低 (dai1),低い (ひくい),niedrig,낮은,bas,bajo,thấp,laag,låg,baixo,basso,منخفض (mankhafidh),низкий,rendah,humilis,düşük
 soft,软,njwienq,軟 (jyun5),柔らかい (やわらかい),weich,부드러운,doux,suave,mềm,zacht,mjuk,macio,morbido,ناعم (naem),мягкий,lembut,mollis,yumuşak
 hard,硬,ngeengh,硬 (ngaang6),固い (かたい),hart,딱딱한,dur,duro,cứng,hard,hård,duro,duro,صعب (saa'b),твердый,keras,durus,zor/sert
-deep,深,sjimh,深 (sam1),深い (ふかい),tief,깊은,profond,profundo,sâu,diep,djup,profundo,profondo,عميق (ameeq),глубокий,dalam,altus,derin
-shallow,浅,tshienq,淺 (cin2),浅い (あさい),flach,얕은,peu profond,superficial,nông,ondiep,grund,raso,superficiale,سطحي (sathhee),мелкий,cetek,superficialis,sığ
 clean,干净,kan dziaengq,乾淨 (gon1 jing2),きれい (kirei),sauber,깨끗한,propre,limpio,sạch,schoon,ren,limpo,pulito,نظيف (nazif),чистый,bersih,mundus,temiz
 dirty,脏,tsangq,髒 (zong1),汚い (きたない),schmutzig,더러운,sale,sucio,bẩn,vuil,smutsig,sujo,sporco,قذر (qadhir),грязный,kotor,immundus,kirli
 strong,强,gyang,強 (koeng4),強い (つよい),stark,강한,fort,fuerte,mạnh,sterk,stark,forte,forte,قوي (qawi),сильный,kuat,validus,güçlü
 weak,弱,njyak,弱 (joek6),弱い (よわい),schwach,약한,faible,débil,yếu,zwak,svag,fraco,debole,ضعيف (da'eef),слабый,lemah,infimus,zayıf
-dead,死,siq,死 (sei2),死んだ (しんだ),tot,죽은,morto,muerto,chết,dood,död,morto,morto,ميت (mayyit),мертвый,mati,mortuus,ölü
-alive,活,kwat,活 (wut6),生きている (いきている),lebendig,살아있는,vivant,vivo,sống,levend,levande,vivo,vivo,حي (hayy),живой,hidup,vivus,canlı
 heavy,重,druongq,重 (zung6),重い (おもい),schwer,무거운,lourd,pesado,nặng,zwaar,tyngd,pesado,pesante,ثقيل (thaqeel),тяжелый,berat,gravis,ağır
 light (heavy),轻,khiaengh,輕 (hing1),重い (おもい),leicht,가벼운,léger,liviano,nhẹ,licht,lätt,leve,leggero,خفيف (khafif),легкий,ringan,levissimus,hafif
-dark,黑暗,heok qomh,黑暗 (hak1 am3),暗い (くらい),dunkel,어두운,sombre,oscuro,tối,donker,mörk,escuro,scuro,داكن (dakun),темный,gelap,tenebrosus,karanlık
-light (dark),明亮,myaeng lyangh,明亮 (ming4 loeng6),明るい (あかるい),hell,밝은,lumière,claro,sáng,licht,ljus,claro,chiaro,ضوء (daw'),светлый,terang,clarus,açık
-nuclear,核能,gheek neongq,核能 (hat1 nang4),原子力 (げんしりょく),nuklear,핵,nucléaire,nuclear,hạt nhân,kernenergie,kärnkraft,nuclear,nucleare,نووي (nawawi),ядерный,nuklir,nuclearis,nükleer
 famous,著名,tryoh miaeng,著名 (coek3 ming4),有名 (ゆうめい),berühmt,유명한,célèbre,famoso,nổi tiếng,bekend,berömd,famoso,famoso,مشهور (mashhur),известный,terkenal,celeber,ünlü
