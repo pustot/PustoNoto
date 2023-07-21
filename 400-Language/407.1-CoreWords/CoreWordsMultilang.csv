@@ -163,6 +163,39 @@ evening,晚上,muonq djyangq,晚上 (maan5 soeng6),夜 (よる),Abend,저녁,soi
 night,夜晚,jiaeh muonq,夜晚 (je6 maan5),夜 (よる),Nacht,밤,nuit,noche,đêm,nacht,natt,noite,notte,ليل (layl),ночь,malam,nox,gece
 类 2 KKTD - dih lyq,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 2 KKTD - dih mut,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+小类待分nature,自然,dzih njien,自然 (zi6 jin4),自然 (しぜん),Natur,자연,nature,naturaleza,thiên nhiên,natuur,naturza,priroda,natureza,طبيعة (tabi'a),природа,alam semula jadi,natura,doğa
+sea,海洋,heojq jyang,海 (hoi2),海 (うみ),Meer,바다,mer,mar,b biển,zee,hav,mar,mare,بحر (bahar),море,laut,mare,deniz
+ocean,海洋,heojq jyang,海洋 (hoi2 joeng4),海洋 (かいよう),Ozean,대양,océan,océano,đại dương,oceaan,havet,oceano,oceano,محيط (muhit),океан,lautan,oceanus,okyanus
+river,河,gha,河 (ho4),川 (かわ),Fluss,강,rivière,río,sông,rivier,flod,rio,fiume,نهر (nahr),река,sungai,flumen,nehir
+mountain,山,sreen,山 (saan1),山 (やま),Berg,산,montaña,montaña,núi,berg,berg,montanha,montagna,جبل (jabal),гора,gunung,montis,dağ
+rain,雨,uoq,雨 (jyu5),雨 (あめ),Regen,비,pluie,lluvia,mưa,regen,regn,chuva,pioggia,مطر (matar),дождь,hujan,imber,yağmur
+snow,雪,swiet,雪 (syut3),雪 (ゆき),Schnee,눈,neige,nieve,tuyết,sneeuw,snö,neve,neve,ثلج (thalj),снег,salju,nix,kar
+tree,树,djuoq,樹 (syu6),木 (き),Baum,나무,arbre,árbol,cây,boom,träd,árvore,albero,شجرة (shajara),дерево,pohon,arbor, ağaç
+sun,太阳,thajh jyang,太陽 (taai3 joeng4),太陽 (たいよう),Sonne,해,soleil,sol,mặt trời,zon,sol,sol,sole,شمس (shams),солнце,matahari,sol, güneş
+moon,月亮,nguot lyangh,月亮 (jyut6 loeng6),月 (つき),Mond,달,lune,luna, mặt trăng,maan,måne,lua,luna,قمر (qamar),луна,bulan,luna,ay
+world,世界,sjiejh keejh,世界 (sai3 gaai3),世界 (せかい),Welt,세계,monde,mundo,thế giới,wereld,värld,mundo,mondo,عالم (alam),мир,dunia,mundus,dünya
+Earth,地球,dih gu,地球 (dei6 kau4),地球 (ちきゅう),Erde,지구,terre,Tierra,Trái đất,Aarde,Jord,Terra,Terra,أرض (ard),Земля,Bumi,Terra,Dünya
+forest,森林,sryim lim,森林 (sam1 lam4),森林 (しんりん),Wald,숲,forêt,bosque,rừng,bos,skog,floresta,bosco,غابة (ghabah),лес,hutan,silva,orman
+sky,天空,then khoung,天空 (tin1 hung1),空 (そら),Himmel,하늘,ciel,cie lo,bầu trời, lucht,himmel, céu,cie lo,سماء (samaa'),небо,langit,caelum,gökyüzü
+plant,植物,dryh mut,植物 (zik6 mat6),植物 (しょくぶつ),Pflanze,식물,plante,planta,thực vật,plant, växt,planta,pianta,نبات (nabat),растение,tumbuhan,plantae,bitki
+wind,风,pungh,風 (fung1),風 (かぜ),Wind,바람,vent, viento,gió,wind,vind,vento,vento,رياح (riyah),ветер,gió,ventus,rüzgar
+soil/earth,土地,thoq dih,土地 (tou2 dei6),土壌 (つち),Boden,흙, sol/terre,tierra,đất,aarde,jord,solo/terra,terra,أرض (ard),земля,tanah,solum,toprak
+flower,花,hwae,花 (faa1),花 (はな),Blume,꽃,fleur,flor,hoa,bloem,blomma,flo r,fiore,زهرة (zahra),цветок,bunga,flos,çiçek
+valley,山谷,sreen louk,山谷 (saan1 guk1),谷 (たに),Tal,계곡,vallée,valle,thung lũng, vallei,dal,vale,valle,وادي (wadi),долина,thung lũng,vallis,vadi
+root,根,keon,根 (gan1),根 (ね),Wurzel,뿌리, racine,raíz,gốc,wortel,rot,raiz,radice,جذر (jazar),корень,akar,radix,kök
+lake,湖,gho,湖 (wu4),湖 (みずうみ),See,호,lac,lago,hồ,meer,sjö,lago,lago,بحيرة (buhayrah),озеро,danau,lacus,göl
+star,星星,seng seng,星 (sing1),星 (ほし),Stern,별,étoile,estrella,ngôi sao,ster, stjärna,estrela,stella,نجمة (najmah),звезда,bintang,stella,yıldız
+grass,草,tshawq,草 (cou2),草 (くさ),Gras,풀,herbe, hierba,cỏ,gras,gräs,erva,erba,عشب (ushb),трава,rumput,herba,ot
+leaf,叶子,sjiep tsyq,葉 (jip6 zi2),葉 (は),Blatt,잎,feuille, hoja,lá,blad,blad,folha,foglia,ورقة (warqah),лист,daun,folium,yaprak
+air,空气,khoungh khyjh,空氣 (hung1 hei3),空気 (くうき),Luft,공기,air,aire,không khí,lucht,luft, ar,aria,هواء (hawa'),воздух,udara,aer,ağır
+sand,沙,sraeh,沙 (saa1),砂 (すな),Sand,모래,sable,arena,cát,zand,sand,sabbia,areia,رمل (raml),песок,pasir,arena,kum
+beach,海滩,heojq than,海灘 (hoi2 taan1),浜辺 (はまべ),Strand,해변,plage, playa,bãi biển,strand,strand,praia,spiaggia,شاطئ (shaṭī'),пляж,pantai,littus,kumsal
+wave,波,pa,波 (bo1),波 (なみ),Welle,파도, vague,onda,sóng,golf,våg,onda,onda,موجة (mawjah),волна,ghi,unda,dalga
+fire,火,hwaq,火 (fo2),火 (ひ),Feuer,불,feu,fuego,lửa,vuur,eld,fogo, fuoco,نار (nar),огонь,api,ignis,ateş
+ice,冰,pying,冰 (beng1),氷 (こおり),Eis,얼음,gla ce,hielo,đá,ijs,is,gelo,ghiaccio,جليد (jalyd),лед,es,brex,gökyüzü
+island,岛,tawq,島 (dou2),島 (しま),Insel,섬,île,isla,đảo,eiland,ö, ilha,isola,جزيرة (jazīrah),остров,pulau,insula,ada
+hill,山丘,sreen khu,山丘 (saan1 kau4),丘 (おか),Hügel,언덕,colline,colina,đồi,heuvel,kulle,colina,collina,تل (tall),холм,bukit,colles,tepesi
+heat,热,njiet,熱 (jit6),熱 (ねつ),Hitze,열,cha leur,calor,nhiệt đới,warmte,värme,calor,calore,حرارة (hararah),жара,haba,calor,ısı
 类 3 KKSM,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 3 KKSM - DM sjin thejq,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 小类body,身体,sjin thejq,身體 (san1 tai2),体 (からだ),Körper,신체,corps,cuerpo,thân thể,lichaam,kropp,corpo,corpo,جسد (jism),тело,tubuh,corpus,vücut
@@ -301,7 +334,76 @@ dust,灰尘,hoj drin,灰塵 (fai1 can4),ほこり (hokori),Staub,먼지,poussiè
 gold,黄金,ghwang kyim,黃金 (wong4 gam1),金 (きん),Gold,금,or,oro,vàng,goud,guld,ouro,oro,ذهب (dhahab),золото,emas,aurum,altın
 copper,铜,doung,銅 (tung4),銅 (どう),Kupfer,구리,cuivre,cobre,đồng,koper,koppar,cobre,rame,نحاس (nihās),медь,tembaga,cuprum,bakır
 silver,银,ngyin,銀 (ngan4),銀 (ぎん),Silber,은,argent,plata,bạc,zilver,silver,prata,argento,فضة (fiddah),серебро,perak,argentum,gümüş
+小类待分home,家,kae,屋企 (uk1 kei2),家 (いえ),Zuhause,집,maison,casa,nhà,huis,hem,casa,casa,منزل (manzil),дом,rumah,domus,ev
+table,桌子,troeuk tsyq,枱 (tok3 zi2),机 (つくえ),Tisch,탁자,table,mesa,bàn,tafel,bord,mesa,tavolo,طاولة (taula),стол,meja,mensa,masa
+chair,椅子,qyeq tsyq,椅 (ji1),椅子 (いす),Stuhl,의자,chaise,silla,ghế,stoel,stol,cadeira,sedia,كرسي (kursi),стул,kerusi,sella,sandalye
+bed,床,dzryang,床 (coeng4),ベッド (べっど),Bett,침대,lit,cama,giường,bed,sovrum,cama,letto,سرير (saryr),кровать,tilam,lectus,yatak
+dream,梦,mungh,夢 (mung6),夢 (ゆめ),Traum,꿈,rêve,sueño,giấc mơ,droom,drom,sonho,sogno,حلم (hulm),сон,mimpi,somn,uyku
+window,窗,tsrhoeung,窗 (coeng1),窓 (まど),Fenster,창,fenêtre,ventana,cửa sổ,venster,fönster,janela,finestra,نافذة (nafidhah),окно,jendela,ianua,pencere
+door,门,mon,門 (mun4),ドア (どあ),Tür,문,porte,puerta,cửa,deur,dörr,porta,porta,باب (bab),дверь,pintu,ianua,kapı
+bedroom,卧室,ngwah sjit,臥室 (ngoh6 sat1),寝室 (しんしつ),Schlafzimmer,침실,chambre,dormitorio,phòng ngủ,slaapkamer,sovrum,quarto,camera da letto,غرفة نوم (ghurfat nawm),спальня,bilik tidur,cubiculum dormitorium,yatak odası
+kitchen,厨房,druo buang,廚房 (cyu4 fong1),キッチン (きっちん),Küche,부엌,cuisine,cocina,bếp,keuken,kök,cozinha,cucina,مطبخ (matbakh),кухня,dapur,cucina,mutfak
+bathroom,浴室,juok sjit,浴室 (juk6 sat1),浴室 (よくしつ),Badezimmer,욕실,salle de bain,baño,phòng tắm,badkamer,badrum,banheiro,bagno,حمام (hammam),ванная,ruang mandi,thermae bali,hamam
+pencil,铅笔,jwien pyit,鉛筆 (jyun4 bat1),鉛筆 (えんぴつ),Bleistift,연필,crayon,lápiz,bút chì,potlood,penna,papel,matita,قلم رصاص (qalam raṣāṣ),карандаш,pensel,graphium,pencil
+pen,钢笔,kang pyit,鋼筆 (gong1 bat1),万年筆 (まんねんひつ),Füller,펜,stylo,pluma,bút mực,pen,växelpenna,caneta,penna,قلم (qalam),ручка,pena,calamus,pulpen
+photograph,照片,tjiewh phenh,相片 (siu1 pin3),写真 (しゃしん),Fotografie,사진,photographie,fotografía,ảnh,foto,fotografi,fotografia,fotografia,صورة (sura),фотография,fotografi,fotographia,fotograf
+soap,肥皂,buj dzawq,肥皂 (fei4 cou2),石けん (せっけん),Seife,비누,savon,jabón,xà phòng,zeep,tvål,sabão,sapone,صابون (sabun),мыло,sabun,sapo,sapun
+book,书,sjyo,書 (syu1),本 (ほん),Buch,책,livre,libro,sách,boek,bok,livro,libro,كتاب (kitab),книга,buku,liber,kitap
+page,页,ghet,頁 (jip6),ページ (ぺーじ),Seite,페이지,page,página,trang,pagina,sida,página,pagina,صفحة (safhah),страница,muka,fascia,seyfah
+key,钥匙,jyak djie,鑰匙 (joek3 si4),鍵 (かぎ),Schlüssel,열쇠,clé,llave,chìa khóa,sleutel,nyckel,chave,chiave,مفتاح (miftāḥ),ключ,kunci,clavis,anahtar
+paint,颜料,ngaen lewh,油漆 (jau4 cat1),絵の具 (えのぐ),Farbe,페인트,peinture,pintura,sơn,verf,färg,tinta,pittura,دهان (dihan),краска,cat,coenit,boya
+letter,信,sinh,信 (seon3),手紙 (てがみ),Brief,편지,lettre,carta,thư,brief,brev,carta,lettera,رسالة (risālah),письмо,surat,epistula,mektup
+note,笔记,pyit kyh,筆記 (bat1 gei3),ノート (のーと),Notiz,노트,note,nota,ghi chú,notitie,anteckning,nota,nota,ملاحظة (mulāḥaẓah),заметка,catatan,nota,not
+wall,墙,dzyang,牆 (coeng4),壁 (かべ),Wand,벽,mur,pared,tường,wand,vägg,parede,muro,جدار (jidār),стена,dinding,murus,duvar
+paper,纸,tjieq,紙 (zi2),紙 (かみ),Papier,종이,papier,papel,gia,papier,papper,papel,carta,ورقة (warqah),бумага,kertas,charta,kağıt
+floor,地板,dih paenq,地板 (dei6 baan2),床 (ゆか),Boden,바닥,sol,suelo,sàn,vloer,golv,piso,pavimento,أرضية (arḍīyah),пол,lantai,pavimentum,zemin
+ceiling,天花板,then hwae paenq,天花板 (tin1 faa1 baan2),天井 (てんじょう),Decke,천장,plafond,techo,trần,plafond,tak,teto,soffitto,سقف (saqf),потолок,siling,fastigium,tavan
+roof,屋顶,qouk tengq,屋頂 (uk1 deng2),屋根 (やね),Dach,지붕,toit,techo,mái nhà,dak,tak,telhado,tetto,سقف (saqf),крыша,atap,tectum,çatı
+pool,游泳池,ju uaengh drie,泳池 (jau4 jung4 ci4),プール (ぷーる),Pool,수영장,piscine,piscina,bể bơi,zwembad,bassäng,piscina,piscina,مسبح (musbah),бассейн,kolam renang,piscina,pool
+lock,锁,swaq,鎖 (so2),鍵 (かぎ),Schloss,자물쇠,serrure,cerradura,khóa,slot,lås,fechadura,serratura,قفل (qifl),замок,kunci,carenae ianuae,kilit
+telephone,电话,denh ghwaejh,電話 (din6 waa2),電話 (でんわ),Telefon,전화,téléphone,teléfono,điện thoại,telefoon,telefon,telefone,telefono,هاتف (hatif),телефон,telefon,telephonium,telefon
+garden,花园,hwae uon,花園 (faa1 jyun4),庭園 (ていえん),Garten,정원,jardin,jardín,sân vườn,tuin,trädgård,jardim,giardino,حديقة (hadīqah),сад,taman,hortus,bahçe
+yard,院子,uenh tsyq,院 (jyun6 zi2),庭 (てい),Hof,마당,cour,patio,sân,tuin,gård,quintal,cortile,فناء (finā'),двор,halaman,atrium,courtyard
+needle,针,tjim,針 (zin1),針 (はり),Nadel,바늘,aiguille,aguja,kim,knaald,sticka,agulha,ago,إبرة (ibrah),игла,jarum,acus,ipe
+bag,袋子,deojh tsyq,袋 (doi1 zi2),袋 (ふくろ),Tasche,가방,sac,bolsa,túi,tas,väska,bolsa,borsa,حقيبة (haqibah),сумка,tas,bursa,çanta
+box,盒子,ghop tsyq,盒 (hak2 zi2),箱 (はこ),Schachtel,상자,boîte,caja,hộp,doos,ask,caixa,scatola,صندوق (sanduq),коробка,kotak,cista,şeker
+gift,礼物,lejq mut,禮物 (lai5 mat6),贈り物 (おくりもの),Geschenk,선물,cadeau,regalo,quà,cadeau,present,presente,regalo,هدية (hadīyah),подарок,hadiah,donum,hediye
+card,卡片,khaeq phenh,卡片 (kaa1 pin2),カード (かーど),Karte,카드,carte,tarjeta,thẻ,kaart,kort,cartão,carta,بطاقة (bitaqa),карта,kartu,tessera,kart
+ring,戒指,keejh tjiq,戒指 (gaai3 zi2),指輪 (ゆびわ),Ring,반지,bague,anillo,chiếc nhẫn,ring,ring,anel,anello,خاتم (khatam),кольцо,cincin,annulus,yüzük
+tool,工具,koung guoh,工具 (gung1 gu3),道具 (どうぐ),Werkzeug,도구,outil,herramienta,dụng cụ,gereedschap,verktyg,ferramenta,strumento,أداة (adāh),инструмент,alat,instrumentum,araç
 类 4 KKNL - kyonh truk,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+小类待分location,位置,uih tryh,位置 (wai2 sik1),場所 (ばしょ),Ort,위치,emplacement,ubicación,vị trí,locatie,plats,localização,posizione,موقع (mawqea'),место,lokasi,loca,lokalite
+city,城市,djiaeng djyq,城市 (sing4 si5),都市 (とし),Stadt,도시,ville,ciudad,thành phố,stad,stad,cidade,città,مدينة (madina),город,bandar,urbs,kotaşehir
+house,房子,buang tsyq,屋企 (uk1 kei2),家 (いえ),Haus,집,maison,casa,nhà,huis,hus,casa,casa,بيت (bayt),дом,rumah,domus,ev
+apartment,公寓,koung nguoh,樓 (lau4),アパート,Apartment,아파트,appartement,apartamento,chung cư,appartement,lägenhet,apartamento,appartamento,شقة (shaqa),квартира,pangsapuri,domus,ev
+street/road,街道,keej dawq,街 (gaai1 dou6),道路 (どうろ),Straße,도로,rue,calle,đường-địa phương,straat,gata,rua,strada,شارع (shaari),улица,jalan,platea,cadde
+airport,机场,kyj dryang,機場 (gei1 coeng4),空港 (くうこう),Flughafen,공항,aéroport,aeropuerto,sân bay,luchthaven,flygplats,aeroporto,aeroporto,مطار (matar),аэропорт,lapangan terbang,portus aëris,havalimanı
+train station,火车站,hwaq tjhiae treemh,火車站 (fo2 ce1 zaam6),駅 (えき),Bahnhof,기차역,gare,estación,nhà ga,treinstation,tågstation,estação de trem,stazione ferroviaria,محطة قطار (mahattat qitar),вокзал,stesen kereta api,castrum,istasyon
+bridge,桥,gyew,橋 (kiu4),橋 (はし),Brücke,다리,pont,puente,cầu,brug,bro,ponte,ponte,جسر (jisr),мост,jambatan,pontem,pont
+hotel,酒店,tsuq temh,酒店 (zau2 dim3),ホテル,Hotel,호텔,hôtel,hotel,khách sạn,hotel,hotell,hotel,hotel,فندق (funduq),отель,hotel,albergo,otel
+restaurant,餐馆,tshan kwanh,食肆 (sik6 zi6),レストラン,Restaurant,레스토랑,restaurant,restaurante,nhà hàng,restaurant,restaurang,restaurante,ristorante,مطعم (mat'am),ресторан,restoran,coenaculum,restoran
+farm,农场,nong dryang,農場 (nung4 coeng4),農場 (のうじょう),Bauernhof,농장,ferme,granja,nông trại,boerderij,bondgård,fazenda,fattoria,مزرعة (mazra'a),ферма,ladang,rusticus locus,çiftlik
+court,法院,puop uenh,法院 (faat3 jyun2),裁判所 (さいばんしょ),Gericht,법원,tribunal,tribunal,tòa án,rechtbank,domstol,tribunal,tribunale,محكمة (mahkama),суд,mahkamah,forum,adliye
+school,学校,ghoeuk ghaewh,學校 (hok6 haau6),学校 (がっこう),Schule,학교,école,escuela,trường,hogeschool,skola,escola,scuola,مدرسة (madrasa),школа,sekolah,schola,okul
+office,办公室,beenh koung sjit,辦公室 (baan6 gung1 sat1),オフィス,Büro,사무실,bureau,oficina,văn phòng,kantoor,kontor,escritório,ufficio,مكتب (maktab),офис,pejabat,officium,ofis
+room,房间,buang keenh,房間 (fong4 gaan1),部屋 (へや),Zimmer,방,chambre,cuarto,phòng,kamer,rumsala,quarto,stanzetta,غرفة (ghurfa),комната,bilik,camera,cam
+town,镇,trinh,鎮 (zan3),町 (ちょう),Stadt,마을,village,pueblo,thị trấn,dorp,stad,cidade,villaggio,بلدة (balda),городок,bandar,villa,villa
+university,大学,dajh ghoeuk,大學 (daai6 hok6),大学 (だいがく),Universität,대학교,université,universidad,đại học,universiteit,universitet,universidade,università,جامعة (jamia),университет,universiti,universitas,universitas
+club,俱乐部,kuo ngoeuk bouq,會所 (wui2 so2),クラブ,Verein,클럽,club,club,clb,clubb,sällskap,clube,club,نادي (nadi),клуб,kelab,sodalitas,klüp
+bar,酒吧,tsuq phae,酒吧 (zau2 baa1),バー,Bar,바,bar,bar,quán bar,bar,bar,bar,bar,مقهى (maqha),бар,bar,bar,bar
+park,公园,koung uon,公園 (gung1 jyun2),公園 (こうえん),Park,공원,parc,parque,công viên,park,park,parque,parco,حديقة (hadika),парк,taman,parkus,park
+camp,营地,jwiaeng dih,營地 (jing4 dei6),キャンプ,Lager,캠프,campamento,camp,trại khu,campingplats,läger,campismo,campeggio,مخيم (makhayyam),лагерь,khemah,castra,camp
+store/shop,商店,sjyang temh,商店 (soeng1 dim3),店舗 (てんぽ),Geschäft,상점,magasin,tienda,cửa hàng,winkel,butik,loja,negozio,متجر (matjar),магазин,kedai,taberna,mağaza
+theater,剧院,gyaek uenh,劇院 (gek6 jyun2),劇場 (げきじょう),Theater,극장,théâtre,teatro,rạp hát,theater,teater,teatro,teatro,مسرح (masrah),театр,teater,coenaculum,tiyatro
+library,图书馆,do sjyo kwanh,圖書館 (tou4 syu1 gun2),図書館 (としょかん),Bibliothek,도서관,bibliothèque,biblioteca,thư viện,bibliotheek,bibliotek,biblioteca,biblioteca,مكتبة (maktaba),библиотека,perpustakaan,bibliotheca,kütüphane
+hospital,医院,qy uenh,醫院 (ji1 jyun2),病院 (びょういん),Krankenhaus,병원,hôpital,hospital,bệnh viện,ziekenhuis,sjukhus,hospital,ospedale,مستشفى (mustashfa),больница,hospital,hospitium,hastane
+church,教堂,kaewh dang,教堂 (gaau3 tong4),教会 (きょうかい),Kirche,교회,église,iglesia,nhà thờ,kerk,kyrka,igreja,chiesa,كنيسة (kanisa),церковь,gereja,basilica,ecclesia
+market,市场,djyq dryang,市場 (si5 coeng4),市場 (いちば),Markt,시장,marché,mercado,chợ,markt,marknad,mercado,mercato,سوق (souq),рынок,pasar,forum mercatus,pazar
+country,国家,kweok kae,國家 (gwok3 gaa1),国 (くに),Land,나라,pays,país,quốc gia,land,land,país,paese,بلد (balad),страна,negara,res publica,ülke
+building,建筑物,kyonh truk mut,建築物 (gin3 zuk1 mat6),建物 (たてもの),Gebäude,건물,bâtiment,edificio,toà nhà,gebouw,byggnad,prédio,edificio,بناية (bina'),здание,bangunan,aedificium,bina
+ground,地面,dih mienh,地 (dei6),地面 (じめん),Boden,땅,sol,suelo,mặt đất,grond,mark,terra,terra,أرض (ard),земля,tanah,tellus,yer
+space (outer space),太空,thajh khoung,太空 (taai3 hung1),宇宙 (うちゅう),Weltraum,우주,espace,espacio,không gian,ruimte,rymd,espaço,spazio,الفضاء الخارجي (al-fada' al-khariji),космос,angkasa,spatium,astrum
+bank,银行,ngyin ghang,銀行 (ngan4 hong4),銀行 (ぎんこう),Bank,은행,banque,banco,ngân hàng,bank,bank,banco,banca,بنك (bank),банк,bank,banka,banka
 类 5 NLUJ,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 5 NLUJ - kaew thoung,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 小类transportation,交通,kaew thoung,交通 (gaau1 tung1),交通 (こうつう),Transport,교통,transport,transporte,giao thông,vervoer,transport,transporte,trasporto,نقل (naql),транспорт,pengangkutan,transitus,taşıma
@@ -361,43 +463,7 @@ movie,电影,denh qyaengq,電影 (din6 jing2),映画 (えいが),Film,영화,fil
 类 8 NLKT - munh ghouh,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 8 NLKT - qiew qyak,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 类 8 NLKT - kae deng,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
-类 9 KKTT,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
-类 9 KKTT - kweok kae,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
-类 9 KKTT - tjienh tsreeng,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
-类 99 gy tha,未分类词条,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
-🆙location,位置,uih tryh,位置 (wai2 sik1),場所 (ばしょ),Ort,위치,emplacement,ubicación,vị trí,locatie,plats,localização,posizione,موقع (mawqea'),место,lokasi,loca,lokalite
-city,城市,djiaeng djyq,城市 (sing4 si5),都市 (とし),Stadt,도시,ville,ciudad,thành phố,stad,stad,cidade,città,مدينة (madina),город,bandar,urbs,kotaşehir
-house,房子,buang tsyq,屋企 (uk1 kei2),家 (いえ),Haus,집,maison,casa,nhà,huis,hus,casa,casa,بيت (bayt),дом,rumah,domus,ev
-apartment,公寓,koung nguoh,樓 (lau4),アパート,Apartment,아파트,appartement,apartamento,chung cư,appartement,lägenhet,apartamento,appartamento,شقة (shaqa),квартира,pangsapuri,domus,ev
-street/road,街道,keej dawq,街 (gaai1 dou6),道路 (どうろ),Straße,도로,rue,calle,đường-địa phương,straat,gata,rua,strada,شارع (shaari),улица,jalan,platea,cadde
-airport,机场,kyj dryang,機場 (gei1 coeng4),空港 (くうこう),Flughafen,공항,aéroport,aeropuerto,sân bay,luchthaven,flygplats,aeroporto,aeroporto,مطار (matar),аэропорт,lapangan terbang,portus aëris,havalimanı
-train station,火车站,hwaq tjhiae treemh,火車站 (fo2 ce1 zaam6),駅 (えき),Bahnhof,기차역,gare,estación,nhà ga,treinstation,tågstation,estação de trem,stazione ferroviaria,محطة قطار (mahattat qitar),вокзал,stesen kereta api,castrum,istasyon
-bridge,桥,gyew,橋 (kiu4),橋 (はし),Brücke,다리,pont,puente,cầu,brug,bro,ponte,ponte,جسر (jisr),мост,jambatan,pontem,pont
-hotel,酒店,tsuq temh,酒店 (zau2 dim3),ホテル,Hotel,호텔,hôtel,hotel,khách sạn,hotel,hotell,hotel,hotel,فندق (funduq),отель,hotel,albergo,otel
-restaurant,餐馆,tshan kwanh,食肆 (sik6 zi6),レストラン,Restaurant,레스토랑,restaurant,restaurante,nhà hàng,restaurant,restaurang,restaurante,ristorante,مطعم (mat'am),ресторан,restoran,coenaculum,restoran
-farm,农场,nong dryang,農場 (nung4 coeng4),農場 (のうじょう),Bauernhof,농장,ferme,granja,nông trại,boerderij,bondgård,fazenda,fattoria,مزرعة (mazra'a),ферма,ladang,rusticus locus,çiftlik
-court,法院,puop uenh,法院 (faat3 jyun2),裁判所 (さいばんしょ),Gericht,법원,tribunal,tribunal,tòa án,rechtbank,domstol,tribunal,tribunale,محكمة (mahkama),суд,mahkamah,forum,adliye
-school,学校,ghoeuk ghaewh,學校 (hok6 haau6),学校 (がっこう),Schule,학교,école,escuela,trường,hogeschool,skola,escola,scuola,مدرسة (madrasa),школа,sekolah,schola,okul
-office,办公室,beenh koung sjit,辦公室 (baan6 gung1 sat1),オフィス,Büro,사무실,bureau,oficina,văn phòng,kantoor,kontor,escritório,ufficio,مكتب (maktab),офис,pejabat,officium,ofis
-room,房间,buang keenh,房間 (fong4 gaan1),部屋 (へや),Zimmer,방,chambre,cuarto,phòng,kamer,rumsala,quarto,stanzetta,غرفة (ghurfa),комната,bilik,camera,cam
-town,镇,trinh,鎮 (zan3),町 (ちょう),Stadt,마을,village,pueblo,thị trấn,dorp,stad,cidade,villaggio,بلدة (balda),городок,bandar,villa,villa
-university,大学,dajh ghoeuk,大學 (daai6 hok6),大学 (だいがく),Universität,대학교,université,universidad,đại học,universiteit,universitet,universidade,università,جامعة (jamia),университет,universiti,universitas,universitas
-club,俱乐部,kuo ngoeuk bouq,會所 (wui2 so2),クラブ,Verein,클럽,club,club,clb,clubb,sällskap,clube,club,نادي (nadi),клуб,kelab,sodalitas,klüp
-bar,酒吧,tsuq phae,酒吧 (zau2 baa1),バー,Bar,바,bar,bar,quán bar,bar,bar,bar,bar,مقهى (maqha),бар,bar,bar,bar
-park,公园,koung uon,公園 (gung1 jyun2),公園 (こうえん),Park,공원,parc,parque,công viên,park,park,parque,parco,حديقة (hadika),парк,taman,parkus,park
-camp,营地,jwiaeng dih,營地 (jing4 dei6),キャンプ,Lager,캠프,campamento,camp,trại khu,campingplats,läger,campismo,campeggio,مخيم (makhayyam),лагерь,khemah,castra,camp
-store/shop,商店,sjyang temh,商店 (soeng1 dim3),店舗 (てんぽ),Geschäft,상점,magasin,tienda,cửa hàng,winkel,butik,loja,negozio,متجر (matjar),магазин,kedai,taberna,mağaza
-theater,剧院,gyaek uenh,劇院 (gek6 jyun2),劇場 (げきじょう),Theater,극장,théâtre,teatro,rạp hát,theater,teater,teatro,teatro,مسرح (masrah),театр,teater,coenaculum,tiyatro
-library,图书馆,do sjyo kwanh,圖書館 (tou4 syu1 gun2),図書館 (としょかん),Bibliothek,도서관,bibliothèque,biblioteca,thư viện,bibliotheek,bibliotek,biblioteca,biblioteca,مكتبة (maktaba),библиотека,perpustakaan,bibliotheca,kütüphane
-hospital,医院,qy uenh,醫院 (ji1 jyun2),病院 (びょういん),Krankenhaus,병원,hôpital,hospital,bệnh viện,ziekenhuis,sjukhus,hospital,ospedale,مستشفى (mustashfa),больница,hospital,hospitium,hastane
-church,教堂,kaewh dang,教堂 (gaau3 tong4),教会 (きょうかい),Kirche,교회,église,iglesia,nhà thờ,kerk,kyrka,igreja,chiesa,كنيسة (kanisa),церковь,gereja,basilica,ecclesia
-market,市场,djyq dryang,市場 (si5 coeng4),市場 (いちば),Markt,시장,marché,mercado,chợ,markt,marknad,mercado,mercato,سوق (souq),рынок,pasar,forum mercatus,pazar
-country,国家,kweok kae,國家 (gwok3 gaa1),国 (くに),Land,나라,pays,país,quốc gia,land,land,país,paese,بلد (balad),страна,negara,res publica,ülke
-building,建筑物,kyonh truk mut,建築物 (gin3 zuk1 mat6),建物 (たてもの),Gebäude,건물,bâtiment,edificio,toà nhà,gebouw,byggnad,prédio,edificio,بناية (bina'),здание,bangunan,aedificium,bina
-ground,地面,dih mienh,地 (dei6),地面 (じめん),Boden,땅,sol,suelo,mặt đất,grond,mark,terra,terra,أرض (ard),земля,tanah,tellus,yer
-space (outer space),太空,thajh khoung,太空 (taai3 hung1),宇宙 (うちゅう),Weltraum,우주,espace,espacio,không gian,ruimte,rymd,espaço,spazio,الفضاء الخارجي (al-fada' al-khariji),космос,angkasa,spatium,astrum
-bank,银行,ngyin ghang,銀行 (ngan4 hong4),銀行 (ぎんこう),Bank,은행,banque,banco,ngân hàng,bank,bank,banco,banca,بنك (bank),банк,bank,banka,banka
-🆙people,人,njin,人 (jan4),人 (ひと),Menschen,사람,gens,gente,người,mensen,människor,pessoas,persone,شخص (shakhs),люди,orang,homo,insan
+小类待分people,人,njin,人 (jan4),人 (ひと),Menschen,사람,gens,gente,người,mensen,människor,pessoas,persone,شخص (shakhs),люди,orang,homo,insan
 son,儿子,njie tsyq,仔 (zi2),息子 (むすこ),Sohn,아들,fils,hijo,con trai,zoon,son,filho,figlio,ابن (ibn),сын,anak lelaki,filho,oğul
 daughter,女儿,nryoq njie,女仔 (neoi5),娘 (むすめ),Tochter,딸,fille,hija,con gái,dochter,dotter,filha,figlia,ابنة (ibna),дочь,anak perempuan,filha,kız
 mother,母亲,mouq tshinh,妈妈 (maa1 maa1),母 (はは),Mutter,어머니,mère,madre,mẹ,moeder,mor,mãe,madre,أم (um),мать,ibu,mãe,anne
@@ -428,6 +494,10 @@ player,玩家,ngwanh kae,玩家 (waan4 gaa1),プレーヤー (ぷれーいやー
 fan,粉丝,punq sy,粉絲 (fan2 si1),ファン (ふぁん),Fan,팬,fan,fan,tán thành,fan,fan,fã,tifoso,مشجع (mushaqqiʿ),болельщик,peminat,fã,hayran
 crowd,人群,njin gun,人群 (jan4 kwan4),人々 (ひとびと),Menge,군중,foule,multitud,đám đông,massa,massa,multidão,folla,الحشد (alhashd),толпа,kerumunan,multidão,kalabalık
 person,人,njin,人 (jan4),人 (ひと),Person,사람,personne,persona,người,persoon,person,pessoa,persona,شخص (shakhs),человек,orang,pessoa,kişi
+类 9 KKTT,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 9 KKTT - kweok kae,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 9 KKTT - tjienh tsreeng,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 99 gy tha,未分类词条,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 🆙society,社会,djiaeq kwajh,社會 (se5 wui2),社会 (しゃかい),Gesellschaft,사회,société,sociedad,xã hội,maatschappij,samhälle,sociedade,società,مجتمع (mujtama'),общество,masyarakat,societas,toplum
 Religion,宗教,tsong kaewh,宗教 (zung1 gaau3),宗教 (しゅうきょう),Religion,종교,religion,religión,tôn giáo,religie,religion,religião,religione,دين (deen),религия,agama,religio,din
 Heaven,天堂,then dang,天堂 (tin1 tong4),天国 (てんごく),Himmel,천국,cieux,cielo,thiên đường,hemel,himmel,paraíso,paradiso,الجنة (aljannah),небо,surga,caelum,cennet
@@ -466,76 +536,6 @@ Drug,药物,jyak mut,藥物 (joek6 mat6),薬物 (やくぶつ),Droge,약,drogue,
 Sign,标志,piewq tjyh,標誌 (biu1 zi1),サイン,Zeichen,표지,signe,seña,biểu tượng,teken,skylt,sinal,segno,علامة (ʿalamat),знак,tanda,signum,işaret
 Science,科学,khwah ghoeuk,科學 (fo1 hok6),科学 (かがく),Wissenschaft,과학,science,ciencia,khoa học,wetenschap,vetenskap,ciência,scienza,علم (ʿilm),наука,sains,scientia,bilim
 God,神,zjin,神 (san4),神 (かみ),Gott,신,Dieu,Dios,Thượng đế,god,gud,Deus,dio,الله (Allah),бог,Tuhan,deus,Tanrı
-🆙home,家,kae,屋企 (uk1 kei2),家 (いえ),Zuhause,집,maison,casa,nhà,huis,hem,casa,casa,منزل (manzil),дом,rumah,domus,ev
-table,桌子,troeuk tsyq,枱 (tok3 zi2),机 (つくえ),Tisch,탁자,table,mesa,bàn,tafel,bord,mesa,tavolo,طاولة (taula),стол,meja,mensa,masa
-chair,椅子,qyeq tsyq,椅 (ji1),椅子 (いす),Stuhl,의자,chaise,silla,ghế,stoel,stol,cadeira,sedia,كرسي (kursi),стул,kerusi,sella,sandalye
-bed,床,dzryang,床 (coeng4),ベッド (べっど),Bett,침대,lit,cama,giường,bed,sovrum,cama,letto,سرير (saryr),кровать,tilam,lectus,yatak
-dream,梦,mungh,夢 (mung6),夢 (ゆめ),Traum,꿈,rêve,sueño,giấc mơ,droom,drom,sonho,sogno,حلم (hulm),сон,mimpi,somn,uyku
-window,窗,tsrhoeung,窗 (coeng1),窓 (まど),Fenster,창,fenêtre,ventana,cửa sổ,venster,fönster,janela,finestra,نافذة (nafidhah),окно,jendela,ianua,pencere
-door,门,mon,門 (mun4),ドア (どあ),Tür,문,porte,puerta,cửa,deur,dörr,porta,porta,باب (bab),дверь,pintu,ianua,kapı
-bedroom,卧室,ngwah sjit,臥室 (ngoh6 sat1),寝室 (しんしつ),Schlafzimmer,침실,chambre,dormitorio,phòng ngủ,slaapkamer,sovrum,quarto,camera da letto,غرفة نوم (ghurfat nawm),спальня,bilik tidur,cubiculum dormitorium,yatak odası
-kitchen,厨房,druo buang,廚房 (cyu4 fong1),キッチン (きっちん),Küche,부엌,cuisine,cocina,bếp,keuken,kök,cozinha,cucina,مطبخ (matbakh),кухня,dapur,cucina,mutfak
-bathroom,浴室,juok sjit,浴室 (juk6 sat1),浴室 (よくしつ),Badezimmer,욕실,salle de bain,baño,phòng tắm,badkamer,badrum,banheiro,bagno,حمام (hammam),ванная,ruang mandi,thermae bali,hamam
-pencil,铅笔,jwien pyit,鉛筆 (jyun4 bat1),鉛筆 (えんぴつ),Bleistift,연필,crayon,lápiz,bút chì,potlood,penna,papel,matita,قلم رصاص (qalam raṣāṣ),карандаш,pensel,graphium,pencil
-pen,钢笔,kang pyit,鋼筆 (gong1 bat1),万年筆 (まんねんひつ),Füller,펜,stylo,pluma,bút mực,pen,växelpenna,caneta,penna,قلم (qalam),ручка,pena,calamus,pulpen
-photograph,照片,tjiewh phenh,相片 (siu1 pin3),写真 (しゃしん),Fotografie,사진,photographie,fotografía,ảnh,foto,fotografi,fotografia,fotografia,صورة (sura),фотография,fotografi,fotographia,fotograf
-soap,肥皂,buj dzawq,肥皂 (fei4 cou2),石けん (せっけん),Seife,비누,savon,jabón,xà phòng,zeep,tvål,sabão,sapone,صابون (sabun),мыло,sabun,sapo,sapun
-book,书,sjyo,書 (syu1),本 (ほん),Buch,책,livre,libro,sách,boek,bok,livro,libro,كتاب (kitab),книга,buku,liber,kitap
-page,页,ghet,頁 (jip6),ページ (ぺーじ),Seite,페이지,page,página,trang,pagina,sida,página,pagina,صفحة (safhah),страница,muka,fascia,seyfah
-key,钥匙,jyak djie,鑰匙 (joek3 si4),鍵 (かぎ),Schlüssel,열쇠,clé,llave,chìa khóa,sleutel,nyckel,chave,chiave,مفتاح (miftāḥ),ключ,kunci,clavis,anahtar
-paint,颜料,ngaen lewh,油漆 (jau4 cat1),絵の具 (えのぐ),Farbe,페인트,peinture,pintura,sơn,verf,färg,tinta,pittura,دهان (dihan),краска,cat,coenit,boya
-letter,信,sinh,信 (seon3),手紙 (てがみ),Brief,편지,lettre,carta,thư,brief,brev,carta,lettera,رسالة (risālah),письмо,surat,epistula,mektup
-note,笔记,pyit kyh,筆記 (bat1 gei3),ノート (のーと),Notiz,노트,note,nota,ghi chú,notitie,anteckning,nota,nota,ملاحظة (mulāḥaẓah),заметка,catatan,nota,not
-wall,墙,dzyang,牆 (coeng4),壁 (かべ),Wand,벽,mur,pared,tường,wand,vägg,parede,muro,جدار (jidār),стена,dinding,murus,duvar
-paper,纸,tjieq,紙 (zi2),紙 (かみ),Papier,종이,papier,papel,gia,papier,papper,papel,carta,ورقة (warqah),бумага,kertas,charta,kağıt
-floor,地板,dih paenq,地板 (dei6 baan2),床 (ゆか),Boden,바닥,sol,suelo,sàn,vloer,golv,piso,pavimento,أرضية (arḍīyah),пол,lantai,pavimentum,zemin
-ceiling,天花板,then hwae paenq,天花板 (tin1 faa1 baan2),天井 (てんじょう),Decke,천장,plafond,techo,trần,plafond,tak,teto,soffitto,سقف (saqf),потолок,siling,fastigium,tavan
-roof,屋顶,qouk tengq,屋頂 (uk1 deng2),屋根 (やね),Dach,지붕,toit,techo,mái nhà,dak,tak,telhado,tetto,سقف (saqf),крыша,atap,tectum,çatı
-pool,游泳池,ju uaengh drie,泳池 (jau4 jung4 ci4),プール (ぷーる),Pool,수영장,piscine,piscina,bể bơi,zwembad,bassäng,piscina,piscina,مسبح (musbah),бассейн,kolam renang,piscina,pool
-lock,锁,swaq,鎖 (so2),鍵 (かぎ),Schloss,자물쇠,serrure,cerradura,khóa,slot,lås,fechadura,serratura,قفل (qifl),замок,kunci,carenae ianuae,kilit
-telephone,电话,denh ghwaejh,電話 (din6 waa2),電話 (でんわ),Telefon,전화,téléphone,teléfono,điện thoại,telefoon,telefon,telefone,telefono,هاتف (hatif),телефон,telefon,telephonium,telefon
-garden,花园,hwae uon,花園 (faa1 jyun4),庭園 (ていえん),Garten,정원,jardin,jardín,sân vườn,tuin,trädgård,jardim,giardino,حديقة (hadīqah),сад,taman,hortus,bahçe
-yard,院子,uenh tsyq,院 (jyun6 zi2),庭 (てい),Hof,마당,cour,patio,sân,tuin,gård,quintal,cortile,فناء (finā'),двор,halaman,atrium,courtyard
-needle,针,tjim,針 (zin1),針 (はり),Nadel,바늘,aiguille,aguja,kim,knaald,sticka,agulha,ago,إبرة (ibrah),игла,jarum,acus,ipe
-bag,袋子,deojh tsyq,袋 (doi1 zi2),袋 (ふくろ),Tasche,가방,sac,bolsa,túi,tas,väska,bolsa,borsa,حقيبة (haqibah),сумка,tas,bursa,çanta
-box,盒子,ghop tsyq,盒 (hak2 zi2),箱 (はこ),Schachtel,상자,boîte,caja,hộp,doos,ask,caixa,scatola,صندوق (sanduq),коробка,kotak,cista,şeker
-gift,礼物,lejq mut,禮物 (lai5 mat6),贈り物 (おくりもの),Geschenk,선물,cadeau,regalo,quà,cadeau,present,presente,regalo,هدية (hadīyah),подарок,hadiah,donum,hediye
-card,卡片,khaeq phenh,卡片 (kaa1 pin2),カード (かーど),Karte,카드,carte,tarjeta,thẻ,kaart,kort,cartão,carta,بطاقة (bitaqa),карта,kartu,tessera,kart
-ring,戒指,keejh tjiq,戒指 (gaai3 zi2),指輪 (ゆびわ),Ring,반지,bague,anillo,chiếc nhẫn,ring,ring,anel,anello,خاتم (khatam),кольцо,cincin,annulus,yüzük
-tool,工具,koung guoh,工具 (gung1 gu3),道具 (どうぐ),Werkzeug,도구,outil,herramienta,dụng cụ,gereedschap,verktyg,ferramenta,strumento,أداة (adāh),инструмент,alat,instrumentum,araç
-🆙nature,自然,dzih njien,自然 (zi6 jin4),自然 (しぜん),Natur,자연,nature,naturaleza,thiên nhiên,natuur,naturza,priroda,natureza,طبيعة (tabi'a),природа,alam semula jadi,natura,doğa
-sea,海洋,heojq jyang,海 (hoi2),海 (うみ),Meer,바다,mer,mar,b biển,zee,hav,mar,mare,بحر (bahar),море,laut,mare,deniz
-ocean,海洋,heojq jyang,海洋 (hoi2 joeng4),海洋 (かいよう),Ozean,대양,océan,océano,đại dương,oceaan,havet,oceano,oceano,محيط (muhit),океан,lautan,oceanus,okyanus
-river,河,gha,河 (ho4),川 (かわ),Fluss,강,rivière,río,sông,rivier,flod,rio,fiume,نهر (nahr),река,sungai,flumen,nehir
-mountain,山,sreen,山 (saan1),山 (やま),Berg,산,montaña,montaña,núi,berg,berg,montanha,montagna,جبل (jabal),гора,gunung,montis,dağ
-rain,雨,uoq,雨 (jyu5),雨 (あめ),Regen,비,pluie,lluvia,mưa,regen,regn,chuva,pioggia,مطر (matar),дождь,hujan,imber,yağmur
-snow,雪,swiet,雪 (syut3),雪 (ゆき),Schnee,눈,neige,nieve,tuyết,sneeuw,snö,neve,neve,ثلج (thalj),снег,salju,nix,kar
-tree,树,djuoq,樹 (syu6),木 (き),Baum,나무,arbre,árbol,cây,boom,träd,árvore,albero,شجرة (shajara),дерево,pohon,arbor, ağaç
-sun,太阳,thajh jyang,太陽 (taai3 joeng4),太陽 (たいよう),Sonne,해,soleil,sol,mặt trời,zon,sol,sol,sole,شمس (shams),солнце,matahari,sol, güneş
-moon,月亮,nguot lyangh,月亮 (jyut6 loeng6),月 (つき),Mond,달,lune,luna, mặt trăng,maan,måne,lua,luna,قمر (qamar),луна,bulan,luna,ay
-world,世界,sjiejh keejh,世界 (sai3 gaai3),世界 (せかい),Welt,세계,monde,mundo,thế giới,wereld,värld,mundo,mondo,عالم (alam),мир,dunia,mundus,dünya
-Earth,地球,dih gu,地球 (dei6 kau4),地球 (ちきゅう),Erde,지구,terre,Tierra,Trái đất,Aarde,Jord,Terra,Terra,أرض (ard),Земля,Bumi,Terra,Dünya
-forest,森林,sryim lim,森林 (sam1 lam4),森林 (しんりん),Wald,숲,forêt,bosque,rừng,bos,skog,floresta,bosco,غابة (ghabah),лес,hutan,silva,orman
-sky,天空,then khoung,天空 (tin1 hung1),空 (そら),Himmel,하늘,ciel,cie lo,bầu trời, lucht,himmel, céu,cie lo,سماء (samaa'),небо,langit,caelum,gökyüzü
-plant,植物,dryh mut,植物 (zik6 mat6),植物 (しょくぶつ),Pflanze,식물,plante,planta,thực vật,plant, växt,planta,pianta,نبات (nabat),растение,tumbuhan,plantae,bitki
-wind,风,pungh,風 (fung1),風 (かぜ),Wind,바람,vent, viento,gió,wind,vind,vento,vento,رياح (riyah),ветер,gió,ventus,rüzgar
-soil/earth,土地,thoq dih,土地 (tou2 dei6),土壌 (つち),Boden,흙, sol/terre,tierra,đất,aarde,jord,solo/terra,terra,أرض (ard),земля,tanah,solum,toprak
-flower,花,hwae,花 (faa1),花 (はな),Blume,꽃,fleur,flor,hoa,bloem,blomma,flo r,fiore,زهرة (zahra),цветок,bunga,flos,çiçek
-valley,山谷,sreen louk,山谷 (saan1 guk1),谷 (たに),Tal,계곡,vallée,valle,thung lũng, vallei,dal,vale,valle,وادي (wadi),долина,thung lũng,vallis,vadi
-root,根,keon,根 (gan1),根 (ね),Wurzel,뿌리, racine,raíz,gốc,wortel,rot,raiz,radice,جذر (jazar),корень,akar,radix,kök
-lake,湖,gho,湖 (wu4),湖 (みずうみ),See,호,lac,lago,hồ,meer,sjö,lago,lago,بحيرة (buhayrah),озеро,danau,lacus,göl
-star,星星,seng seng,星 (sing1),星 (ほし),Stern,별,étoile,estrella,ngôi sao,ster, stjärna,estrela,stella,نجمة (najmah),звезда,bintang,stella,yıldız
-grass,草,tshawq,草 (cou2),草 (くさ),Gras,풀,herbe, hierba,cỏ,gras,gräs,erva,erba,عشب (ushb),трава,rumput,herba,ot
-leaf,叶子,sjiep tsyq,葉 (jip6 zi2),葉 (は),Blatt,잎,feuille, hoja,lá,blad,blad,folha,foglia,ورقة (warqah),лист,daun,folium,yaprak
-air,空气,khoungh khyjh,空氣 (hung1 hei3),空気 (くうき),Luft,공기,air,aire,không khí,lucht,luft, ar,aria,هواء (hawa'),воздух,udara,aer,ağır
-sand,沙,sraeh,沙 (saa1),砂 (すな),Sand,모래,sable,arena,cát,zand,sand,sabbia,areia,رمل (raml),песок,pasir,arena,kum
-beach,海滩,heojq than,海灘 (hoi2 taan1),浜辺 (はまべ),Strand,해변,plage, playa,bãi biển,strand,strand,praia,spiaggia,شاطئ (shaṭī'),пляж,pantai,littus,kumsal
-wave,波,pa,波 (bo1),波 (なみ),Welle,파도, vague,onda,sóng,golf,våg,onda,onda,موجة (mawjah),волна,ghi,unda,dalga
-fire,火,hwaq,火 (fo2),火 (ひ),Feuer,불,feu,fuego,lửa,vuur,eld,fogo, fuoco,نار (nar),огонь,api,ignis,ateş
-ice,冰,pying,冰 (beng1),氷 (こおり),Eis,얼음,gla ce,hielo,đá,ijs,is,gelo,ghiaccio,جليد (jalyd),лед,es,brex,gökyüzü
-island,岛,tawq,島 (dou2),島 (しま),Insel,섬,île,isla,đảo,eiland,ö, ilha,isola,جزيرة (jazīrah),остров,pulau,insula,ada
-hill,山丘,sreen khu,山丘 (saan1 kau4),丘 (おか),Hügel,언덕,colline,colina,đồi,heuvel,kulle,colina,collina,تل (tall),холм,bukit,colles,tepesi
-heat,热,njiet,熱 (jit6),熱 (ねつ),Hitze,열,cha leur,calor,nhiệt đới,warmte,värme,calor,calore,حرارة (hararah),жара,haba,calor,ısı
 🆙misc nouns,其他名词,ky tha miaeng zy,其他名詞 (kei4 ta1 ming4 ci4),その他の名詞 (そのたのめいし),Sonstiges Substantiv,기타 명사,autres noms,otros sustantivos,các danh từ khác,diverse zelfstandige naamwoorden,övriga substantiv,outros substantivos,altri sostantivi,أسماء متفرقة (asma' mutafarriqa),другие существительные,kata nama lain,lēxica alia,various isimler
 map,地图,dih do,地圖 (dei6 tou4),地図 (ちず),Karte,지도,carte,map,bản đồ,karta,karta,mapa,mappa,خريطة (kharita),карта,peta,mappa,harita
 dot,点,temq,點 (dim2),点 (てん),Punkt,점,point,punto,chấm,punt,punkt,ponto,punto,نقطة (nuqta),точка,titik,punctum,nokta
