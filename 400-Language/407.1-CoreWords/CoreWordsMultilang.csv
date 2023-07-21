@@ -1,5 +1,217 @@
 ﻿en,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
-🆙animal,动物,doungq mut,動物 (dung6 mat6),動物 (どうぶつ),Tier,동물,animal,animal,động vật,dier,djur,animal,animale,حيوان (hayawan),животное,hewan,animal,hayvan
+类 1 DKTZ,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 1 DKTZ - khoung keen,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+小类directions,方向,puang sjyangh,方向 (fong1 hoeng3),方向 (ほうこう),Richtungen,방향,directions,direcciones,hướng,richtingen,riktningar,instruções,indicazioni,اتجاهات (itijahat),направления,arahan,regiones,yonlar
+top,顶部,tengq bouq,頂部 (dang2 bou6),上部 (うわべ),oben,위,top,arriba,trên,top,top,cima,alto,أعلى (a'ala),верх (verkh),atas,summus,üst
+bottom,底部,tejq bouq,底部 (dai2 bou6),底部 (そこぶ),unten,밑,bas,bajo,dưới,bodem,botten,fundo,fondo,أسفل (asfal),низ (niz),dasar,basis,alt
+side,侧面,tsryk mienh,側邊 (cak1 bin1),側面 (そくめん),Seite,옆쪽,côté,lado,bên,zijde,sida,lado,lato,جانب (janb),сторона (storona),sisi,latus,yan
+front,前面,dzen mienh,前面 (cin4 min6),前面 (まえめん),Vorderseite,앞,avant,frontal,trước,voor,sida,dianteiro,anterior,الواجهة (alwajhah),перед (pered),depan,ante,ön
+back,后面,ghouq mienh,後面 (hau6 min6),後面 (うしろめん),Rückseite,뒤,arrière,trasero,phía sau,achter,sida,traseiro,posteriore,الظهر (adh-dhar),зад (zad),belakang,dorsum,geri
+outside,外面,ngwajh mienh,外面 (ngoi6 min6),外側 (そとがわ),außen,밖,extérieur,exterior,ngoài,buiten,utan,exterior,esterno,خارج (kharij),снаружи (snaruzhi),luar,foris,dışarı
+inside,里面,lyq mienh,裡面 (lei5 min6),内側 (うちがわ),innen,안,intérieur,interior,bên trong,binnen,innan,interior,interno,داخل (dakhil),внутри (vnutri),dalam,interior,içeri
+up,向上,sjyangh djyangq,上 (soeng6),上へ (うえへ),hoch,위로,haut,arriba,lên,omhoog,upp,cima,su,فوق (fawq),вверх (vverkh),ke atas,summus,yukarı
+down,下,ghaeq,下 (haa6),下 (した),unten,아래,vers le bas,abajo,xuống,beneden,ner,para baixo,giù,أسفل (asfal),вниз (vniz),bawah,deorsum,aşağı
+left,左,tsaq,左 (zo2),左 (ひだり),links,왼쪽,gauche,izquierda,trái,links,vänster,esquerdo,sinistra,اليسار (al-yasar),слева (sleva),kiri,læva,sol
+right,右,uq,右 (jau6),右 (みぎ),rechts,오른쪽,droit,derecha,phải,rechts,höger,direito,destra,اليمين (al-yameen),справа (sprava),kanan,dexter,sag
+straight,直,dryk,直 (zik6),まっすぐ (massugu),gerade,곧장,droit,derecho,thẳng,rechtdoor,rakt,em linha reta,dritto,مستقيم (mustaqim),прямо (pryamo),langsung,rectus,düz
+north,北,peok,北 (bak1),北 (きた),Norden,북,nord,norte,bắc,noord,norr,norte,nord,شمال (shamal),север (sever),utara,septentrion,şimal
+south,南,nom,南 (naam4),南 (みなみ),Süden,남,sud,sur,nam,zuid,syd,sul,sud,جنوب (junub),юг (yug),selatan,meridies,güney
+east,东,toung,東 (dung1),東 (ひがし),Osten,동,est,este,đông,oost,öst,leste,est,شرق (sharq),восток (vostok),timur,oriens,doğu
+west,西,sej,西 (sai1),西 (にし),Westen,서,ouest,oeste,tây,westen,väst,oeste,ovest,غرب (gharb),запад (zapad),barat,occidens,batı
+类 1 DKTZ - djy keen,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 1 DKTZ - sruoh lyangh,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+小类math/measurements,数学/测量,sruoh ghoeuk / tsrhyk lyang,數學/測量 (suk1 hok6/cak1 loeng4),数学/計測 (すうがく/けいそく),Mathematik/ Messung,수학/측정,math/mesure,matemáticas,toán học/đo lường,wiskunde/meting,matematik/mätning,matemática/mensuração,matematica/misurazione,رياضيات/قياس (riyadiyat/qiyas),математика/измерения,matematik/pengukuran,mathesis/mensura,matematik/ölçüm
+meter,米,mejq,米 (mai5),メートル (めーとる),Meter,미터,mètre,metro,mét, meter,meter,metro,metro,متر (mitr),метр,meter,meter,meter
+centimeter,厘米,ly mejq,厘米 (lei4 mai5),センチメートル (せんちめーとる),Zentimeter,센티미터,centimètre,centímetro,centimet,centimeter,centimeter,centimetro,centimetro,سنتيمتر (sentimetr),сантиметр,centimeter,centimeter,centimetre
+kilogram,公斤,koung kynh,公斤 (gung1 gan1),キログラム (きろぐらむ),Kilogramm,킬로그램,kilogramme,kilogramo,kilôgam,kilogram,kilogram,kilogrammo,chilogrammo,كيلوجرام (kīlūjirām),килограмм,kilogram,kilogram,kilogram
+inch,英寸,qyaeng tshonh,英寸 (jing1 cyun3),インチ (いんち),Zoll,인치,pouce,pulgada,inches,inch,tum,polegada,pollice,بوصة (būṣah),дюйм,inci,uncia,inch
+foot,英尺,qyaeng tjhiaek,呎 (cing1 cek3),フィート (ふぃーと),Fuß,피트,pied,pie,foot,voet,fot,pé,pé,قدم (qadam),фут,kaki,pes,pied
+pound,磅,phang,磅 (bong6),ポンド (ぽんど),Pfund,파운드,livre,libra,pound,pound,pund,libra,libbra,رطل (ratl),фунт,pound,pound,pound
+half,半,panh,半 (bun3),半 (はん),halb,반,moitié,medio,nửa,half,hälft,metade,metà,نصف (nisf),половина,setengah,semi,half
+circle,圆,zwien,圓 (jyun4),円 (えん),Kreis,원,cercle,círculo,hình tròn,cirkel,cirkel,círculo,circolo,دائرة (dāʼirah),круг,bulatan,circulus,daire
+square,平方,byaeng puang,平方 (ping4 fong1),平方 (へいほう),Quadrat,제곱,carré,cuadrado,hình vuông,vierkant,kvadrat,quadrado,quadrato,مربع (murabbaʻ),квадрат,persegi,kvadratus,kare
+temperature,温度,qon doh,溫度 (wan1 dou6),温度 (おんど),Temperatur,온도,température,temperatura,nhiệt độ,temperatuur,temperatur,temperatura,temperatura,درجة حرارة (darajat ḥarārah),температура,suhu,temperatura,ısı
+date,日期,njit gy,日期 (jat6 jat6),日付 (ひづけ),Datum,날짜,date,fecha,ngày,datum,datum,data,data,تاريخ (tārīkh),дата,tarikh,data,tarih
+weight,重量,druongq lyangh,重量 (zung6 loeng6),重さ (おもさ),Gewicht,무게,poids,peso,trọng lượng,gewicht,vikt,peso,peso,وزن (wazn),вес,berat,pondus,ağırlık
+edge,边缘,pen jwien,邊緣 (bin1 jyun4),端 (はし),Kante,가장자리,bordes,borde,cạnh,rand,kant,borda,bordo,حافة (haafa),край,tepi,margo,kenar
+corner,角落,koeuk lak,角落 (gok3 lok6),角 (かど),Ecke,구석,coin,esquina,góc,hoek,hörn,canto,angolo,زاوية (zāwiyah),угол,sudut,angulus,köşe
+小类numbers,数字,sruoh dzyh,數字 (syu3 zi6),数字 (すうじ),Zahlen,숫자,nombres,números,số,getallen,siffror,números,numeri,أرقام (arqam),числа,angka,numeri,rakamlar
+0,零,lengh,零 (ling4),零 (れい),null,영,zéro,cero,không,nul,noll,zero,zero,صفر (sifr),ноль (nol'),kosong,nulla,sıfır
+1,一,qit,一 (jat1),一 (いち),eins,일,un,uno,một,één,ett,um,uno,واحد (wahid),один (odin),satu,unus,bir
+2,二,njih,二 (ji6),二 (に),zwei,이,deux,dos,hai,twee,två,do,due,اثنان (ithnan),два (dva),dua,duo,iki
+3,三,samh,三 (saam1),三 (さん),drei,삼,trois,tres,ba,drie,tre,três,tre,ثلاثة (thalatha),три (tri),tiga,tres,üç
+4,四,sih,四 (sei3),四 (し),vier,사,quatre,cuatro,bốn,vier,fyra,quatro,quattro,أربعة (arba'a),четыре (chetyre),empat,quattuor,dört
+5,五,ngoq,五 (ng5),五 (ご),fünf,오,cinq,cinco,năm,vijf,fem,cinque,cinque,خمسة (khamsah),пять (pyat'),lima,quinque,beş
+6,六,luk,六 (luk6),六 (ろく),sechs,육,six,seis,sáu,zes,sex,sei,sei,ستة (sittah),шесть (shest'),enam,sex,altı
+7,七,tshit,七 (cat1),七 (なな),sieben,칠,sept,siete,bảy,zeven,sju,sete,sette,سبعة (sab'ah),семь (sem'),tujuh,septem,yedi
+8,八,peet,八 (baat3),八 (はち),acht,팔,huit,ocho,tám,acht,åtta,oito,otto,ثمانية (thamaniyah),восемь (vosem'),lapan,octo,sekiz
+9,九,kuq,九 (gau2),九 (きゅう),neun,구,neuf,nueve,chín,negen,nio,nove,nove,تسعة (tis'ah),девять (devyat'),sembilan,novem,dokuz
+10,十,djip,十 (sap6),十 (じゅう),zehn,십,dix,diez,mười,tien,tio,dez,dieci,عشرة (asharah),десять (desyat'),sepuluh,decem,on
+11,十一,djip qit,十一 (sap6 jat1),十一 (じゅういち),elf,십일,onze,once,mười một,elf,elva,onze,undici,أحد عشر (ahad 'ashar),одиннадцать (odinnadtsat'),sebelas,undecim,onbir
+12,十二,djip njih,十二 (sap6 ji6),十二 (じゅうに),zwölf,십이,douze,doce,mười hai,twaalf,tolv,doze,dodici,اثنا عشر (ithna 'ashar),двенадцать (dvenadtsat'),dua belas,duodecim,on iki
+13,十三,djip sam,十三 (sap6 saam1),十三 (じゅうさん),dreizehn,십삼,treize,trece,mười ba,dertien,tretton,treze,tredici,ثلاثة عشر (thalathat 'ashar),тринадцать (trinadtsat'),tiga belas,tredecim,on üç
+14,十四,djip sih,十四 (sap6 sei3),十四 (じゅうし),vierzehn,십사,quatorze,catorce,mười bốn,veertien,fjorton,quatorze,quattordici,أربعة عشر (arba'at 'ashar),четырнадцать (chetyrnadtsat'),empat belas,quattuordecim,on dört
+15,十五,djip ngoq,十五 (sap6 ng5),十五 (じゅうご),fünfzehn,십오,quinze,quince,mười lăm,vijftien,femton,quinze,quindici,خمسة عشر (khamsat 'ashar),пятнадцать (pyatnadtsat'),lima belas,quindecim,on beş
+16,十六,djip luk,十六 (sap6 luk6),十六 (じゅうろく),sechzehn,십육,seize,dieciséis,mười sáu,zestien,sexton,dezesseis,diciotto,ستة عشر (sittah 'ashar),шестнадцать (shestnadtsat'),enam belas,sexdecim,on altı
+17,十七,djip tshit,十七 (sap6 cat1),十七 (じゅうしち),siebzehn,십칠,dix-sept,diecisiete,mười bảy,zeventien,sjutton,dezessete,diciassette,سبعة عشر (sab'ah 'ashar),семнадцать (semnadtsat'),tujuh belas,septendecim,on yedi
+18,十八,djip peet,十八 (sap6 baat3),十八 (じゅうはち),achtzehn,십팔,dix-huit,dieciocho,mười tám,achttien,arton,dezoito,diciotto,ثمانية عشر (thamaniyat 'ashar),восемнадцать (vosemnadtsat'),lapan belas,duodeviginti,on sekiz
+19,十九,djip kuq,十九 (sap6 gau2),十九 (じゅうく),neunzehn,십구,dix-neuf,diecinueve,mười chín,negentien,nitton,dezenove,diciannove,تسعة عشر (tis'ah 'ashar),девятнадцать (devyatnadtsat'),sembilan belas,undeviginti,on dokuz
+20,二十,njih djip,二十 (ji6 sap6),二十 (にじゅう),zwanzig,스물,vingt,veinte,hai mươi,twintig,tjugo,vinte,venti,عشرون (ashrun),двадцать (dvadtsat'),dua puluh,viginti,yirmi
+21,二十一,njih djip qit,二十一 (ji6 sap6 jat1),二十一 (にじゅういち),einundzwanzig,스물하나,vingt et un,veintiuno,hai mươi một,eenentwintig,tjugoen,vinte e um,ventuno,واحد وعشرون (wahid wa 'ashrun),двадцать один (dvadtsat' odin),dua puluh satu,viginti unus,yirmi bir
+22,二十二,njih djip njih,二十二 (ji6 sap6 ji6),二十二 (にじゅうに),zweiundzwanzig,스물둘,vingt-deux,veintidós,hai mươi hai,tweeëntwintig,tjugotvå,vinte e dois,ventidue,اثنان وعشرون (ithnan wa 'ashrun),двадцать два (dvadtsat' dva),dua puluh dua,viginti duo,yirmi iki
+30,三十,sam djip,三十 (saam1 sap6),三十 (さんじゅう),dreißig,서른,trente,treinta,ba mươi,dertig,trettio,trinta,trenta,ثلاثون (thalathun),тридцать (tridtsat'),tiga puluh,triginta,otuz
+31,三十一,sam djip qit,三十一 (saam1 sap6 jat1),三十一 (さんじゅういち),einunddreißig,서른하나,trente et un,treinta y uno,ba mươi một,eenendertig,trettioett,trinta e um,trentuno,واحد وثلاثون (wahid wa thalathun),тридцать один (tridtsat' odin),tiga puluh satu,triginta unus,otuz bir
+32,三十二,sam djip njih,三十二 (saam1 sap6 ji6),三十二 (さんじゅうに),zweiunddreißig,서른둘,trente-deux,treinta y dos,ba mươi hai,tweeëndertig,trettiotvå,trinta e dois,trentadue,اثنان وثلاثون (ithnan wa thalathun),тридцать два (tridtsat' dva),tiga puluh dua,triginta duo,otuz iki
+40,四十,sih djip,四十 (sei3 sap6),四十 (しじゅう),vierzig,마흔,quarante,cuarenta,bốn mươi,veertig,fyrtio,quarenta,quaranta,أربعون (arba'un),сорок (sorok'),empat puluh,quadraginta,kırk
+41,四十一,sih djip qit,四十一 (sei3 sap6 jat1),四十一 (しじゅういち),einundvierzig,마흔하나,quarante et un,cuarenta y uno,bốn mươi một,eenenveertig,fyrtioett,quarenta e um,quarantuno,واحد وأربعون (wahid wa arba'un),сорок один (sorok' odin),empat puluh satu,quadraginta unus,kırk bir
+42,四十二,sih djip njih,四十二 (sei3 sap6 ji6),四十二 (しじゅうに),zweiundvierzig,마흔둘,quarante-deux,cuarenta y dos,bốn mươi hai,tweeënveertig,fyrtiotvå,quarenta e dois,quarantadue,اثنان وأربعون (ithnan wa arba'un),сорок два (sorok' dva),empat puluh dua,quadraginta duo,kırk iki
+50,五十,ngoq djip,五十 (ng5 sap6),五十 (ごじゅう),fünfzig,쉰,cinquante,cincuenta,năm mươi,vijftig,femtio,cinquenta,cinquanta,خمسون (khamsun),пятьдесят (pyat'desyat'),lima puluh,quinquaginta,elli
+51,五十一,ngoq djip qit,五十一 (ng5 sap6 jat1),五十一 (ごじゅういち),einundfünfzig,쉰하나,cinquante et un,cincuenta y uno,năm mươi một,eenenvijftig,femtioett,cinquenta e um,cinquantuno,واحد وخمسون (wahid wa khamsun),пятьдесят один (pyat'desyat' odin),lima puluh satu,quinquaginta unus,elli bir
+52,五十二,ngoq djip njih,五十二 (ng5 sap6 ji6),五十二 (ごじゅうに),zweiundfünfzig,쉰둘,cinquante-deux,cincuenta y dos,năm mươi hai,tweeënvijftig,femtiotvå,cinquenta e dois,cinquantadue,اثنان وخمسون (ithnan wa khamsun),пятьдесят два (pyat'desyat' dva),lima puluh dua,quinquaginta duo,elli iki
+60,六十,luk djip,六十 (luk6 sap6),六十 (ろくじゅう),sechzig,예순,soixante,sesenta,sáu mươi,zestig,sextio,sessenta,sessanta,ستون (sittun),шестьдесят (shest'desyat'),enam puluh,sexaginta,altmış
+61,六十一,luk djip qit,六十一 (luk6 sap6 jat1),六十一 (ろくじゅういち),einundsechzig,예순하나,soixante et un,sesenta y uno,sáu mươi một,eenenzestig,sextioett,sessenta e um,sessantuno,واحد وستون (wahid wa sittun),шестьдесят один (shest'desyat' odin),enam puluh satu,sexaginta unus,altmış bir
+62,六十二,luk djip njih,六十二 (luk6 sap6 ji6),六十二 (ろくじゅうに),zweiundsechzig,예순둘,soixante-deux,sesenta y dos,sáu mươi hai,tweeënzestig,sextiotvå,sessenta e dois,sessantadue,اثنان وستون (ithnan wa sittun),шестьдесят два (shest'desyat' dva),enam puluh dua,sexaginta duo,altmış iki
+70,七十,tshit djip,七十 (cat1 sap6),七十 (ななじゅう),siebzig,칠십,soixante-dix,setenta,bảy mươi,zeventig,sjuttio,setenta,settanta,سبعون (sab'un),семьдесят (sem'desyat'),tujuh puluh,septuaginta,yetmiş
+71,七十一,tshit djip qit,七十一 (cat1 sap6 jat1),七十一 (ななじゅういち),einundsiebzig,칠십하나,soixante et onze,setenta y uno,bảy mươi một,eenenzeventig,sjuttioett,setenta e um,settantuno,واحد وسبعون (wahid wa sab'un),семьдесят один (sem'desyat' odin),tujuh puluh satu,septuaginta unus,yetmiş bir
+72,七十二,tshit djip njih,七十二 (cat1 sap6 ji6),七十二 (ななじゅうに),zweiundsiebzig,칠십둘,soixante-douze,setenta y dos,bảy mươi hai,tweeënzeventig,sjuttiotvå,setenta e dois,settantadue,اثنان وسبعون (ithnan wa sab'un),семьдесят два (sem'desyat' dva),tujuh puluh dua,septuaginta duo,yetmiş iki
+80,八十,peet djip,八十 (baat3 sap6),八十 (はちじゅう),achtzig,팔십,quatre-vingts,ochenta,tám mươi,tachtig,åttio,oitenta,ottanta,ثمانون (thamaniyun),восемьдесят (vosem'desyat'),delapan puluh,octoginta,seksen
+81,八十一,peet djip qit,八十一 (baat3 sap6 jat1),八十一 (はちじゅういち),einundachtzig,팔십하나,quatre-vingt-un,ochenta y uno,tám mươi một,eenentachtig,åttioett,oitenta e um,ottantuno,واحد وثمانون (wahid wa thamaniyun),восемьдесят один (vosem'desyat' odin),delapan puluh satu,octoginta unus,seksen bir
+82,八十二,peet djip njih,八十二 (baat3 sap6 ji6),八十二 (はちじゅうに),zweiundachtzig,팔십둘,quatre-vingt-deux,ochenta y dos,tám mươi hai,tweeëntachtig,åttiottvå,oitenta e dois,ottantadue,اثنان وثمانون (ithnan wa thamaniyun),восемьдесят два (vosem'desyat' dva),delapan puluh dua,octoginta duo,seksen iki
+90,九十,kuq djip,九十 (gau2 sap6),九十 (きゅうじゅう),neunzig,구십,quatre-vingt-dix,noventa,chín mươi,negentig,nittio,noventa,novanta,تسعون (tisa'un),девяносто (devyanosto),sembilan puluh,nonaginta,doksan
+91,九十一,kuq djip qit,九十一 (gau2 sap6 jat1),九十一 (きゅうじゅういち),einundneunzig,구십하나,quatre-vingt-onze,noventa y uno,chín mươi một,eenennegentig,nittioett,noventa e um,novantuno,واحد وتسعون (wahid wa tisa'un),девяносто один (devyanosto odin),sembilan puluh satu,nonaginta unus,doksan bir
+92,九十二,kuq djip njih,九十二 (gau2 sap6 ji6),九十二 (きゅうじゅうに),zweiundneunzig,구십둘,quatre-vingt-douze,noventa y dos,chín mươi hai,tweeënnegentig,nittiotvå,noventa e dois,novantadue,اثنان وتسعون (ithnan wa tisa'un),девяносто два (devyanosto dva),sembilan puluh dua,nonaginta duo,doksan iki
+100,一百,qit paek,一百 (jat1 baak3),百 (ひゃく),hundert,백,cents,cien,một trăm,honderd,ett hundra,cem,cento,مئة (mi'ah),сто (sto),seratus,centum,yüz
+101,一百一,qit paek qit,一百一 (jat1 baak3 jat1),百一 (ひゃくいち),hundert eins,백하나,cent un,ciento uno,một trăm một,honderd een,ett hundraett,cento e um,centouno,واحد مئة وواحد (wahid mi'ah wa wahid),сто один (sto odin),seratus satu,centum unus,yüz bir
+102,一百二,qit paek njih,一百二 (jat1 baak3 ji6),百二 (ひゃくに),hundert zwei,백둘,cent deux,ciento dos,một trăm hai,honderd twee,ett hundratvå,cento e dois,centodue,اثنان مئة واثنان (ithnan mi'ah wa ithnan),сто два (sto dva),seratus dua,centum duo,yüz iki
+110,一百一十,qit paek qit djip,一百十 (jat1 baak3 sap6),百十 (ひゃくじゅう),hundert zehn,백십,cent dix,ciento diez,một trăm mười,honderd tien,ett hundra tionde,cento e dez,centodieci,عشرة ومئة (ashara wa mi'ah),сто десять (sto desyat'),seratus sepuluh,centum decem,yüz on
+111,一百一十一,qit paek qit djip qit,一百十一 (jat1 baak3 sap6 jat1),百十一 (ひゃくじゅういち),hundert elf,백십하나,cent onze,ciento once,một trăm mười một,honderd elf,ett hundraelva,cento e onze,centoundici,واحد مئة وأحد عشر (wahid mi'ah wa ahad 'ashar),сто одиннадцать (sto odinnadtsat'),seratus sebelas,centum undecim,yüz on bir
+1000,一千,qit tshen,一千 (jat1 cin1),千 (せん),tausend,천,mille,mil,nghìn,duizend,tusen,mil,mille,ألف (alf),тысяча (tysyacha),seribu,millia,yüz bin
+1001,一千一,qit tshen qit,一千一 (jat1 cin1 jat1),千一 (せんいち),tausend eins,천하나,mille un,mil uno,nghìn một,duizend een,tusen ett,mil e um,milleuno,ألف واحد (alf wahid),тысяча один (tysyacha odin),seribu satu,millia unus,yüz bin bir
+10000,一萬,qit muonh,一万 (jat1 maan6),一万 (いちまん),zehntausend,만,vingt mille,diez mil,mười nghìn,tienduizend,tiotusen,dez mil,decem mille,عشرة ألف (ashara alf),десять тысяч (desyat' tysyach),sepuluh ribu,decem milia,yüz bin
+100000,十萬,djip muonh,十万 (sap6 maan6),十万 (じゅうまん),hunderttausend,십만,cent mille,cien mil,một trăm nghìn,honderdduizend,hundratusen,cem mil,centomila,مئة ألف (mi'ah alf),сто тысяч (sto tysyach),seratus ribu,centum milia,yüz bin
+million,百萬,paek muonh,百万 (baak3 maan6),百万 (ひゃくまん),Million,백만,million,millón,mil triệu,miljoen,miljon,milhão,milione,مليون (milyun),миллион (million),jutaan,unus millionem,yüz bin
+billion,十億,djip qyk,十亿 (sap6 jik1),十億 (じゅうおく),Milliarde,십억,milliard,mil millones,tỷ tỷ,miljard,miljard,mil milhões,miliardo,بليون (bilyun),миллиард (milliard),milyar,unus milliarde,yüz milyar
+1st,第一,dejh qit,第一 (dai6 jat1),第一 (だいいち),erste,첫째,premier,primero,thứ nhất,eerste,första,primeiro,primo,الأول (al-awwal),первый (pervyy),pertama,primus,ilk
+2nd,第二,dejh njih,第二 (dai6 ji6),第二 (だいに),zweite,둘째,deuxième,segundo,thứ hai,tweede,andra,segundo,secondo,الثاني (ath-thani),второй (vtoroy),kedua,secundus,ikinci
+3rd,第三,dejh samh,第三 (dai6 saam1),第三 (だいさん),dritte,셋째,troisième,tercero,thứ ba,derde,tredje,terceiro,terzo,الثالث (ath-thalith),третий (tretiy),ketiga,tertius,üçüncü
+4th,第四,dejh sih,第四 (dai6 sei3),第四 (だいよん),vierte,넷째,quatrième,cuarto,thứ tư,vierde,fjärde,quarto,quarto,الرابع (ar-rabe'),четвёртый (chetvyortyy),keempat,quartus,dördüncü
+5th,第五,dejh ngoq,第五 (dai6 ng5),第五 (だいご),fünfte,다섯째,cinquième,quinto,thứ năm,vijfde,femte,quinto,quinto,الخامس (al-khamis),пятый (pyatyy),kelima,quintus,beşinci
+类 1 DKTZ - tjiq deojh,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+小类pronouns,代词,deojh zy,代詞 (doi6 ci4),代名詞 (だいめいし),Pronomen,대명사,pronoms,pronombres,đại từ,voornaamwoorden,pronomen,pronomes,pronomi,ضمائر (dama'ir),местоимения,kata ganti,zastanici,zaamirler
+I,我,ngaq,我 (ngo5),私 (わたし),ich,나,je,yo,tôi,ik,jag,eu,io,أنا (ana),я,aku,ego,ben
+you (singular),你,nryq,你 (nei5),あなた,du,너,tu,tú,bạn,jij,du,você,tu,أنت (anta),ты,kamu,tu,veter
+he,他,tha,佢 (keoi5),彼 (かれ),er,그,il,él,anh,hij,han,ele,lui,هو (huwa),он,dia,is,o
+she,她,tha,佢 (keoi5),彼女 (かのじょ),sie,그녀,elle,ella,cô,hij,zhon,ela,lei,هي (hiya),она,ia,ea,o
+it,它,tha,佢 (keoi5),それ (sore),es,그것,il,ello,nó,het,det,ele,esso,هو (huwa),оно,ia,illud,o
+we,我们,ngaq mon,我哋 (ngo5 dei6),私たち (わたしたち),wir,우리,nous,nosotros,chúng tôi,wij,vi,nós,noi,نحن (nahnu),мы,kita,nos,iz
+you (plural),你们,nryq mon,你哋 (nei5 dei6),あなたたち,ihr,너희,vous,vosotros,các bạn,jullie,ni,vocês,voi,أنتم (antum),вы,kalian,vos,i
+they,他们,tha mon,佢哋 (keoi5 dei6),彼ら (ひら),sie,그들,ils,ellos,họ,zij,de,elei,loro,هم (hum),они, mereka,ei,they
+this,这,tjiaeq,呢个 (ne1 go3),これ (kore),dieses,이,ceci,este,đây,dit,denna,este,questo,هذا (hatha),это,ini,hic,şu
+that,那,naq,嗰个 (go2 go3),それ (sore),das,그,cela,ese,đó,dat,det,aquele,quello,ذلك (dhalik),тот,itu,ille,o
+these,这些,tjiaeq siae,呢啲 (ne1 di1),これら (korera),diese,이들,ces,estos,những này,deze,dessa,estes,questi,هؤلاء (hula'),эти,ini,hi,şunlar
+those,那些,naq siae,嗰啲 (go2 di1),それら (sorera),diese,그들,ceux,aquellos,những kia,die,dessa,aqueles,quelli,تلك (tilka),те,itu,illi,şunlar
+小类question words,疑问词,ngy munh zy,疑問詞 (ji4 man6 ci4),疑問詞 (ぎもんし),Fragepronomen,의문사,mots interrogatifs,pronombres interrogativos,từ để hỏi,vraagwoorden,frågeord,palavras interrogativas,parole interrogative,أدوات الاستفهام (adawat al-istifham),вопросительные слова,kata tanya,quaestione verba,soru kelimeleri
+who,谁,djwi,邊個 (bin1 go3),誰 (だれ),wer,누구,qui,quién,ai,wie,vem,quem,chi,من (man),кто,siapa,quis,kim
+what,什么,djip maq,乜嘢 (mat1 je5),何 (なに),was,무엇,quoi,qué,gì,wat,vad,o que,cosa,ما (ma),что,apa,quid,ne
+when,什么时候,djip maq djy ghouh,幾時 (gei2 si4),いつ (itsu),wann,언제,quand,cuándo,khi,wanneer,när,quando,quando,متى (mata),когда,kapan,quando,ne zaman
+where,哪里,naq lyq,邊度 (bin1 dou6),どこ (doko),wo,어디,où,dónde,ở đâu,waar,var,onde,dove,أين (ayn),где,dimanakah,ubi,nerede
+why,为什么,ueh djip ma,點解 (dim2 gaai2),なぜ (naze),warum,왜,pourquoi,por qué,tại sao,waarom,varför,por que,perché,لماذا (limadha),почему,mengapa,cur,niçin
+how,怎么,tsoimq maq,點解 (dim2 gaai2),どのように (dono yo ni),wie,어떻게,comment,cómo,làm sao,hoe,hur,como,come,كيف (kayfa),как,bagaimana,quomodo,nasıl
+which,哪个,naq kah,邊個 (bin1 go3),どちら (dochira),welche,어느,lequel,cuál,nào,welke,vilken,qual,quale,أي (ay),который,mana,qui,hangi
+类 1 DKTZ - jinq tsiep,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 2 KKTD,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 2 KKTD - seng gu,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+Earth,地球,dih gu,地球 (dei6 kau4),地球 (ちきゅう),Erde,지구,terre,Tierra,Trái Đất (𧀞𡐙),aarde,jord,Terra,Terra,أرض (ard),Земля,Bumi,Terra,Dünya
+类 2 KKTD - then zyangq,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+小类seasons,季节,kwih tset,季節 (gwai1 zit3),季節 (きせつ),Jahreszeiten,계절,saisons,estaciones,mùa,seizoenen,säsonger,estações,stagioni,فصول (fusul),сезоны,musim,tempestates,mevsimler
+Spring,春天,tjhwin then,春天 (ceon1 tin1),春 (はる),Frühling,봄,printemps,primavera,Mùa Xuân,lente,vår,primavera,primavera,ربيع (rabia),весна (vesna),musim semi,ver,açık
+Summer,夏天,ghaeh then,夏天 (haa6 tin1),夏 (なつ),Sommer,여름,été,verano,Mùa Hè,zomer,sommar,verão,estate,صيف (sif),лето (leto),musim panas,aestas, yaz
+Fall,秋天,tshu then,秋天 (cau1 tin1),秋 (あき),Herbst,가을,automne,otoño,Mùa Thu,herfst,höst,outono,autunno,خريف (kharif),осень (osen'),musim luruh,autumn/queda,sonbahar
+Winter,冬天,tong then,冬天 (dung1 tin1),冬 (ふゆ),Winter,겨울,hiver,invierno,Mùa Đông,winter,vinter,inverno,inverno,شتاء (sheta'),зима (zima),musim dingin,hiems,kış
+小类months,月份,nguot pyin,月份 (jyut6 fan6),月 (つき),Monate,월,mois,meses,tháng,maanden,månader,meses,mesi,شهور (shuhur),месяцы,bulan,meses,aylar
+January,一月,qit nguot,一月 (jat1 jyut6),1月 (いちがつ),Januar,1월,janvier,enero,Tháng 1,januari,januari,janeiro,gennaio,يناير (yanāyir),январь,januari,januari,ocak
+February,二月,njih nguot,二月 (ji6 jyut6),2月 (にがつ),Februar,2월,février,febrero,Tháng 2,februari,februari,fevereiro,febbraio,فبراير (fibraʼir),февраль,februari,februari,şubat
+March,三月,samh nguot,三月 (saam1 jyut6),3月 (さんがつ),März,3월,mars,marzo,Tháng 3,maart,mars,março,marzo,مارس (māris),март,mac,mart,nisan
+April,四月,sih nguot,四月 (sei3 jyut6),4月 (しがつ),April,4월,avril,abril,Tháng 4,april,april,abril,aprile,أبريل (abrīl),апрель,april,april,nisan
+May,五月,ngoq nguot,五月 (ng5 jyut6),5月 (ごがつ),Mai,5월,mai,mayo,Tháng 5,mei,maj,maio,maggio,مايو (māyū),май,mei,maj,mayıs
+June,六月,luk nguot,六月 (luk6 jyut6),6月 (ろくがつ),Juni,6월,juin,junio,Tháng 6,juni,juni,junho,giugno,يونيو (yunyū),июнь,jun,juni,haziran
+July,七月,tshit nguot,七月 (cat1 jyut6),7月 (しちがつ),Juli,7월,juillet,julio,Tháng 7,juli,juli,julho,luglio,يوليو (yūlyū),июль,julai,juli,temmuz
+August,八月,peet nguot,八月 (baat3 jyut6),8月 (はちがつ),August,8월,août,agosto,Tháng 8,augustus,augusti,agosto,agosto,أغسطس (ʼagustus),август,ogos,aukustos,ağustos
+September,九月,kuq nguot,九月 (gau2 jyut6),9月 (くがつ),September,9월,septembre,septiembre,Tháng 9,september,september,setembro,settembre,سبتمبر (sibtambir),сентябрь,september,septembrie,eylül
+October,十月,djip nguot,十月 (sap6 jyut6),10月 (じゅうがつ),Oktober,10월,octobre,octubre,Tháng 10,oktober,oktober,outubro,ottobre,أكتوبر (ʼuktūbir),октябрь,oktober,octombrie,ekim
+November,十一月,djip qit nguot,十一月 (sap6 jat1 jyut6),11月 (じゅういちがつ),November,11월,novembre,noviembre,Tháng 11,november,november,novembro,novembre,نوفمبر (nūfambir),ноябрь,november,noiembrie,kasım
+December,十二月,djip njih nguot,十二月 (sap6 ji6 jyut6),12月 (じゅうにがつ),Dezember,12월,décembre,diciembre,Tháng 12,december,december,dezembro,dicembre,ديسمبر (dīsimbir),декабрь,disember,decembrie,aralık
+小类days of the week,星期,seng gy,星期 (sing1 kei4),曜日 (ようび),Wochentage,요일,jours de la semaine,días de la semana,ngày trong tuần,dagen van de week,veckodagar,dias da semana,giorni della settimana,أيام الأسبوع (ayam al-usbu'),дни недели,hari-hari dalam seminggu,dies hebdomadis,haftanın günleri
+Monday,星期一,seng gy qit,星期一 (sing1 kei4 jat1),月曜日 (げつようび),Montag,월요일,lundi,lunes,Thứ Hai,maandag,måndag,segunda-feira,lunedì,الاثنين (al-ithnayn),понедельник,isnin,lunae,lunes
+Tuesday,星期二,seng gy njih,星期二 (sing1 kei4 ji6),火曜日 (かようび),Dienstag,화요일,mardi,martes,Thứ Ba,dinsdag,tisdag,terça-feira,martedì,الثلاثاء (althalāthāʼ),вторник,selasa,martis,martes
+Wednesday,星期三,seng gy samh,星期三 (sing1 kei4 saam1),水曜日 (すいようび),Mittwoch,수요일,mercredi,miércoles,Thứ Tư,woensdag,onsdag,quarta-feira,mercoledì,الأربعاء (al-arbiʻāʼ),среда,rabu,mercurii,çarşamba
+Thursday,星期四,seng gy sih,星期四 (sing1 kei4 sei3),木曜日 (もくようび),Donnerstag,목요일,jeudi,jueves,Thứ Năm,donderdag,torsdag,quinta-feira,giovedì,الخميس (al-khamīs),четверг,khamis,iovis,perşembe
+Friday,星期五,seng gy ngoq,星期五 (sing1 kei4 ng5),金曜日 (きんようび),Freitag,금요일,vendredi,viernes,Thứ Sáu,vrijdag,fredag,sexta-feira,venerdì,الجمعة (al-jumʻah),пятница,jumaat,veneris,cuma
+Saturday,星期六,seng gy luk,星期六 (sing1 kei4 luk6),土曜日 (どようび),Samstag,토요일,samedi,sábado,Thứ Bảy,zaterdag,lördag,sábado,sabato,السبت (al-sabt),суббота,sabtu,sabbati,cumartesi
+Sunday,星期日,seng gy njit,星期日 (sing1 kei4 jat6),日曜日 (にちようび),Sonntag,일요일,dimanche,domingo,Chủ Nhật,zondag,söndag,domingo,domenica,الأحد (al-ʼahad),воскресенье,ahad,dies dominica,cumartesi
+小类time,时间,djy keenh,時間 (si4 gaan3),時間 (じかん),Zeit,시간,temps,tiempo,thời gian,tijd,tid,tempo,tempo,الوقت (al-waqt),время,masa,tempus,zaman
+year,年,nen,年 (nin4),年 (ねん),Jahr,년,an,año,năm,jaar,år,ano,anno,سنة (sanah),год,tahun,annus,yıl
+month,月,nguot,月 (jyut6),月 (つき),Monat,달,mois,mes,tháng,maand,månad,mês,mese,شهر (shahr),месяц,bulan,mensis,ay
+week,周,tju,周 (zau1),週 (しゅう),Woche,주,semaine,semana,tuần,week,vecka,semana,settimana,أسبوع (usbūʿ),неделя,minggu,hebdomas,hafta
+day,天,then,日 (tin1),日 (にち),Tag,날,jour,día,ngày,dag,dag,dia,giorno,يوم (yawm),день,hari,dies,gün
+hour,小时,siewq djy,小時 (siu3 si4),時間 (じかん),Stunde,시간,heure,hora,giờ,uur,timme,hora,ora,ساعة (sa'ah),час,jam,jam,saat
+minute,分钟,pun tjuong,分鐘 (fan1 zung1),分 (ふん),Minute,분,minute,minuto,phút,minuut,minut,minuto,minuto,دقيقة (daqīqah),минута,saat,minuta,dakika
+second,秒,miewq,秒 (miu5),秒 (びょう),Sekunde,초,seconde,segundo,giây,seconde,sekund,segundo,secondo,ثانية (thāniyah),секунда,detik,secunda,saniye
+morning,早上,tsawq djyangq,早上 (zou2 soeng5),朝 (あさ),Morgen,아침,matin,mañana,sáng,morgen,morgon,manhã,mattina,صباح (ṣabāḥ),утро,pagi,mane,morning
+afternoon,下午,ghaeq ngoq,下午 (haa6 ng5),午後 (ごご),Nachmittag,오후,après-midi,tarde,chiều,middag,eftermiddag,tarde,pomeriggio,بعد الظهر (baʻdha dhuhr),день,petang,post meridiem,öğleden sonra
+evening,晚上,muonq djyangq,晚上 (maan5 soeng6),夜 (よる),Abend,저녁,soir,tarde,tối,avond,kväll,noite,sera,مساء (masāʼ),вечер,malam,vesper,vaka
+night,夜晚,jiaeh muonq,夜晚 (je6 maan5),夜 (よる),Nacht,밤,nuit,noche,đêm,nacht,natt,noite,notte,ليل (layl),ночь,malam,nox,gece
+类 2 KKTD - dih lyq,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 2 KKTD - dih mut,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 3 KKSM,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 3 KKSM - DM sjin thejq,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+小类body,身体,sjin thejq,身體 (san1 tai2),体 (からだ),Körper,신체,corps,cuerpo,thân thể,lichaam,kropp,corpo,corpo,جسد (jism),тело,tubuh,corpus,vücut
+head,头,dou,頭 (tau4),頭 (あたま),Kopf,머리,tête,cabeza,đầu,hoofd,huvud,cabeça,testa,رأس (ras),голова,kepala,caput,kafa
+neck,脖子,bot tsyq,頸 (but3 zi2),首 (くび),Hals,목,cou,cuello,cổ,nek,hals,pescoço,collo,رقبة (raqabah),шея,leher,collum,boyun
+face,脸,tshiem,面 (lim5),顔 (かお),Gesicht,얼굴,visage,cara,khuôn mặt,gezicht,ansikte,rosto,viso,وجه (wajh),лицо,muka,vultus,yüz
+beard,胡须,gho suo,鬍鬚 (wu4 sou1),ひげ,Haar,Hüftwuchs,barbe,barba,râu,baard,skägg,barba,barba,لحية (lahyah),борода,janggut,barba,akil
+hair,头发,dou puot,頭髮 (tau4 faat3),髪 (かみ),Haare,머리카락,cheveux,pelo,tóc,haar,hår,cabelo,capelli,شعر (sha'r),волосы,rambut,capillus,saç
+eye,眼睛,ngeenq tsiaeng,眼 (ngaan5 zing1),目 (め),Auge,눈,œil,ojo,mắt,oog,öga,olho,occhio,عين (ayn),глаз,mata,oculus,göz
+mouth,嘴巴,tswieq pae,口 (zeoi2 baa1),口 (くち),Mund,입,bouche,boca,miệng,mond,mun,mouth,bocca,فم (fam),рот,mulut,os,ayak
+lip,嘴唇,tswieq zjwin,唇 (zeon1 ceon4),唇 (くちびる),Lippe,입술,lèvre,labio,môi,lip,läpp,lábio,labbro,شفة (shafa),губа,bibir,labiis,dişilik
+nose,鼻子,bih tsyq,鼻 (bei6 zi2),鼻 (はな),Nase,코,nez,nariz,mũi,neus,näsa,nariz,naso,أنف (anf),нос,hidung,nasus,burun
+tooth,牙齿,ngae tjhyq,齒 (ngaa4 ci2),歯 (は),Zahn,이, dent,diente,răng,tand,tand,dente,dente,سن (sin),зуб,gigi,dens,diş
+ear,耳朵,njyq twaq,耳 (ji5 dou6),耳 (みみ),Ohr,귀,oreja,oreja,tai,oor,öra,orecchio,orecchio,أذن (udhun),ухо,telinga,auris,kulak
+tear (drop),眼泪,ngeenq lwih,淚 (lei6),涙 (なみだ),Träne,눈물,larme,lágrima,nước mắt,traan,tår,lágrima,lacrime,دمعة (dam'ah),слеза,air mata,lacrima,göz yaş
+tongue,舌头,zjiet dou,舌頭 (sit3 tau2),舌 (した),Zunge,혀,langue,lengua,lưỡi,tong,tunga,língua,lingua,لسان (lisan),язык,lidah,lingua,dil
+back,背部,pojh bouq,背 (bui3),背中 (せなか),Rücken,등,dos,espalda,lưng,rug,rücke,costas,schiena,ظهر (zahr),спина,punggung,dorsum,sırt
+toe,脚趾,kyak tjyq,腳趾 (geok3 zi1),足の指 (あしのゆび),Zehe,발가락,orteil,dedo del pie,ngón chân,teen,toa,dedo do pé,dito del piede,إصبع القدم (isba' al-qadam),палец ноги,jari kaki,pes digitus,parmak
+finger,手指,sjuq tjiq,手指 (sau2 zi2),指 (ゆび),Finger,손가락,doigt,dedo,cái tay,vinger,finger,dedo,dito,إصبع (isba'),палец,pelukan,tango,dokunma
+foot,脚,kyak,腳 (geok3),足 (あし),Fuß,발,pied,pie,chân,voet,fot,pé,piede,قدم (qadam),стопа,kaki,pes,ayak
+hand,手,sjuq,手 (sau2),手 (て),Hand,손,main,mano,tay,hand,hand,mão,mano,يد (yad),рука,tangan,manus,el
+leg,腿,thojq,腿 (teoi2),脚 (あし),Bein,다리,jambe,pierna,chân,been,bent,péna,pierna,قدم (qadam),нога,kaki,crus,gamba
+arm,手臂,sjuq pieh,手臂 (sau2 bei3),腕 (うで),Arm,팔,bras,brazo,cánh tay,arm,arm,bra,brazzo,ذراع (dhira'),рука,tangan,cubitus,kol
+shoulder,肩膀,ken bang,肩膀 (gin1 bong1),肩 (かた),Schulter,어깨,épaule,hombro,vai,shoulder,axel,ombro,spalla,كتف (katif),плечо,bahu,humerus,omuz
+heart,心脏,sim dzangh,心臟 (sam1 zong1),心臓 (しんぞう),Herz,심장,cœur,corazón,trái tim,hart,hjärta,coração,cuore,قلب (qalb),сердце,hati,cor,cœur
+blood,血,hwet,血 (hyut3),血 (ち),Blut,피,sangre,sangre,máu,bloed,blod,sangue,sangue,دم (dam),кровь,darah,sanguis,kan
+brain,脑,nawq,腦 (naau5),脳 (のう),Gehirn,뇌,cerveau,cerebro,não,hersenen,hjärna,cérebro,cervello,دماغ (dimagh),мозг,otak,cerebrum,beyin
+knee,膝盖,sit kap,膝蓋 (zik6 goi2),膝 (ひざ),Knie,무릎,genou,rodilla,gối,knie,knä,joelho,ginocchio,ركبة (rukba),колено,lutut,genu,fare
+sweat,汗,kan,汗 (hon6),汗 (あせ),Schweiß,땀,transpiration,sudor,mồ hôi,zweet,svett,suor,sudore,عرق (araq),пот,keringat,sudor,ter
+disease,疾病,dzit byaengh,疾病 (zap1 beng6),病気 (びょうき),Krankheit,질병,maladie,enfermedad,bệnh,ziekte,sjukdom,doença,malattia,مرض (maradh),болезнь,penyakit,morbus,hastalık
+bone,骨头,kot dou,骨頭 (gwat1 tau2),骨 (ほね),Knochen,뼈,os,hueso,xương,bot,ben,osso,osso,عظم (adh'am),кость,tulang,os,iskelet
+voice,声音,sjiaeng qyim,聲音 (seng1 jam1),声 (こえ),Stimme,목소리,voix,voz,giọng,norm,stämma,voz,voce,صوت (sawt),голос,suara,vox,vurgu
+skin,皮肤,bye puo,皮膚 (pei4 fu1),皮膚 (ひふ),Haut,피부,peau,piel,da,huid,hud,pele,pelle,جلد (jild),кожа,kulit,cutis,cilt
+类 3 KKSM - DMST djih koeuk,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+小类color,颜色,ngaen sryk,顏色 (ngaan4 sik1),色 (いろ),Farbe,색상,couleur,color,color,kleur,färg,cor,colore,لون (lawn),цвет,warna,color,renk
+red,红色,ghoung sryk,紅色 (hung4 sik1),赤 (あか),rot,빨간색,rouge,rojo,đỏ,rood,röd,vermelho,rosso,أحمر (aḥmar),красный,merah,rubrum,kırmızı
+green,绿色,luok sryk,綠色 (luk6 sik1),緑 (みどり),grün,초록색,vert,verde,xanh lá,cq groen,grön,verde,verde,أخضر (akhḍar),зеленый,hijau,viridis,yeşil
+blue (light),浅蓝色,tshienq lam sryk,淺藍色 (cim1 laam4 sik1),水色 (みずいろ),hellblau,하늘색,bleu claro,azul claro,xanh nhạt,lichtblauw,ljusblå,azul claro,azzurro chiaro,أزرق فاتح (azraq fatih),голубой,biru muda,caeruleus clarius,açık mavi
+blue (dark),深蓝色,sjimh lam sryk,深藍色 (sam1 laam4 sik1),紺色 (こんいろ),dunkelblau,짙은 파랑색,bleu foncé,azul oscuro,xanh đậm,donkerblauw,mörkblå,azul escuro,blu scuro,أزرق غامق (azraq ghamiq),синий,biru gelap,aerius obscurus,koyu mavi
+yellow,黄色,ghwang sryk,黃色 (wong4 sik1),黄 (きいろ),gelb,노란색,jaune,amarillo,vàng,geel,gul,amarelo,giallo,أصفر (aṣfar),желтый,kuning,flavus,sarı
+brown,棕色,tsoung sryk,棕色 (zung1 sik1),茶色 (ちゃいろ),braun,갈색,marron,marrón,nâu,bruin,brun,marrom,marrone,بني (bunī),коричневый,coklat,rufus,kahverengi
+pink,粉红色,punq ghoung sryk,粉紅色 (fan2 hung4 sik1),ピンク (pinku),rosa,분홍색,rose,rosa,hồng,roze,rosa,rosa,rosa,زهري (zahri),розовый,merah jambu,roseus,pembe
+orange,橙色,teongh sryk,橙色 (caang2 sik1),オレンジ (orenji),orange,주황색,orange,naranja,da cam,oranje,apelsin,laranja,arancione,برتقالي (burtuqālī),оранжевый,oren,citrinus,turuncu
+black,黑色,heok sryk,黑色 (hak1 sik1),黒 (くろ),schwarz,검은색,noir,negro,đen,zwart,svart,preto,nero,أسود (aswad),черный,hitam,ater,nin
+white,白色,baek sryk,白色 (baak6 sik1),白 (しろ),weiß,흰색,blanc,blanco,trắng,wit,vit,branco,bianco,أبيض (abyaḍ),белый,putih,candens,beyaz
+gray,灰色,hoj sryk,灰色 (fo1 sik1),灰 (はい),grau,회색,gris,gris,xám,grijs,grå,cinza,grigio,رمادي (ramādī),серый,abu-abu,cinereus,gri
+类 3 KKSM - DMST theng koeuk,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 3 KKSM - DM miaeng tjhyng,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+小类animal,动物,doungq mut,動物 (dung6 mat6),動物 (どうぶつ),Tier,동물,animal,animal,động vật,dier,djur,animal,animale,حيوان (hayawan),животное,hewan,animal,hayvan
 dog,狗,kouq,狗 (gau2),犬 (いぬ),Hund,개,chien,perro,chó,hond,hund,cachorro,cane,كلب (kalb),собака,anjing,canis,köpek
 cat,猫,myew,貓 (maau1),猫 (ねこ),Katze,고양이,chat,gato,mèo,kat,katt,gato,gatto,قطة (qittah),кот,kucing,felis,kedi
 fish,鱼,ngyo,魚 (jyu4),魚 (さかな),Fisch,물고기,poisson,pez,cá,vis,fisk,peixe,pesce,سمك (samak),рыба,ikan,ichthys,balık
@@ -9,6 +221,14 @@ pig,猪,tryo,豬 (zyu1),豚 (ぶた),Schwein,돼지,cochon,cerdo,lợn,varken,gr
 mouse,老鼠,lawq sjyoq,老鼠 (lou5 syu2),ネズミ,Maus,쥐,souris,rat,chuột,muis,mus,rato,topo,فأر (fa'r),мышь,tikus,mus,mouse
 horse,马,maeq,馬 (maa5),馬 (うま),Pferd,말,cheval,caballo,ngựa,paard,häst,cavalo,cavallo,حصان (hisan),лошадь,kuda,equus,at
 wing,翅膀,sjieh bang,翅膀 (ci4 bong2),羽 (はね),Flügel,날개,aile,ala,cánh,vleugel,vinge,asa,ala,جناح (janah),крыло,sehel,ala,kanat
+类 3 KKSM - djyk mut,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 4 KKNL,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 5 NLUJ,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 6 NLGD,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 7 NLTK,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 8 NLKT,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 9 KKTT,cmn,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
+类 99 gy tha,未分类词条,tupa,yue,ja,de,ko,fr,es,vi,nl,sv,pt,it,ar,ru,ms,la,tr
 🆙transportation,交通,kaew thoung,交通 (gaau1 tung1),交通 (こうつう),Transport,교통,transport,transporte,giao thông,vervoer,transport,transporte,trasporto,نقل (naql),транспорт,pengangkutan,transitus,taşıma
 train,火车,hwaq tjhiae,火車 (fo2 ce1),電車 (でんしゃ),Zug,기차,train,tren,tàu,trein,tåg,trem,treno,قطار (qitar),поезд,kereta api,tren,tren
 plane,飞机,puj kyj,飛機 (fei1 gei1),飛行機 (ひこうき),Flugzeug,비행기,avion,avión,máy bay,vliegtuig,flyg,avião,aereo,طائرة (ta'ira),самолет,pesawat terbang,aeroplanum,uçak
@@ -66,18 +286,6 @@ shoes,鞋,gheej,鞋 (haai4),靴 (くつ),Schuhe,신발,chaussures,zapatos,giày,
 pocket,口袋,khouq deojh,口袋 (hau2 doi6),ポケット (poketto),Tasche,포켓,poches,bolsillo,ngăn túi,zak,zak,fundo,borsa,جيب (jayb),карман,saku,sinus,cep
 coat,外套,ngwajh thawh,外套 (ngoi6 tou3),コート (kōto),Mantel,코트,manteau,abrigo,áo khoác,jas,rock,casaco,cappotto,معطف (maʿṭaf),пальто,ceket,paenula,palto
 stain,污点,qo temq,污點 (wu1 dim2),シミ (shimi),Fleck,얼룩,tache,mancha,vết bẩn,vlek,fläck,mancha,macchia,بقعة (baqʿah),пятно,noda,macula,leke
-🆙color,颜色,ngaen sryk,顏色 (ngaan4 sik1),色 (いろ),Farbe,색상,couleur,color,color,kleur,färg,cor,colore,لون (lawn),цвет,warna,color,renk
-red,红色,ghoung sryk,紅色 (hung4 sik1),赤 (あか),rot,빨간색,rouge,rojo,đỏ,rood,röd,vermelho,rosso,أحمر (aḥmar),красный,merah,rubrum,kırmızı
-green,绿色,luok sryk,綠色 (luk6 sik1),緑 (みどり),grün,초록색,vert,verde,xanh lá,cq groen,grön,verde,verde,أخضر (akhḍar),зеленый,hijau,viridis,yeşil
-blue (light),浅蓝色,tshienq lam sryk,淺藍色 (cim1 laam4 sik1),水色 (みずいろ),hellblau,하늘색,bleu claro,azul claro,xanh nhạt,lichtblauw,ljusblå,azul claro,azzurro chiaro,أزرق فاتح (azraq fatih),голубой,biru muda,caeruleus clarius,açık mavi
-blue (dark),深蓝色,sjimh lam sryk,深藍色 (sam1 laam4 sik1),紺色 (こんいろ),dunkelblau,짙은 파랑색,bleu foncé,azul oscuro,xanh đậm,donkerblauw,mörkblå,azul escuro,blu scuro,أزرق غامق (azraq ghamiq),синий,biru gelap,aerius obscurus,koyu mavi
-yellow,黄色,ghwang sryk,黃色 (wong4 sik1),黄 (きいろ),gelb,노란색,jaune,amarillo,vàng,geel,gul,amarelo,giallo,أصفر (aṣfar),желтый,kuning,flavus,sarı
-brown,棕色,tsoung sryk,棕色 (zung1 sik1),茶色 (ちゃいろ),braun,갈색,marron,marrón,nâu,bruin,brun,marrom,marrone,بني (bunī),коричневый,coklat,rufus,kahverengi
-pink,粉红色,punq ghoung sryk,粉紅色 (fan2 hung4 sik1),ピンク (pinku),rosa,분홍색,rose,rosa,hồng,roze,rosa,rosa,rosa,زهري (zahri),розовый,merah jambu,roseus,pembe
-orange,橙色,teongh sryk,橙色 (caang2 sik1),オレンジ (orenji),orange,주황색,orange,naranja,da cam,oranje,apelsin,laranja,arancione,برتقالي (burtuqālī),оранжевый,oren,citrinus,turuncu
-black,黑色,heok sryk,黑色 (hak1 sik1),黒 (くろ),schwarz,검은색,noir,negro,đen,zwart,svart,preto,nero,أسود (aswad),черный,hitam,ater,nin
-white,白色,baek sryk,白色 (baak6 sik1),白 (しろ),weiß,흰색,blanc,blanco,trắng,wit,vit,branco,bianco,أبيض (abyaḍ),белый,putih,candens,beyaz
-gray,灰色,hoj sryk,灰色 (fo1 sik1),灰 (はい),grau,회색,gris,gris,xám,grijs,grå,cinza,grigio,رمادي (ramādī),серый,abu-abu,cinereus,gri
 🆙people,人,njin,人 (jan4),人 (ひと),Menschen,사람,gens,gente,người,mensen,människor,pessoas,persone,شخص (shakhs),люди,orang,homo,insan
 son,儿子,njie tsyq,仔 (zi2),息子 (むすこ),Sohn,아들,fils,hijo,con trai,zoon,son,filho,figlio,ابن (ibn),сын,anak lelaki,filho,oğul
 daughter,女儿,nryoq njie,女仔 (neoi5),娘 (むすめ),Tochter,딸,fille,hija,con gái,dochter,dotter,filha,figlia,ابنة (ibna),дочь,anak perempuan,filha,kız
@@ -256,37 +464,6 @@ screen,屏幕,piaengq mak,屏幕,スクリーン,Bildschirm,화면,écran,pantal
 camera,相机,syangh kyj,相機,カメラ,Kamera,카메라,caméra,cámara,máy ảnh,camera,kamera,câmera,fotocamera,كاميرا,камера,kamera,kamera,kamera
 television,电视,denh djiq,電視,テレビ,Fernseher,텔레비전,télévision,televisión,ti vi,televisie,television,televisão,televisione,تلفزيون,телевизор,televisyen,televisio,televizyon
 radio,收音机,sjuh qyim kyj,收音機,ラジオ,Radio,라디오,radio,radio,đài radio,radio,radio,rádio,radio,راديو,радио,radio,radio,radyo
-🆙body,身体,sjin thejq,身體 (san1 tai2),体 (からだ),Körper,신체,corps,cuerpo,thân thể,lichaam,kropp,corpo,corpo,جسد (jism),тело,tubuh,corpus,vücut
-head,头,dou,頭 (tau4),頭 (あたま),Kopf,머리,tête,cabeza,đầu,hoofd,huvud,cabeça,testa,رأس (ras),голова,kepala,caput,kafa
-neck,脖子,bot tsyq,頸 (but3 zi2),首 (くび),Hals,목,cou,cuello,cổ,nek,hals,pescoço,collo,رقبة (raqabah),шея,leher,collum,boyun
-face,脸,tshiem,面 (lim5),顔 (かお),Gesicht,얼굴,visage,cara,khuôn mặt,gezicht,ansikte,rosto,viso,وجه (wajh),лицо,muka,vultus,yüz
-beard,胡须,gho suo,鬍鬚 (wu4 sou1),ひげ,Haar,Hüftwuchs,barbe,barba,râu,baard,skägg,barba,barba,لحية (lahyah),борода,janggut,barba,akil
-hair,头发,dou puot,頭髮 (tau4 faat3),髪 (かみ),Haare,머리카락,cheveux,pelo,tóc,haar,hår,cabelo,capelli,شعر (sha'r),волосы,rambut,capillus,saç
-eye,眼睛,ngeenq tsiaeng,眼 (ngaan5 zing1),目 (め),Auge,눈,œil,ojo,mắt,oog,öga,olho,occhio,عين (ayn),глаз,mata,oculus,göz
-mouth,嘴巴,tswieq pae,口 (zeoi2 baa1),口 (くち),Mund,입,bouche,boca,miệng,mond,mun,mouth,bocca,فم (fam),рот,mulut,os,ayak
-lip,嘴唇,tswieq zjwin,唇 (zeon1 ceon4),唇 (くちびる),Lippe,입술,lèvre,labio,môi,lip,läpp,lábio,labbro,شفة (shafa),губа,bibir,labiis,dişilik
-nose,鼻子,bih tsyq,鼻 (bei6 zi2),鼻 (はな),Nase,코,nez,nariz,mũi,neus,näsa,nariz,naso,أنف (anf),нос,hidung,nasus,burun
-tooth,牙齿,ngae tjhyq,齒 (ngaa4 ci2),歯 (は),Zahn,이, dent,diente,răng,tand,tand,dente,dente,سن (sin),зуб,gigi,dens,diş
-ear,耳朵,njyq twaq,耳 (ji5 dou6),耳 (みみ),Ohr,귀,oreja,oreja,tai,oor,öra,orecchio,orecchio,أذن (udhun),ухо,telinga,auris,kulak
-tear (drop),眼泪,ngeenq lwih,淚 (lei6),涙 (なみだ),Träne,눈물,larme,lágrima,nước mắt,traan,tår,lágrima,lacrime,دمعة (dam'ah),слеза,air mata,lacrima,göz yaş
-tongue,舌头,zjiet dou,舌頭 (sit3 tau2),舌 (した),Zunge,혀,langue,lengua,lưỡi,tong,tunga,língua,lingua,لسان (lisan),язык,lidah,lingua,dil
-back,背部,pojh bouq,背 (bui3),背中 (せなか),Rücken,등,dos,espalda,lưng,rug,rücke,costas,schiena,ظهر (zahr),спина,punggung,dorsum,sırt
-toe,脚趾,kyak tjyq,腳趾 (geok3 zi1),足の指 (あしのゆび),Zehe,발가락,orteil,dedo del pie,ngón chân,teen,toa,dedo do pé,dito del piede,إصبع القدم (isba' al-qadam),палец ноги,jari kaki,pes digitus,parmak
-finger,手指,sjuq tjiq,手指 (sau2 zi2),指 (ゆび),Finger,손가락,doigt,dedo,cái tay,vinger,finger,dedo,dito,إصبع (isba'),палец,pelukan,tango,dokunma
-foot,脚,kyak,腳 (geok3),足 (あし),Fuß,발,pied,pie,chân,voet,fot,pé,piede,قدم (qadam),стопа,kaki,pes,ayak
-hand,手,sjuq,手 (sau2),手 (て),Hand,손,main,mano,tay,hand,hand,mão,mano,يد (yad),рука,tangan,manus,el
-leg,腿,thojq,腿 (teoi2),脚 (あし),Bein,다리,jambe,pierna,chân,been,bent,péna,pierna,قدم (qadam),нога,kaki,crus,gamba
-arm,手臂,sjuq pieh,手臂 (sau2 bei3),腕 (うで),Arm,팔,bras,brazo,cánh tay,arm,arm,bra,brazzo,ذراع (dhira'),рука,tangan,cubitus,kol
-shoulder,肩膀,ken bang,肩膀 (gin1 bong1),肩 (かた),Schulter,어깨,épaule,hombro,vai,shoulder,axel,ombro,spalla,كتف (katif),плечо,bahu,humerus,omuz
-heart,心脏,sim dzangh,心臟 (sam1 zong1),心臓 (しんぞう),Herz,심장,cœur,corazón,trái tim,hart,hjärta,coração,cuore,قلب (qalb),сердце,hati,cor,cœur
-blood,血,hwet,血 (hyut3),血 (ち),Blut,피,sangre,sangre,máu,bloed,blod,sangue,sangue,دم (dam),кровь,darah,sanguis,kan
-brain,脑,nawq,腦 (naau5),脳 (のう),Gehirn,뇌,cerveau,cerebro,não,hersenen,hjärna,cérebro,cervello,دماغ (dimagh),мозг,otak,cerebrum,beyin
-knee,膝盖,sit kap,膝蓋 (zik6 goi2),膝 (ひざ),Knie,무릎,genou,rodilla,gối,knie,knä,joelho,ginocchio,ركبة (rukba),колено,lutut,genu,fare
-sweat,汗,kan,汗 (hon6),汗 (あせ),Schweiß,땀,transpiration,sudor,mồ hôi,zweet,svett,suor,sudore,عرق (araq),пот,keringat,sudor,ter
-disease,疾病,dzit byaengh,疾病 (zap1 beng6),病気 (びょうき),Krankheit,질병,maladie,enfermedad,bệnh,ziekte,sjukdom,doença,malattia,مرض (maradh),болезнь,penyakit,morbus,hastalık
-bone,骨头,kot dou,骨頭 (gwat1 tau2),骨 (ほね),Knochen,뼈,os,hueso,xương,bot,ben,osso,osso,عظم (adh'am),кость,tulang,os,iskelet
-voice,声音,sjiaeng qyim,聲音 (seng1 jam1),声 (こえ),Stimme,목소리,voix,voz,giọng,norm,stämma,voz,voce,صوت (sawt),голос,suara,vox,vurgu
-skin,皮肤,bye puo,皮膚 (pei4 fu1),皮膚 (ひふ),Haut,피부,peau,piel,da,huid,hud,pele,pelle,جلد (jild),кожа,kulit,cutis,cilt
 🆙nature,自然,dzih njien,自然 (zi6 jin4),自然 (しぜん),Natur,자연,nature,naturaleza,thiên nhiên,natuur,naturza,priroda,natureza,طبيعة (tabi'a),природа,alam semula jadi,natura,doğa
 sea,海洋,heojq jyang,海 (hoi2),海 (うみ),Meer,바다,mer,mar,b biển,zee,hav,mar,mare,بحر (bahar),море,laut,mare,deniz
 ocean,海洋,heojq jyang,海洋 (hoi2 joeng4),海洋 (かいよう),Ozean,대양,océan,océano,đại dương,oceaan,havet,oceano,oceano,محيط (muhit),океан,lautan,oceanus,okyanus
@@ -332,21 +509,6 @@ dust,灰尘,hoj drin,灰塵 (fai1 can4),ほこり (hokori),Staub,먼지,poussiè
 gold,黄金,ghwang kyim,黃金 (wong4 gam1),金 (きん),Gold,금,or,oro,vàng,goud,guld,ouro,oro,ذهب (dhahab),золото,emas,aurum,altın
 copper,铜,doung,銅 (tung4),銅 (どう),Kupfer,구리,cuivre,cobre,đồng,koper,koppar,cobre,rame,نحاس (nihās),медь,tembaga,cuprum,bakır
 silver,银,ngyin,銀 (ngan4),銀 (ぎん),Silber,은,argent,plata,bạc,zilver,silver,prata,argento,فضة (fiddah),серебро,perak,argentum,gümüş
-🆙math/measurements,数学/测量,sruoh ghoeuk / tsrhyk lyang,數學/測量 (suk1 hok6/cak1 loeng4),数学/計測 (すうがく/けいそく),Mathematik/ Messung,수학/측정,math/mesure,matemáticas,toán học/đo lường,wiskunde/meting,matematik/mätning,matemática/mensuração,matematica/misurazione,رياضيات/قياس (riyadiyat/qiyas),математика/измерения,matematik/pengukuran,mathesis/mensura,matematik/ölçüm
-meter,米,mejq,米 (mai5),メートル (めーとる),Meter,미터,mètre,metro,mét, meter,meter,metro,metro,متر (mitr),метр,meter,meter,meter
-centimeter,厘米,ly mejq,厘米 (lei4 mai5),センチメートル (せんちめーとる),Zentimeter,센티미터,centimètre,centímetro,centimet,centimeter,centimeter,centimetro,centimetro,سنتيمتر (sentimetr),сантиметр,centimeter,centimeter,centimetre
-kilogram,公斤,koung kynh,公斤 (gung1 gan1),キログラム (きろぐらむ),Kilogramm,킬로그램,kilogramme,kilogramo,kilôgam,kilogram,kilogram,kilogrammo,chilogrammo,كيلوجرام (kīlūjirām),килограмм,kilogram,kilogram,kilogram
-inch,英寸,qyaeng tshonh,英寸 (jing1 cyun3),インチ (いんち),Zoll,인치,pouce,pulgada,inches,inch,tum,polegada,pollice,بوصة (būṣah),дюйм,inci,uncia,inch
-foot,英尺,qyaeng tjhiaek,呎 (cing1 cek3),フィート (ふぃーと),Fuß,피트,pied,pie,foot,voet,fot,pé,pé,قدم (qadam),фут,kaki,pes,pied
-pound,磅,phang,磅 (bong6),ポンド (ぽんど),Pfund,파운드,livre,libra,pound,pound,pund,libra,libbra,رطل (ratl),фунт,pound,pound,pound
-half,半,panh,半 (bun3),半 (はん),halb,반,moitié,medio,nửa,half,hälft,metade,metà,نصف (nisf),половина,setengah,semi,half
-circle,圆,zwien,圓 (jyun4),円 (えん),Kreis,원,cercle,círculo,hình tròn,cirkel,cirkel,círculo,circolo,دائرة (dāʼirah),круг,bulatan,circulus,daire
-square,平方,byaeng puang,平方 (ping4 fong1),平方 (へいほう),Quadrat,제곱,carré,cuadrado,hình vuông,vierkant,kvadrat,quadrado,quadrato,مربع (murabbaʻ),квадрат,persegi,kvadratus,kare
-temperature,温度,qon doh,溫度 (wan1 dou6),温度 (おんど),Temperatur,온도,température,temperatura,nhiệt độ,temperatuur,temperatur,temperatura,temperatura,درجة حرارة (darajat ḥarārah),температура,suhu,temperatura,ısı
-date,日期,njit gy,日期 (jat6 jat6),日付 (ひづけ),Datum,날짜,date,fecha,ngày,datum,datum,data,data,تاريخ (tārīkh),дата,tarikh,data,tarih
-weight,重量,druongq lyangh,重量 (zung6 loeng6),重さ (おもさ),Gewicht,무게,poids,peso,trọng lượng,gewicht,vikt,peso,peso,وزن (wazn),вес,berat,pondus,ağırlık
-edge,边缘,pen jwien,邊緣 (bin1 jyun4),端 (はし),Kante,가장자리,bordes,borde,cạnh,rand,kant,borda,bordo,حافة (haafa),край,tepi,margo,kenar
-corner,角落,koeuk lak,角落 (gok3 lok6),角 (かど),Ecke,구석,coin,esquina,góc,hoek,hörn,canto,angolo,زاوية (zāwiyah),угол,sudut,angulus,köşe
 🆙misc nouns,其他名词,ky tha miaeng zy,其他名詞 (kei4 ta1 ming4 ci4),その他の名詞 (そのたのめいし),Sonstiges Substantiv,기타 명사,autres noms,otros sustantivos,các danh từ khác,diverse zelfstandige naamwoorden,övriga substantiv,outros substantivos,altri sostantivi,أسماء متفرقة (asma' mutafarriqa),другие существительные,kata nama lain,lēxica alia,various isimler
 map,地图,dih do,地圖 (dei6 tou4),地図 (ちず),Karte,지도,carte,map,bản đồ,karta,karta,mapa,mappa,خريطة (kharita),карта,peta,mappa,harita
 dot,点,temq,點 (dim2),点 (てん),Punkt,점,point,punto,chấm,punt,punkt,ponto,punto,نقطة (nuqta),точка,titik,punctum,nokta
@@ -365,122 +527,6 @@ pattern,图案,do qanh,圖案 (tou4 on3),模様 (もよう),Muster,무늬,modèl
 noun,名词,miaeng zy,名詞 (ming4 ci4),名詞 (めいし),Substantiv,명사,nom,sustantivo,danh từ,naamwoord,substantiv,substantivo,sostantivo,اسم (ism),существительное,kata benda,nomen,isim
 verb,动词,doungq zy,動詞 (dung6 ci4),動詞 (どうし),Verb,동사,verbe,verbo,động từ,werkwoord,verb,verbo,verbo,فعل (fi'l),глагол,kata kerja,verbum,fiil
 adjective,形容词,gheng juong zy,形容詞 (jing4 jung2 ci4),形容詞 (けいようし),Adjektiv,형용사,adjectif,adjetivo,tính từ,bijvoeglijk naamwoord,adjektiv,adjetivo,aggettivo,صفة (sifa),прилагательное,kata sifat,adjectiv,sıfat
-🆙directions,方向,puang sjyangh,方向 (fong1 hoeng3),方向 (ほうこう),Richtungen,방향,directions,direcciones,hướng,richtingen,riktningar,instruções,indicazioni,اتجاهات (itijahat),направления,arahan,regiones,yonlar
-top,顶部,tengq bouq,頂部 (dang2 bou6),上部 (うわべ),oben,위,top,arriba,trên,top,top,cima,alto,أعلى (a'ala),верх (verkh),atas,summus,üst
-bottom,底部,tejq bouq,底部 (dai2 bou6),底部 (そこぶ),unten,밑,bas,bajo,dưới,bodem,botten,fundo,fondo,أسفل (asfal),низ (niz),dasar,basis,alt
-side,侧面,tsryk mienh,側邊 (cak1 bin1),側面 (そくめん),Seite,옆쪽,côté,lado,bên,zijde,sida,lado,lato,جانب (janb),сторона (storona),sisi,latus,yan
-front,前面,dzen mienh,前面 (cin4 min6),前面 (まえめん),Vorderseite,앞,avant,frontal,trước,voor,sida,dianteiro,anterior,الواجهة (alwajhah),перед (pered),depan,ante,ön
-back,后面,ghouq mienh,後面 (hau6 min6),後面 (うしろめん),Rückseite,뒤,arrière,trasero,phía sau,achter,sida,traseiro,posteriore,الظهر (adh-dhar),зад (zad),belakang,dorsum,geri
-outside,外面,ngwajh mienh,外面 (ngoi6 min6),外側 (そとがわ),außen,밖,extérieur,exterior,ngoài,buiten,utan,exterior,esterno,خارج (kharij),снаружи (snaruzhi),luar,foris,dışarı
-inside,里面,lyq mienh,裡面 (lei5 min6),内側 (うちがわ),innen,안,intérieur,interior,bên trong,binnen,innan,interior,interno,داخل (dakhil),внутри (vnutri),dalam,interior,içeri
-up,向上,sjyangh djyangq,上 (soeng6),上へ (うえへ),hoch,위로,haut,arriba,lên,omhoog,upp,cima,su,فوق (fawq),вверх (vverkh),ke atas,summus,yukarı
-down,下,ghaeq,下 (haa6),下 (した),unten,아래,vers le bas,abajo,xuống,beneden,ner,para baixo,giù,أسفل (asfal),вниз (vniz),bawah,deorsum,aşağı
-left,左,tsaq,左 (zo2),左 (ひだり),links,왼쪽,gauche,izquierda,trái,links,vänster,esquerdo,sinistra,اليسار (al-yasar),слева (sleva),kiri,læva,sol
-right,右,uq,右 (jau6),右 (みぎ),rechts,오른쪽,droit,derecha,phải,rechts,höger,direito,destra,اليمين (al-yameen),справа (sprava),kanan,dexter,sag
-straight,直,dryk,直 (zik6),まっすぐ (massugu),gerade,곧장,droit,derecho,thẳng,rechtdoor,rakt,em linha reta,dritto,مستقيم (mustaqim),прямо (pryamo),langsung,rectus,düz
-north,北,peok,北 (bak1),北 (きた),Norden,북,nord,norte,bắc,noord,norr,norte,nord,شمال (shamal),север (sever),utara,septentrion,şimal
-south,南,nom,南 (naam4),南 (みなみ),Süden,남,sud,sur,nam,zuid,syd,sul,sud,جنوب (junub),юг (yug),selatan,meridies,güney
-east,东,toung,東 (dung1),東 (ひがし),Osten,동,est,este,đông,oost,öst,leste,est,شرق (sharq),восток (vostok),timur,oriens,doğu
-west,西,sej,西 (sai1),西 (にし),Westen,서,ouest,oeste,tây,westen,väst,oeste,ovest,غرب (gharb),запад (zapad),barat,occidens,batı
-🆙seasons,季节,kwih tset,季節 (gwai1 zit3),季節 (きせつ),Jahreszeiten,계절,saisons,estaciones,mùa,seizoenen,säsonger,estações,stagioni,فصول (fusul),сезоны,musim,tempestates,mevsimler
-Summer,夏天,ghaeh then,夏天 (haa6 tin1),夏 (なつ),Sommer,여름,été,verano,Mùa Hè,zomer,sommar,verão,estate,صيف (sif),лето (leto),musim panas,aestas, yaz
-Spring,春天,tjhwin then,春天 (ceon1 tin1),春 (はる),Frühling,봄,printemps,primavera,Mùa Xuân,lente,vår,primavera,primavera,ربيع (rabia),весна (vesna),musim semi,ver,açık
-Winter,冬天,tong then,冬天 (dung1 tin1),冬 (ふゆ),Winter,겨울,hiver,invierno,Mùa Đông,winter,vinter,inverno,inverno,شتاء (sheta'),зима (zima),musim dingin,hiems,kış
-Fall,秋天,tshu then,秋天 (cau1 tin1),秋 (あき),Herbst,가을,automne,otoño,Mùa Thu,herfst,höst,outono,autunno,خريف (kharif),осень (osen'),musim luruh,autumn/queda,sonbahar
-🆙numbers,数字,sruoh dzyh,數字 (syu3 zi6),数字 (すうじ),Zahlen,숫자,nombres,números,số,getallen,siffror,números,numeri,أرقام (arqam),числа,angka,numeri,rakamlar
-0,零,lengh,零 (ling4),零 (れい),null,영,zéro,cero,không,nul,noll,zero,zero,صفر (sifr),ноль (nol'),kosong,nulla,sıfır
-1,一,qit,一 (jat1),一 (いち),eins,일,un,uno,một,één,ett,um,uno,واحد (wahid),один (odin),satu,unus,bir
-2,二,njih,二 (ji6),二 (に),zwei,이,deux,dos,hai,twee,två,do,due,اثنان (ithnan),два (dva),dua,duo,iki
-3,三,samh,三 (saam1),三 (さん),drei,삼,trois,tres,ba,drie,tre,três,tre,ثلاثة (thalatha),три (tri),tiga,tres,üç
-4,四,sih,四 (sei3),四 (し),vier,사,quatre,cuatro,bốn,vier,fyra,quatro,quattro,أربعة (arba'a),четыре (chetyre),empat,quattuor,dört
-5,五,ngoq,五 (ng5),五 (ご),fünf,오,cinq,cinco,năm,vijf,fem,cinque,cinque,خمسة (khamsah),пять (pyat'),lima,quinque,beş
-6,六,luk,六 (luk6),六 (ろく),sechs,육,six,seis,sáu,zes,sex,sei,sei,ستة (sittah),шесть (shest'),enam,sex,altı
-7,七,tshit,七 (cat1),七 (なな),sieben,칠,sept,siete,bảy,zeven,sju,sete,sette,سبعة (sab'ah),семь (sem'),tujuh,septem,yedi
-8,八,peet,八 (baat3),八 (はち),acht,팔,huit,ocho,tám,acht,åtta,oito,otto,ثمانية (thamaniyah),восемь (vosem'),lapan,octo,sekiz
-9,九,kuq,九 (gau2),九 (きゅう),neun,구,neuf,nueve,chín,negen,nio,nove,nove,تسعة (tis'ah),девять (devyat'),sembilan,novem,dokuz
-10,十,djip,十 (sap6),十 (じゅう),zehn,십,dix,diez,mười,tien,tio,dez,dieci,عشرة (asharah),десять (desyat'),sepuluh,decem,on
-11,十一,djip qit,十一 (sap6 jat1),十一 (じゅういち),elf,십일,onze,once,mười một,elf,elva,onze,undici,أحد عشر (ahad 'ashar),одиннадцать (odinnadtsat'),sebelas,undecim,onbir
-12,十二,djip njih,十二 (sap6 ji6),十二 (じゅうに),zwölf,십이,douze,doce,mười hai,twaalf,tolv,doze,dodici,اثنا عشر (ithna 'ashar),двенадцать (dvenadtsat'),dua belas,duodecim,on iki
-13,十三,djip sam,十三 (sap6 saam1),十三 (じゅうさん),dreizehn,십삼,treize,trece,mười ba,dertien,tretton,treze,tredici,ثلاثة عشر (thalathat 'ashar),тринадцать (trinadtsat'),tiga belas,tredecim,on üç
-14,十四,djip sih,十四 (sap6 sei3),十四 (じゅうし),vierzehn,십사,quatorze,catorce,mười bốn,veertien,fjorton,quatorze,quattordici,أربعة عشر (arba'at 'ashar),четырнадцать (chetyrnadtsat'),empat belas,quattuordecim,on dört
-15,十五,djip ngoq,十五 (sap6 ng5),十五 (じゅうご),fünfzehn,십오,quinze,quince,mười lăm,vijftien,femton,quinze,quindici,خمسة عشر (khamsat 'ashar),пятнадцать (pyatnadtsat'),lima belas,quindecim,on beş
-16,十六,djip luk,十六 (sap6 luk6),十六 (じゅうろく),sechzehn,십육,seize,dieciséis,mười sáu,zestien,sexton,dezesseis,diciotto,ستة عشر (sittah 'ashar),шестнадцать (shestnadtsat'),enam belas,sexdecim,on altı
-17,十七,djip tshit,十七 (sap6 cat1),十七 (じゅうしち),siebzehn,십칠,dix-sept,diecisiete,mười bảy,zeventien,sjutton,dezessete,diciassette,سبعة عشر (sab'ah 'ashar),семнадцать (semnadtsat'),tujuh belas,septendecim,on yedi
-18,十八,djip peet,十八 (sap6 baat3),十八 (じゅうはち),achtzehn,십팔,dix-huit,dieciocho,mười tám,achttien,arton,dezoito,diciotto,ثمانية عشر (thamaniyat 'ashar),восемнадцать (vosemnadtsat'),lapan belas,duodeviginti,on sekiz
-19,十九,djip kuq,十九 (sap6 gau2),十九 (じゅうく),neunzehn,십구,dix-neuf,diecinueve,mười chín,negentien,nitton,dezenove,diciannove,تسعة عشر (tis'ah 'ashar),девятнадцать (devyatnadtsat'),sembilan belas,undeviginti,on dokuz
-20,二十,njih djip,二十 (ji6 sap6),二十 (にじゅう),zwanzig,스물,vingt,veinte,hai mươi,twintig,tjugo,vinte,venti,عشرون (ashrun),двадцать (dvadtsat'),dua puluh,viginti,yirmi
-21,二十一,njih djip qit,二十一 (ji6 sap6 jat1),二十一 (にじゅういち),einundzwanzig,스물하나,vingt et un,veintiuno,hai mươi một,eenentwintig,tjugoen,vinte e um,ventuno,واحد وعشرون (wahid wa 'ashrun),двадцать один (dvadtsat' odin),dua puluh satu,viginti unus,yirmi bir
-22,二十二,njih djip njih,二十二 (ji6 sap6 ji6),二十二 (にじゅうに),zweiundzwanzig,스물둘,vingt-deux,veintidós,hai mươi hai,tweeëntwintig,tjugotvå,vinte e dois,ventidue,اثنان وعشرون (ithnan wa 'ashrun),двадцать два (dvadtsat' dva),dua puluh dua,viginti duo,yirmi iki
-30,三十,sam djip,三十 (saam1 sap6),三十 (さんじゅう),dreißig,서른,trente,treinta,ba mươi,dertig,trettio,trinta,trenta,ثلاثون (thalathun),тридцать (tridtsat'),tiga puluh,triginta,otuz
-31,三十一,sam djip qit,三十一 (saam1 sap6 jat1),三十一 (さんじゅういち),einunddreißig,서른하나,trente et un,treinta y uno,ba mươi một,eenendertig,trettioett,trinta e um,trentuno,واحد وثلاثون (wahid wa thalathun),тридцать один (tridtsat' odin),tiga puluh satu,triginta unus,otuz bir
-32,三十二,sam djip njih,三十二 (saam1 sap6 ji6),三十二 (さんじゅうに),zweiunddreißig,서른둘,trente-deux,treinta y dos,ba mươi hai,tweeëndertig,trettiotvå,trinta e dois,trentadue,اثنان وثلاثون (ithnan wa thalathun),тридцать два (tridtsat' dva),tiga puluh dua,triginta duo,otuz iki
-40,四十,sih djip,四十 (sei3 sap6),四十 (しじゅう),vierzig,마흔,quarante,cuarenta,bốn mươi,veertig,fyrtio,quarenta,quaranta,أربعون (arba'un),сорок (sorok'),empat puluh,quadraginta,kırk
-41,四十一,sih djip qit,四十一 (sei3 sap6 jat1),四十一 (しじゅういち),einundvierzig,마흔하나,quarante et un,cuarenta y uno,bốn mươi một,eenenveertig,fyrtioett,quarenta e um,quarantuno,واحد وأربعون (wahid wa arba'un),сорок один (sorok' odin),empat puluh satu,quadraginta unus,kırk bir
-42,四十二,sih djip njih,四十二 (sei3 sap6 ji6),四十二 (しじゅうに),zweiundvierzig,마흔둘,quarante-deux,cuarenta y dos,bốn mươi hai,tweeënveertig,fyrtiotvå,quarenta e dois,quarantadue,اثنان وأربعون (ithnan wa arba'un),сорок два (sorok' dva),empat puluh dua,quadraginta duo,kırk iki
-50,五十,ngoq djip,五十 (ng5 sap6),五十 (ごじゅう),fünfzig,쉰,cinquante,cincuenta,năm mươi,vijftig,femtio,cinquenta,cinquanta,خمسون (khamsun),пятьдесят (pyat'desyat'),lima puluh,quinquaginta,elli
-51,五十一,ngoq djip qit,五十一 (ng5 sap6 jat1),五十一 (ごじゅういち),einundfünfzig,쉰하나,cinquante et un,cincuenta y uno,năm mươi một,eenenvijftig,femtioett,cinquenta e um,cinquantuno,واحد وخمسون (wahid wa khamsun),пятьдесят один (pyat'desyat' odin),lima puluh satu,quinquaginta unus,elli bir
-52,五十二,ngoq djip njih,五十二 (ng5 sap6 ji6),五十二 (ごじゅうに),zweiundfünfzig,쉰둘,cinquante-deux,cincuenta y dos,năm mươi hai,tweeënvijftig,femtiotvå,cinquenta e dois,cinquantadue,اثنان وخمسون (ithnan wa khamsun),пятьдесят два (pyat'desyat' dva),lima puluh dua,quinquaginta duo,elli iki
-60,六十,luk djip,六十 (luk6 sap6),六十 (ろくじゅう),sechzig,예순,soixante,sesenta,sáu mươi,zestig,sextio,sessenta,sessanta,ستون (sittun),шестьдесят (shest'desyat'),enam puluh,sexaginta,altmış
-61,六十一,luk djip qit,六十一 (luk6 sap6 jat1),六十一 (ろくじゅういち),einundsechzig,예순하나,soixante et un,sesenta y uno,sáu mươi một,eenenzestig,sextioett,sessenta e um,sessantuno,واحد وستون (wahid wa sittun),шестьдесят один (shest'desyat' odin),enam puluh satu,sexaginta unus,altmış bir
-62,六十二,luk djip njih,六十二 (luk6 sap6 ji6),六十二 (ろくじゅうに),zweiundsechzig,예순둘,soixante-deux,sesenta y dos,sáu mươi hai,tweeënzestig,sextiotvå,sessenta e dois,sessantadue,اثنان وستون (ithnan wa sittun),шестьдесят два (shest'desyat' dva),enam puluh dua,sexaginta duo,altmış iki
-70,七十,tshit djip,七十 (cat1 sap6),七十 (ななじゅう),siebzig,칠십,soixante-dix,setenta,bảy mươi,zeventig,sjuttio,setenta,settanta,سبعون (sab'un),семьдесят (sem'desyat'),tujuh puluh,septuaginta,yetmiş
-71,七十一,tshit djip qit,七十一 (cat1 sap6 jat1),七十一 (ななじゅういち),einundsiebzig,칠십하나,soixante et onze,setenta y uno,bảy mươi một,eenenzeventig,sjuttioett,setenta e um,settantuno,واحد وسبعون (wahid wa sab'un),семьдесят один (sem'desyat' odin),tujuh puluh satu,septuaginta unus,yetmiş bir
-72,七十二,tshit djip njih,七十二 (cat1 sap6 ji6),七十二 (ななじゅうに),zweiundsiebzig,칠십둘,soixante-douze,setenta y dos,bảy mươi hai,tweeënzeventig,sjuttiotvå,setenta e dois,settantadue,اثنان وسبعون (ithnan wa sab'un),семьдесят два (sem'desyat' dva),tujuh puluh dua,septuaginta duo,yetmiş iki
-80,八十,peet djip,八十 (baat3 sap6),八十 (はちじゅう),achtzig,팔십,quatre-vingts,ochenta,tám mươi,tachtig,åttio,oitenta,ottanta,ثمانون (thamaniyun),восемьдесят (vosem'desyat'),delapan puluh,octoginta,seksen
-81,八十一,peet djip qit,八十一 (baat3 sap6 jat1),八十一 (はちじゅういち),einundachtzig,팔십하나,quatre-vingt-un,ochenta y uno,tám mươi một,eenentachtig,åttioett,oitenta e um,ottantuno,واحد وثمانون (wahid wa thamaniyun),восемьдесят один (vosem'desyat' odin),delapan puluh satu,octoginta unus,seksen bir
-82,八十二,peet djip njih,八十二 (baat3 sap6 ji6),八十二 (はちじゅうに),zweiundachtzig,팔십둘,quatre-vingt-deux,ochenta y dos,tám mươi hai,tweeëntachtig,åttiottvå,oitenta e dois,ottantadue,اثنان وثمانون (ithnan wa thamaniyun),восемьдесят два (vosem'desyat' dva),delapan puluh dua,octoginta duo,seksen iki
-90,九十,kuq djip,九十 (gau2 sap6),九十 (きゅうじゅう),neunzig,구십,quatre-vingt-dix,noventa,chín mươi,negentig,nittio,noventa,novanta,تسعون (tisa'un),девяносто (devyanosto),sembilan puluh,nonaginta,doksan
-91,九十一,kuq djip qit,九十一 (gau2 sap6 jat1),九十一 (きゅうじゅういち),einundneunzig,구십하나,quatre-vingt-onze,noventa y uno,chín mươi một,eenennegentig,nittioett,noventa e um,novantuno,واحد وتسعون (wahid wa tisa'un),девяносто один (devyanosto odin),sembilan puluh satu,nonaginta unus,doksan bir
-92,九十二,kuq djip njih,九十二 (gau2 sap6 ji6),九十二 (きゅうじゅうに),zweiundneunzig,구십둘,quatre-vingt-douze,noventa y dos,chín mươi hai,tweeënnegentig,nittiotvå,noventa e dois,novantadue,اثنان وتسعون (ithnan wa tisa'un),девяносто два (devyanosto dva),sembilan puluh dua,nonaginta duo,doksan iki
-100,一百,qit paek,一百 (jat1 baak3),百 (ひゃく),hundert,백,cents,cien,một trăm,honderd,ett hundra,cem,cento,مئة (mi'ah),сто (sto),seratus,centum,yüz
-101,一百一,qit paek qit,一百一 (jat1 baak3 jat1),百一 (ひゃくいち),hundert eins,백하나,cent un,ciento uno,một trăm một,honderd een,ett hundraett,cento e um,centouno,واحد مئة وواحد (wahid mi'ah wa wahid),сто один (sto odin),seratus satu,centum unus,yüz bir
-102,一百二,qit paek njih,一百二 (jat1 baak3 ji6),百二 (ひゃくに),hundert zwei,백둘,cent deux,ciento dos,một trăm hai,honderd twee,ett hundratvå,cento e dois,centodue,اثنان مئة واثنان (ithnan mi'ah wa ithnan),сто два (sto dva),seratus dua,centum duo,yüz iki
-110,一百一十,qit paek qit djip,一百十 (jat1 baak3 sap6),百十 (ひゃくじゅう),hundert zehn,백십,cent dix,ciento diez,một trăm mười,honderd tien,ett hundra tionde,cento e dez,centodieci,عشرة ومئة (ashara wa mi'ah),сто десять (sto desyat'),seratus sepuluh,centum decem,yüz on
-111,一百一十一,qit paek qit djip qit,一百十一 (jat1 baak3 sap6 jat1),百十一 (ひゃくじゅういち),hundert elf,백십하나,cent onze,ciento once,một trăm mười một,honderd elf,ett hundraelva,cento e onze,centoundici,واحد مئة وأحد عشر (wahid mi'ah wa ahad 'ashar),сто одиннадцать (sto odinnadtsat'),seratus sebelas,centum undecim,yüz on bir
-1000,一千,qit tshen,一千 (jat1 cin1),千 (せん),tausend,천,mille,mil,nghìn,duizend,tusen,mil,mille,ألف (alf),тысяча (tysyacha),seribu,millia,yüz bin
-1001,一千一,qit tshen qit,一千一 (jat1 cin1 jat1),千一 (せんいち),tausend eins,천하나,mille un,mil uno,nghìn một,duizend een,tusen ett,mil e um,milleuno,ألف واحد (alf wahid),тысяча один (tysyacha odin),seribu satu,millia unus,yüz bin bir
-10000,一萬,qit muonh,一万 (jat1 maan6),一万 (いちまん),zehntausend,만,vingt mille,diez mil,mười nghìn,tienduizend,tiotusen,dez mil,decem mille,عشرة ألف (ashara alf),десять тысяч (desyat' tysyach),sepuluh ribu,decem milia,yüz bin
-100000,十萬,djip muonh,十万 (sap6 maan6),十万 (じゅうまん),hunderttausend,십만,cent mille,cien mil,một trăm nghìn,honderdduizend,hundratusen,cem mil,centomila,مئة ألف (mi'ah alf),сто тысяч (sto tysyach),seratus ribu,centum milia,yüz bin
-million,百萬,paek muonh,百万 (baak3 maan6),百万 (ひゃくまん),Million,백만,million,millón,mil triệu,miljoen,miljon,milhão,milione,مليون (milyun),миллион (million),jutaan,unus millionem,yüz bin
-billion,十億,djip qyk,十亿 (sap6 jik1),十億 (じゅうおく),Milliarde,십억,milliard,mil millones,tỷ tỷ,miljard,miljard,mil milhões,miliardo,بليون (bilyun),миллиард (milliard),milyar,unus milliarde,yüz milyar
-1st,第一,dejh qit,第一 (dai6 jat1),第一 (だいいち),erste,첫째,premier,primero,thứ nhất,eerste,första,primeiro,primo,الأول (al-awwal),первый (pervyy),pertama,primus,ilk
-2nd,第二,dejh njih,第二 (dai6 ji6),第二 (だいに),zweite,둘째,deuxième,segundo,thứ hai,tweede,andra,segundo,secondo,الثاني (ath-thani),второй (vtoroy),kedua,secundus,ikinci
-3rd,第三,dejh samh,第三 (dai6 saam1),第三 (だいさん),dritte,셋째,troisième,tercero,thứ ba,derde,tredje,terceiro,terzo,الثالث (ath-thalith),третий (tretiy),ketiga,tertius,üçüncü
-4th,第四,dejh sih,第四 (dai6 sei3),第四 (だいよん),vierte,넷째,quatrième,cuarto,thứ tư,vierde,fjärde,quarto,quarto,الرابع (ar-rabe'),четвёртый (chetvyortyy),keempat,quartus,dördüncü
-5th,第五,dejh ngoq,第五 (dai6 ng5),第五 (だいご),fünfte,다섯째,cinquième,quinto,thứ năm,vijfde,femte,quinto,quinto,الخامس (al-khamis),пятый (pyatyy),kelima,quintus,beşinci
-🆙months,月份,nguot pyin,月份 (jyut6 fan6),月 (つき),Monate,월,mois,meses,tháng,maanden,månader,meses,mesi,شهور (shuhur),месяцы,bulan,meses,aylar
-January,一月,qit nguot,一月 (jat1 jyut6),1月 (いちがつ),Januar,1월,janvier,enero,Tháng 1,januari,januari,janeiro,gennaio,يناير (yanāyir),январь,januari,januari,ocak
-February,二月,njih nguot,二月 (ji6 jyut6),2月 (にがつ),Februar,2월,février,febrero,Tháng 2,februari,februari,fevereiro,febbraio,فبراير (fibraʼir),февраль,februari,februari,şubat
-March,三月,samh nguot,三月 (saam1 jyut6),3月 (さんがつ),März,3월,mars,marzo,Tháng 3,maart,mars,março,marzo,مارس (māris),март,mac,mart,nisan
-April,四月,sih nguot,四月 (sei3 jyut6),4月 (しがつ),April,4월,avril,abril,Tháng 4,april,april,abril,aprile,أبريل (abrīl),апрель,april,april,nisan
-May,五月,ngoq nguot,五月 (ng5 jyut6),5月 (ごがつ),Mai,5월,mai,mayo,Tháng 5,mei,maj,maio,maggio,مايو (māyū),май,mei,maj,mayıs
-June,六月,luk nguot,六月 (luk6 jyut6),6月 (ろくがつ),Juni,6월,juin,junio,Tháng 6,juni,juni,junho,giugno,يونيو (yunyū),июнь,jun,juni,haziran
-July,七月,tshit nguot,七月 (cat1 jyut6),7月 (しちがつ),Juli,7월,juillet,julio,Tháng 7,juli,juli,julho,luglio,يوليو (yūlyū),июль,julai,juli,temmuz
-August,八月,peet nguot,八月 (baat3 jyut6),8月 (はちがつ),August,8월,août,agosto,Tháng 8,augustus,augusti,agosto,agosto,أغسطس (ʼagustus),август,ogos,aukustos,ağustos
-September,九月,kuq nguot,九月 (gau2 jyut6),9月 (くがつ),September,9월,septembre,septiembre,Tháng 9,september,september,setembro,settembre,سبتمبر (sibtambir),сентябрь,september,septembrie,eylül
-October,十月,djip nguot,十月 (sap6 jyut6),10月 (じゅうがつ),Oktober,10월,octobre,octubre,Tháng 10,oktober,oktober,outubro,ottobre,أكتوبر (ʼuktūbir),октябрь,oktober,octombrie,ekim
-November,十一月,djip qit nguot,十一月 (sap6 jat1 jyut6),11月 (じゅういちがつ),November,11월,novembre,noviembre,Tháng 11,november,november,novembro,novembre,نوفمبر (nūfambir),ноябрь,november,noiembrie,kasım
-December,十二月,djip njih nguot,十二月 (sap6 ji6 jyut6),12月 (じゅうにがつ),Dezember,12월,décembre,diciembre,Tháng 12,december,december,dezembro,dicembre,ديسمبر (dīsimbir),декабрь,disember,decembrie,aralık
-🆙days of the week,星期,seng gy,星期 (sing1 kei4),曜日 (ようび),Wochentage,요일,jours de la semaine,días de la semana,ngày trong tuần,dagen van de week,veckodagar,dias da semana,giorni della settimana,أيام الأسبوع (ayam al-usbu'),дни недели,hari-hari dalam seminggu,dies hebdomadis,haftanın günleri
-Monday,星期一,seng gy qit,星期一 (sing1 kei4 jat1),月曜日 (げつようび),Montag,월요일,lundi,lunes,Thứ Hai,maandag,måndag,segunda-feira,lunedì,الاثنين (al-ithnayn),понедельник,isnin,lunae,lunes
-Tuesday,星期二,seng gy njih,星期二 (sing1 kei4 ji6),火曜日 (かようび),Dienstag,화요일,mardi,martes,Thứ Ba,dinsdag,tisdag,terça-feira,martedì,الثلاثاء (althalāthāʼ),вторник,selasa,martis,martes
-Wednesday,星期三,seng gy samh,星期三 (sing1 kei4 saam1),水曜日 (すいようび),Mittwoch,수요일,mercredi,miércoles,Thứ Tư,woensdag,onsdag,quarta-feira,mercoledì,الأربعاء (al-arbiʻāʼ),среда,rabu,mercurii,çarşamba
-Thursday,星期四,seng gy sih,星期四 (sing1 kei4 sei3),木曜日 (もくようび),Donnerstag,목요일,jeudi,jueves,Thứ Năm,donderdag,torsdag,quinta-feira,giovedì,الخميس (al-khamīs),четверг,khamis,iovis,perşembe
-Friday,星期五,seng gy ngoq,星期五 (sing1 kei4 ng5),金曜日 (きんようび),Freitag,금요일,vendredi,viernes,Thứ Sáu,vrijdag,fredag,sexta-feira,venerdì,الجمعة (al-jumʻah),пятница,jumaat,veneris,cuma
-Saturday,星期六,seng gy luk,星期六 (sing1 kei4 luk6),土曜日 (どようび),Samstag,토요일,samedi,sábado,Thứ Bảy,zaterdag,lördag,sábado,sabato,السبت (al-sabt),суббота,sabtu,sabbati,cumartesi
-Sunday,星期日,seng gy njit,星期日 (sing1 kei4 jat6),日曜日 (にちようび),Sonntag,일요일,dimanche,domingo,Chủ Nhật,zondag,söndag,domingo,domenica,الأحد (al-ʼahad),воскресенье,ahad,dies dominica,cumartesi
-🆙time,时间,djy keenh,時間 (si4 gaan3),時間 (じかん),Zeit,시간,temps,tiempo,thời gian,tijd,tid,tempo,tempo,الوقت (al-waqt),время,masa,tempus,zaman
-year,年,nen,年 (nin4),年 (ねん),Jahr,년,an,año,năm,jaar,år,ano,anno,سنة (sanah),год,tahun,annus,yıl
-month,月,nguot,月 (jyut6),月 (つき),Monat,달,mois,mes,tháng,maand,månad,mês,mese,شهر (shahr),месяц,bulan,mensis,ay
-week,周,tju,周 (zau1),週 (しゅう),Woche,주,semaine,semana,tuần,week,vecka,semana,settimana,أسبوع (usbūʿ),неделя,minggu,hebdomas,hafta
-day,天,then,日 (tin1),日 (にち),Tag,날,jour,día,ngày,dag,dag,dia,giorno,يوم (yawm),день,hari,dies,gün
-hour,小时,siewq djy,小時 (siu3 si4),時間 (じかん),Stunde,시간,heure,hora,giờ,uur,timme,hora,ora,ساعة (sa'ah),час,jam,jam,saat
-minute,分钟,pun tjuong,分鐘 (fan1 zung1),分 (ふん),Minute,분,minute,minuto,phút,minuut,minut,minuto,minuto,دقيقة (daqīqah),минута,saat,minuta,dakika
-second,秒,miewq,秒 (miu5),秒 (びょう),Sekunde,초,seconde,segundo,giây,seconde,sekund,segundo,secondo,ثانية (thāniyah),секунда,detik,secunda,saniye
-morning,早上,tsawq djyangq,早上 (zou2 soeng5),朝 (あさ),Morgen,아침,matin,mañana,sáng,morgen,morgon,manhã,mattina,صباح (ṣabāḥ),утро,pagi,mane,morning
-afternoon,下午,ghaeq ngoq,下午 (haa6 ng5),午後 (ごご),Nachmittag,오후,après-midi,tarde,chiều,middag,eftermiddag,tarde,pomeriggio,بعد الظهر (baʻdha dhuhr),день,petang,post meridiem,öğleden sonra
-evening,晚上,muonq djyangq,晚上 (maan5 soeng6),夜 (よる),Abend,저녁,soir,tarde,tối,avond,kväll,noite,sera,مساء (masāʼ),вечер,malam,vesper,vaka
-night,夜晚,jiaeh muonq,夜晚 (je6 maan5),夜 (よる),Nacht,밤,nuit,noche,đêm,nacht,natt,noite,notte,ليل (layl),ночь,malam,nox,gece
 🆙verbs,动词,doungq zy,動詞 (dung6 ci4),動詞 (どうし),Verben,동사,verbes,verbos,động từ,werkwoorden,verb,verbos,verbi,أفعال (af'al),глаголы,kata kerja,verba,fîiller
 work,工作,koung tsoh,工作 (gung1 zok3),働く (はたらく),arbeiten,일하다,travailler,trabajar,làm việc,werken,arbeta,trabalhar,lavorare,يعمل (yaʿmal),работать,bekerja,operari,çalışmak
 play,玩,ngwanh,玩 (waan2),遊ぶ (あそぶ),spielen,놀다,jouer,jugar,chơi,spelen,leka,jogar,gioire,يلعب (yalʿab),играть,bermain,ludere,oynamak
@@ -629,24 +675,3 @@ dark,黑暗,heok qomh,黑暗 (hak1 am3),暗い (くらい),dunkel,어두운,somb
 light (dark),明亮,myaeng lyangh,明亮 (ming4 loeng6),明るい (あかるい),hell,밝은,lumière,claro,sáng,licht,ljus,claro,chiaro,ضوء (daw'),светлый,terang,clarus,açık
 nuclear,核能,gheek neongq,核能 (hat1 nang4),原子力 (げんしりょく),nuklear,핵,nucléaire,nuclear,hạt nhân,kernenergie,kärnkraft,nuclear,nucleare,نووي (nawawi),ядерный,nuklir,nuclearis,nükleer
 famous,著名,tryoh miaeng,著名 (coek3 ming4),有名 (ゆうめい),berühmt,유명한,célèbre,famoso,nổi tiếng,bekend,berömd,famoso,famoso,مشهور (mashhur),известный,terkenal,celeber,ünlü
-🆙pronouns,代词,deojh zy,代詞 (doi6 ci4),代名詞 (だいめいし),Pronomen,대명사,pronoms,pronombres,đại từ,voornaamwoorden,pronomen,pronomes,pronomi,ضمائر (dama'ir),местоимения,kata ganti,zastanici,zaamirler
-I,我,ngaq,我 (ngo5),私 (わたし),ich,나,je,yo,tôi,ik,jag,eu,io,أنا (ana),я,aku,ego,ben
-you (singular),你,nryq,你 (nei5),あなた,du,너,tu,tú,bạn,jij,du,você,tu,أنت (anta),ты,kamu,tu,veter
-he,他,tha,佢 (keoi5),彼 (かれ),er,그,il,él,anh,hij,han,ele,lui,هو (huwa),он,dia,is,o
-she,她,tha,佢 (keoi5),彼女 (かのじょ),sie,그녀,elle,ella,cô,hij,zhon,ela,lei,هي (hiya),она,ia,ea,o
-it,它,tha,佢 (keoi5),それ (sore),es,그것,il,ello,nó,het,det,ele,esso,هو (huwa),оно,ia,illud,o
-we,我们,ngaq mon,我哋 (ngo5 dei6),私たち (わたしたち),wir,우리,nous,nosotros,chúng tôi,wij,vi,nós,noi,نحن (nahnu),мы,kita,nos,iz
-you (plural),你们,nryq mon,你哋 (nei5 dei6),あなたたち,ihr,너희,vous,vosotros,các bạn,jullie,ni,vocês,voi,أنتم (antum),вы,kalian,vos,i
-they,他们,tha mon,佢哋 (keoi5 dei6),彼ら (ひら),sie,그들,ils,ellos,họ,zij,de,elei,loro,هم (hum),они, mereka,ei,they
-this,这,tjiaeq,呢个 (ne1 go3),これ (kore),dieses,이,ceci,este,đây,dit,denna,este,questo,هذا (hatha),это,ini,hic,şu
-that,那,naq,嗰个 (go2 go3),それ (sore),das,그,cela,ese,đó,dat,det,aquele,quello,ذلك (dhalik),тот,itu,ille,o
-these,这些,tjiaeq siae,呢啲 (ne1 di1),これら (korera),diese,이들,ces,estos,những này,deze,dessa,estes,questi,هؤلاء (hula'),эти,ini,hi,şunlar
-those,那些,naq siae,嗰啲 (go2 di1),それら (sorera),diese,그들,ceux,aquellos,những kia,die,dessa,aqueles,quelli,تلك (tilka),те,itu,illi,şunlar
-🆙question words,疑问词,ngy munh zy,疑問詞 (ji4 man6 ci4),疑問詞 (ぎもんし),Fragepronomen,의문사,mots interrogatifs,pronombres interrogativos,từ để hỏi,vraagwoorden,frågeord,palavras interrogativas,parole interrogative,أدوات الاستفهام (adawat al-istifham),вопросительные слова,kata tanya,quaestione verba,soru kelimeleri
-who,谁,djwi,邊個 (bin1 go3),誰 (だれ),wer,누구,qui,quién,ai,wie,vem,quem,chi,من (man),кто,siapa,quis,kim
-what,什么,djip maq,乜嘢 (mat1 je5),何 (なに),was,무엇,quoi,qué,gì,wat,vad,o que,cosa,ما (ma),что,apa,quid,ne
-when,什么时候,djip maq djy ghouh,幾時 (gei2 si4),いつ (itsu),wann,언제,quand,cuándo,khi,wanneer,när,quando,quando,متى (mata),когда,kapan,quando,ne zaman
-where,哪里,naq lyq,邊度 (bin1 dou6),どこ (doko),wo,어디,où,dónde,ở đâu,waar,var,onde,dove,أين (ayn),где,dimanakah,ubi,nerede
-why,为什么,ueh djip ma,點解 (dim2 gaai2),なぜ (naze),warum,왜,pourquoi,por qué,tại sao,waarom,varför,por que,perché,لماذا (limadha),почему,mengapa,cur,niçin
-how,怎么,tsoimq maq,點解 (dim2 gaai2),どのように (dono yo ni),wie,어떻게,comment,cómo,làm sao,hoe,hur,como,come,كيف (kayfa),как,bagaimana,quomodo,nasıl
-which,哪个,naq kah,邊個 (bin1 go3),どちら (dochira),welche,어느,lequel,cuál,nào,welke,vilken,qual,quale,أي (ay),который,mana,qui,hangi
