@@ -187,7 +187,7 @@ Unlike English, adverbs are NOT universally grouped at the end. So pay attention
 - «Спаси́бо» is the word. A fancier option would be «Благодарю́!» (a form of the verb «благодари́ть», "to thank"), though quite a number of people use it, if only for variety.
 - туале́т : toilet
 
-List ø Word
+## List ø Word
 
 序：Аа Бб Вв Гг Дд Ее Ёё Жж Зз Ии Йй Кк Лл Мм Нн Оо Пп Рр Сс Тт Уу Фф Хх Цц Чч Шш Щщ Ъъ Ыы Ьь Ээ Юю Яя
 
@@ -210,6 +210,34 @@ List ø Word
 у          |at,by,near;属（用于拥有）||+Gen.|*h₂ew (la.aut; el.αὐτός(en.auto-))
 хлеб       |面包         |xlʲep   |m inan (genitive хле́ба, nominative plural хле́бы, genitive plural хле́бов)|PGmc.*hlaibaz (en.loaf, de.Laib)
 я́блоко     |苹果         |ˈjabləkə|n inan (genitive я́блока, nominative plural я́блоки, genitive plural я́блок)|*h₂ébōl (en.apple)
+Владивосто́к |海参崴     |[vɫədʲɪvɐˈstok]|m inan|владе́ть (vladétʹ, “to possess, to be master of”, 同源于 Latin valeō, English wield, German walten) + -и- (-i-) + восто́к (vostók, “the East”)
+Уссури́йск   |双城子     |||(来自乌苏里)
+Хаба́ровск   |伯力       |[xɐˈbarəfsk]||俄文名来自人名
+Благовещенск|海兰泡     |||俄文1858年根据当年建立的圣母玛利亚报喜教堂（Благовещения Пресвятой Богородицы）命名。 бла́го (喜) + весть (讯)
+Сахали́н     |库页岛（樺太島／からふととう）|||俄语名称“萨哈林”来自于满语“ᠰᠠᡥᠠᠯᡳᠶᠠᠨ ᡠᠯᠠ ᠠᠩᡤᠠ ᡥᠠᡩᠠ”（sahaliyan ula angga hada）意为黑江嘴顶；“萨哈林”（Сахалин）音译自该岛满语名的第一个词“ᠰᠠᡥᠠᠯᡳᠶᠠᠨ”（sahaliyan），该词是“黑”的意思。
+Не́рчинск    |尼布楚     |||
+Никола́евск-на-Аму́ре|庙街|||以沙皇尼古拉一世之名
+Становой хребет|外兴安岭|||“斯塔诺夫”意为“主要的”
+
+[公开地图内容表示规范 - 维基](https://zh.wikisource.org/wiki/%E5%85%AC%E5%BC%80%E5%9C%B0%E5%9B%BE%E5%86%85%E5%AE%B9%E8%A1%A8%E7%A4%BA%E8%A7%84%E8%8C%83)
+
+十四、以下地名应当加括注表示，汉语拼音版地图和外文版地图除外：
+
+（一）“符拉迪沃斯托克”括注“海参崴”；
+
+（二）“乌苏里斯克”括注“双城子”；
+
+（三）“哈巴罗夫斯克”括注“伯力”；
+
+（四）“布拉戈维申斯克”括注“海兰泡”；
+
+（五）“萨哈林岛”括注“库页岛”；
+
+（六）“涅尔琴斯克”括注“尼布楚”；
+
+（七）“尼古拉耶夫斯克”括注“庙街”；
+
+（八）“斯塔诺夫山脉”括注“外兴安岭”。
 
 # 语料学习
 
