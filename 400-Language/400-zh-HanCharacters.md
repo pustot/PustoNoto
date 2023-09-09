@@ -65,6 +65,8 @@ OpenCC、rime 里面有 朵-朶 这一对异体字，那么菏渮也都应该有
 
 - https://github.com/BYVoid/OpenCC/blob/master/data/scheme/variant.txt
 
+帕、帊应该也是一对异体字？推导器现在没联想
+
 ## related
 
 郫	縣名在蜀又音皮
