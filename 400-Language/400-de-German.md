@@ -28,3 +28,11 @@ Indogermanisch - Germanisch - Westgermanisch - Hochdeutsch - Standardhochdeutsch
 > 据我的经验之谈，只要能把这本单词学完直接就能考过B1！！！抱着啃就完事儿~
 > 
 > https://www.zhihu.com/question/20074082/answer/2662107229
+
+# 语料学习
+
+## 文学、名言
+
+- > Ich wollte ja nichts als das zu leben versuchen, was von selber aus mir heraus wollte. Warum war das so sehr schwer? 
+    - Quelle: Demian , Hermann Hesse.
+    - 这里的 heraus 好像是 herauskommen 之省

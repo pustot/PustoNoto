@@ -12,6 +12,9 @@ https://www.law.go.kr/LSW/lsLinkProc.do?lsNm=%EC%98%81%ED%99%94+%EB%B0%8F+%EB%B9
 
 - [韓国語・ハングルの勉強なら｜初級までの朝鮮語・初級から先の朝鮮語｜文法の特効薬TOP (penguin99.com)](https://www.penguin99.com/04_grammar/grammar.html)
     - 推荐自王赟大佬[这个回答 -- 韩语动词加ㅁ和기有什么区别?](https://www.zhihu.com/question/38607989/answer/100026462)
+    - [語尾一覧](https://www.penguin99.com/04_grammar/gobi/gobi.html)
+- [韓国語の語尾一覧146種類｜意味と使い方・活用ルール付き - korea-is-fun.com/](https://korea-is-fun.com/grammar-sonota/)
+- [単語・文法  |  ハナ韓まとめ](https://hanakan-korean.com/word-grammar/)
 
 # 键盘
 
@@ -23,6 +26,138 @@ https://www.law.go.kr/LSW/lsLinkProc.do?lsNm=%EC%98%81%ED%99%94+%EB%B0%8F+%EB%B9
 辅音部分 pu qi te ke , si; m n ng; r h; kh, th, chh, pu 
 
 元音部分 o eo a, ae e; yo yeo ya i; yu u eu
+
+# 语料学习
+
+## if you
+
+她要走了
+그녀(女)가 떠나가요
+
+我无能为力
+나는 아무것도 할 수(手) 없어요
+
+爱正在离开
+사랑이 떠나가요
+
+我像个傻子一样呆呆地站在那里
+나는 바보처럼 멍하니 서있네요
+
+我只望着远方的背影
+멀어지는 그 뒷모습만을 바라보다
+
+它变成一个小点并消失
+작은 점(点)이 되어 사라진다
+
+时间久了会不会又变得暗淡无光呢？
+시간(时间)이 지나면 또 무뎌질까
+
+我想起了过去，我想起了你
+옛 생각(生觉)이 나 니 생각이 나
+
+（副歌首）如果你，如果你
+If you, if you
+
+如果还不算太晚的话
+아직 너무 늦지 않았다면
+
+我们可以回去吗
+우리 다시 돌아갈 수는 없을까
+
+如果你，如果你
+If you, if you
+
+如果你像我一样遇到困难
+너도 나와 같이 힘들다면
+
+我们不能走得轻松一点吗
+우리 조금 쉽게 갈 수는 없을까
+
+（副歌末）当我在那里的时候我应该做得更好
+있을 때 잘할 걸 그랬어
+
+你好吗
+그대는 어떤가요
+
+你真的没事吗？
+정(正)말 아무렇지 않은 건가요
+
+再见
+이별(离别)이 지나봐요
+
+我必须忘记你，但这并不容易
+그댈 잊어야 하지만 쉽지가 않네요
+
+我只望着远方的背影
+멀어지는 그 뒷모습만을 바라보다
+
+它变成一个小点并消失
+작은 점(点)이 되어 사라진다
+
+如果我遇到某人，我会得到安慰吗？
+누군갈 만나면 위로(慰劳)가 될까
+
+我想起了过去的日子 是的 我想起了你 是的
+옛 생각이 나 yeah 니 생각이 나 yeah
+
+If you, if you ~~~ （副歌再唱）
+
+像今天这样下着小雨的日子
+오늘같이 가녀린 비가 내리는 날이면
+
+你的影子升起
+너의 그림자가 떠오르고
+
+我们偷偷放在抽屉里的回忆
+서랍 속에 몰래 넣어둔 우리의 추억을
+
+再次拿出来独自回忆
+다시 꺼내 홀로 회상하고
+分离是悲伤的重量
+헤어짐이란 슬픔의 무게를
+
+为什么我不知道
+난 왜 몰랐을까
+
+If you, if you ~~~ （副歌再唱）
+
+word|meaning|note
+-|-|-
+그女(그녀)|她，女朋友|이	그	저	어느
+떠나가다  |离开 |뜨다(打开)+나다(出生,发生, ...起来, 具有...)+가다(去, go)
+아무것    |anything |아무(any) + 것(thing)
+~ㄹ/을 手(수) 있다/없다 |can / cannot |
+사랑      |爱   |sometimes 思郎, probably from 思量（사량）
+바보      |笨蛋 |-보 是贬义动作者后缀（derogatory agentive suffix），似 -ard -쟁이
+-처럼     |像，如...  |来自 톄(體) + 로
+멍하다    |发呆, 茫然 |멍하니 是其副词, 亦即形容词的 sequential form;
+서다      |站   |서다 to stand; 서있다 be standing; 네요 〜ですね;
+멀어지다  |to recede, to die away |冠形词 멀어지는; (from 멀다 to be far + 어/아지다)
+뒷모습    |背影 |from 뒤 (“back”) +‎ ㅅ (compound interfix) +‎ 모습 (“figure, form”).
+-만       |only |
+바라보다  |to observe, to stare |
+작다      |小 |→ 작은
+되다      |to become  |infinitive 돼 or 되어
+사라지다  |to vanish  |formal non-polite 사라진다
+지나다    |to pass (by, beyond, through; also of time)  |condition formal 지나면
+또        |adj. also, again |
+무뎌지다   |to become blunt 钝  |from 무디어지다, from 무디다 (to be blunt) + 지다 (to become)((auxiliary, after the 어/아 infinitive) forms intransitive or passive verbs from processive verbs)
+-을까/-ㄹ까 |较怀疑较不确定的疑问   |In the intimate speech level, or with 요 (-yo) in the polite speech level, an interrogative suffix. Has a nuance of greater doubt or uncertainty. 表较怀疑较不确定的疑问
+옛        |冠形词 old |
+生觉(생각)  |n. idea, thought |
+生觉(생각)이 나다 |to recall, remember  |나다 to break out, come out , turn out, infinitive 나 （想法浮现？）
+니        |네(你的) 的口语形式  |
+아직      |仍然 |
+너무      |(负面)太、(正面)很   とても、あまりに（も）、～しすぎる|
+늦다      |晚、迟 |
+-지 않다  |否定, formal non-polite 않았다
+-다면     |如果（较不可能） | the subjunctive clauses using the connective endings such as "-는다면", "-다면", and "-라면" can have less likelihood/probability in degree, as compared with using the connective ending "-(으)면".
+다시      |again  |
+돌아가다  |to return, to go back  |
+같이      |together   |
+힘들다    |to be difficult, tired |
+
+# 以下는课本零散知识
 
 # Sogang
 
