@@ -12,38 +12,91 @@ CLC: H178
 - [Sheik](http://www.cantonese.sheik.co.uk/)
   - 喺粵語同埋國語嘅使用sai2jung6情況cing4fong3
 
-顺德话属于粤海片-南番顺方言
+# 個人小想法、經驗同計劃
 
-香港原住民使用莞宝片的围头话，莞宝片即东莞宝安嘛，传统有划分到粤海片里面的，但跟广州话又有很大不同，所以有单独分片的
+- 興趣：
+    - 粵語歌（尤其係好多經典老歌）
+    - 網上嘅好多方言視頻（粵語真係多啲）
+- 發音
+- 時時查「漢字古今中外讀音查詢」呢個APP
+- 識啲規律之後多主動猜
+    - 我寫咗隨機漢字同埋自選漢字嘅打字練習嘅簡單程式 https://github.com/twaqngu/pusto-kit/blob/master/PanhistoDictHan/trainer.py
+- 正式用粵拼打字
+    - 電腦我用 RIME 嘅 rime-cantonese。支持普通話反查，防止新手好容易卡住、絕望
+    - 手機我比較緊呢兩種
+        - 繼續用 RIME 也可，有時睇嚟彆扭
+        - GBoard 嘅粵拼輸入法。穩定啲，同時默認支持嘅模糊音多啲，按住單詞仲會顯示正確讀音，但係冇聲調
 
-# My minds on why it is almost the easiest Chinese variant for Mandarin speakers to learn
+## My minds on why it is almost the easiest Chinese variant for Mandarin speakers to learn
 
 - 很少 文白异读
 - 没有 连读变调（只有实际使用中的少数变调）
 - 资源众多
-- 根据徐通锵2004的划分，粤语直到最后一步才跟官话划分开：它们的浊音清化都是平送仄不送（可能是巧合，但导致很像）
-    - (粤语全浊上白读 阳上送气，文读同官)
-    - （好像只有广府片等部分片区是这个规律
+- 同普通話嘅相似性
+    - （我多對比研究啲先嚟總結）
+    - 根据徐通锵2004的划分，粤语直到最后一步才跟官话划分开：它们的浊音清化都是平送仄不送（可能是巧合，但导致很像）
+        - (粤语全浊上白读 阳上送气，文读同官)
+        - （好像只有广府片等部分片区是这个规律
 
 ![XuTongqiang2004-PicSource-Zhihu](./pic/ZHClassifiXuTongqiang2004.jpg)
 
-# Some difficult features for me
+## Some difficult features for me
 
-## 聲調，尤其是音高之分
+### 聲調，尤其是音高之分
 
-## 元音尤其 [ɐ]、 [ɵ]
+### 元音尤其 [ɐ]、 [ɵ]
 
-### [ɐ] 粵拼 a 
+#### [ɐ] 粵拼 a 
 
 就是比 /a/ 高，比 /ə/ 低。就是張嘴比 /a/ 小點。
 
 其實好像英語用的音標的 ʌ 在很多口音裏都是國際音標的 [ɐ]，例如 [ɐ - Wikipedia](https://en.wikipedia.org/wiki/Near-open_central_vowel) 裏面說 Received Pronunciation 的 nut 的 u 就是 [ɐ]
 
-### [ɵ] 粵拼 eo
+#### [ɵ] 粵拼 eo
 
 就是比 /ə/ 更高，跟 e • ø 一樣高，圓脣。
 
 有可能 eo 跟 oe 也有聽起來像的地方，如 https://jyutping.org/docs/cantonese/#22-%E9%9F%BB%E8%85%B9-eooe
+
+# 粵語嘅變體
+
+（本筆記針對廣州、香港嘅粵語，又叫廣州話，俗稱廣東話。此處談及埋其他變體）
+
+顺德话属于粤海片-南番顺方言
+
+香港原住民使用莞宝片的围头话，莞宝片即东莞宝安嘛，传统有划分到粤海片里面的，但跟广州话又有很大不同，所以有单独分片的
+
+# 語音
+
+## 拼音同輸入法
+
+我最鍾意係粵拼（JyutPing），即係「香港语言学学会粤语拼音方案」。佢接近IPA啲，又簡潔啲、系統啲。
+
+輸入法：
+
+- PC
+    - RIME 平台嘅「粵語拼音」，下載編碼 `cantonese`
+        - 支持普通話反查！顯示（hin2si6）聲調！並默認（mak6jing6）支持eo-oe互轉
+- 手機
+    - 仲使用 RIME
+    - GBoard
+
+# 廣州話同普通話嘅比較學習
+
+- 港中大嘅粵語拼音速遞
+    - 即係對普通話嘅每種聲韻調，列出廣州話對映嘅可能，同埋每種可能嘅數量（較多、較少、甚少）（應該係統計嘅結果）
+    - 普粵聲母對比 https://www.ilc.cuhk.edu.hk/workshop/Chinese/Cantonese/Romanization/ch2_initials/3_compare.aspx
+    - 普粵韻母對比 https://www.ilc.cuhk.edu.hk/workshop/Chinese/Cantonese/Romanization/ch3_finals/3_compare.aspx
+    - 普粵聲調對比 https://www.ilc.cuhk.edu.hk/workshop/Chinese/Cantonese/Romanization/ch4_tones/3_compare.aspx
+
+## 普轉粵，我認為嘅難點
+
+- 好多字嘅入聲、m尾、尖團仲記唔得
+- 普擦音對粵塞擦音嘅（普 s x 對粵 c z 嘅，h 對 k 等等）
+- 清濁唔同於普通話嘅（ptkc）
+- 雜集
+    - 雜集 zaap6 zaap6
+    - 繼續 gai3 zuk6
 
 # 语料学习
 
