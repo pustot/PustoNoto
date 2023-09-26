@@ -81,6 +81,10 @@ CLC: H178
     - 仲使用 RIME
     - GBoard
 
+rime捉蟲：
+
+- 率 leot2
+
 # 廣州話同普通話嘅比較學習
 
 - 港中大嘅粵語拼音速遞
@@ -97,6 +101,11 @@ CLC: H178
 - 雜集
     - 雜集 zaap6 zaap6
     - 繼續 gai3 zuk6
+    - 協 hip3
+    - 設 cit3
+    - 君 gwan1
+    - 到底 dai2
+    - 繼承 gai3 sing4
 
 # 语料学习
 
