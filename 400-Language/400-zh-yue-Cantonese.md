@@ -96,8 +96,11 @@ rime捉蟲：
 ## 普轉粵，我認為嘅難點
 
 - 好多字嘅入聲、m尾、尖團仲記唔得
+- 入聲唔知聲調高低
 - 普擦音對粵塞擦音嘅（普 s x 對粵 c z 嘅，h 對 k 等等）
 - 清濁唔同於普通話嘅（ptkc）
+    - 概念 koi3 nim6
+- xo vs xou, xe vs. xei
 - 雜集
     - 雜集 zaap6 zaap6
     - 繼續 gai3 zuk6
@@ -106,6 +109,8 @@ rime捉蟲：
     - 君 gwan1
     - 到底 dai2
     - 繼承 gai3 sing4
+    - 初始 co1 ci2
+    - 匹配 pat1 pui3
 
 # 语料学习
 
