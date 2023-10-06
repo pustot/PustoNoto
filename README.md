@@ -8,8 +8,9 @@ Taking notes of knowledge, especially those learned and utilized only occasional
 # Kolekto
 
 - kejk 计科目录 [Enhavo-Informadiko](./000-Enhavo-Informadiko.md)
-- ngyo 语言及语言学 [LeguMin-Lingvo](./400-Lingvo/README.md)
+- ngyo 语言及语言学 [400-Lingvo-LeguMin](./400-Lingvo/README.md)
     - 诸语基础 [BazojDeLingvoj](./400-Lingvo/407.1-BazojDeLingvoj.md)
+    - 主学语言的词表 [407.1-KernVortoj/KernVortojKernLing](./400-Lingvo/407.1-KernVortoj/KernVortojKernLing.csv)
 - dihl 地理 [Geografio](./910-Geografio.md)
     - 旅行 [Vojagxado](./910-Vojaĝado.md)
 
