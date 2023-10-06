@@ -2,701 +2,701 @@
 English,普通话,粵語(jyut6 jyu5),日本語(にほんご),Deutsch,한국어,Esperanto,français,español,Tiếng Việt(㗂越)
 类 1 DKTZ,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 1 DKTZ - khoung keen,cmn,yue,ja,de,ko,eo,fr,es,vi
-dot,点,点 (dim2),,,,,,,
-long,长,长 (coeng4),,,,,,,
-short,短,短 (dyun2),,,,,,,
-tall,高,高 (gou1),,,,,,,
-short (vs tall),矮,矮 (aai2),,,,,,,
-wide,宽,宽 (fun1),,,,,,,
-narrow,窄,窄 (zaak6),,,,,,,
-big/large,大,大 (daai6),,,,,,,
-small/little,小,小 (siu2),,,,,,,
-thick,厚,厚 (hau5),,,,,,,
-thin,薄,薄 (bok6),,,,,,,
-high,高,高 (gou1),,,,,,,
-low,低,低 (dai1),,,,,,,
-deep,深,深 (sam1),,,,,,,
-shallow,浅,浅 (sin2),,,,,,,
-flat,平,平 (ping4),,,,,,,
-curved,曲,曲 (kuk1),,,,,,,
-小类directions,方向,方向 (fong1 coeng4),,,,,,,
-top,顶部,顶部 (ding2 bou6),,,,,,,
-bottom,底部,底部 (dai2 bou6),,,,,,,
-side,侧面,侧面 (zaak3 min6),,,,,,,
-front,前面,前面 (cin4 min6),,,,,,,
-back,后面,后面 (hau6 min6),,,,,,,
-outside,外面,外面 (ngoi6 min6),,,,,,,
-inside,里面,里面 (lei5 min6),,,,,,,
-up,向上,向上 (hoeng3 soeng5),,,,,,,
-down,下,下 (haa6),,,,,,,
-left,左,左 (zo2),,,,,,,
-right,右,右 (jau6),,,,,,,
-straight,直,直 (zik6),,,,,,,
-north,北,北 (bak1),,,,,,,
-south,南,南 (naam4),,,,,,,
-east,东,东 (dung1),,,,,,,
-west,西,西 (sai1),,,,,,,
+dot,点,点 (dim2),点 (てん),Punkt,점,,point,punto,chấm
+long,长,长 (coeng4),長い (ながい),lang,긴,,long,largo,dài
+short,短,短 (dyun2),短い (みじかい),kurz,짧은,,court,corto,ngắn
+tall,高,高 (gou1),高い (たかい),groß,키가 큰,,grand,alto,cao
+short (vs tall),矮,矮 (aai2),低い (ひくい),klein,키가 작은,,petit,bajo,thấp
+wide,宽,宽 (fun1),広い (ひろい),breit,넓은,,large,ancho,rộng
+narrow,窄,窄 (zaak6),狭い (せまい),eng,좁은,,étroit,estreito,hẹp
+big/large,大,大 (daai6),大きい (おおきい),groß,큰,,grande,grande,lớn
+small/little,小,小 (siu2),小さい (ちいさい),klein,작은,,petit,pequeño,nhỏ
+thick,厚,厚 (hau5),厚い (あつい),dick,두꺼운,,épais,grueso,dày
+thin,薄,薄 (bok6),薄い (うすい),dünn,얇은,,mince,delgado,mỏng
+high,高,高 (gou1),高い (たかい),hoch,높은,,haut,alto,cao
+low,低,低 (dai1),低い (ひくい),niedrig,낮은,,bas,bajo,thấp
+deep,深,深 (sam1),深い (ふかい),tief,깊은,,profond,profundo,sâu
+shallow,浅,浅 (sin2),浅い (あさい),flach,얕은,,peu profond,superficial,nông
+flat,平,平 (ping4),平ら (たいら),flach,평평한,,plat,plano,bằng phẳng
+curved,曲,曲 (kuk1),曲がった (まがった),gebogen,곡선,,curvé,curvado,cung
+小类directions,方向,方向 (fong1 coeng4),方向 (ほうこう),Richtungen,방향,,directions,direcciones,hướng
+top,顶部,顶部 (ding2 bou6),上部 (うわべ),oben,위,,top,arriba,trên
+bottom,底部,底部 (dai2 bou6),底部 (そこぶ),unten,밑,,bas,bajo,dưới
+side,侧面,侧面 (zaak3 min6),側面 (そくめん),Seite,옆쪽,,côté,lado,bên
+front,前面,前面 (cin4 min6),前面 (まえめん),Vorderseite,앞,,avant,frontal,trước
+back,后面,后面 (hau6 min6),後面 (うしろめん),Rückseite,뒤,,arrière,trasero,phía sau
+outside,外面,外面 (ngoi6 min6),外側 (そとがわ),außen,밖,,extérieur,exterior,ngoài
+inside,里面,里面 (lei5 min6),内側 (うちがわ),innen,안,,intérieur,interior,bên trong
+up,向上,向上 (hoeng3 soeng5),上へ (うえへ),hoch,위로,,haut,arriba,lên
+down,下,下 (haa6),下 (した),unten,아래,,vers le bas,abajo,xuống
+left,左,左 (zo2),左 (ひだり),links,왼쪽,,gauche,izquierda,trái
+right,右,右 (jau6),右 (みぎ),rechts,오른쪽,,droit,derecha,phải
+straight,直,直 (zik6),まっすぐ (massugu),gerade,곧장,,droit,derecho,thẳng
+north,北,北 (bak1),北 (きた),Norden,북,,nord,norte,bắc
+south,南,南 (naam4),南 (みなみ),Süden,남,,sud,sur,nam
+east,东,东 (dung1),東 (ひがし),Osten,동,,est,este,đông
+west,西,西 (sai1),西 (にし),Westen,서,,ouest,oeste,tây
 类 1 DKTZ - djy keen,cmn,yue,ja,de,ko,eo,fr,es,vi
-slow,慢,慢 (maan6),,,,,,,
-fast,快,快 (faai3),,,,,,,
-new,新,新 (san1),,,,,,,
-old (new),旧,旧 (gau6),,,,,,,
-young,年轻,年轻 (nin4 coeng1),,,,,,,
-old (young),老,老 (lou5),,,,,,,
+slow,慢,慢 (maan6),遅い (おそい),langsam,느린,,lent,lento,chậm
+fast,快,快 (faai3),速い (はやい),schnell,빠른,,rapide,rápido,nhanh
+new,新,新 (san1),新しい (あたらしい),neu,새로운,,nouveau,nuevo,mới
+old (new),旧,旧 (gau6),新しい (あたらしい),alt,새로운,,vieux,nuevo,mới
+young,年轻,年轻 (nin4 coeng1),若い (わかい),jung,젊은,,jeune,joven,trẻ
+old (young),老,老 (lou5),年をとる (としをとる),alt,늙은,,vieux,viejo,già
 类 1 DKTZ - sruoh lyangh,cmn,yue,ja,de,ko,eo,fr,es,vi
-strong,强,强 (goeng6),,,,,,,
-weak,弱,弱 (joek6),,,,,,,
-count,数,数 (sou3),,,,,,,
-小类math/measurements,数学/测量,数学/测量 (sou3 hok6 / cak1 loeng6),,,,,,,
-meter,米,米 (mai5),,,,,,,
-centimeter,厘米,厘米 (lei4 mai5),,,,,,,
-kilogram,公斤,公斤 (gung1 gan1),,,,,,,
-inch,英寸,英寸 (jing1 cyun2),,,,,,,
-foot,英尺,英尺 (jing1 cek3),,,,,,,
-pound,磅,磅 (bong6),,,,,,,
-half,半,半 (bun3),,,,,,,
-circle,圆,圆 (jyun4),,,,,,,
-square,平方,平方 (ping4 fong1),,,,,,,
-temperature,温度,温度 (wan1 dou6),,,,,,,
-date,日期,日期 (jat6 kei4),,,,,,,
-weight,重量,重量 (zung6 loeng6),,,,,,,
-edge,边缘,边缘 (bin1 jin1),,,,,,,
-corner,角落,角落 (gok3 lok6),,,,,,,
-小类numbers,数字,数字 (soe4 zi6),,,,,,,
-0,零,零 (ling4),,,,,,,
-1,一,一 (jat1),,,,,,,
-2,二,二 (ji6),,,,,,,
-3,三,三 (saam1),,,,,,,
-4,四,四 (sei3),,,,,,,
-5,五,五 (ng5),,,,,,,
-6,六,六 (luk6),,,,,,,
-7,七,七 (cat1),,,,,,,
-8,八,八 (baat3),,,,,,,
-9,九,九 (gau2),,,,,,,
-10,十,十 (sap6),,,,,,,
-11,十一,十一 (sap6 jat1),,,,,,,
-12,十二,十二 (sap6 ji6),,,,,,,
-13,十三,十三 (sap6 saam1),,,,,,,
-14,十四,十四 (sap6 sei3),,,,,,,
-15,十五,十五 (sap6 ng5),,,,,,,
-16,十六,十六 (sap6 luk6),,,,,,,
-17,十七,十七 (sap6 cat1),,,,,,,
-18,十八,十八 (sap6 baat3),,,,,,,
-19,十九,十九 (sap6 gau2),,,,,,,
-20,二十,二十 (ji6 sap6),,,,,,,
-21,二十一,二十一 (ji6 sap6 jat1),,,,,,,
-22,二十二,二十二 (ji6 sap6 ji6),,,,,,,
-30,三十,三十 (saam1 sap6),,,,,,,
-31,三十一,三十一 (saam1 sap6 jat1),,,,,,,
-32,三十二,三十二 (saam1 sap6 ji6),,,,,,,
-40,四十,四十 (sei3 sap6),,,,,,,
-41,四十一,四十一 (sei3 sap6 jat1),,,,,,,
-42,四十二,四十二 (sei3 sap6 ji6),,,,,,,
-50,五十,五十 (ng5 sap6),,,,,,,
-51,五十一,五十一 (ng5 sap6 jat1),,,,,,,
-52,五十二,五十二 (ng5 sap6 ji6),,,,,,,
-60,六十,六十 (luk6 sap6),,,,,,,
-61,六十一,六十一 (luk6 sap6 jat1),,,,,,,
-62,六十二,六十二 (luk6 sap6 ji6),,,,,,,
-70,七十,七十 (cat1 sap6),,,,,,,
-71,七十一,七十一 (cat1 sap6 jat1),,,,,,,
-72,七十二,七十二 (cat1 sap6 ji6),,,,,,,
-80,八十,八十 (baat3 sap6),,,,,,,
-81,八十一,八十一 (baat3 sap6 jat1),,,,,,,
-82,八十二,八十二 (baat3 sap6 ji6),,,,,,,
-90,九十,九十 (gau2 sap6),,,,,,,
-91,九十一,九十一 (gau2 sap6 jat1),,,,,,,
-92,九十二,九十二 (gau2 sap6 ji6),,,,,,,
-100,一百,一百 (jat1 baak3),,,,,,,
-101,一百零一,一百零一 (jat1 baak3 ling4 jat1),,,,,,,
-102,一百零二,一百零二 (jat1 baak3 ling4 ji6),,,,,,,
-110,一百一十,一百一十 (jat1 baak3 jat1 sap6),,,,,,,
-111,一百一十一,一百一十一 (jat1 baak3 jat1 sap6 jat1),,,,,,,
-1000,一千,一千 (jat1 cin1),,,,,,,
-1001,一千零一,一千零一 (jat1 cin1 ling4 jat1),,,,,,,
-10000,一萬,一万 (jat1 maan6),,,,,,,
-100000,十萬,十万 (sap6 maan6),,,,,,,
-million,百萬,百万 (baak3 maan6),,,,,,,
-billion,十億,十亿 (sap6 jik6),,,,,,,
-1st,第一,第一 (dai6 jat1),,,,,,,
-2nd,第二,第二 (dai6 ji6),,,,,,,
-3rd,第三,第三 (dai6 saam1),,,,,,,
-4th,第四,第四 (dai6 sei3),,,,,,,
-5th,第五,第五 (dai6 ng5),,,,,,,
+strong,强,强 (goeng6),強い (つよい),stark,강한,,fort,fuerte,mạnh
+weak,弱,弱 (joek6),弱い (よわい),schwach,약한,,faible,débil,yếu
+count,数,数 (sou3),数える (かぞえる),zählen,세다,,compter,contar,đếm
+小类math/measurements,数学/测量,数学/测量 (sou3 hok6 / cak1 loeng6),数学/計測 (すうがく/けいそく),Mathematik/ Messung,수학/측정,,math/mesure,matemáticas,toán học/đo lường
+meter,米,米 (mai5),メートル (めーとる),Meter,미터,,mètre,metro,mét
+centimeter,厘米,厘米 (lei4 mai5),センチメートル (せんちめーとる),Zentimeter,센티미터,,centimètre,centímetro,centimet
+kilogram,公斤,公斤 (gung1 gan1),キログラム (きろぐらむ),Kilogramm,킬로그램,,kilogramme,kilogramo,kilôgam
+inch,英寸,英寸 (jing1 cyun2),インチ (いんち),Zoll,인치,,pouce,pulgada,inches
+foot,英尺,英尺 (jing1 cek3),フィート (ふぃーと),Fuß,피트,,pied,pie,foot
+pound,磅,磅 (bong6),ポンド (ぽんど),Pfund,파운드,,livre,libra,pound
+half,半,半 (bun3),半 (はん),halb,반,,moitié,medio,nửa
+circle,圆,圆 (jyun4),円 (えん),Kreis,원,,cercle,círculo,hình tròn
+square,平方,平方 (ping4 fong1),平方 (へいほう),Quadrat,제곱,,carré,cuadrado,hình vuông
+temperature,温度,温度 (wan1 dou6),温度 (おんど),Temperatur,온도,,température,temperatura,nhiệt độ
+date,日期,日期 (jat6 kei4),日付 (ひづけ),Datum,날짜,,date,fecha,ngày
+weight,重量,重量 (zung6 loeng6),重さ (おもさ),Gewicht,무게,,poids,peso,trọng lượng
+edge,边缘,边缘 (bin1 jin1),端 (はし),Kante,가장자리,,bordes,borde,cạnh
+corner,角落,角落 (gok3 lok6),角 (かど),Ecke,구석,,coin,esquina,góc
+小类numbers,数字,数字 (soe4 zi6),数字 (すうじ),Zahlen,숫자,,nombres,números,số
+0,零,零 (ling4),零 (れい),null,영,,zéro,cero,không
+1,一,一 (jat1),一 (いち),eins,일,,un,uno,một
+2,二,二 (ji6),二 (に),zwei,이,,deux,dos,hai
+3,三,三 (saam1),三 (さん),drei,삼,,trois,tres,ba
+4,四,四 (sei3),四 (し),vier,사,,quatre,cuatro,bốn
+5,五,五 (ng5),五 (ご),fünf,오,,cinq,cinco,năm
+6,六,六 (luk6),六 (ろく),sechs,육,,six,seis,sáu
+7,七,七 (cat1),七 (なな),sieben,칠,,sept,siete,bảy
+8,八,八 (baat3),八 (はち),acht,팔,,huit,ocho,tám
+9,九,九 (gau2),九 (きゅう),neun,구,,neuf,nueve,chín
+10,十,十 (sap6),十 (じゅう),zehn,십,,dix,diez,mười
+11,十一,十一 (sap6 jat1),十一 (じゅういち),elf,십일,,onze,once,mười một
+12,十二,十二 (sap6 ji6),十二 (じゅうに),zwölf,십이,,douze,doce,mười hai
+13,十三,十三 (sap6 saam1),十三 (じゅうさん),dreizehn,십삼,,treize,trece,mười ba
+14,十四,十四 (sap6 sei3),十四 (じゅうし),vierzehn,십사,,quatorze,catorce,mười bốn
+15,十五,十五 (sap6 ng5),十五 (じゅうご),fünfzehn,십오,,quinze,quince,mười lăm
+16,十六,十六 (sap6 luk6),十六 (じゅうろく),sechzehn,십육,,seize,dieciséis,mười sáu
+17,十七,十七 (sap6 cat1),十七 (じゅうしち),siebzehn,십칠,,dix-sept,diecisiete,mười bảy
+18,十八,十八 (sap6 baat3),十八 (じゅうはち),achtzehn,십팔,,dix-huit,dieciocho,mười tám
+19,十九,十九 (sap6 gau2),十九 (じゅうく),neunzehn,십구,,dix-neuf,diecinueve,mười chín
+20,二十,二十 (ji6 sap6),二十 (にじゅう),zwanzig,스물,,vingt,veinte,hai mươi
+21,二十一,二十一 (ji6 sap6 jat1),二十一 (にじゅういち),einundzwanzig,스물하나,,vingt et un,veintiuno,hai mươi một
+22,二十二,二十二 (ji6 sap6 ji6),二十二 (にじゅうに),zweiundzwanzig,스물둘,,vingt-deux,veintidós,hai mươi hai
+30,三十,三十 (saam1 sap6),三十 (さんじゅう),dreißig,서른,,trente,treinta,ba mươi
+31,三十一,三十一 (saam1 sap6 jat1),三十一 (さんじゅういち),einunddreißig,서른하나,,trente et un,treinta y uno,ba mươi một
+32,三十二,三十二 (saam1 sap6 ji6),三十二 (さんじゅうに),zweiunddreißig,서른둘,,trente-deux,treinta y dos,ba mươi hai
+40,四十,四十 (sei3 sap6),四十 (しじゅう),vierzig,마흔,,quarante,cuarenta,bốn mươi
+41,四十一,四十一 (sei3 sap6 jat1),四十一 (しじゅういち),einundvierzig,마흔하나,,quarante et un,cuarenta y uno,bốn mươi một
+42,四十二,四十二 (sei3 sap6 ji6),四十二 (しじゅうに),zweiundvierzig,마흔둘,,quarante-deux,cuarenta y dos,bốn mươi hai
+50,五十,五十 (ng5 sap6),五十 (ごじゅう),fünfzig,쉰,,cinquante,cincuenta,năm mươi
+51,五十一,五十一 (ng5 sap6 jat1),五十一 (ごじゅういち),einundfünfzig,쉰하나,,cinquante et un,cincuenta y uno,năm mươi một
+52,五十二,五十二 (ng5 sap6 ji6),五十二 (ごじゅうに),zweiundfünfzig,쉰둘,,cinquante-deux,cincuenta y dos,năm mươi hai
+60,六十,六十 (luk6 sap6),六十 (ろくじゅう),sechzig,예순,,soixante,sesenta,sáu mươi
+61,六十一,六十一 (luk6 sap6 jat1),六十一 (ろくじゅういち),einundsechzig,예순하나,,soixante et un,sesenta y uno,sáu mươi một
+62,六十二,六十二 (luk6 sap6 ji6),六十二 (ろくじゅうに),zweiundsechzig,예순둘,,soixante-deux,sesenta y dos,sáu mươi hai
+70,七十,七十 (cat1 sap6),七十 (ななじゅう),siebzig,칠십,,soixante-dix,setenta,bảy mươi
+71,七十一,七十一 (cat1 sap6 jat1),七十一 (ななじゅういち),einundsiebzig,칠십하나,,soixante et onze,setenta y uno,bảy mươi một
+72,七十二,七十二 (cat1 sap6 ji6),七十二 (ななじゅうに),zweiundsiebzig,칠십둘,,soixante-douze,setenta y dos,bảy mươi hai
+80,八十,八十 (baat3 sap6),八十 (はちじゅう),achtzig,팔십,,quatre-vingts,ochenta,tám mươi
+81,八十一,八十一 (baat3 sap6 jat1),八十一 (はちじゅういち),einundachtzig,팔십하나,,quatre-vingt-un,ochenta y uno,tám mươi một
+82,八十二,八十二 (baat3 sap6 ji6),八十二 (はちじゅうに),zweiundachtzig,팔십둘,,quatre-vingt-deux,ochenta y dos,tám mươi hai
+90,九十,九十 (gau2 sap6),九十 (きゅうじゅう),neunzig,구십,,quatre-vingt-dix,noventa,chín mươi
+91,九十一,九十一 (gau2 sap6 jat1),九十一 (きゅうじゅういち),einundneunzig,구십하나,,quatre-vingt-onze,noventa y uno,chín mươi một
+92,九十二,九十二 (gau2 sap6 ji6),九十二 (きゅうじゅうに),zweiundneunzig,구십둘,,quatre-vingt-douze,noventa y dos,chín mươi hai
+100,一百,一百 (jat1 baak3),百 (ひゃく),hundert,백,,cents,cien,một trăm
+101,一百零一,一百零一 (jat1 baak3 ling4 jat1),百一 (ひゃくいち),hundert eins,백하나,,cent un,ciento uno,một trăm một
+102,一百零二,一百零二 (jat1 baak3 ling4 ji6),百二 (ひゃくに),hundert zwei,백둘,,cent deux,ciento dos,một trăm hai
+110,一百一十,一百一十 (jat1 baak3 jat1 sap6),百十 (ひゃくじゅう),hundert zehn,백십,,cent dix,ciento diez,một trăm mười
+111,一百一十一,一百一十一 (jat1 baak3 jat1 sap6 jat1),百十一 (ひゃくじゅういち),hundert elf,백십하나,,cent onze,ciento once,một trăm mười một
+1000,一千,一千 (jat1 cin1),千 (せん),tausend,천,,mille,mil,nghìn
+1001,一千零一,一千零一 (jat1 cin1 ling4 jat1),千一 (せんいち),tausend eins,천하나,,mille un,mil uno,nghìn một
+10000,一萬,一万 (jat1 maan6),一万 (いちまん),zehntausend,만,,vingt mille,diez mil,mười nghìn
+100000,十萬,十万 (sap6 maan6),十万 (じゅうまん),hunderttausend,십만,,cent mille,cien mil,một trăm nghìn
+million,百萬,百万 (baak3 maan6),百万 (ひゃくまん),Million,백만,,million,millón,mil triệu
+billion,十億,十亿 (sap6 jik6),十億 (じゅうおく),Milliarde,십억,,milliard,mil millones,tỷ tỷ
+1st,第一,第一 (dai6 jat1),第一 (だいいち),erste,첫째,,premier,primero,thứ nhất
+2nd,第二,第二 (dai6 ji6),第二 (だいに),zweite,둘째,,deuxième,segundo,thứ hai
+3rd,第三,第三 (dai6 saam1),第三 (だいさん),dritte,셋째,,troisième,tercero,thứ ba
+4th,第四,第四 (dai6 sei3),第四 (だいよん),vierte,넷째,,quatrième,cuarto,thứ tư
+5th,第五,第五 (dai6 ng5),第五 (だいご),fünfte,다섯째,,cinquième,quinto,thứ năm
 类 1 DKTZ - tjiq deojh,cmn,yue,ja,de,ko,eo,fr,es,vi
-小类pronouns,代词,代词 (doi6 ci4),,,,,,,
-I,我,我 (ngo5),,,,,,,
-you (singular),你,你 (nei5),,,,,,,
-he,他,佢 (keoi5),,,,,,,
-she,她,佢 (keoi5),,,,,,,
-it,它,佢 (keoi5),,,,,,,
-we,我们,我哋 (ngo5 dei6),,,,,,,
-you (plural),你们,你哋 (nei5 dei6),,,,,,,
-they,他们,佢哋 (keoi5 dei6),,,,,,,
-this,这,呢个 (ne1 go3),,,,,,,
-that,那,嗰个 (go2 go3),,,,,,,
-these,这些,呢啲 (ne1 di1),,,,,,,
-those,那些,嗰啲 (go2 di1),,,,,,,
-小类question words,疑问词,疑问词 (ji4 man6 ci4),,,,,,,
-who,谁,邊個 (bin1 go3),,,,,,,
-what,什么,乜嘢 (mat1 je5),,,,,,,
-when,什么时候,幾時 (gei2 si4),,,,,,,
-where,哪里,邊度 (bin1 dou6),,,,,,,
-why,为什么,點解 (dim2 gaai2),,,,,,,
-how,怎么,點樣 (dim2 joeng2),,,,,,,
-which,哪个,邊一個 (bin1 jat1 go3),,,,,,,
+小类pronouns,代词,代词 (doi6 ci4),代名詞 (だいめいし),Pronomen,대명사,,pronoms,pronombres,đại từ
+I,我,我 (ngo5),私 (わたし),ich,나,,je,yo,tôi
+you (singular),你,你 (nei5),あなた,du,너,,tu,tú,bạn
+he,他,佢 (keoi5),彼 (かれ),er,그,,il,él,anh
+she,她,佢 (keoi5),彼女 (かのじょ),sie,그녀,,elle,ella,cô
+it,它,佢 (keoi5),それ (sore),es,그것,,il,ello,nó
+we,我们,我哋 (ngo5 dei6),私たち (わたしたち),wir,우리,,nous,nosotros,chúng tôi
+you (plural),你们,你哋 (nei5 dei6),あなたたち,ihr,너희,,vous,vosotros,các bạn
+they,他们,佢哋 (keoi5 dei6),彼ら (ひら),sie,그들,,ils,ellos,họ
+this,这,呢个 (ne1 go3),これ (kore),dieses,이,,ceci,este,đây
+that,那,嗰个 (go2 go3),それ (sore),das,그,,cela,ese,đó
+these,这些,呢啲 (ne1 di1),これら (korera),diese,이들,,ces,estos,những này
+those,那些,嗰啲 (go2 di1),それら (sorera),diese,그들,,ceux,aquellos,những kia
+小类question words,疑问词,疑问词 (ji4 man6 ci4),疑問詞 (ぎもんし),Fragepronomen,의문사,,mots interrogatifs,pronombres interrogativos,từ để hỏi
+who,谁,邊個 (bin1 go3),誰 (だれ),wer,누구,,qui,quién,ai
+what,什么,乜嘢 (mat1 je5),何 (なに),was,무엇,,quoi,qué,gì
+when,什么时候,幾時 (gei2 si4),いつ (itsu),wann,언제,,quand,cuándo,khi
+where,哪里,邊度 (bin1 dou6),どこ (doko),wo,어디,,où,dónde,ở đâu
+why,为什么,點解 (dim2 gaai2),なぜ (naze),warum,왜,,pourquoi,por qué,tại sao
+how,怎么,點樣 (dim2 joeng2),どのように (dono yo ni),wie,어떻게,,comment,cómo,làm sao
+which,哪个,邊一個 (bin1 jat1 go3),どちら (dochira),welche,어느,,lequel,cuál,nào
 类 1 DKTZ - jinq tsiep,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 2 KKTD,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 2 KKTD - seng gu,cmn,yue,ja,de,ko,eo,fr,es,vi
-Earth,地球,地球 (dei6 kau4),,,,,,,
+Earth,地球,地球 (dei6 kau4),地球 (ちきゅう),Erde,지구,,terre,Tierra,Trái Đất (𧀞𡐙)
 类 2 KKTD - then zyangq,cmn,yue,ja,de,ko,eo,fr,es,vi
-hot,热,熱 (jit6),,,,,,,
-cold,冷,凍 (dung3),,,,,,,
-warm,暖,暖 (nyun5),,,,,,,
-cool,凉,涼 (leung4),,,,,,,
-light,光,光 (gwong1),,,,,,,
-light (dark),明亮,暗 (am6),,,,,,,
-dark,黑暗,黑 (hak1),,,,,,,
-wet,湿,濕 (sap1),,,,,,,
-dry,干燥,乾 (gon1),,,,,,,
-burn,燃烧,燃 (jin4),,,,,,,
-melt,融化,融 (jung4),,,,,,,
-nuclear,核能,核 (hat6),,,,,,,
-Energy,能源,能源 (nang4 jyun4),,,,,,,
-小类seasons,季节,季節 (gwai3 zit3),,,,,,,
-Spring,春天,春 (ceon1),,,,,,,
-Summer,夏天,夏 (haa6),,,,,,,
-Fall,秋天,秋 (cau1),,,,,,,
-Winter,冬天,冬 (dung1),,,,,,,
-小类months,月份,月份 (jyut6 fan6),,,,,,,
-January,一月,一月 (jat1 jyut6),,,,,,,
-February,二月,二月 (ji6 jyut6),,,,,,,
-March,三月,三月 (saam1 jyut6),,,,,,,
-April,四月,四月 (sei3 jyut6),,,,,,,
-May,五月,五月 (ng5 jyut6),,,,,,,
-June,六月,六月 (luk6 jyut6),,,,,,,
-July,七月,七月 (cat1 jyut6),,,,,,,
-August,八月,八月 (baat3 jyut6),,,,,,,
-September,九月,九月 (gau2 jyut6),,,,,,,
-October,十月,十月 (sap6 jyut6),,,,,,,
-November,十一月,十一月 (sap6 jat1 jyut6),,,,,,,
-December,十二月,十二月 (sap6 ji6 jyut6),,,,,,,
-小类days of the week,星期,星期 (sing1 kei4),,,,,,,
-Monday,星期一,星期一 (sing1 kei4 jat1),,,,,,,
-Tuesday,星期二,星期二 (sing1 kei4 ji6),,,,,,,
-Wednesday,星期三,星期三 (sing1 kei4 saam1),,,,,,,
-Thursday,星期四,星期四 (sing1 kei4 sei3),,,,,,,
-Friday,星期五,星期五 (sing1 kei4 ng5),,,,,,,
-Saturday,星期六,星期六 (sing1 kei4 luk6),,,,,,,
-Sunday,星期日,星期日 (sing1 kei4 jat6),,,,,,,
-小类time,时间,時間 (si4 gaan3),,,,,,,
-year,年,年 (nin4),,,,,,,
-month,月,月 (jyut6),,,,,,,
-week,周,星期 (sing1 kei4),,,,,,,
-day,天,日 (jat6),,,,,,,
-hour,小时,時 (si4),,,,,,,
-minute,分钟,分鐘 (fan1 jung1),,,,,,,
-second,秒,秒 (miu5),,,,,,,
-morning,早上,早上 (zou2 soeng5),,,,,,,
-afternoon,下午,下午 (haa6 ng5 haa6),,,,,,,
-evening,晚上,晚上 (maan5 soeng5),,,,,,,
-night,夜晚,夜晚 (je6 maan5),,,,,,,
+hot,热,熱 (jit6),熱い (あつい),heiß,더운,,chaud,caliente,nóng
+cold,冷,凍 (dung3),寒い (さむい),kalt,추운,,froid,frío,lạnh
+warm,暖,暖 (nyun5),暖かい (あたたかい),warm,따뜻한,,chaud,cálido,ấm áp
+cool,凉,涼 (leung4),涼しい (すずしい),kühl,시원한,,frais,fresco,mát
+light,光,光 (gwong1),光 (ひかり),Licht,빛,,lumière,luz,ánh sáng
+light (dark),明亮,暗 (am6),明るい (あかるい),hell,밝은,,lumière,claro,sáng
+dark,黑暗,黑 (hak1),暗い (くらい),dunkel,어두운,,sombre,oscuro,tối
+wet,湿,濕 (sap1),濡れた (ぬれた),nass,젖은,,mouillé,mojado,ẩm ướt
+dry,干燥,乾 (gon1),乾燥 (かんそう),trocken,건조한,,sec,seco,khô
+burn,燃烧,燃 (jin4),燃える (もえる),brennen,타다,,brûler,quemar,đốt
+melt,融化,融 (jung4),溶ける (とける),schmelzen,녹다,,fondre,derretir,chảy
+nuclear,核能,核 (hat6),原子力 (げんしりょく),nuklear,핵,,nucléaire,nuclear,hạt nhân
+Energy,能源,能源 (nang4 jyun4),エネルギー,Energie,에너지,,énergie,energía,năng lượng
+小类seasons,季节,季節 (gwai3 zit3),季節 (きせつ),Jahreszeiten,계절,,saisons,estaciones,mùa
+Spring,春天,春 (ceon1),春 (はる),Frühling,봄,,printemps,primavera,Mùa Xuân
+Summer,夏天,夏 (haa6),夏 (なつ),Sommer,여름,,été,verano,Mùa Hè
+Fall,秋天,秋 (cau1),秋 (あき),Herbst,가을,,automne,otoño,Mùa Thu
+Winter,冬天,冬 (dung1),冬 (ふゆ),Winter,겨울,,hiver,invierno,Mùa Đông
+小类months,月份,月份 (jyut6 fan6),月 (つき),Monate,월,,mois,meses,tháng
+January,一月,一月 (jat1 jyut6),1月 (いちがつ),Januar,1월,,janvier,enero,Tháng 1
+February,二月,二月 (ji6 jyut6),2月 (にがつ),Februar,2월,,février,febrero,Tháng 2
+March,三月,三月 (saam1 jyut6),3月 (さんがつ),März,3월,,mars,marzo,Tháng 3
+April,四月,四月 (sei3 jyut6),4月 (しがつ),April,4월,,avril,abril,Tháng 4
+May,五月,五月 (ng5 jyut6),5月 (ごがつ),Mai,5월,,mai,mayo,Tháng 5
+June,六月,六月 (luk6 jyut6),6月 (ろくがつ),Juni,6월,,juin,junio,Tháng 6
+July,七月,七月 (cat1 jyut6),7月 (しちがつ),Juli,7월,,juillet,julio,Tháng 7
+August,八月,八月 (baat3 jyut6),8月 (はちがつ),August,8월,,août,agosto,Tháng 8
+September,九月,九月 (gau2 jyut6),9月 (くがつ),September,9월,,septembre,septiembre,Tháng 9
+October,十月,十月 (sap6 jyut6),10月 (じゅうがつ),Oktober,10월,,octobre,octubre,Tháng 10
+November,十一月,十一月 (sap6 jat1 jyut6),11月 (じゅういちがつ),November,11월,,novembre,noviembre,Tháng 11
+December,十二月,十二月 (sap6 ji6 jyut6),12月 (じゅうにがつ),Dezember,12월,,décembre,diciembre,Tháng 12
+小类days of the week,星期,星期 (sing1 kei4),曜日 (ようび),Wochentage,요일,,jours de la semaine,días de la semana,ngày trong tuần
+Monday,星期一,星期一 (sing1 kei4 jat1),月曜日 (げつようび),Montag,월요일,,lundi,lunes,Thứ Hai
+Tuesday,星期二,星期二 (sing1 kei4 ji6),火曜日 (かようび),Dienstag,화요일,,mardi,martes,Thứ Ba
+Wednesday,星期三,星期三 (sing1 kei4 saam1),水曜日 (すいようび),Mittwoch,수요일,,mercredi,miércoles,Thứ Tư
+Thursday,星期四,星期四 (sing1 kei4 sei3),木曜日 (もくようび),Donnerstag,목요일,,jeudi,jueves,Thứ Năm
+Friday,星期五,星期五 (sing1 kei4 ng5),金曜日 (きんようび),Freitag,금요일,,vendredi,viernes,Thứ Sáu
+Saturday,星期六,星期六 (sing1 kei4 luk6),土曜日 (どようび),Samstag,토요일,,samedi,sábado,Thứ Bảy
+Sunday,星期日,星期日 (sing1 kei4 jat6),日曜日 (にちようび),Sonntag,일요일,,dimanche,domingo,Chủ Nhật
+小类time,时间,時間 (si4 gaan3),時間 (じかん),Zeit,시간,,temps,tiempo,thời gian
+year,年,年 (nin4),年 (ねん),Jahr,년,,an,año,năm
+month,月,月 (jyut6),月 (つき),Monat,달,,mois,mes,tháng
+week,周,星期 (sing1 kei4),週 (しゅう),Woche,주,,semaine,semana,tuần
+day,天,日 (jat6),日 (にち),Tag,날,,jour,día,ngày
+hour,小时,時 (si4),時間 (じかん),Stunde,시간,,heure,hora,giờ
+minute,分钟,分鐘 (fan1 jung1),分 (ふん),Minute,분,,minute,minuto,phút
+second,秒,秒 (miu5),秒 (びょう),Sekunde,초,,seconde,segundo,giây
+morning,早上,早上 (zou2 soeng5),朝 (あさ),Morgen,아침,,matin,mañana,sáng
+afternoon,下午,下午 (haa6 ng5 haa6),午後 (ごご),Nachmittag,오후,,après-midi,tarde,chiều
+evening,晚上,晚上 (maan5 soeng5),夜 (よる),Abend,저녁,,soir,tarde,tối
+night,夜晚,夜晚 (je6 maan5),夜 (よる),Nacht,밤,,nuit,noche,đêm
 类 2 KKTD - dih lyq,cmn,yue,ja,de,ko,eo,fr,es,vi
-map,地图,地圖 (dei6 tou4),,,,,,,
+map,地图,地圖 (dei6 tou4),地図 (ちず),Karte,지도,,carte,map,bản đồ
 类 2 KKTD - dih mut,cmn,yue,ja,de,ko,eo,fr,es,vi
-hole,洞,孔 (hung1),,,,,,,
-heavy,重,重 (cung5),,,,,,,
-light (heavy),轻,沉 (cam4),,,,,,,
-soft,软,輕 (hing1),,,,,,,
-hard,硬,硬 (ngaang6),,,,,,,
-tight,紧,緊 (gan2),,,,,,,
-loose,松,鬆 (zung1),,,,,,,
-explode,爆炸,爆炸 (baau6 zaat3),,,,,,,
-小类待分nature,自然,大自然 (daai6 zi6 jin4),,,,,,,
-sea,海洋,海 (hoi2),,,,,,,
-ocean,海洋,大洋 (daai6 joeng4),,,,,,,
-river,河,河 (ho4),,,,,,,
-mountain,山,山 (saan1),,,,,,,
-rain,雨,雨 (jyu5),,,,,,,
-snow,雪,雪 (seut3),,,,,,,
-tree,树,樹 (syu6),,,,,,,
-sun,太阳,太陽 (taai3 joeng4),,,,,,,
-moon,月亮,月亮 (jyut6 loeng6),,,,,,,
-world,世界,世界 (sai3 gaai3),,,,,,,
-Earth,地球,地球 (dei6 kau4),,,,,,,
-forest,森林,森林 (sam1 lam4),,,,,,,
-sky,天空,天空 (tin1 hung1),,,,,,,
-plant,植物,植物 (zik6 mat6),,,,,,,
-wind,风,風 (fung1),,,,,,,
-soil/earth,土地,土壤 (tou2 jim5),,,,,,,
-flower,花,花 (faa1),,,,,,,
-valley,山谷,山谷 (saan1 guk1),,,,,,,
-root,根,根 (gan1),,,,,,,
-lake,湖,湖 (wu4),,,,,,,
-star,星星,星 (sing1),,,,,,,
-grass,草,草 (cou2),,,,,,,
-leaf,叶子,葉 (jip6),,,,,,,
-air,空气,空氣 (hung1 hei3),,,,,,,
-sand,沙,沙 (saa1),,,,,,,
-beach,海滩,沙灘 (saa1 taan1),,,,,,,
-wave,波,浪 (long6),,,,,,,
-fire,火,火 (fo2),,,,,,,
-ice,冰,冰 (bing1),,,,,,,
-island,岛,島 (dou2),,,,,,,
-hill,山丘,山丘 (saan1 kau4),,,,,,,
-heat,热,熱 (jit6),,,,,,,
+hole,洞,孔 (hung1),穴 (あな),Loch,구멍,,trou,agujero,lỗ
+heavy,重,重 (cung5),重い (おもい),schwer,무거운,,lourd,pesado,nặng
+light (heavy),轻,沉 (cam4),重い (おもい),leicht,가벼운,,léger,liviano,nhẹ
+soft,软,輕 (hing1),柔らかい (やわらかい),weich,부드러운,,doux,suave,mềm
+hard,硬,硬 (ngaang6),固い (かたい),hart,딱딱한,,dur,duro,cứng
+tight,紧,緊 (gan2),きつい (kitsui),eng,꽉 막힌,,serré,ajustado,chặt
+loose,松,鬆 (zung1),ゆるい (yurui),locker,헐거운,,lâche,flojo,lỏng
+explode,爆炸,爆炸 (baau6 zaat3),爆発する (ばくはつする),explodieren,터지다,,exploser,explotar,nổ
+小类待分nature,自然,大自然 (daai6 zi6 jin4),自然 (しぜん),Natur,자연,,nature,naturaleza,thiên nhiên
+sea,海洋,海 (hoi2),海 (うみ),Meer,바다,,mer,mar,b biển
+ocean,海洋,大洋 (daai6 joeng4),海洋 (かいよう),Ozean,대양,,océan,océano,đại dương
+river,河,河 (ho4),川 (かわ),Fluss,강,,rivière,río,sông
+mountain,山,山 (saan1),山 (やま),Berg,산,,montaña,montaña,núi
+rain,雨,雨 (jyu5),雨 (あめ),Regen,비,,pluie,lluvia,mưa
+snow,雪,雪 (seut3),雪 (ゆき),Schnee,눈,,neige,nieve,tuyết
+tree,树,樹 (syu6),木 (き),Baum,나무,,arbre,árbol,cây
+sun,太阳,太陽 (taai3 joeng4),太陽 (たいよう),Sonne,해,,soleil,sol,mặt trời
+moon,月亮,月亮 (jyut6 loeng6),月 (つき),Mond,달,,lune,luna, mặt trăng
+world,世界,世界 (sai3 gaai3),世界 (せかい),Welt,세계,,monde,mundo,thế giới
+Earth,地球,地球 (dei6 kau4),地球 (ちきゅう),Erde,지구,,terre,Tierra,Trái đất
+forest,森林,森林 (sam1 lam4),森林 (しんりん),Wald,숲,,forêt,bosque,rừng
+sky,天空,天空 (tin1 hung1),空 (そら),Himmel,하늘,,ciel,cie lo,bầu trời
+plant,植物,植物 (zik6 mat6),植物 (しょくぶつ),Pflanze,식물,,plante,planta,thực vật
+wind,风,風 (fung1),風 (かぜ),Wind,바람,,vent, viento,gió
+soil/earth,土地,土壤 (tou2 jim5),土壌 (つち),Boden,흙,, sol/terre,tierra,đất
+flower,花,花 (faa1),花 (はな),Blume,꽃,,fleur,flor,hoa
+valley,山谷,山谷 (saan1 guk1),谷 (たに),Tal,계곡,,vallée,valle,thung lũng
+root,根,根 (gan1),根 (ね),Wurzel,뿌리,, racine,raíz,gốc
+lake,湖,湖 (wu4),湖 (みずうみ),See,호,,lac,lago,hồ
+star,星星,星 (sing1),星 (ほし),Stern,별,,étoile,estrella,ngôi sao
+grass,草,草 (cou2),草 (くさ),Gras,풀,,herbe, hierba,cỏ
+leaf,叶子,葉 (jip6),葉 (は),Blatt,잎,,feuille, hoja,lá
+air,空气,空氣 (hung1 hei3),空気 (くうき),Luft,공기,,air,aire,không khí
+sand,沙,沙 (saa1),砂 (すな),Sand,모래,,sable,arena,cát
+beach,海滩,沙灘 (saa1 taan1),浜辺 (はまべ),Strand,해변,,plage, playa,bãi biển
+wave,波,浪 (long6),波 (なみ),Welle,파도,, vague,onda,sóng
+fire,火,火 (fo2),火 (ひ),Feuer,불,,feu,fuego,lửa
+ice,冰,冰 (bing1),氷 (こおり),Eis,얼음,,gla ce,hielo,đá
+island,岛,島 (dou2),島 (しま),Insel,섬,,île,isla,đảo
+hill,山丘,山丘 (saan1 kau4),丘 (おか),Hügel,언덕,,colline,colina,đồi
+heat,热,熱 (jit6),熱 (ねつ),Hitze,열,,cha leur,calor,nhiệt đới
 类 3 KKSM,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 3 KKSM - DM sjin thejq,cmn,yue,ja,de,ko,eo,fr,es,vi
-grow,生长,生長 (sang1 coeng4),,,,,,,
-小类body,身体,身體 (san1 tai2),,,,,,,
-head,头,頭 (tau4),,,,,,,
-neck,脖子,頸 (geng2),,,,,,,
-face,脸,臉 (lim5),,,,,,,
-beard,胡须,鬍鬚 (wu4 sou1),,,,,,,
-hair,头发,頭髮 (tau4 faat3),,,,,,,
-eye,眼睛,眼 (ngaan5),,,,,,,
-mouth,嘴巴,口 (hau2),,,,,,,
-lip,嘴唇,嘴唇 (zeoi2 seon4),,,,,,,
-nose,鼻子,鼻 (bei6),,,,,,,
-tooth,牙齿,牙 (ngaa4),,,,,,,
-ear,耳朵,耳 (ji5),,,,,,,
-tear (drop),眼泪,眼淚 (ngaan5 leoi6),,,,,,,
-tongue,舌头,舌頭 (sit6 tau4),,,,,,,
-back,背部,背 (bui3),,,,,,,
-toe,脚趾,腳趾 (goek3 zi1),,,,,,,
-finger,手指,手指 (sau2 zi2),,,,,,,
-foot,脚,腳 (goek3),,,,,,,
-hand,手,手 (sau2),,,,,,,
-leg,腿,腿 (teoi2),,,,,,,
-arm,手臂,手臂 (sau2 bei6),,,,,,,
-shoulder,肩膀,肩膀 (gin1 bong2),,,,,,,
-heart,心脏,心臟 (sam1 zong6),,,,,,,
-blood,血,血 (hyut3),,,,,,,
-brain,脑,腦 (nou5),,,,,,,
-knee,膝盖,膝 (sat1),,,,,,,
-sweat,汗,汗 (hon6),,,,,,,
-disease,疾病,疾病 (zap1 beng6),,,,,,,
-bone,骨头,骨 (gwat1),,,,,,,
-voice,声音,聲 (seng1),,,,,,,
-skin,皮肤,皮膚 (pei4 fu1),,,,,,,
-smell,闻,氣味 (hei3 mei6),,,,,,,
-taste,尝,味道 (mei6 dou6),,,,,,,
-touch,触摸,觸摸 (cuk1 muk6),,,,,,,
+grow,生长,生長 (sang1 coeng4),成長する (せいちょうする),wachsen,자라다,,pousser,crecer,lớn lên
+小类body,身体,身體 (san1 tai2),体 (からだ),Körper,신체,,corps,cuerpo,thân thể
+head,头,頭 (tau4),頭 (あたま),Kopf,머리,,tête,cabeza,đầu
+neck,脖子,頸 (geng2),首 (くび),Hals,목,,cou,cuello,cổ
+face,脸,臉 (lim5),顔 (かお),Gesicht,얼굴,,visage,cara,khuôn mặt
+beard,胡须,鬍鬚 (wu4 sou1),ひげ,Haar,Hüftwuchs,,barbe,barba,râu
+hair,头发,頭髮 (tau4 faat3),髪 (かみ),Haare,머리카락,,cheveux,pelo,tóc
+eye,眼睛,眼 (ngaan5),目 (め),Auge,눈,,œil,ojo,mắt
+mouth,嘴巴,口 (hau2),口 (くち),Mund,입,,bouche,boca,miệng
+lip,嘴唇,嘴唇 (zeoi2 seon4),唇 (くちびる),Lippe,입술,,lèvre,labio,môi
+nose,鼻子,鼻 (bei6),鼻 (はな),Nase,코,,nez,nariz,mũi
+tooth,牙齿,牙 (ngaa4),歯 (は),Zahn,이,, dent,diente,răng
+ear,耳朵,耳 (ji5),耳 (みみ),Ohr,귀,,oreja,oreja,tai
+tear (drop),眼泪,眼淚 (ngaan5 leoi6),涙 (なみだ),Träne,눈물,,larme,lágrima,nước mắt
+tongue,舌头,舌頭 (sit6 tau4),舌 (した),Zunge,혀,,langue,lengua,lưỡi
+back,背部,背 (bui3),背中 (せなか),Rücken,등,,dos,espalda,lưng
+toe,脚趾,腳趾 (goek3 zi1),足の指 (あしのゆび),Zehe,발가락,,orteil,dedo del pie,ngón chân
+finger,手指,手指 (sau2 zi2),指 (ゆび),Finger,손가락,,doigt,dedo,cái tay
+foot,脚,腳 (goek3),足 (あし),Fuß,발,,pied,pie,chân
+hand,手,手 (sau2),手 (て),Hand,손,,main,mano,tay
+leg,腿,腿 (teoi2),脚 (あし),Bein,다리,,jambe,pierna,chân
+arm,手臂,手臂 (sau2 bei6),腕 (うで),Arm,팔,,bras,brazo,cánh tay
+shoulder,肩膀,肩膀 (gin1 bong2),肩 (かた),Schulter,어깨,,épaule,hombro,vai
+heart,心脏,心臟 (sam1 zong6),心臓 (しんぞう),Herz,심장,,cœur,corazón,trái tim
+blood,血,血 (hyut3),血 (ち),Blut,피,,sangre,sangre,máu
+brain,脑,腦 (nou5),脳 (のう),Gehirn,뇌,,cerveau,cerebro,não
+knee,膝盖,膝 (sat1),膝 (ひざ),Knie,무릎,,genou,rodilla,gối
+sweat,汗,汗 (hon6),汗 (あせ),Schweiß,땀,,transpiration,sudor,mồ hôi
+disease,疾病,疾病 (zap1 beng6),病気 (びょうき),Krankheit,질병,,maladie,enfermedad,bệnh
+bone,骨头,骨 (gwat1),骨 (ほね),Knochen,뼈,,os,hueso,xương
+voice,声音,聲 (seng1),声 (こえ),Stimme,목소리,,voix,voz,giọng
+skin,皮肤,皮膚 (pei4 fu1),皮膚 (ひふ),Haut,피부,,peau,piel,da
+smell,闻,氣味 (hei3 mei6),嗅ぐ (かぐ),riechen,냄새를 맡다,,sentir,oler,ngửi
+taste,尝,味道 (mei6 dou6),味わう (あじわう),schmecken,맛보다,,goûter,saborear,thưởng thức
+touch,触摸,觸摸 (cuk1 muk6),触る (さわる),berühren,만지다,,toucher,tocar,chạm aanraken
 类 3 KKSM - DMST djih koeuk,cmn,yue,ja,de,ko,eo,fr,es,vi
-see (a bird),看见,睇 (tai2),,,,,,,
-watch (TV),看,睇 (tai2),,,,,,,
-blind,盲,瞎 (hat6),,,,,,,
-image,图像,影 (jing2),,,,,,,
-pattern,图案,圖案 (tou4 on3),,,,,,,
-draw,画,畫 (waa2),,,,,,,
-小类color,颜色,顏色 (ngaan4 sik1),,,,,,,
-red,红色,紅 (hung4),,,,,,,
-green,绿色,綠 (lok6),,,,,,,
-blue (light),浅蓝色,藍 (laam5),,,,,,,
-blue (dark),深蓝色,藍 (laam5),,,,,,,
-yellow,黄色,黃 (wong4),,,,,,,
-brown,棕色,啡 (fe1),,,,,,,
-pink,粉红色,粉紅 (fan2 hung4),,,,,,,
-orange,橙色,橙 (caang2),,,,,,,
-black,黑色,黑 (hak1),,,,,,,
-white,白色,白 (baak6),,,,,,,
-gray,灰色,灰 (fo1),,,,,,,
+see (a bird),看见,睇 (tai2),見る (みる),sehen,보다,,voir,ver,thấy
+watch (TV),看,睇 (tai2),見る (みる),schauen,보다,,regarder,ver,watch
+blind,盲,瞎 (hat6),盲目 (もうもく),blind,맹인,,aveugle,ciego,mùa
+image,图像,影 (jing2),画像 (がぞう),Bild,이미지,,image,imagen,hình ảnh
+pattern,图案,圖案 (tou4 on3),模様 (もよう),Muster,무늬,,modèle,patrón,mẫu
+draw,画,畫 (waa2),描く (かく),zeichnen,그리다,,dessiner,dibujar,vẽ
+小类color,颜色,顏色 (ngaan4 sik1),色 (いろ),Farbe,색상,,couleur,color,color
+red,红色,紅 (hung4),赤 (あか),rot,빨간색,,rouge,rojo,đỏ
+green,绿色,綠 (lok6),緑 (みどり),grün,초록색,,vert,verde,xanh lá
+blue (light),浅蓝色,藍 (laam5),水色 (みずいろ),hellblau,하늘색,,bleu claro,azul claro,xanh nhạt
+blue (dark),深蓝色,藍 (laam5),紺色 (こんいろ),dunkelblau,짙은 파랑색,,bleu foncé,azul oscuro,xanh đậm
+yellow,黄色,黃 (wong4),黄 (きいろ),gelb,노란색,,jaune,amarillo,vàng
+brown,棕色,啡 (fe1),茶色 (ちゃいろ),braun,갈색,,marron,marrón,nâu
+pink,粉红色,粉紅 (fan2 hung4),ピンク (pinku),rosa,분홍색,,rose,rosa,hồng
+orange,橙色,橙 (caang2),オレンジ (orenji),orange,주황색,,orange,naranja,da cam
+black,黑色,黑 (hak1),黒 (くろ),schwarz,검은색,,noir,negro,đen
+white,白色,白 (baak6),白 (しろ),weiß,흰색,,blanc,blanco,trắng
+gray,灰色,灰 (fo1),灰 (はい),grau,회색,,gris,gris,xám
 类 3 KKSM - DMST theng koeuk,cmn,yue,ja,de,ko,eo,fr,es,vi
-hear (a sound),听到,聽 (ting1),,,,,,,
-listen (music),听,聆聽 (ling4 ting1),,,,,,,
-deaf,聋,聾 (lung4),,,,,,,
-loud,大声,大聲 (daai6 seng1),,,,,,,
-quiet,安静,寂靜 (zik6 zing6),,,,,,,
-sound,声音,聲音 (seng1 jam1),,,,,,,
+hear (a sound),听到,聽 (ting1),聞く (きく),hören,들다,,entendre,oir,nghe
+listen (music),听,聆聽 (ling4 ting1),聴く (きく),hören,듣다,,écouter,escuchar,nghe
+deaf,聋,聾 (lung4),聾 (ろう),taub,귀머거리,,sourd,sordo,điếc
+loud,大声,大聲 (daai6 seng1),大きい (おおきい),laut,시끄러운,,bruyant,alto,ồn ào
+quiet,安静,寂靜 (zik6 zing6),静か (しずか),leise,조용한,,silencieux,tranquilo,yên tĩnh
+sound,声音,聲音 (seng1 jam1),音 (おん),Klang,소리,,son,sonido,âm thanh
 类 3 KKSM - DM miaeng tjhyng,cmn,yue,ja,de,ko,eo,fr,es,vi
-小类animal,动物,動物 (dung6 mat6),,,,,,,
-dog,狗,狗 (gau2),,,,,,,
-cat,猫,貓 (maau1),,,,,,,
-fish,鱼,魚 (jyu4),,,,,,,
-bird,鸟,鳥 (niu5),,,,,,,
-cow,牛,牛 (ngau4),,,,,,,
-pig,猪,豬 (zyu1),,,,,,,
-mouse,老鼠,老鼠 (lou5 syu2),,,,,,,
-horse,马,馬 (maa5),,,,,,,
-wing,翅膀,翼 (jik6),,,,,,,
+小类animal,动物,動物 (dung6 mat6),動物 (どうぶつ),Tier,동물,,animal,animal,động vật
+dog,狗,狗 (gau2),犬 (いぬ),Hund,개,,chien,perro,chó
+cat,猫,貓 (maau1),猫 (ねこ),Katze,고양이,,chat,gato,mèo
+fish,鱼,魚 (jyu4),魚 (さかな),Fisch,물고기,,poisson,pez,cá
+bird,鸟,鳥 (niu5),鳥 (とり),Vogel,새,,oiseau,pájaro,chim
+cow,牛,牛 (ngau4),牛 (うし),Kuh,소,,vache,vaca,bò
+pig,猪,豬 (zyu1),豚 (ぶた),Schwein,돼지,,cochon,cerdo,lợn
+mouse,老鼠,老鼠 (lou5 syu2),ネズミ,Maus,쥐,,souris,rat,chuột
+horse,马,馬 (maa5),馬 (うま),Pferd,말,,cheval,caballo,ngựa
+wing,翅膀,翼 (jik6),羽 (はね),Flügel,날개,,aile,ala,cánh
 类 3 KKSM - djyk mut,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 4 KKNL,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 4 KKNL - njin lwih,cmn,yue,ja,de,ko,eo,fr,es,vi
-Race (ethnicity),种族,種族 (zung2 zuk6),,,,,,,
-Sex (the act),性,性行為 (sing3 haang4 wai4),,,,,,,
-Sex (gender),性别,性別 (sing3 bit6),,,,,,,
-male,男,男性 (naam4 sing3),,,,,,,
-female,女,女性 (neoi5 sing3),,,,,,,
+Race (ethnicity),种族,種族 (zung2 zuk6),人種 (じんしゅ),Rasse,인종,,race,raza,chủng tộc
+Sex (the act),性,性行為 (sing3 haang4 wai4),セックス,Geschlecht,성별,,sexe,sexo,giới tính
+Sex (gender),性别,性別 (sing3 bit6),性別 (せいべつ),Geschlecht,성별,,sexe,sexo,giới tính
+male,男,男性 (naam4 sing3),男性 (だんせい),männlich,남성,,mâle,macho,nam
+female,女,女性 (neoi5 sing3),女性 (じょせい),weiblich,여성,,femelle,hembra,nữ
 类 4 KKNL - gyonh khang,cmn,yue,ja,de,ko,eo,fr,es,vi
-pain,痛,痛 (tung3),,,,,,,
-injury,伤,受傷 (sau6 soeng1),,,,,,,
-kill,杀,殺 (saat3),,,,,,,
-die,死,死 (sei2),,,,,,,
-sick,生病,生病 (sang1 beng6),,,,,,,
-healthy,健康,健康 (gin6 hong1),,,,,,,
-dead,死,死咗 (sei2 zo2),,,,,,,
-alive,活,活 (wut6),,,,,,,
-Death,死亡,死亡 (sei2 mong4),,,,,,,
-Medicine,药物,藥 (joek6),,,,,,,
-Poison,毒药,毒 (duk6),,,,,,,
-Drug,药物,藥物 (joek6 mat6),,,,,,,
-sleep,睡觉,訓覺 (fan6 gaau3),,,,,,,
-wake up,醒,醒 (sing2),,,,,,,
-Exercise,锻炼,運動 (wan6 dung6),,,,,,,
-Sport,运动,運動 (wan6 dung6),,,,,,,
+pain,痛,痛 (tung3),痛み (いたみ),Schmerz,아픔,,douleur,dolor,đau
+injury,伤,受傷 (sau6 soeng1),怪我 (けが),Verletzung,부상,,blessure,lesión,vết thương
+kill,杀,殺 (saat3),殺す (ころす),töten,죽이다,,tuer,matar,giết
+die,死,死 (sei2),死ぬ (しぬ),sterben,죽다,,mourir,morir,chết
+sick,生病,生病 (sang1 beng6),病気 (びょうき),krank,아픈,,malade,enfermo,bệnh
+healthy,健康,健康 (gin6 hong1),健康 (けんこう),gesund,건강한,,en bonne santé,saludable,khỏe
+dead,死,死咗 (sei2 zo2),死んだ (しんだ),tot,죽은,,morto,muerto,chết
+alive,活,活 (wut6),生きている (いきている),lebendig,살아있는,,vivant,vivo,sống
+Death,死亡,死亡 (sei2 mong4),死 (し),Tod,사망,,mort,muerte,chết
+Medicine,药物,藥 (joek6),薬 (くすり),Medizin,의약품,,médicament,medicina,thuốc
+Poison,毒药,毒 (duk6),毒 (どく),Gift,독약,,poison,veneno,thuốc độc
+Drug,药物,藥物 (joek6 mat6),薬物 (やくぶつ),Droge,약,,drogue,droga,thuốc
+sleep,睡觉,訓覺 (fan6 gaau3),眠る (ねむる),schlafen,자다,,dormir,dormir,ngủ
+wake up,醒,醒 (sing2),目が覚める (めがさめる),aufwachen,깨다,,se réveiller,despertar,wake up
+Exercise,锻炼,運動 (wan6 dung6),運動 (うんどう),Übung,운동,,exercice,ejercicio,tập luyện
+Sport,运动,運動 (wan6 dung6),スポーツ,Sport,스포츠,,sport,deporte,môn thể thao
 类 4 KKNL - qyimq zjyk,cmn,yue,ja,de,ko,eo,fr,es,vi
-eat,吃,食 (sik6),,,,,,,
-drink,喝,飲 (jam2),,,,,,,
-feed,喂,餵 (wai5),,,,,,,
-cook,煮,煮 (zyu2),,,,,,,
-小类beverage,饮料,飲品 (jam2 ban2),,,,,,,
-coffee,咖啡,咖啡 (gaa1 fe1),,,,,,,
-tea,茶,茶 (caa4),,,,,,,
-wine,葡萄酒,酒 (zau2),,,,,,,
-beer,啤酒,啤酒 (be1 zau2),,,,,,,
-juice,果汁,果汁 (gwo2 zik1),,,,,,,
-water,水,水 (seoi2),,,,,,,
-milk,牛奶,牛奶 (ngau4 naai5),,,,,,,
-小类food,食物,食物 (sik6 mat6),,,,,,,
-egg,蛋,雞蛋 (gai1 daan6),,,,,,,
-cheese,奶酪,芝士 (zi1 si6),,,,,,,
-bread,面包,麵包 (min6 baau1),,,,,,,
-soup,汤,湯 (tong1),,,,,,,
-cake,蛋糕,蛋糕 (daan6 gou1),,,,,,,
-chicken,鸡,雞 (gai1),,,,,,,
-pork,猪肉,豬肉 (zyu1 juk6),,,,,,,
-beef,牛肉,牛肉 (ngau4 juk6),,,,,,,
-apple,苹果,蘋果 (ping4 gwo2),,,,,,,
-banana,香蕉,香蕉 (hoeng1 ziu1),,,,,,,
-orange,橙子,橙 (caang2),,,,,,,
-lemon,柠檬,檸檬 (ning4 mung4),,,,,,,
-corn,玉米,玉米 (juk6 mai5),,,,,,,
-rice,米饭,飯 (faan6),,,,,,,
-oil,油,油 (jau4),,,,,,,
-seed,种子,籽 (zi2),,,,,,,
-knife,刀,刀 (dou1),,,,,,,
-spoon,匙,湯匙 (tong1 si4),,,,,,,
-fork,叉,叉 (caa1),,,,,,,
-plate,盘子,碟 (dip6),,,,,,,
-cup,杯子,杯 (bui1),,,,,,,
-breakfast,早餐,早餐 (zou2 caan1),,,,,,,
-lunch,午餐,午餐 (ng5 caan1),,,,,,,
-dinner,晚餐,晚餐 (maan5 caan1),,,,,,,
-sugar,糖,糖 (tong4),,,,,,,
-salt,盐,鹽 (jam4),,,,,,,
-bottle,瓶子,樽 (zeon1),,,,,,,
+eat,吃,食 (sik6),食べる (たべる),essen,먹다,,manger,comer,ăn
+drink,喝,飲 (jam2),飲む (のむ),trinken,마시다,,boire,beber,uống
+feed,喂,餵 (wai5),養う (やしなう),füttern,먹이다,,nourrir,alimentar,cho ăn
+cook,煮,煮 (zyu2),料理する (りょうりする),kochen,요리하다,,cuire,cocinar,nấu
+小类beverage,饮料,飲品 (jam2 ban2),飲み物 (のみもの),Getränk,음료,,boisson,bebida,đồ uống
+coffee,咖啡,咖啡 (gaa1 fe1),コーヒー (こーひー),Kaffee,커피,,café,café,cà phê
+tea,茶,茶 (caa4),お茶 (おちゃ),Tee,차,,thé,té,trà
+wine,葡萄酒,酒 (zau2),ワイン (わいん),Wein,와인,,vin,vino,rượu
+beer,啤酒,啤酒 (be1 zau2),ビール (びーる),Bier,맥주,,bière,cerveza,bia
+juice,果汁,果汁 (gwo2 zik1),ジュース (じゅーす),Saft,주스,,jus,zumo,nước ép
+water,水,水 (seoi2),水 (みず),Wasser,물,,eau,agua,nước
+milk,牛奶,牛奶 (ngau4 naai5),牛乳 (ぎゅうにゅう),Milch,우유,,lait,leche,sữa
+小类food,食物,食物 (sik6 mat6),食品 (しょくひん),Essen,음식,,nourriture,comida,thức ăn
+egg,蛋,雞蛋 (gai1 daan6),卵 (たまご),Ei,계란,,œuf,huevo,trứng
+cheese,奶酪,芝士 (zi1 si6),チーズ (ちーず),Käse,치즈,,fromage,queso,phô mai
+bread,面包,麵包 (min6 baau1),パン (ぱん),Brot,빵,,pain,pan,banh mi
+soup,汤,湯 (tong1),スープ (すーぷ),Suppe,국,,soupe,sopa,súp
+cake,蛋糕,蛋糕 (daan6 gou1),ケーキ (けーき),Kuchen,케이크,,gâteau,pastel,bánh
+chicken,鸡,雞 (gai1),鶏肉 (とりにく),Huhn,닭,,poulet,pollo,gà
+pork,猪肉,豬肉 (zyu1 juk6),豚肉 (ぶたにく),Schweinefleisch,돼지고기,,porc,cerdo,thịt heo
+beef,牛肉,牛肉 (ngau4 juk6),牛肉 (ぎゅうにく),Rindfleisch,쇠고기,,boeuf,carne de res,bò
+apple,苹果,蘋果 (ping4 gwo2),リンゴ (りんご),Apfel,사과,,pomme,manzana,táo
+banana,香蕉,香蕉 (hoeng1 ziu1),バナナ (ばなな),Banane,바나나,,banane,plátano,chuối
+orange,橙子,橙 (caang2),オレンジ (おれんじ),Orange,오렌지,,orange,naranja,cam
+lemon,柠檬,檸檬 (ning4 mung4),レモン (れもん),Zitrone,레몬,,citron,limón,chanh
+corn,玉米,玉米 (juk6 mai5),トウモロコシ (とうもろこし),Mais,옥수수,,maïs,maíz,bắp
+rice,米饭,飯 (faan6),ご飯 (ごはん),Reis,밥,,riz,arroz,gạo
+oil,油,油 (jau4),油 (あぶら),Öl,기름,,huile,aceite,dầu
+seed,种子,籽 (zi2),種子 (たね),Samen,씨앗,,graine,semilla,hạt
+knife,刀,刀 (dou1),ナイフ (ないふ),Messer,칼,,couteau,cuchillo,dao
+spoon,匙,湯匙 (tong1 si4),スプーン (supuun),Löffel,숟가락,,cuillère,cuchara,thìa
+fork,叉,叉 (caa1),フォーク (ふぉーく),Gabel,포크,,fourchette,tenedor,nĩm
+plate,盘子,碟 (dip6),皿 (さら),Teller,접시,,assiette,plato,dĩa
+cup,杯子,杯 (bui1),カップ (かっぷ),Tasse,컵,,tasse,taza,cốc
+breakfast,早餐,早餐 (zou2 caan1),朝食 (ちょうしょく),Frühstück,아침식사,,petit-déjeuner,desayuno,bữa sáng
+lunch,午餐,午餐 (ng5 caan1),昼食 (ちゅうしょく),Mittagessen,점심식사,,déjeuner,almuerzo,bữa trưa
+dinner,晚餐,晚餐 (maan5 caan1),夕食 (ゆうしょく),Abendessen,저녁식사,,dîner,cena,bữa tối
+sugar,糖,糖 (tong4),砂糖 (さとう),Zucker,설탕,,sucre,azúcar,đường
+salt,盐,鹽 (jam4),塩 (しお),Salz,소금,,sel,sal,s muối
+bottle,瓶子,樽 (zeon1),ボトル (ぼとる),Flasche,병,,bouteille,botella,chai
 类 4 KKNL - qyj mut,cmn,yue,ja,de,ko,eo,fr,es,vi
-wear,穿,穿 (cyun1),,,,,,,
-小类clothing,衣物,衣物 (ji1 mat6),,,,,,,
-hat,帽子,帽子 (mou6 zi2),,,,,,,
-dress,连衣裙,裙 (kwan4),,,,,,,
-suit,西装,西裝 (sai1 zong1),,,,,,,
-skirt,裙子,裙 (kwan4),,,,,,,
-shirt,衬衫,襯衫 (cin3 saam1),,,,,,,
-T-shirt,T恤,T恤 (T seot1),,,,,,,
-pants,裤子,長褲 (coeng4 fu3),,,,,,,
-shoes,鞋,鞋 (haai4),,,,,,,
-pocket,口袋,口袋 (hau2 doi6),,,,,,,
-coat,外套,外套 (ngoi6 tou3),,,,,,,
-stain,污点,污漬 (wu1 zik1),,,,,,,
+wear,穿,穿 (cyun1),着る (きる),tragen,입다,,porter,llevar,mặc
+小类clothing,衣物,衣物 (ji1 mat6),衣類 (いるい),Kleidung,의류,,vêtement,ropa,quần áo
+hat,帽子,帽子 (mou6 zi2),帽子 (ぼうし),Hut,모자,,chapeau,sombrero,mũ
+dress,连衣裙,裙 (kwan4),ドレス (doresu),Kleid,드레스,,robe,vestido,áo liền
+suit,西装,西裝 (sai1 zong1),スーツ (sūtsu),Anzug,정장,,costume,traje,áo vest
+skirt,裙子,裙 (kwan4),スカート (sukāto),Rock,치마,,jupe,falda,chân váy
+shirt,衬衫,襯衫 (cin3 saam1),シャツ (shatsu),Hemd,셔츠,,chemise,camisa,áo sơ mi
+T-shirt,T恤,T恤 (T seot1),Tシャツ (T shatsu),T-Shirt,T셔츠,,T-shirt,camiseta,áo phông
+pants,裤子,長褲 (coeng4 fu3),パンツ (pantsu),Hose,바지,,pantalon,pantalones,quần
+shoes,鞋,鞋 (haai4),靴 (くつ),Schuhe,신발,,chaussures,zapatos,giày
+pocket,口袋,口袋 (hau2 doi6),ポケット (poketto),Tasche,포켓,,poches,bolsillo,ngăn túi
+coat,外套,外套 (ngoi6 tou3),コート (kōto),Mantel,코트,,manteau,abrigo,áo khoác
+stain,污点,污漬 (wu1 zik1),シミ (shimi),Fleck,얼룩,,tache,mancha,vết bẩn
 类 4 KKNL - juongh phyimq,cmn,yue,ja,de,ko,eo,fr,es,vi
-piece,片,塊(faai3),,,,,,,
-clean,干净,乾淨 (gon1 zeng6),,,,,,,
-dirty,脏,骯髒 (ong1 zoeng1),,,,,,,
-小类electronics,电子产品,電子產品 (din6 zi2 caan2 ban2),,,,,,,
-clock,时钟,鐘 (zung1),,,,,,,
-lamp,台灯,燈 (dang1),,,,,,,
-fan,风扇,風扇 (fung1 sin1),,,,,,,
-cell phone,手机,手機 (sau2 gei1),,,,,,,
-network,网络,網絡 (mong5 lok6),,,,,,,
-computer,电脑,電腦 (din6 nou5),,,,,,,
-program,程序,程式 (cing4 sik1),,,,,,,
-laptop,笔记本电脑,筆記本電腦 (bat1 gei1 bun2 din6 nou5),,,,,,,
-screen,屏幕,屏幕 (ping4 mun5),,,,,,,
-camera,相机,相機 (soeng1 gei1),,,,,,,
-television,电视,電視 (din6 si6),,,,,,,
-radio,收音机,收音機 (sau1 jam1 gei1),,,,,,,
-小类materials,材料,物料 (mat6 liu6),,,,,,,
-glass,玻璃,玻璃 (bo1 lei4),,,,,,,
-metal,金属,金屬 (gam1 suk6),,,,,,,
-plastic,塑料,塑料 (so1 lik6),,,,,,,
-wood,木材,木 (muk6),,,,,,,
-stone,石头,石 (seot6),,,,,,,
-diamond,钻石,鑽石 (zyun1 sek6),,,,,,,
-clay,黏土,黏土 (nim4 tou5),,,,,,,
-dust,灰尘,塵土 (can4 tou5),,,,,,,
-gold,黄金,金 (gam1),,,,,,,
-copper,铜,銅 (tung4),,,,,,,
-silver,银,銀 (ngan4),,,,,,,
-小类待分home,家,家居 (gaa1 geoi1),,,,,,,
-table,桌子,桌子 (coek3 zi2),,,,,,,
-chair,椅子,椅子 (ji5 zi2),,,,,,,
-bed,床,床 (cong4),,,,,,,
-dream,梦,夢 (mung6),,,,,,,
-window,窗,窗戶 (coeng4 wu6),,,,,,,
-door,门,門 (mun4),,,,,,,
-bedroom,卧室,臥室 (ngo6 sat1),,,,,,,
-kitchen,厨房,廚房 (co4 fong2),,,,,,,
-bathroom,浴室,浴室 (juk6 sat1),,,,,,,
-pencil,铅笔,鉛筆 (jin1 bat1),,,,,,,
-pen,钢笔,筆 (bat1),,,,,,,
-photograph,照片,照片 (ziu3 pin2),,,,,,,
-soap,肥皂,肥皂 (fei4 zou6),,,,,,,
-book,书,書 (syu1),,,,,,,
-page,页,頁 (jip6),,,,,,,
-key,钥匙,鎖匙 (so2 ci4),,,,,,,
-paint,颜料,顏料 (ngaan4 lei6),,,,,,,
-letter,信,信 (seon3),,,,,,,
-note,笔记,便條 (bin6 tiu4),,,,,,,
-wall,墙,牆 (coeng4),,,,,,,
-paper,纸,紙 (zi2),,,,,,,
-floor,地板,地板 (dei6 baan2),,,,,,,
-ceiling,天花板,天花板 (tin1 faa1 baan2),,,,,,,
-roof,屋顶,屋頂 (nguk1 ding2),,,,,,,
-pool,游泳池,泳池 (wing6 ci4),,,,,,,
-lock,锁,鎖 (so2),,,,,,,
-telephone,电话,電話 (din6 waa2),,,,,,,
-garden,花园,花園 (faa1 jyun4),,,,,,,
-yard,院子,院子 (jyun6 zi2),,,,,,,
-needle,针,針 (zam1),,,,,,,
-bag,袋子,袋 (doi6),,,,,,,
-box,盒子,盒子 (hap6 zi2),,,,,,,
-gift,礼物,禮物 (lai5 mat6),,,,,,,
-card,卡片,卡片 (kaat1 pin2),,,,,,,
-ring,戒指,戒指 (gaai3 zi1),,,,,,,
-tool,工具,工具 (gung1 geoi6),,,,,,,
+piece,片,塊(faai3),部分 (ぶぶん),Stück,조각,,morceau,pedazo,mảnh
+clean,干净,乾淨 (gon1 zeng6),きれい (kirei),sauber,깨끗한,,propre,limpio,sạch
+dirty,脏,骯髒 (ong1 zoeng1),汚い (きたない),schmutzig,더러운,,sale,sucio,bẩn
+小类electronics,电子产品,電子產品 (din6 zi2 caan2 ban2),電子製品,Elektronik,전자제품,,électronique,electrónica,điện tử
+clock,时钟,鐘 (zung1),時計,Uhr,시계,,horloge,reloj,đồng hồ
+lamp,台灯,燈 (dang1),ランプ,Lampe,전등,,lampe,lámpara,đèn
+fan,风扇,風扇 (fung1 sin1),扇風機,Ventilator,선풍기,,ventilateur,ventilador,quạt
+cell phone,手机,手機 (sau2 gei1),携帯電話,Handy,핸드폰,,téléphone portable,teléfono móvil,điện thoại di động
+network,网络,網絡 (mong5 lok6),ネットワーク,Netzwerk,네트워크,,réseau,red,mạng
+computer,电脑,電腦 (din6 nou5),コンピューター,Computer,컴퓨터,,ordinateur,computadora,máy tính
+program,程序,程式 (cing4 sik1),プログラム,Programm,프로그램,,programme,programa,chương trình
+laptop,笔记本电脑,筆記本電腦 (bat1 gei1 bun2 din6 nou5),ノートパソコン,Laptop,노트북,,ordinateur portable,portátil,máy tính xách tay
+screen,屏幕,屏幕 (ping4 mun5),スクリーン,Bildschirm,화면,,écran,pantalla,màn hình
+camera,相机,相機 (soeng1 gei1),カメラ,Kamera,카메라,,caméra,cámara,máy ảnh
+television,电视,電視 (din6 si6),テレビ,Fernseher,텔레비전,,télévision,televisión,ti vi
+radio,收音机,收音機 (sau1 jam1 gei1),ラジオ,Radio,라디오,,radio,radio,đài radio
+小类materials,材料,物料 (mat6 liu6),素材 (そざい),Material,재료,,matériaux,materiales,vật liệu
+glass,玻璃,玻璃 (bo1 lei4),ガラス (がらす),Glas,유리,,verre,vidrio,kính
+metal,金属,金屬 (gam1 suk6),金属 (きんぞく),Metall,금속,,métal,metal,kim loại
+plastic,塑料,塑料 (so1 lik6),プラスチック (ぷらすちっく),Plastik,플라스틱,,plastique,plástico,nhựa
+wood,木材,木 (muk6),木材 (もくざい),Holz,나무,,bois,madera,gỗ
+stone,石头,石 (seot6),石 (いし),Stein,돌,,pierre,piedra,đá
+diamond,钻石,鑽石 (zyun1 sek6),ダイヤモンド (だいやもんど),Diamant,다이아몬드,,diamant,diamante,kim cương
+clay,黏土,黏土 (nim4 tou5),粘土 (ねんど),Ton,점토,,argile,arcilla,gạch
+dust,灰尘,塵土 (can4 tou5),ほこり (hokori),Staub,먼지,,poussière,polvo,bụi
+gold,黄金,金 (gam1),金 (きん),Gold,금,,or,oro,vàng
+copper,铜,銅 (tung4),銅 (どう),Kupfer,구리,,cuivre,cobre,đồng
+silver,银,銀 (ngan4),銀 (ぎん),Silber,은,,argent,plata,bạc
+小类待分home,家,家居 (gaa1 geoi1),家 (いえ),Zuhause,집,,maison,casa,nhà
+table,桌子,桌子 (coek3 zi2),机 (つくえ),Tisch,탁자,,table,mesa,bàn
+chair,椅子,椅子 (ji5 zi2),椅子 (いす),Stuhl,의자,,chaise,silla,ghế
+bed,床,床 (cong4),ベッド (べっど),Bett,침대,,lit,cama,giường
+dream,梦,夢 (mung6),夢 (ゆめ),Traum,꿈,,rêve,sueño,giấc mơ
+window,窗,窗戶 (coeng4 wu6),窓 (まど),Fenster,창,,fenêtre,ventana,cửa sổ
+door,门,門 (mun4),ドア (どあ),Tür,문,,porte,puerta,cửa
+bedroom,卧室,臥室 (ngo6 sat1),寝室 (しんしつ),Schlafzimmer,침실,,chambre,dormitorio,phòng ngủ
+kitchen,厨房,廚房 (co4 fong2),キッチン (きっちん),Küche,부엌,,cuisine,cocina,bếp
+bathroom,浴室,浴室 (juk6 sat1),浴室 (よくしつ),Badezimmer,욕실,,salle de bain,baño,phòng tắm
+pencil,铅笔,鉛筆 (jin1 bat1),鉛筆 (えんぴつ),Bleistift,연필,,crayon,lápiz,bút chì
+pen,钢笔,筆 (bat1),万年筆 (まんねんひつ),Füller,펜,,stylo,pluma,bút mực
+photograph,照片,照片 (ziu3 pin2),写真 (しゃしん),Fotografie,사진,,photographie,fotografía,ảnh
+soap,肥皂,肥皂 (fei4 zou6),石けん (せっけん),Seife,비누,,savon,jabón,xà phòng
+book,书,書 (syu1),本 (ほん),Buch,책,,livre,libro,sách
+page,页,頁 (jip6),ページ (ぺーじ),Seite,페이지,,page,página,trang
+key,钥匙,鎖匙 (so2 ci4),鍵 (かぎ),Schlüssel,열쇠,,clé,llave,chìa khóa
+paint,颜料,顏料 (ngaan4 lei6),絵の具 (えのぐ),Farbe,페인트,,peinture,pintura,sơn
+letter,信,信 (seon3),手紙 (てがみ),Brief,편지,,lettre,carta,thư
+note,笔记,便條 (bin6 tiu4),ノート (のーと),Notiz,노트,,note,nota,ghi chú
+wall,墙,牆 (coeng4),壁 (かべ),Wand,벽,,mur,pared,tường
+paper,纸,紙 (zi2),紙 (かみ),Papier,종이,,papier,papel,gia
+floor,地板,地板 (dei6 baan2),床 (ゆか),Boden,바닥,,sol,suelo,sàn
+ceiling,天花板,天花板 (tin1 faa1 baan2),天井 (てんじょう),Decke,천장,,plafond,techo,trần
+roof,屋顶,屋頂 (nguk1 ding2),屋根 (やね),Dach,지붕,,toit,techo,mái nhà
+pool,游泳池,泳池 (wing6 ci4),プール (ぷーる),Pool,수영장,,piscine,piscina,bể bơi
+lock,锁,鎖 (so2),鍵 (かぎ),Schloss,자물쇠,,serrure,cerradura,khóa
+telephone,电话,電話 (din6 waa2),電話 (でんわ),Telefon,전화,,téléphone,teléfono,điện thoại
+garden,花园,花園 (faa1 jyun4),庭園 (ていえん),Garten,정원,,jardin,jardín,sân vườn
+yard,院子,院子 (jyun6 zi2),庭 (てい),Hof,마당,,cour,patio,sân
+needle,针,針 (zam1),針 (はり),Nadel,바늘,,aiguille,aguja,kim
+bag,袋子,袋 (doi6),袋 (ふくろ),Tasche,가방,,sac,bolsa,túi
+box,盒子,盒子 (hap6 zi2),箱 (はこ),Schachtel,상자,,boîte,caja,hộp
+gift,礼物,禮物 (lai5 mat6),贈り物 (おくりもの),Geschenk,선물,,cadeau,regalo,quà
+card,卡片,卡片 (kaat1 pin2),カード (かーど),Karte,카드,,carte,tarjeta,thẻ
+ring,戒指,戒指 (gaai3 zi1),指輪 (ゆびわ),Ring,반지,,bague,anillo,chiếc nhẫn
+tool,工具,工具 (gung1 geoi6),道具 (どうぐ),Werkzeug,도구,,outil,herramienta,dụng cụ
 类 4 KKNL - kyonh truk,cmn,yue,ja,de,ko,eo,fr,es,vi
-build,建造,建 (gin3),,,,,,,
-小类待分location,位置,地點 (dei6 diu6),,,,,,,
-city,城市,城市 (sing4 si5),,,,,,,
-house,房子,屋企 (uk1 kei5),,,,,,,
-apartment,公寓,公寓 (gung1 jip3),,,,,,,
-street/road,街道,街 (gaai1),,,,,,,
-airport,机场,機場 (gei1 coeng4),,,,,,,
-train station,火车站,火車站 (fo2 ce1 zaam6),,,,,,,
-bridge,桥,橋 (kiu4),,,,,,,
-hotel,酒店,酒店 (zau2 dim3),,,,,,,
-restaurant,餐馆,餐廳 (caan1 teng1),,,,,,,
-farm,农场,農場 (nong4 coeng4),,,,,,,
-court,法院,法院 (faat3 jyun6),,,,,,,
-school,学校,學校 (hok6 haau6),,,,,,,
-office,办公室,辦公室 (baan6 gung1 sat1),,,,,,,
-room,房间,房間 (fong2 gaan1),,,,,,,
-town,镇,市鎮 (si5 zan3),,,,,,,
-university,大学,大學 (daai6 hok6),,,,,,,
-club,俱乐部,會所 (wui5 so2),,,,,,,
-bar,酒吧,酒吧 (zau2 baa1),,,,,,,
-park,公园,公園 (gung1 jyun2),,,,,,,
-camp,营地,營地 (jing4 dei6),,,,,,,
-store/shop,商店,商店 (soeng1 dim3),,,,,,,
-theater,剧院,劇院 (kek6 jyun6),,,,,,,
-library,图书馆,圖書館 (tou4 syu1 gun2),,,,,,,
-hospital,医院,醫院 (ji1 jyun2),,,,,,,
-church,教堂,教堂 (gaau3 tong4),,,,,,,
-market,市场,市場 (si5 coeng4),,,,,,,
-country,国家,國家 (gwok3 gaa1),,,,,,,
-building,建筑物,樓 (lau4),,,,,,,
-ground,地面,地 (dei6),,,,,,,
-space (outer space),太空,太空 (taai3 hung1),,,,,,,
-bank,银行,銀行 (ngan4 hong4),,,,,,,
+build,建造,建 (gin3),建てる (たてる),bauen,지으다,,construire,construir,xây dựng
+小类待分location,位置,地點 (dei6 diu6),場所 (ばしょ),Ort,위치,,emplacement,ubicación,vị trí
+city,城市,城市 (sing4 si5),都市 (とし),Stadt,도시,,ville,ciudad,thành phố
+house,房子,屋企 (uk1 kei5),家 (いえ),Haus,집,,maison,casa,nhà
+apartment,公寓,公寓 (gung1 jip3),アパート,Apartment,아파트,,appartement,apartamento,chung cư
+street/road,街道,街 (gaai1),道路 (どうろ),Straße,도로,,rue,calle,đường-địa phương
+airport,机场,機場 (gei1 coeng4),空港 (くうこう),Flughafen,공항,,aéroport,aeropuerto,sân bay
+train station,火车站,火車站 (fo2 ce1 zaam6),駅 (えき),Bahnhof,기차역,,gare,estación,nhà ga
+bridge,桥,橋 (kiu4),橋 (はし),Brücke,다리,,pont,puente,cầu
+hotel,酒店,酒店 (zau2 dim3),ホテル,Hotel,호텔,,hôtel,hotel,khách sạn
+restaurant,餐馆,餐廳 (caan1 teng1),レストラン,Restaurant,레스토랑,,restaurant,restaurante,nhà hàng
+farm,农场,農場 (nong4 coeng4),農場 (のうじょう),Bauernhof,농장,,ferme,granja,nông trại
+court,法院,法院 (faat3 jyun6),裁判所 (さいばんしょ),Gericht,법원,,tribunal,tribunal,tòa án
+school,学校,學校 (hok6 haau6),学校 (がっこう),Schule,학교,,école,escuela,trường
+office,办公室,辦公室 (baan6 gung1 sat1),オフィス,Büro,사무실,,bureau,oficina,văn phòng
+room,房间,房間 (fong2 gaan1),部屋 (へや),Zimmer,방,,chambre,cuarto,phòng
+town,镇,市鎮 (si5 zan3),町 (ちょう),Stadt,마을,,village,pueblo,thị trấn
+university,大学,大學 (daai6 hok6),大学 (だいがく),Universität,대학교,,université,universidad,đại học
+club,俱乐部,會所 (wui5 so2),クラブ,Verein,클럽,,club,club,clb
+bar,酒吧,酒吧 (zau2 baa1),バー,Bar,바,,bar,bar,quán bar
+park,公园,公園 (gung1 jyun2),公園 (こうえん),Park,공원,,parc,parque,công viên
+camp,营地,營地 (jing4 dei6),キャンプ,Lager,캠프,,campamento,camp,trại khu
+store/shop,商店,商店 (soeng1 dim3),店舗 (てんぽ),Geschäft,상점,,magasin,tienda,cửa hàng
+theater,剧院,劇院 (kek6 jyun6),劇場 (げきじょう),Theater,극장,,théâtre,teatro,rạp hát
+library,图书馆,圖書館 (tou4 syu1 gun2),図書館 (としょかん),Bibliothek,도서관,,bibliothèque,biblioteca,thư viện
+hospital,医院,醫院 (ji1 jyun2),病院 (びょういん),Krankenhaus,병원,,hôpital,hospital,bệnh viện
+church,教堂,教堂 (gaau3 tong4),教会 (きょうかい),Kirche,교회,,église,iglesia,nhà thờ
+market,市场,市場 (si5 coeng4),市場 (いちば),Markt,시장,,marché,mercado,chợ
+country,国家,國家 (gwok3 gaa1),国 (くに),Land,나라,,pays,país,quốc gia
+building,建筑物,樓 (lau4),建物 (たてもの),Gebäude,건물,,bâtiment,edificio,toà nhà
+ground,地面,地 (dei6),地面 (じめん),Boden,땅,,sol,suelo,mặt đất
+space (outer space),太空,太空 (taai3 hung1),宇宙 (うちゅう),Weltraum,우주,,espace,espacio,không gian
+bank,银行,銀行 (ngan4 hong4),銀行 (ぎんこう),Bank,은행,,banque,banco,ngân hàng
 类 5 NLUJ,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 5 NLUJ - kaew thoung,cmn,yue,ja,de,ko,eo,fr,es,vi
-walk,走,走 (zou2),,,,,,,
-run,跑,跑 (paau2),,,,,,,
-jump,跳,跳 (tiu3),,,,,,,
-pass by,经过,經過 (ging1 gwo3),,,,,,,
-drive,开车,開車 (hoi1 ce1),,,,,,,
-fly,飞,飛 (fei1),,,,,,,
-swim,游泳,游泳 (jau4 wing6),,,,,,,
-go,去,去 (heoi3),,,,,,,
-stop,停,停止 (ting4 zi2),,,,,,,
-sit,坐,坐 (co5),,,,,,,
-stand,站,站 (zaam6),,,,,,,
-lie down,躺下,躺 (tong2),,,,,,,
-turn,转动,轉 (zyun2),,,,,,,
-fall,摔倒,跌 (dit3),,,,,,,
-follow,跟随,跟隨 (gan1 ceoi4),,,,,,,
-小类transportation,交通,交通工具 (gaau1 tung1 gung1 geoi6),,,,,,,
-train,火车,火車 (fo2 ce1),,,,,,,
-plane,飞机,飛機 (fei1 gei1),,,,,,,
-car,汽车,汽車 (hei3 ce1),,,,,,,
-truck,卡车,卡車 (kaa1 ce1),,,,,,,
-bicycle,自行车,單車 (daan1 ce1),,,,,,,
-bus,公共汽车,巴士 (baa1 si6),,,,,,,
-boat,船,船 (syun4),,,,,,,
-ship,船,船 (syuèn),,,,,,,
-tire,轮胎,車輪 (ce1 leon4),,,,,,,
-gasoline,汽油,汽油 (hei3 jau4),,,,,,,
-engine,引擎,引擎 (jan5 keng4),,,,,,,
-(train) ticket,火车票,(火車)車票 (fo2 ce1 ce1 piu3),,,,,,,
+walk,走,走 (zou2),歩く (あるく),gehen,걷다,,marcher,caminar,đi bộ
+run,跑,跑 (paau2),走る (はしる),rennen,달리다,,courir,correr,chạy
+jump,跳,跳 (tiu3),跳ぶ (とぶ),springen,점프하다,,sauter,saltar,nhảy
+pass by,经过,經過 (ging1 gwo3),通り過ぎる (とおりすぎる),vorbeigehen,지나가다,,passer,passar,lướt qua
+drive,开车,開車 (hoi1 ce1),運転する (うんてんする),fahren,운전하다,,conduire,conducir,lái xe
+fly,飞,飛 (fei1),飛ぶ (とぶ),fliegen,날다,,voler,volar,bay
+swim,游泳,游泳 (jau4 wing6),泳ぐ (およぐ),schwimmen,수영하다,,nager,nadar,bơi
+go,去,去 (heoi3),行く (いく),gehen,가다,,aller,ir,đi
+stop,停,停止 (ting4 zi2),止まる (とまる),halten,멈추다,,arrêter,detener,dừng
+sit,坐,坐 (co5),座る (すわる),sitzen,앉다,,asseoir,sentarse,ngồi
+stand,站,站 (zaam6),立つ (たつ),stehen,서다,,se tenir debout,estar de pie,đứng
+lie down,躺下,躺 (tong2),横になる (よこになる),sich hinlegen,누워 있다,,s'allonger,tumbarse,nằm
+turn,转动,轉 (zyun2),回す (まわす),drehen,돌리다,,tourner,girar,xoay
+fall,摔倒,跌 (dit3),落ちる (おちる),fallen,떨어지다,,tomber,caer,rơi
+follow,跟随,跟隨 (gan1 ceoi4),従う (したがう),folgen,따르다,,suivre,seguir,theo
+小类transportation,交通,交通工具 (gaau1 tung1 gung1 geoi6),交通 (こうつう),Transport,교통,,transport,transporte,giao thông
+train,火车,火車 (fo2 ce1),電車 (でんしゃ),Zug,기차,,train,tren,tàu
+plane,飞机,飛機 (fei1 gei1),飛行機 (ひこうき),Flugzeug,비행기,,avion,avión,máy bay
+car,汽车,汽車 (hei3 ce1),車 (くるま),Auto,차,,voiture,coche,xe hơi
+truck,卡车,卡車 (kaa1 ce1),トラック,LKW,트럭,,camion,camión,xe tải
+bicycle,自行车,單車 (daan1 ce1),自転車 (じてんしゃ),Fahrrad,자전거,,vélo,bicicleta,xe đạp
+bus,公共汽车,巴士 (baa1 si6),バス,Bus,버스,,bus,autobús,xe buýt
+boat,船,船 (syun4),ボート,Boot,배,,bateau,barco,thuyền
+ship,船,船 (syuèn),船 (ふね),Schiff,선박,,bateau,barco,tàu
+tire,轮胎,車輪 (ce1 leon4),タイヤ,Reifen,타이어,,pneu,llanta,lốp
+gasoline,汽油,汽油 (hei3 jau4),ガソリン,Benzin,휘발유,,essence,gasolina,xăng
+engine,引擎,引擎 (jan5 keng4),エンジン,Motor,엔진,,moteur,motor,động cơ
+(train) ticket,火车票,(火車)車票 (fo2 ce1 ce1 piu3),切符 (きっぷ),Fahrkarte,기차표,,billet,billete,vé xe lửa
 类 5 NLUJ - lyoq driaeng,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 6 NLGD,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 6 NLGD - tsoh dzryh,cmn,yue,ja,de,ko,eo,fr,es,vi
-work,工作,工作 (gung1 zok3),,,,,,,
-shoot(a gun),射击,射擊 (se6 gik1),,,,,,,
-dig,挖,挖 (waa2),,,,,,,
-cut,剪,切 (cit3),,,,,,,
-fight,打架,打鬥 (daa2 dau3),,,,,,,
-win,赢,贏 (jing4),,,,,,,
-lose,输,輸 (syu1),,,,,,,
-mix/stir,搅拌,攪拌 (gaau2 bun2),,,,,,,
-bend,弯曲,彎曲 (waan1 kug1),,,,,,,
-wash,洗,洗 (sai2),,,,,,,
-open,打开,開 (hoi1),,,,,,,
-close,关闭,關 (gwaan1),,,,,,,
-call,打电话,打電話 (daa2 din6 waa2),,,,,,,
-catch,捕捉,捉 (zoek3),,,,,,,
-throw,扔,投 (tau4),,,,,,,
-clean,清洁,清潔 (cing1 git3),,,,,,,
-find,找到,尋找 (cam4 soeng4),,,,,,,
-push,推,推 (teoi1),,,,,,,
-pull,拉,拉 (laai1),,,,,,,
-carry,携带,攜帶 (keoi4 doi6),,,,,,,
-break,打破,破壞 (po3 waai6),,,,,,,
-hang,挂,掛 (gwaa3),,,,,,,
-shake,摇,搖 (jiu1),,,,,,,
-beat,打,打 (daa2),,,,,,,
-lift,抬起,舉 (geoi2),,,,,,,
-team,团队,隊伍 (deoi6 mou5),,,,,,,
-election,选举,選舉 (syun2 geoi2),,,,,,,
+work,工作,工作 (gung1 zok3),働く (はたらく),arbeiten,일하다,,travailler,trabajar,làm việc
+shoot(a gun),射击,射擊 (se6 gik1),撃つ (うつ),schießen,쏘다,,tirer,disparar,bắn
+dig,挖,挖 (waa2),掘る (ほる),graben,파다,,creuser,cavar,khắc
+cut,剪,切 (cit3),切る (きる),schneiden,자르다,,couper,cortar,cắt
+fight,打架,打鬥 (daa2 dau3),戦う (たたかう),kämpfen,싸우다,,se battre,pelear,chiến đấu
+win,赢,贏 (jing4),勝つ (かつ),gewinnen,이기다,,gagner,ganar,thắng
+lose,输,輸 (syu1),負ける (まける),verlieren,지다,,perdre,perder,thua
+mix/stir,搅拌,攪拌 (gaau2 bun2),混ぜる (まぜる),mischen,섞다,,mélanger,mezclar,trộn
+bend,弯曲,彎曲 (waan1 kug1),曲げる (まげる),biegen,구부리다,,plier,doblar,uốn
+wash,洗,洗 (sai2),洗う (あらう),waschen,씻다,,laver,lavar,giặt
+open,打开,開 (hoi1),開く (あく),öffnen,열다,,ouvrir,abrir,mở
+close,关闭,關 (gwaan1),閉じる (とじる),schließen,닫다,,fermer,cerrar,đóng
+call,打电话,打電話 (daa2 din6 waa2),電話する (でんわする),anrufen,전화하다,,appeler,llamar,gọi
+catch,捕捉,捉 (zoek3),捕まえる (つかまえる),fangen,잡다,,attraper,atrapar,bắt
+throw,扔,投 (tau4),投げる (なげる),werfen,던지다,,jeter,lanzar,ném
+clean,清洁,清潔 (cing1 git3),きれいにする (きれいにする),reinigen,청소하다,,nettoyer,limpiar,lau
+find,找到,尋找 (cam4 soeng4),見つける (みつける),finden,찾다,,trouver,encontrar,tìm
+push,推,推 (teoi1),押す (おす),drücken,밀다,,pousser,empujar,đẩy
+pull,拉,拉 (laai1),引っ張る (hikitsuru),ziehen,당기다,,tirer,tirar,kéo
+carry,携带,攜帶 (keoi4 doi6),運ぶ (はこぶ),tragen,나르다,,porter,llevar,mang
+break,打破,破壞 (po3 waai6),壊す (こわす),brechen,부수다,,casser,romper,đập
+hang,挂,掛 (gwaa3),かける (かける),hängen,걸다,,accrocher,colgar,treo
+shake,摇,搖 (jiu1),振る (ふる),schütteln,흔들다,,secouer,agitar,lắc
+beat,打,打 (daa2),打つ (うつ),schlagen,두드리다,,battre,golpear,đánh
+lift,抬起,舉 (geoi2),持ち上げる (もちあげる),heben,들다,,lever,sostener,nâng
+team,团队,隊伍 (deoi6 mou5),チーム,Team,팀,,équipe,equipo,nhóm
+election,选举,選舉 (syun2 geoi2),選挙 (せんきょ),Wahl,선거,,élection,elección,cử tri
 类 6 NLGD - koung guoh,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 6 NLGD - kaewh juk,cmn,yue,ja,de,ko,eo,fr,es,vi
-learn,学,学 (hok6),,,,,,,
-teach,教,教 (gaau3),,,,,,,
+learn,学,学 (hok6),学ぶ (まなぶ),lernen,배우다,,apprendre,aprender,học
+teach,教,教 (gaau3),教える (おしえる),lehren,가르치다,,enseigner,enseñar,dạy
 类 6 NLGD - koung tsak,cmn,yue,ja,de,ko,eo,fr,es,vi
-小类Job,工作,職業 (zik1 jim6),,,,,,,
-Teacher,老师,老師 (lou5 si1),,,,,,,
-Student,学生,學生 (hok6 sang1),,,,,,,
-Lawyer,律师,律師 (leot6 si6),,,,,,,
-Doctor,医生,醫生 (ji1 sang1),,,,,,,
-Patient,病人,病人 (beng6 jan4),,,,,,,
-Waiter,服务员,侍應生 (si6 jing5 sang1),,,,,,,
-Secretary,秘书,秘書 (bei3 syu1),,,,,,,
-Priest,神父,神父 (san4 fu6),,,,,,,
-Police,警察,警察 (ging2 caat3),,,,,,,
-Army,军队,軍隊 (gwan1 deoi6),,,,,,,
-Soldier,士兵,士兵 (si6 bing1),,,,,,,
-Artist,艺术家,藝術家 (ngai6 seot6 ga1),,,,,,,
-Author,作者,作家 (zok3 gaa1),,,,,,,
-Manager,经理,經理 (ging1 lei5),,,,,,,
-Reporter,记者,記者 (gei3 ze2),,,,,,,
-Actor,演员,演員 (jin2 jyun4),,,,,,,
+小类Job,工作,職業 (zik1 jim6),仕事 (しごと),Beruf,직업,,métier,trabajo,công việc
+Teacher,老师,老師 (lou5 si1),先生 (せんせい),Lehrer,선생님,,professeur,profesor,giáo viên
+Student,学生,學生 (hok6 sang1),学生 (がくせい),Schüler,학생,,étudiant,estudiante,sinh viên
+Lawyer,律师,律師 (leot6 si6),弁護士 (べんごし),Anwalt,변호사,,avocat,abogado,luật sư
+Doctor,医生,醫生 (ji1 sang1),医者 (いしゃ),Arzt,의사,,médecin,médico,bác sĩ
+Patient,病人,病人 (beng6 jan4),患者 (かんじゃ),Patient,환자,,patient,paciente,bệnh nhân
+Waiter,服务员,侍應生 (si6 jing5 sang1),ウェイター,Kellner,웨이터,,serveur,camarero,đầu bếp
+Secretary,秘书,秘書 (bei3 syu1),秘書 (ひしょ),Sekretär,비서,,secrétaire,secretario,thư ký
+Priest,神父,神父 (san4 fu6),神父 (しんぷ),Priester,신부,,prêtre,padre,cha sứ
+Police,警察,警察 (ging2 caat3),警察 (けいさつ),Polizei,경찰,,police,policía,cảnh sát
+Army,军队,軍隊 (gwan1 deoi6),軍 (ぐん),Armee,군대,,armée,ejército,quân đội
+Soldier,士兵,士兵 (si6 bing1),兵士 (へいし),Soldat,병사,,soldat,soldado,chiến sĩ
+Artist,艺术家,藝術家 (ngai6 seot6 ga1),芸術家 (げいじゅつか),Künstler,예술가,,artiste,artista,nghệ sĩ
+Author,作者,作家 (zok3 gaa1),著者 (ちょしゃ),Autor,작가,,auteur,autor,tác giả
+Manager,经理,經理 (ging1 lei5),マネージャー,Manager,매니저,,manager,gerente,quản lý
+Reporter,记者,記者 (gei3 ze2),レポーター,Reporter,기자,,journaliste,reportero,phóng viên
+Actor,演员,演員 (jin2 jyun4),俳優 (はいゆう),Schauspieler,배우,,acteur,actor,diễn viên
 类 6 NLGD - keng tsejh,cmn,yue,ja,de,ko,eo,fr,es,vi
-money,钱,錢 (cin2),,,,,,,
-dollar,美元,美金 (mei5 gam1),,,,,,,
-bill,账单,鈔票 (ciu1 piu3),,,,,,,
-price,价格,價錢 (gaa3 cin2),,,,,,,
-contract,合同,合同 (hap6 tung4),,,,,,,
-buy,买,購買 (gau3 maai5),,,,,,,
-pay,付款,支付 (fu6 zik6),,,,,,,
-sell,卖,出售 (ceot1 sau6),,,,,,,
-sign,签署,簽署 (cin4 syu5),,,,,,,
-rich,有钱,富有 (fu3 jau5),,,,,,,
-poor,穷,貧窮 (pan4 kung4),,,,,,,
-expensive,贵,昂貴 (ngong4 gwai3),,,,,,,
-cheap,便宜,便宜 (bin6 ji5),,,,,,,
+money,钱,錢 (cin2),お金 (おかね),Geld,돈,,argent,dinero,tiền
+dollar,美元,美金 (mei5 gam1),ドル,Dollar,달러,,dollar,dólar,đô la
+bill,账单,鈔票 (ciu1 piu3),請求書 (きんがくしょ),Rechnung,청구서,,facture,factura,hóa đơn
+price,价格,價錢 (gaa3 cin2),価格 (かかく),Preis,가격,,prix,precio,giá
+contract,合同,合同 (hap6 tung4),契約 (けいやく),Vertrag,계약,,contrat,contrato,hợp đồng
+buy,买,購買 (gau3 maai5),買う (かう),kaufen,사다,,acheter,comprar,mua
+pay,付款,支付 (fu6 zik6),支払う (しはらう),bezahlen,지불하다,,payer,pagar,trả tiền
+sell,卖,出售 (ceot1 sau6),売る (うる),verkaufen,팔다,,vendre,vender,bán
+sign,签署,簽署 (cin4 syu5),サインする (さいんする),unterschreiben,서명하다,,signer,firmar,đánh dấu
+rich,有钱,富有 (fu3 jau5),金持ち (かねもち),reich,부자인,,riche,rico,giàu
+poor,穷,貧窮 (pan4 kung4),貧乏 (びんぼう),arm,가난한,,pauvre,pobre,nghèo
+expensive,贵,昂貴 (ngong4 gwai3),高い (たかい),teuer,비싼,,cher,caro,mắc
+cheap,便宜,便宜 (bin6 ji5),安い (やすい),billig,싼,,bon marché,barato,rẻ
 类 7 NLTK,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 7 NLTK - trie sjyk,cmn,yue,ja,de,ko,eo,fr,es,vi
-science,科学,科學 (fo1 hok6),,,,,,,
-technology,技术,科技 (fo1 gei6),,,,,,,
+science,科学,科學 (fo1 hok6),科学 (かがく),Wissenschaft,과학,,science,ciencia,khoa học
+technology,技术,科技 (fo1 gei6),テクノロジー,Technologie,기술,,technologie,tecnología,công nghệ
 类 7 NLTK - sy jwi,cmn,yue,ja,de,ko,eo,fr,es,vi
-think,想,諗 (lam6),,,,,,,
-religion,宗教,宗教 (zung1 gaau3),,,,,,,
-heaven,天堂,天堂 (tin1 tong4),,,,,,,
-hell,地狱,地獄 (dei6 juk6),,,,,,,
-god,神,神 (san4),,,,,,,
-pray,祈祷,祈禱 (kei4 dou6),,,,,,,
+think,想,諗 (lam6),考える (かんがえる),denken,생각하다,,penser,pensar,suy nghĩ
+religion,宗教,宗教 (zung1 gaau3),宗教 (しゅうきょう),Religion,종교,,religion,religión,tôn giáo
+heaven,天堂,天堂 (tin1 tong4),天国 (てんごく),Himmel,천국,,cieux,cielo,thiên đường
+hell,地狱,地獄 (dei6 juk6),地獄 (じごく),Hölle,지옥,,enfer,infierno,địa ngục
+god,神,神 (san4),神 (かみ),Gott,신,,Dieu,Dios,Thượng đế
+pray,祈祷,祈禱 (kei4 dou6),祈る (いのる),beten,기도하다,,prier,rezar,cầu nguyện
 类 7 NLTK - ngyon mun,cmn,yue,ja,de,ko,eo,fr,es,vi
-speak/say,说,說 / 講 (soeng2 / gong2),,,,,,,
-write,写,寫 (se2),,,,,,,
-consonant,辅音,子音 (zi2 jam1),,,,,,,
-vowel,元音,母音 (mou5 jam1),,,,,,,
-noun,名词,名詞 (ming4 ci4),,,,,,,
-verb,动词,動詞 (dung6 ci4),,,,,,,
-adjective,形容词,形容詞 (jing4 jung4 ci4),,,,,,,
-sign,标志,標誌 (biu1 zi6),,,,,,,
-magazine,杂志,雜誌 (zaap6 zi3),,,,,,,
-newspaper,报纸,報紙 (bou3 zi2),,,,,,,
+speak/say,说,說 / 講 (soeng2 / gong2),話す (はなす),sprechen,말하다,,parler,hablar,nói
+write,写,寫 (se2),書く (かく),schreiben,쓰다,,écrire,escribir,viết
+consonant,辅音,子音 (zi2 jam1),子音 (しいん),Konsonant,자음,,consonne,consonante,phụ âm
+vowel,元音,母音 (mou5 jam1),母音 (ぼいん),Vokal,모음,,voyelle,vocal,nguyên âm
+noun,名词,名詞 (ming4 ci4),名詞 (めいし),Substantiv,명사,,nom,sustantivo,danh từ
+verb,动词,動詞 (dung6 ci4),動詞 (どうし),Verb,동사,,verbe,verbo,động từ
+adjective,形容词,形容詞 (jing4 jung4 ci4),形容詞 (けいようし),Adjektiv,형용사,,adjectif,adjetivo,tính từ
+sign,标志,標誌 (biu1 zi6),サイン,Zeichen,표지,,signe,seña,biểu tượng
+magazine,杂志,雜誌 (zaap6 zi3),雑誌 (ざっし),Magazin,잡지,,magazine,revista,tạp chí
+newspaper,报纸,報紙 (bou3 zi2),新聞 (しんぶん),Zeitung,신문,,journal,journal,báo chí
 类 7 NLTK - sjyk phanh,cmn,yue,ja,de,ko,eo,fr,es,vi
-good,好,好 (hou2),,,,,,,
-bad,坏,壞 (waai6),,,,,,,
-yes,是,係 (hai6) / 唔係 (m4 hai6),,,,,,,
-no,不是,唔係 (m4 hai6),,,,,,,
-beautiful,美丽,靚 (leng3),,,,,,,
-ugly,丑,醜 (cuk1),,,,,,,
-famous,著名,有名 (jau5 meng2),,,,,,,
-nice,好,好 (hou2),,,,,,,
-mean,刻薄,壞 (waai6),,,,,,,
+good,好,好 (hou2),いい (いい),gut,좋은,,bon,bueno,tốt
+bad,坏,壞 (waai6),悪い (わるい),schlecht,나쁜,,mauvais,malo,xấu
+yes,是,係 (hai6) / 唔係 (m4 hai6),はい (hai),Ja,네,,oui,sí,vâng
+no,不是,唔係 (m4 hai6),いいえ (iie),Nein,아니오,,non,no,không
+beautiful,美丽,靚 (leng3),美しい (うつくしい),schön,아름다운,,beau,hermoso,đẹp
+ugly,丑,醜 (cuk1),醜い (みにくい),hässlich,추한,,laid,feo,xấu
+famous,著名,有名 (jau5 meng2),有名 (ゆうめい),berühmt,유명한,,célèbre,famoso,nổi tiếng
+nice,好,好 (hou2),いい (ii),nett,좋은,,gentil,amable,tốt
+mean,刻薄,壞 (waai6),意味 (いみ),gemein,심술궂은,,méchant,malo,có ý nghĩa
 类 7 NLTK - dziaeng komq,cmn,yue,ja,de,ko,eo,fr,es,vi
-happy,高兴,快樂 (faai3 lok6),,,,,,,
-sad,难过,傷心 (soeng1 sam1),,,,,,,
-smile,微笑,笑 (siu3),,,,,,,
-laugh,笑,笑 (siu3),,,,,,,
-cry,哭,哭 (huk1),,,,,,,
+happy,高兴,快樂 (faai3 lok6),嬉しい (うれしい),glücklich,행복한,,heureux,feliz,hạnh phúc
+sad,难过,傷心 (soeng1 sam1),悲しい (かなしい),traurig,슬픈,,triste,triste,buồn
+smile,微笑,笑 (siu3),微笑む (ほほえむ),lächeln,미소짓다,,sourire,sonreír,cười
+laugh,笑,笑 (siu3),笑う (わらう),lachen,웃다,,rire,reír,cười
+cry,哭,哭 (huk1),泣く (なく),weinen,울다,,pleurer,llorar,khóc
 类 7 NLTK - hy hyeh,cmn,yue,ja,de,ko,eo,fr,es,vi
-play,玩,玩 (waan2),,,,,,,
-Ball,球,球 (kau4),,,,,,,
-Game,游戏,遊戲 (jau4 hei3),,,,,,,
-Race (sport),比赛,賽 (coi3),,,,,,,
-sing,唱,唱 (coeng3),,,,,,,
-dance,跳舞,跳舞 (tiu3 mou5),,,,,,,
-小类art,艺术,藝術 (ngai6 seot6),,,,,,,
-band,乐队,樂隊 (lok6 deoi6),,,,,,,
-song,歌曲,歌 (go1),,,,,,,
-instrument (musical),乐器,樂器 (lok6 hei3),,,,,,,
-music,音乐,音樂 (jam1 ngok6),,,,,,,
-movie,电影,電影 (din6 jing2),,,,,,,
+play,玩,玩 (waan2),遊ぶ (あそぶ),spielen,놀다,,jouer,jugar,chơi
+Ball,球,球 (kau4),ボール,Ball,공,,balle,pelota,quả bóng
+Game,游戏,遊戲 (jau4 hei3),ゲーム,Spiel,게임,,jeu,juego,trò chơi
+Race (sport),比赛,賽 (coi3),レース (れーす),Rennen,경주,,course,carrera,cuộc đua
+sing,唱,唱 (coeng3),歌う (うたう),singen,노래하다,,chanter,cantar,hát
+dance,跳舞,跳舞 (tiu3 mou5),踊る (おどる),tanzen,춤을 추다,,danser,bailar, khiêu vũ
+小类art,艺术,藝術 (ngai6 seot6),芸術 (げいじゅつ),Kunst,예술,,art,arte,nghệ thuật
+band,乐队,樂隊 (lok6 deoi6),バンド (ばんど),Band,밴드,,groupe,banda,nhóm nhạc
+song,歌曲,歌 (go1),歌曲 (かきょく),Lied,노래,,chanson,canción,bài hát
+instrument (musical),乐器,樂器 (lok6 hei3),楽器 (がっき),Instrument,악기,,instrumento,instrument,nhạc cụ
+music,音乐,音樂 (jam1 ngok6),音楽 (おんがく),Musik,음악,,musique,música,nhạc
+movie,电影,電影 (din6 jing2),映画 (えいが),Film,영화,,film,película,phim
 类 7 NLTK - kyq nemh,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 8 NLKT,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 8 NLKT - sjin pyin,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 8 NLKT - kaew tsiejh,cmn,yue,ja,de,ko,eo,fr,es,vi
-society,社会,社會 (se5 wui6),,,,,,,
+society,社会,社會 (se5 wui6),社会 (しゃかい),Gesellschaft,사회,,société,sociedad,xã hội
 类 8 NLKT - munh ghouh,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 8 NLKT - qiew qyak,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 8 NLKT - kae deng,cmn,yue,ja,de,ko,eo,fr,es,vi
-Marriage,婚姻,婚姻 (fan1 jan1),,,,,,,
-Wedding,婚礼,婚禮 (fan1 lai5),,,,,,,
-love,爱,愛 (oi3),,,,,,,
-marry,结婚,結婚 (git3 fan1),,,,,,,
-kiss,吻,吻 (man5),,,,,,,
-小类待分people,人,人 (jan4),,,,,,,
-son,儿子,兒子 (ji4 zi2),,,,,,,
-daughter,女儿,女兒 (neoi5 ji4),,,,,,,
-mother,母亲,媽媽 (maa1 maa1),,,,,,,
-father,父亲,爸爸 (baa4 baa1),,,,,,,
-parent,父母,父母 (fu6 mou5),,,,,,,
-baby,婴儿,嬰兒 (jing1 ji4),,,,,,,
-man,男人,男人 (naam4 jan4),,,,,,,
-woman,女人,女人 (neoi5 jan4),,,,,,,
-brother,兄弟,兄弟 (hing1 dai6),,,,,,,
-sister,姐妹,姊妹 (zi2 mui6),,,,,,,
-family,家庭,家庭 (gaa1 ting4),,,,,,,
-grandfather,爷爷,爺爺 (je4 je4),,,,,,,
-grandmother,奶奶,婆婆 (po4 po4),,,,,,,
-husband,丈夫,丈夫 (zoeng6 fu1),,,,,,,
-wife,妻子,妻子 (cai1 zi2),,,,,,,
-king,国王,國王 (gwok3 wong4),,,,,,,
-queen,皇后,皇后 (wong4 hau6),,,,,,,
-president,总统,總統 (zung2 tung2),,,,,,,
-neighbor,邻居,鄰居 (leon4 geoi1),,,,,,,
-boy,男孩,男孩 (naam4 haai4),,,,,,,
-girl,女孩,女孩 (neoi5 haai4),,,,,,,
-child,孩子,小孩 (siu2 haai4),,,,,,,
-adult,成人,成人 (sing4 jan4),,,,,,,
-human,人,人類 (jan4 leoi6),,,,,,,
-friend,朋友,朋友 (pang4 jau5),,,,,,,
-victim,受害者,受害者 (sau6 hoi6 ze2),,,,,,,
-player,玩家,選手 (syun2 sau2),,,,,,,
-fan,粉丝,粉絲 (fan2 si1),,,,,,,
-crowd,人群,人群 (jan4 kwan4),,,,,,,
-person,人,人士 (jan4 si6),,,,,,,
+Marriage,婚姻,婚姻 (fan1 jan1),結婚 (けっこん),Ehe,결혼,,mariage,matrimonio,hôn nhân
+Wedding,婚礼,婚禮 (fan1 lai5),結婚式 (けっこんしき),Hochzeit,결혼식,,mariage,boda,đám cưới
+love,爱,愛 (oi3),愛する (あいする),lieben,사랑하다,,aimer,amar,yêu
+marry,结婚,結婚 (git3 fan1),結婚する (けっこんする),heiraten,결혼하다,,se marier,casarse,kết hôn
+kiss,吻,吻 (man5),キスする (きすする),küssen,키스하다,,embrasser,besar,hôn
+小类待分people,人,人 (jan4),人 (ひと),Menschen,사람,,gens,gente,người
+son,儿子,兒子 (ji4 zi2),息子 (むすこ),Sohn,아들,,fils,hijo,con trai
+daughter,女儿,女兒 (neoi5 ji4),娘 (むすめ),Tochter,딸,,fille,hija,con gái
+mother,母亲,媽媽 (maa1 maa1),母 (はは),Mutter,어머니,,mère,madre,mẹ
+father,父亲,爸爸 (baa4 baa1),父 (ちち),Vater,아버지,,père,padre,cha
+parent,父母,父母 (fu6 mou5),両親 (りょうしん),Eltern,부모,,parents,padres,phụ huynh
+baby,婴儿,嬰兒 (jing1 ji4),赤ちゃん (あかちゃん),Baby,아기,,bébé,bebé,em bé
+man,男人,男人 (naam4 jan4),男 (おとこ),Mann,남자,,homme,hombre,đàn ông
+woman,女人,女人 (neoi5 jan4),女 (おんな),Frau,여자,,femme,mujer,phụ nữ
+brother,兄弟,兄弟 (hing1 dai6),兄弟 (きょうだい),Bruder,형제,,frère,hermano,anh em
+sister,姐妹,姊妹 (zi2 mui6),姉妹 (しまい),Schwester,자매,,sœur,hermana,chị em
+family,家庭,家庭 (gaa1 ting4),家族 (かぞく),Familie,가족,,famille,familia,gia đình
+grandfather,爷爷,爺爺 (je4 je4),おじいさん (ojiisan),Großvater,할아버지,,grand-père,abuelo,ông nội
+grandmother,奶奶,婆婆 (po4 po4),おばあさん (obaasan),Großmutter,할머니,,grand-mère,abuela,bà nội
+husband,丈夫,丈夫 (zoeng6 fu1),夫 (おっと),Ehemann,남편,,mari,esposo,chồng
+wife,妻子,妻子 (cai1 zi2),妻 (つま),Ehefrau,아내,,femme,esposa,vợ
+king,国王,國王 (gwok3 wong4),王 (おう),König,왕,,roi,rey,vua
+queen,皇后,皇后 (wong4 hau6),王妃 (おうひ),Königin,왕비,,reine,reina,hậu
+president,总统,總統 (zung2 tung2),大統領 (だいとうりょう),Präsident,대통령,,président,presidente,tổng thống
+neighbor,邻居,鄰居 (leon4 geoi1),隣人 (となりびと),Nachbar,이웃,,voisin,vecino,hàng xóm
+boy,男孩,男孩 (naam4 haai4),男の子 (おとこのこ),Junge,소년,,garçon,niño,con trai
+girl,女孩,女孩 (neoi5 haai4),女の子 (おんなのこ),Mädchen,소녀,,fille,niña,gái
+child,孩子,小孩 (siu2 haai4),子供 (こども),Kind,아이,,enfant,niño,trẻ em
+adult,成人,成人 (sing4 jan4),大人 (おとな),Erwachsene,성인,,adulte,adulto,người lớn
+human,人,人類 (jan4 leoi6),人間 (にんげん),Mensch,인간,,humain,humano,con người
+friend,朋友,朋友 (pang4 jau5),友達 (ともだち),Freund,친구,,ami,amigo,bạn bè
+victim,受害者,受害者 (sau6 hoi6 ze2),被害者 (ひがいしゃ),Opfer,피해자,,victime,víctima,nạn nhân
+player,玩家,選手 (syun2 sau2),プレーヤー (ぷれーいやー),Spieler,플레이어,,joueur,jugador,người chơi
+fan,粉丝,粉絲 (fan2 si1),ファン (ふぁん),Fan,팬,,fan,fan,tán thành
+crowd,人群,人群 (jan4 kwan4),人々 (ひとびと),Menge,군중,,foule,multitud,đám đông
+person,人,人士 (jan4 si6),人 (ひと),Person,사람,,personne,persona,người
 类 9 KKTT,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 9 KKTT - kweok kae,cmn,yue,ja,de,ko,eo,fr,es,vi
 类 9 KKTT - tjienh tsreeng,cmn,yue,ja,de,ko,eo,fr,es,vi
-War,战争,戰爭 (zin3 zang1),,,,,,,
-Peace,和平,和平 (wo4 ping4),,,,,,,
-Murder,谋杀,謀殺 (mau4 saat3),,,,,,,
-Attack,攻击,攻擊 (gung1 gik1),,,,,,,
-Gun,枪,槍 (coeng1),,,,,,,
-Prison,监狱,監獄 (gaam1 juk6),,,,,,,
+War,战争,戰爭 (zin3 zang1),戦争 (せんそう),Krieg,전쟁,,guerre,guerra,chiến tranh
+Peace,和平,和平 (wo4 ping4),平和 (へいわ),Frieden,평화,,paix,paz,hòa bình
+Murder,谋杀,謀殺 (mau4 saat3),殺人 (さつじん),Mord,살인,,meurtre,asesinato,giết người
+Attack,攻击,攻擊 (gung1 gik1),攻撃 (こうげき),Angriff,공격,,attaque,ataque,tấn công
+Gun,枪,槍 (coeng1),銃 (じゅう),Waffe,총,,arme,arma,súng
+Prison,监狱,監獄 (gaam1 juk6),刑務所 (けいむしょ),Gefängnis,교도소,,prison,cárcel,ngục tù
 类 99 gy tha,未分类词条,yue,ja,de,ko,eo,fr,es,vi
