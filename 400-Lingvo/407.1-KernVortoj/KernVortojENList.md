@@ -22,6 +22,18 @@ cat,猫,貓 (maau1),猫 (ねこ),Katze,고양이,chat,gato,mèo,kat,katt,gato,ga
 
 now write the list with these words: )
 
+（又改了一版，一列一列
+
+Please start a word translation work like this: I give you a column of English and Putonghua Chinese words, you give me a column of Contonese words. Please note that you should only show a column of the words in the target language, without the English and Putonghua Chinese versions
+
+Please show the result as a  column, with the form like 粵語(jyut6 jyu5), first Chinese characters and then JyutPing in brackets. 
+
+Here is the first example of column of words: (reply in bulletin points)
+
+）（注意在Excel里，粘贴的 Paste Special 弹出窗口里选 Unicode Text，就可以粘贴成一列了。）（或者命令它生成 bulletin points 那种格式）
+
+（已经不需要按照下表来扩展csv，可以通过前两行中英二语来扩展，以后编辑也很可能直接在csv上改，不同步于此）
+
 🆙
 
 Animal: dog, cat, fish, bird, cow, pig, mouse, horse, wing, animal.

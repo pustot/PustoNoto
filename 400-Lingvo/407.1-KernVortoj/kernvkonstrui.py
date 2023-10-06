@@ -28,7 +28,7 @@ def add_tupa_to_csv(input_file, output_file):
 
 # Example usage
 if __name__ == "__main__":
-    input_file = "CoreWordsMultilang.csv"
-    output_file = "CoreWordsMultilang.csv"
+    input_file = "KernVortojKernLing.csv"
+    output_file = "KernVortojKernLing.csv"
 
     add_tupa_to_csv(input_file, output_file)
