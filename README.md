@@ -1,14 +1,21 @@
-**Active updates now moved to Notion. Thereafter, the role of this repo is still under consideration.**
 
-# PustoNote
+# TwaqNoto
 
-Taking notes of knowledge, especially those learned and utilized only occasionally but significant, as concise and logical as possible. 笔记，尤其记录重要但不常学用的知识，尽量简明有序。
+Prendi notojn pri scioj, speciale tiuj lernitaj kaj uzataj nur okaze, sed signifaj, tiel koncize kaj logike kiel eblas.
+笔记，尤其记录重要但不常学用的知识，尽量简明有序。
+Taking notes of knowledge, especially those learned and utilized only occasionally but significant, as concise and logical as possible.
 
-# Fav
+# Kolekto
 
-- 计科目录 [TOC-ComputerSci](./000-TOC-ComputerSci.md)
+- kejk 计科目录 [Enhavo-Informadiko](./000-Enhavo-Informadiko.md)
+- ngyo 语言及语言学 [LeguMin-Lingvo](./400-Lingvo/README.md)
+    - 诸语基础 [BazojDeLingvoj](./400-Lingvo/407.1-BazojDeLingvoj.md)
+- dihl 地理 [Geografio](./910-Geografio.md)
+    - 旅行 [Vojagxado](./910-Vojaĝado.md)
 
 # 一些传统
+
+La dosierindiko de ĉi tiu noto uzas la esperanton por subteni internacianeco, kaj la teksto estas miksaĵo de multaj lingvoj, ĉefe uzante la ĉinan kaj la esperanton, kun aldonaj lingvoj kiel la angla, japana, germana, kaj aliaj.
 
 pdf个人笔记用12号红褐色华文隶书。
 
@@ -22,7 +29,7 @@ GitHub now supports $L^AT_EX$ , excité! 注意，为了 GitHub 正确显示公�
 
 GitHub には，Markdown 文件内容框的左上角有目录模块。好耶！
 
-# Related Dewey class no. | 相关杜威分类号
+# Rilataj klasno. laŭ Dewey | 相关杜威分类号 | Related Dewey class no.
 
 Principles: 
 
@@ -318,8 +325,9 @@ https://en.wikipedia.org/wiki/List_of_ISO_639-3_codes
 
 - 900 History
     - 909 World History
+- 910 Geography and Travel
 
-# Related CLC (Chinese Library Classification) Codes | 相关中图法分类号
+# Rilataj klasno. laŭ CLC | 相关中图法分类号 | Related CLC (Chinese Library Classification) Codes
 
 [Chinese Library Classification](https://en.wikipedia.org/wiki/Chinese_Library_Classification)
 
