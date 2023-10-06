@@ -5,11 +5,15 @@ Esperanto (/ˌɛspəˈrɑːntoʊ/ or /ˌɛspəˈræntoʊ/)[6][7] is the world's 
 
 Mi volas lerni paroli Esperanton.
 
+- 世界语12课，最重要的500个词以及一些语法（使用 Zagreba metodo） https://esperanto12.net/zh/
 - https://lernu.net/
 - https://londonaesperantoklubo.com/other-courses.html
 - 汉语拼音转写 https://eo.wikipedia.org/wiki/Pinjino
 
 # 个人为何对它的兴趣 Kial mi interesiĝas pri ĝi?
+
+最基本的要点：**中立**、**活力**。
+中立衍生出国际、平等、公正（同时有绝大多数国际辅助语言都有的简单、规律），活力决定了它足可堪一用，在诸多中立的国际辅助语言中可以选择它。
 
 - 最最主要的就是，它是使用人数最多的国际辅助语言，远超其他。
     - 关于它人数最多、最流行、社群最大等等，基本没有争议。参考相关列表  https://en.wikipedia.org/wiki/List_of_constructed_languages
@@ -30,6 +34,12 @@ Mi volas lerni paroli Esperanton.
 另外，其词汇量和文法等等也禁得住考验，毕竟使用了这么久、这么广，完全跑通了。
 
 而且它的社群很可能比较友好，比较适合语言宅？
+
+> "La interna ideo de Esperanto estas: sur neŭtrala lingva fundamento forigi la murojn inter la gentoj kaj alkutimigadi la homojn, ke ĉiu el ili vidu en sia proksimulo nur homon kaj fraton."
+> 
+> -- L.L.Zamenhof, 1912
+>
+> 世界语的内在理念是: 在中立语言的基础上, 去除民族之间的隔阂, 拉近人们, 彼此相亲相爱, 像兄弟姐妹般共处.
 
 # 词汇 vortoj
 
