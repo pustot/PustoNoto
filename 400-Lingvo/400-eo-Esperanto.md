@@ -46,3 +46,28 @@ Mi volas lerni paroli Esperanton.
 - Wiktionary 收集了几个词频表 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Esperanto
     - (3000 vortoj) Plej oftaj vortoj en Esperanto el retbabilejoj https://vanege.medium.com/most-common-esperanto-words-plej-oftaj-vortoj-en-esperanto-b56422d13a7f
     - Wikipedia 2023 词频 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Esperanto/Wikipedia_2023
+
+# 指示代词、疑问代词（表解词）| tabelvortoj (korelativoj) | correlatives
+
+https://esperanto12.net/zh/tabelvortoj/
+
+前半 （都是什么什么加i-）
+
+- ki- 疑问（联想罗曼 qu-）
+- ti- 那（联想that）
+    - ĉi ti- 这（联想法语ici）
+- ĉi- 每（Italian (ciascuno), French (chaque), or English (each)）
+- neni- 无，没有（联想ne）
+- i- 某（联想irgend，联想头辅音没了代表不定）
+
+后半
+
+- -o x个东西（联想名词后缀）
+- -u x人；x个（后接名词或作为连接词which）
+- -es x的（联想很多语言属格）
+- -a x样的（联想形容词后缀）
+- -e x地方（联想副词后缀，在x）
+- -el x么样，以x方式/程度（联想介词el也有来的意思，像汉语「怎么来」；el本身可以类比拉丁语ex）
+- -al 为了x，为什么（联想al就是to，为什么、porque 也像这个逻辑）
+- -am x时，时间（）
+- -om x样的数量，x么多（联想不了了）
