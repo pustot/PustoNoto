@@ -9,6 +9,8 @@ Mi volas lerni paroli Esperanton.
 - https://lernu.net/
 - https://londonaesperantoklubo.com/other-courses.html
 - 汉语拼音转写 https://eo.wikipedia.org/wiki/Pinjino
+- 全国世界语协会 https://www.chinaesperantoligo.com.cn/
+    - 双语文章如 https://www.chinaesperantoligo.com.cn/230821/
 
 # 个人为何对它的兴趣 Kial mi interesiĝas pri ĝi?
 
