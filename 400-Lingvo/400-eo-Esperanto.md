@@ -11,6 +11,9 @@ Mi volas lerni paroli Esperanton.
 - 汉语拼音转写 https://eo.wikipedia.org/wiki/Pinjino
 - 全国世界语协会 https://www.chinaesperantoligo.com.cn/
     - 双语文章如 https://www.chinaesperantoligo.com.cn/230821/
+- esperantujo，提供给世界语者的个人主页 https://esperantujo.directory/
+- [世界语汉字化词表 - E站o - 知乎](https://zhuanlan.zhihu.com/p/349645051)
+- [uea facila 的简单词表](https://uea.facila.org/vortlisto/#listo)
 
 # 个人为何对它有兴趣 Kial mi interesiĝas pri ĝi?
 
