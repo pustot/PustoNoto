@@ -14,6 +14,7 @@ Mi volas lerni paroli Esperanton.
 - esperantujo，提供给世界语者的个人主页 https://esperantujo.directory/
 - [世界语汉字化词表 - E站o - 知乎](https://zhuanlan.zhihu.com/p/349645051)
 - [uea facila 的简单词表](https://uea.facila.org/vortlisto/#listo)
+- [Komputeko - 有计算机领域的世界语与英德法荷等语言对照](https://komputeko.net/) 相关页面还可以看到更多有意思的项目。
 
 # 个人为何对它有兴趣 Kial mi interesiĝas pri ĝi?
 
