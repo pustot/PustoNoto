@@ -1,5 +1,5 @@
 
-個人相關項目：世界語漢字化（訓讀）項目 esperanto-kun-legado
+個人相關項目：世界語漢字化（訓讀）項目 esperanto-kun-legado https://github.com/twaqngu/esperanto-kun-legado
 
 > Esperanto, origine la Lingvo Internacia, estas la plej disvastiĝinta internacia planlingvo.
 > 
