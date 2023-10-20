@@ -1,5 +1,20 @@
 
-Esperanto (/ˌɛspəˈrɑːntoʊ/ or /ˌɛspəˈræntoʊ/)[6][7] is the world's most widely spoken constructed international auxiliary language. Created by the Warsaw-based ophthalmologist L. L. Zamenhof in 1887, it was intended to be a universal second language for international communication, or "the international language" (la lingvo internacia). Zamenhof first described the language in Dr. Esperanto's International Language (Esperanto: Unua Libro), which he published under the pseudonym Doktoro Esperanto. Early adopters of the language liked the name Esperanto and soon used it to describe his language. The word esperanto translates into English as "one who hopes".[8]
+個人相關項目：世界語漢字化（訓讀）項目 esperanto-kun-legado
+
+> Esperanto, origine la Lingvo Internacia, estas la plej disvastiĝinta internacia planlingvo.
+> 
+> La nomo de la lingvo venas de la kaŝnomo “D-ro Esperanto„ sub kiu la varsovia okul-kuracisto Ludoviko Lazaro Zamenhofo en la jaro 1887 publikigis la bazon de la lingvo. La unua versio, la rusa, ricevis la cenzuran permeson disvastiĝi en la 26-a de julio; ĉi tiun daton oni konsideras la naskiĝtago de Esperanto. Li celis kaj sukcesis krei facile lerneblan neŭtralan lingvon, taŭgan por uzo en la internacia komunikado; la celo tamen ne estas anstataŭigi aliajn, naciajn lingvojn.
+>
+> 冀anto, 原e la 語o 間族a[4], 是as la 最 散廣成inta 間族a 謀語o[5].
+>
+> La 名o de la 語o 來as de la 隱名o “D-ro 冀anto„ sub 何u la varsovia 眼-醫者o Ludoviko Lazaro Zamenhofo en la 年o 1887 公化is la 基on de la 語o. La 一a 版o, la rusa, 獲is la cenzuran 許on 散廣成i en la 26-a de julio; 此un 期on oni 慮as la 誕成日o de 冀anto. 他 的is kaj 昌is 創i 易e 習能an neŭtralan 語on, 適an por 使o en la 間族a 談久o; la 的o tamen 不 是as 替化i 另ajn, 族ajn 語ojn.
+
+
+> Mi naskiĝis en Bjelostoko, gubernio de Grodno. Tiu ĉi loko de mia naskiĝo kaj de miaj infanaj jaroj donis la direkton al ĉiuj miaj estontaj celadoj. En Bjelostoko la loĝantaro konsistas el kvar diversaj elementoj: rusoj, poloj, germanoj kaj hebreoj; ĉiuj el tiuj ĉi elementoj parolas apartan lingvon kaj neamike rilatas la aliajn elementojn. En tia urbo pli ol ie la impresema naturo sentas la multepezan malfeliĉon de diverslingveco kaj konvinkiĝas ĉe ĉiu paŝo, ke la diverseco de lingvoj estas la sola, aŭ almenaŭ la ĉefa, kaŭzo, kiu disigas la homan familion kaj dividas ĝin en malamikaj partoj. Oni edukadis min kiel idealiston; oni min instruis, ke ĉiuj homoj estas fratoj, kaj dume sur la strato kaj sur la korto, ĉio ĉe ĉiu paŝo igis min senti, ke homoj ne ekzistas: ekzistas sole rusoj, poloj, germanoj, hebreoj k.t.p. Tio ĉi ĉiam forte turmentis mian infanan animon, kvankam multaj eble ridetos pri tiu ĉi „doloro pro la mondo“ ĉe la infano. Ĉar al mi tiam ŝajnis, ke la „grandaĝaj“ posedas ian ĉiopovan forton, mi ripetadis al mi, ke kiam mi estos grandaĝa, mi nepre forigos tiun ĉi malbonon.
+>
+> 吾 誕成is 入 Bjelostoko, gubernio de Grodno. 彼u ĉi 位o de 吾a 誕成o kaj de 吾aj 童aj 年oj 予is la 向on 往 每uj 吾aj 是ontaj 的久oj. 入 Bjelostoko la 住ant集o konsistas 出 四 繽aj elementoj: rusoj, poloj, germanoj kaj hebreoj; 每uj 出 彼uj ĉi elementoj 講as 別an 語on kaj 不友e 聯as la 另ajn elementojn. 入 彼a 城o 更 比 某e la impres倾a naturo 感as la 多e重an 否幸on de 繽語性o kaj konvink成as 在 每u 步o, 曰 la 繽性o de 語oj 是as la 獨a, aŭ almenaŭ la 主a, 致o, 何u 散化as la 人an 家on kaj 割as 它n 入 否友aj 部oj. Oni 教久is 吾n 何el ideal者on; oni 吾n 授is, 曰 每uj 人oj 是as 兄oj, kaj 當e sur la 街o kaj sur la 院o, 每o 在 每u 步o 化is 吾n 感i, 曰 人oj 不 存as: 存as 獨e rusoj, poloj, germanoj, hebreoj k.t.p. 彼o ĉi 每am 力e turmentis 吾an 童an 靈on, 雖 多aj 能e 笑小os pri 彼u ĉi „痛o pro la 世o“ 在 la 童o. 因 往 吾 彼am 似is, 曰 la „大齡aj“ 占as 某an 每o可an 力on, 吾 ripet久is 往 吾, 曰 何am 吾 是os 大齡a, 吾 定e 離化os 彼un ĉi 否良on.
+> 
+> - Originala Verkaro/V/3 https://eo.wikisource.org/wiki/Originala_Verkaro/V/3
 
 [espeˈranto]
 
@@ -59,6 +74,8 @@ Mi volas lerni paroli Esperanton.
 - Wiktionary 收集了几个词频表 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Esperanto
     - (3000 vortoj) Plej oftaj vortoj en Esperanto el retbabilejoj https://vanege.medium.com/most-common-esperanto-words-plej-oftaj-vortoj-en-esperanto-b56422d13a7f
     - Wikipedia 2023 词频 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Esperanto/Wikipedia_2023
+- UEA 685 基本詞 Baza vortaro en la mandarena lingvo https://eo.wikibooks.org/wiki/Baza_vortaro_en_la_mandarena_lingvo
+- Listo de facilaj vortoj laŭ `UEA.facila`: https://uea.facila.org/vortlisto/#listo
 
 # 指示代词、疑问代词（表解词）| tabelvortoj (korelativoj) | correlatives
 
