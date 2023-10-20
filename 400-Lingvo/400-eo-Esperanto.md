@@ -76,6 +76,7 @@ Mi volas lerni paroli Esperanton.
     - Wikipedia 2023 词频 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Esperanto/Wikipedia_2023
 - UEA 685 基本詞 Baza vortaro en la mandarena lingvo https://eo.wikibooks.org/wiki/Baza_vortaro_en_la_mandarena_lingvo
 - Listo de facilaj vortoj laŭ `UEA.facila`: https://uea.facila.org/vortlisto/#listo
+- [世界语需要掌握多少词汇？ - 知乎](https://zhuanlan.zhihu.com/p/185095072)
 
 # 指示代词、疑问代词（表解词）| tabelvortoj (korelativoj) | correlatives
 
