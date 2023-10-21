@@ -5,7 +5,7 @@ Prendi notojn pri scioj, speciale tiuj lernitaj kaj uzataj nur okaze, sed signif
 笔记，尤其记录重要但不常学用的知识，尽量简明有序。
 Taking notes of knowledge, especially those learned and utilized only occasionally but significant, as concise and logical as possible.
 
-# Kolekto
+# Kolekto | 收藏夹
 
 - kejk 计科目录 [Enhavo-Informadiko](./000-Enhavo-Informadiko.md)
 - ngyo 语言及语言学 [400-Lingvo-LeguMin](./400-Lingvo/README.md)
