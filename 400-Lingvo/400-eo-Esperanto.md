@@ -1,18 +1,20 @@
 
 個人相關項目：世界語漢字化（訓讀）項目 esperanto-kun-legado https://github.com/twaqngu/esperanto-kun-legado
 
+- 本文裏的漢字化世界語使用該項目的代碼生成
+
 > Esperanto, origine la Lingvo Internacia, estas la plej disvastiĝinta internacia planlingvo.
 > 
 > La nomo de la lingvo venas de la kaŝnomo “D-ro Esperanto„ sub kiu la varsovia okul-kuracisto Ludoviko Lazaro Zamenhofo en la jaro 1887 publikigis la bazon de la lingvo. La unua versio, la rusa, ricevis la cenzuran permeson disvastiĝi en la 26-a de julio; ĉi tiun daton oni konsideras la naskiĝtago de Esperanto. Li celis kaj sukcesis krei facile lerneblan neŭtralan lingvon, taŭgan por uzo en la internacia komunikado; la celo tamen ne estas anstataŭigi aliajn, naciajn lingvojn.
 >
-> 冀anto, 原e la 語o 間族a[4], 是as la 最 散廣成inta 間族a 謀語o[5].
+> 冀anto, 原e la Lingvo Internacia, 是as la 最 散廣成inta 間族a 謀語o.
 >
-> La 名o de la 語o 來as de la 隱名o “D-ro 冀anto„ sub 何u la varsovia 眼-醫者o Ludoviko Lazaro Zamenhofo en la 年o 1887 公化is la 基on de la 語o. La 一a 版o, la rusa, 獲is la cenzuran 許on 散廣成i en la 26-a de julio; 此un 期on oni 慮as la 誕成日o de 冀anto. 他 的is kaj 昌is 創i 易e 習能an neŭtralan 語on, 適an por 使o en la 間族a 談久o; la 的o tamen 不 是as 替化i 另ajn, 族ajn 語ojn.
+> La 名o de la 語o 來as de la 隱名o “D-ro Esperanto„ 下 何u la varsovia 眼-醫者o Ludoviko Lazaro Zamenhofo 入 la 年o 1887 公化is la 基on de la 語o. La 一a 版o, la rusa, 獲is la cenzuran 許on 散廣成i 入 la 26-a de julio; 此 彼un 期on oni 慮as la 誕成日o de Esperanto. 他 的is 與 昌is 創i 易e 習能an 中立an 語on, 適an 爲 使o 入 la 間族a 談久o; la 的o 然而 不 是as 替化i 另ajn, 族ajn 語ojn.
 
 
 > Mi naskiĝis en Bjelostoko, gubernio de Grodno. Tiu ĉi loko de mia naskiĝo kaj de miaj infanaj jaroj donis la direkton al ĉiuj miaj estontaj celadoj. En Bjelostoko la loĝantaro konsistas el kvar diversaj elementoj: rusoj, poloj, germanoj kaj hebreoj; ĉiuj el tiuj ĉi elementoj parolas apartan lingvon kaj neamike rilatas la aliajn elementojn. En tia urbo pli ol ie la impresema naturo sentas la multepezan malfeliĉon de diverslingveco kaj konvinkiĝas ĉe ĉiu paŝo, ke la diverseco de lingvoj estas la sola, aŭ almenaŭ la ĉefa, kaŭzo, kiu disigas la homan familion kaj dividas ĝin en malamikaj partoj. Oni edukadis min kiel idealiston; oni min instruis, ke ĉiuj homoj estas fratoj, kaj dume sur la strato kaj sur la korto, ĉio ĉe ĉiu paŝo igis min senti, ke homoj ne ekzistas: ekzistas sole rusoj, poloj, germanoj, hebreoj k.t.p. Tio ĉi ĉiam forte turmentis mian infanan animon, kvankam multaj eble ridetos pri tiu ĉi „doloro pro la mondo“ ĉe la infano. Ĉar al mi tiam ŝajnis, ke la „grandaĝaj“ posedas ian ĉiopovan forton, mi ripetadis al mi, ke kiam mi estos grandaĝa, mi nepre forigos tiun ĉi malbonon.
 >
-> 吾 誕成is 入 Bjelostoko, gubernio de Grodno. 彼u ĉi 位o de 吾a 誕成o kaj de 吾aj 童aj 年oj 予is la 向on 往 每uj 吾aj 是ontaj 的久oj. 入 Bjelostoko la 住ant集o konsistas 出 四 繽aj elementoj: rusoj, poloj, germanoj kaj hebreoj; 每uj 出 彼uj ĉi elementoj 講as 別an 語on kaj 不友e 聯as la 另ajn elementojn. 入 彼a 城o 更 比 某e la impres倾a naturo 感as la 多e重an 否幸on de 繽語性o kaj konvink成as 在 每u 步o, 曰 la 繽性o de 語oj 是as la 獨a, aŭ almenaŭ la 主a, 致o, 何u 散化as la 人an 家on kaj 割as 它n 入 否友aj 部oj. Oni 教久is 吾n 何el ideal者on; oni 吾n 授is, 曰 每uj 人oj 是as 兄oj, kaj 當e sur la 街o kaj sur la 院o, 每o 在 每u 步o 化is 吾n 感i, 曰 人oj 不 存as: 存as 獨e rusoj, poloj, germanoj, hebreoj k.t.p. 彼o ĉi 每am 力e turmentis 吾an 童an 靈on, 雖 多aj 能e 笑小os pri 彼u ĉi „痛o pro la 世o“ 在 la 童o. 因 往 吾 彼am 似is, 曰 la „大齡aj“ 占as 某an 每o可an 力on, 吾 ripet久is 往 吾, 曰 何am 吾 是os 大齡a, 吾 定e 離化os 彼un ĉi 否良on.
+> 吾 誕成is 入 Bjelostoko, gubernio de Grodno. 彼u 此 位o de 吾a 誕成o 與 de 吾aj 童aj 年oj 予is la 向on 往 每uj 吾aj 是ontaj 的久oj. 入 Bjelostoko la 住ant集o 組成as 出 四 繽aj elementoj: rusoj, poloj, germanoj 與 hebreoj; 每uj 出 彼uj 此 elementoj 講as 別an 語on 與 不友e 聯as la 另ajn elementojn. 入 彼a 城o 更 比 某e la impresema 自然o 感as la 多e重an 否幸on de 繽語性o 與 說服成as 挨 每u 步o, 曰 la 繽性o de 語oj 是as la 獨a, 或 至少 la 主a, 致o, 何u 散化as la 人an 家on 與 割as 它n 入 否友aj 部oj. Oni 教久is 吾n 何el 理想者on; oni 吾n 授is, 曰 每uj 人oj 是as 兄oj, 與 當e sur la 街o 與 sur la 院o, 每o 挨 每u 步o 化is 吾n 感i, 曰 人oj 不 存as: 存as 獨e rusoj, poloj, germanoj, hebreoj k.t.p. 彼o 此 每am 力e turmentis 吾an 童an 靈on, 雖 多aj 能e 笑小os 關 彼u 此 „痛o 由 la 世o“ 挨 la 童o. 因 往 吾 彼am 似is, 曰 la „大齡aj“ 占as 某an ĉio可an 力on, 吾 重複久is 往 吾, 曰 何am 吾 是os 大齡a, 吾 定e 離化os 彼un 此 否良on.
 > 
 > - Originala Verkaro/V/3 https://eo.wikisource.org/wiki/Originala_Verkaro/V/3
 
@@ -62,6 +64,8 @@ Mi volas lerni paroli Esperanton.
 > "La interna ideo de Esperanto estas: sur neŭtrala lingva fundamento forigi la murojn inter la gentoj kaj alkutimigadi la homojn, ke ĉiu el ili vidu en sia proksimulo nur homon kaj fraton."
 > 
 > -- L.L.Zamenhof, 1912
+>
+> La 內a 想o de Esperanto 是as: sur 中立a 語a fundamento 離化i la 壁ojn 間 la gentoj 與 往慣化久i la 人ojn, 曰 每u 出 怹 見u 入 己a 近佬o 僅 人on 與 兄on.
 >
 > 世界语的内在理念是: 在中立语言的基础上, 去除民族之间的隔阂, 拉近人们, 彼此相亲相爱, 像兄弟姐妹般共处.
 
