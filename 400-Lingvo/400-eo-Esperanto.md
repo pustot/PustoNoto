@@ -20,6 +20,7 @@
 
 Mi volas lerni paroli Esperanton.
 
+- Globse 詞典之 eo https://glosbe.com/eo/zh
 - 世界语12课，最重要的500个词以及一些语法（使用 Zagreba metodo） https://esperanto12.net/zh/
 - https://lernu.net/
 - https://londonaesperantoklubo.com/other-courses.html
