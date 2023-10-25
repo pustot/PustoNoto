@@ -1,4 +1,4 @@
-TimelinesOfWorldHistory | 世界历史年表
+Monda Historio-Kalendaro | 世界历史年表 | Timelines Of World History
 
 CLC: K108
 
