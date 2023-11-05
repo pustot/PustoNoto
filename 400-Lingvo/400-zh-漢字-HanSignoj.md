@@ -1,6 +1,20 @@
 汉字杂集。
 （聚焦汉字，不过离不开汉语等语言。用于其它语言的汉字，在强调在其他语言中的应用时，入该语言笔记，比如汉喃文）
 
+# 部首
+
+一个汉字可以有多个偏旁，而其中一个是部首，用于字典把字归类。《说文解字》540部首，《字汇》《康熙字典》214部首，大陆简体中文标准201部首。
+
+## 康熙部首
+
+包含所含汉字数的列表： https://en.wikipedia.org/wiki/Kangxi_radical#Table
+
+这个维基的内容很有意思。字数分布图：
+
+![Radicals_frequency_table.png](https://upload.wikimedia.org/wikipedia/commons/d/dd/Radicals_frequency_table.png)
+
+字数前几为：艸水木手口；心虫竹言糸；金人鸟女肉；目火山衣土；
+
 # 小篆
 
 一般取时代之代表汉字，甲骨文为殷商，籀文为西周，小篆为秦汉，隶书为东汉，楷书为唐后。
