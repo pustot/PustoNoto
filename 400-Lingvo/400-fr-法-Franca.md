@@ -15,7 +15,7 @@ Il vaut mieux rire que pleurer
 他 值得-第三人称-单数-现在时-直陈语气 更好-副词 笑-不定式 超过 哭-不定式
 
 car le rire est le propre de l'homme
-因为 阳性冠词 笑-名词 是 阳性冠词 特征 的(表所属的前置介词) 冠词'人
+因为 阳性冠词 笑-名词 是 阳性冠词 特质 的(表所属的前置介词) 冠词'人
 
 Riez de tout cela, ne vous inquiétez pas
 欢笑(间接及物)-第二人称-复数或尊称-祈使语气 通过(不及物动词rire搭配介词de构成间接及物结构) 所有 这-指示代词 , 不 反身代词-第二人称-复数或尊称 担心-反身动词-第二人称-复数或尊称-祈使语气 不
@@ -26,9 +26,10 @@ profitons d'aujourd'hui
 ※ 第一句：法语 que 的来源较多，此处来自拉丁语 quam，在法语里用于比较结构，既可表示「比……」「超过……」也可表示「与……一样」，与 ne 连用可以表示「仅仅」，汉语中有逻辑恰好一直的翻译「不过」。第二句的 que 同样是比较结构的用法。
 ※ 第四句：ne ... pas，否定结构，此处用于祈使语气
 ※ 第五句：profiter de 直译是从……得到利益，亦即享受、趁。
-※ 第五句：aujourd'hui：很想说 aujourd'aujourd'aujourd'aujourd'hui。但是真的有人使用 au jour d'aujourd'hui 这种短语。
+※ 第五句：aujourd'hui：很想说 aujourd'aujourd'aujourd'aujourd'hui。但是真的有人使用 au jour d'aujourd'hui 这种短语。日文版歌词概要的「今日という日を楽しむんだ」把这个词的构造给翻译出来了（），中韩英没有这样翻译。
 ※ 这首法语歌，词尾的e（/ə/）到底发不发音有点摸不透。听起来 scène、homme （这俩词都在句尾）和 propre 这三个词词尾的 e 发音了，monde rire 的则不发音。
 
+官方中文版歌词大意：
 世界不过舞台。
 与其哭着表演，还是笑着表演更好，
 因为只有人类才会笑；
