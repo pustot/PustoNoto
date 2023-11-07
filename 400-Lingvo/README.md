@@ -6,7 +6,7 @@
 - [ko](./400-ko-Korean.md)
 - [vi](./400-vi-Vjetnama.md)
 - [de](./400-de-Germana.md)
-- [fr](./400-fr-Franca.md)
+- [fr](./400-fr-法-Franca.md)
 - [BazojDeLingvoj 诸语基](./407.1-BazojDeLingvoj.md)
 - [KernVortojKernLing.csv 要语基词](./407.1-KernVortoj/KernVortojKernLing.csv)
 
