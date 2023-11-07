@@ -1,13 +1,13 @@
 # Kolekto | 收藏夹
 
 - [zh-ltc](./400-zh-ltc-MezaĈinaFonologio.md)
-- [eo](./400-eo-Esperanto.md)
-- [ja](./400-ja-Japana.md)
-- [ko](./400-ko-Korean.md)
-- [vi](./400-vi-Vjetnama.md)
-- [de](./400-de-Germana.md)
+- [eo](./400-eo-冀-Esperanto.md)
+- [ja](./400-ja-日-Japana.md)
+- [ko](./400-ko-韓-Korean.md)
+- [vi](./400-vi-越-Vjetnama.md)
+- [de](./400-de-德-Germana.md)
 - [fr](./400-fr-法-Franca.md)
-- [BazojDeLingvoj 诸语基](./407.1-BazojDeLingvoj.md)
+- [BazojDeLingvoj 诸语基](./407.1-諸基-BazojDeLingvoj.md)
 - [KernVortojKernLing.csv 要语基词](./407.1-KernVortoj/KernVortojKernLing.csv)
 
 # nexus
