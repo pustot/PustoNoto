@@ -16,6 +16,10 @@ https://www.law.go.kr/LSW/lsLinkProc.do?lsNm=%EC%98%81%ED%99%94+%EB%B0%8F+%EB%B9
 - [韓国語の語尾一覧146種類｜意味と使い方・活用ルール付き - korea-is-fun.com/](https://korea-is-fun.com/grammar-sonota/)
 - [単語・文法  |  ハナ韓まとめ](https://hanakan-korean.com/word-grammar/)
 
+# 汉字
+
+- 한자로 汉字路 https://hanjaro.juntong.or.kr/
+
 # 键盘
 
 ㅂ ㅈ ㄷ ㄱ ㅅ ㅛ ㅕ ㅑ ㅐ ㅔ 

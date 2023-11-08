@@ -8,6 +8,8 @@ CLC: H32
 
 ### 《原神》角色演示-「芙宁娜：世界皆舞台」
 
+https://www.bilibili.com/video/BV1ZG411X71k
+
 Le monde n'est qu'une scène
 阳性冠词 世界 不'是 超过'阴性不定冠词 舞台
 
@@ -29,9 +31,32 @@ profitons d'aujourd'hui
 ※ 第五句：aujourd'hui：很想说 aujourd'aujourd'aujourd'aujourd'hui。但是真的有人使用 au jour d'aujourd'hui 这种短语。日文版歌词概要的「今日という日を楽しむんだ」把这个词的构造给翻译出来了（），中韩英没有这样翻译。
 ※ 这首法语歌，词尾的e（/ə/）到底发不发音有点摸不透。听起来 scène、homme （这俩词都在句尾）和 propre 这三个词词尾的 e 发音了，monde rire 的则不发音。
 
-官方中文版歌词大意：
+官方歌词大意
+
+中文：
 世界不过舞台。
 与其哭着表演，还是笑着表演更好，
 因为只有人类才会笑；
 欢笑吧，不必有所顾虑，
 让我们享受今天。
+
+日文：
+世界は舞台に過ぎない。
+泣いて演じるより、笑って演じるほうがいい。
+なぜなら、笑うことができるのは人間だけなのだから——
+笑おう、憂慮する必要はない、
+今日という日を楽しむんだ。
+
+韩文：（漢諺混寫）
+世上은 그저 하나의 舞臺일 뿐.
+울기보단 웃으면서 하는 公演이 낫다네.
+오직 人間만이 웃을 手 있으니까!
+웃자, 걱정은 모두 잊고
+오늘을 마음껏 즐기자!
+
+英文：
+The world is but a stage.
+Why cry, when you can laugh instead?
+For laughter is humanity's preserve.
+Laugh it all off, fret not,
+Let's just enjoy the moment.
