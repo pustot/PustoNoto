@@ -61,7 +61,9 @@ For laughter is humanity's preserve.
 Laugh it all off, fret not,
 Let's just enjoy the moment.
 
-### 《原神》水神芙宁娜传说任务一《水的女儿》
+### 《原神》剧情PV-「轻涟」（水神芙宁娜传说任务一《水的女儿》）
+
+https://www.miyoushe.com/ys/article/45309495
 
 Ah, si je pouvais vivre dans l’eau,  
 
