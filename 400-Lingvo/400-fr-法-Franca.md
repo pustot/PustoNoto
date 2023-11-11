@@ -61,9 +61,14 @@ For laughter is humanity's preserve.
 Laugh it all off, fret not,
 Let's just enjoy the moment.
 
-### 《原神》剧情PV-「轻涟」（水神芙宁娜传说任务一《水的女儿》）
+### 《原神》剧情PV-「轻涟 La vaguelette」（水神芙宁娜传说任务一《水的女儿》）
 
 https://www.miyoushe.com/ys/article/45309495
+
+La vaguelette
+
+定冠词 波浪+指小词缀
+「轻涟」
 
 Ah, si je pouvais vivre dans l’eau,  
 
