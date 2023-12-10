@@ -6,6 +6,8 @@ Linguists sometimes refer to the system of the Qieyun as **Early Middle Chinese*
 
 **⚠️注意：由于学习顺序，部分内容直接使用了 polyhedron 前辈的古韵罗马字，其他内容亦可能包含过时观点。正在补课，当前倾向于「切韵拼音」及「切韵通俗拟音」（但 ɨ ʉ ɛ æ 好难发准）。**
 
+- [polyhedron 本人对古韵罗马字及切韵拼音的评价 - 知乎](https://www.zhihu.com/question/372828311/answer/2441585425)
+
 > 被視爲《廣韻》中最複雜的現象的「重紐」問題至今仍是研究的熱點，目前各家研究的成果分歧很大，還在爭論當中。不過隨着研究的深入，僅僅通過考古是難再更上一層樓了。更深入的研究需要通過構擬上古漢語，並依此下推出中古漢語重紐的來源。這方面的研究被稱爲「古音學」（研究周秦古音），與研究《切韻》中古音系的「今音學」不同，上古音系的構擬還很不成熟，有待於漢藏語系之間的語言橫向比較和歷史比較語言學的進一步發展。
 
 参考链接
@@ -124,7 +126,7 @@ Linguists sometimes refer to the system of the Qieyun as **Early Middle Chinese*
 - 云母：只拼三甲
 - 以母：只拼三乙
 
-互补总结：
+互补观察：
 
 - 知澈澄娘（卷舌） 同搭配于 庄初床山（zhchsh）
 - （古无舌上）：端透定泥（齿龈） & 知澈澄娘（卷舌）
@@ -135,6 +137,12 @@ Linguists sometimes refer to the system of the Qieyun as **Early Middle Chinese*
 - 照二归精：庄初床山/知澈澄娘 & 精清从心（zcs）
 - 匣母（/gh/） & 群母（/g/）
 - 匣母（/gh/） & 云母（/ɦ/） & 以母（/j/）
+
+原理：
+
+- 端组、知组、章组上古同来源
+    - 所以切韵拼音 t tr tj
+- > 切韵时代庄组几乎仍然是精组的条件变体（[知乎](https://zhuanlan.zhihu.com/p/478751152)）
 
 ## 尖团音
 
@@ -177,6 +185,8 @@ Linguists sometimes refer to the system of the Qieyun as **Early Middle Chinese*
 > 《韵图》成书于公元十二世纪。此书首次提出等。此时是中古汉语的后期。潘悟云给此时的汉语拟音，认为当时的音韵学家分等的原则是依据紧接声母的元音：四等是[e]，三等是[i]，二等是[​ɯ]，一等是其他元音。这里说的“紧接声母的元音”可以是韵腹，如ba的a，也可以是韵首，如biao的i。
 > 
 > 现在学界普遍认为，三等字在上古汉语中带介音[j]/[i]，二等字在上古汉语中带介音[r]，一等字和四等字在上古汉语中无介音。
+>
+> -- （摘自维基百科）
 
 `摄`是一种宽松的归类，标准是韵尾和（粗分）韵腹。摄内再分韵部的依据是`等呼`，即介音和细分韵腹，标准是介音以及韵头。容易理解，对押韵最重要的是后部，因此宽分类（摄）按后部，而细分类（韵部）继续按靠前一些的部位来分。声母不参与押韵，故与韵母分开讨论，但在二者相接的位置会有相互作用，尤其是代表前部的等呼。
 
@@ -185,18 +195,6 @@ Linguists sometimes refer to the system of the Qieyun as **Early Middle Chinese*
 根据 [AWs-309 切韵拟音J - 绯索卡 · Phesoca](https://phesoca.com/aws/309/)，《切韵》音系音节分类的首要特征就是三等–非三等。
 
 三等A类即重纽四等，三等B类即重纽三等。 [重纽 - 维基](https://zh.wikipedia.org/wiki/%E9%87%8D%E7%B4%90)
-
-一二三四等韵的整理，根据 [AWs-281 unt切韵朗读音：早期中古汉语的一种可读实现 - 绯索卡 · Phesoca](https://phesoca.com/aws/281/)：（标注介音来自unt朗读音）
-
-等|开口|合口|包含的韵
--|-|-|-
-四等|∅|w|齐先萧青添
-一等|∅|w|东一冬模泰咍灰痕魂寒(桓)豪歌(戈一)唐登侯覃谈
-二等|ɻ|wɻ/ɻw|江佳皆夬删山肴麻二庚二耕咸衔
-三A|j|ɥ| _支脂祭真_ (谆) _仙宵_ 麻三清幽 _侵盐_
-三B|ɻj|ɻɥ| _支脂祭真_ 臻 _仙宵_ 庚三蒸 _侵盐_
-三C1|j̈|ẅ|微废欣文元严凡
-三C2|j̈|ẅ|东三钟之鱼虞戈三阳尤
 
 [切韵小统计：三等非三等混切（及声母的拆分） - UntPhesoca的文章 - 知乎](https://zhuanlan.zhihu.com/p/541263851)
 
@@ -211,6 +209,8 @@ Linguists sometimes refer to the system of the Qieyun as **Early Middle Chinese*
     - 一等
     - 二等
     - 四等
+
+二等来自上古汉语的 r 介音，在中古汉语里大概表现为咽化元音。（复杂问题）
 
 ## 独韵与开合韵
 
@@ -675,6 +675,18 @@ https://zhuanlan.zhihu.com/p/478751152
 **虽然原文说「鉴于这些风险的存在，我们不会声称我们的切韵朗读音是拟音。」但此方案仍作为历史存档存在于推导器的「unt 切韻擬音」代码里。因此，为了方便处理，仍写在「拟音」章节下。**
 
 [AWs-281 unt切韵朗读音：早期中古汉语的一种可读实现](https://phesoca.com/aws/281/)
+
+一二三四等韵的整理，根据 [AWs-281 unt切韵朗读音：早期中古汉语的一种可读实现 - 绯索卡 · Phesoca](https://phesoca.com/aws/281/)：（标注介音来自unt朗读音）
+
+等|开口|合口|包含的韵
+-|-|-|-
+四等|∅|w|齐先萧青添
+一等|∅|w|东一冬模泰咍灰痕魂寒(桓)豪歌(戈一)唐登侯覃谈
+二等|ɻ|wɻ/ɻw|江佳皆夬删山肴麻二庚二耕咸衔
+三A|j|ɥ| _支脂祭真_ (谆) _仙宵_ 麻三清幽 _侵盐_
+三B|ɻj|ɻɥ| _支脂祭真_ 臻 _仙宵_ 庚三蒸 _侵盐_
+三C1|j̈|ẅ|微废欣文元严凡
+三C2|j̈|ẅ|东三钟之鱼虞戈三阳尤
 
 <table><caption><span class="table-number">表<hanla></hanla>1</span><hanla></hanla><span class="table-caption-text">声母</span></caption><tbody><tr><td></td><td></td><td>双唇</td><td>齿龈</td><td>卷舌</td><td>龈腭</td><td>软腭<br>小舌</td><td>喉</td></tr><tr><td></td><td></td><td class="kaiti">重唇</td><td class="kaiti">舌头</td><td class="kaiti">舌上</td><td class="kaiti">半齿</td><td class="kaiti">牙</td><td class="kaiti">喉</td></tr><tr><td rowspan="3">塞音</td><td class="kaiti">全清</td><hanla></hanla><td>p<br><hanla></hanla>帮</td><hanla></hanla><td>t<br><hanla></hanla>端</td><hanla></hanla><td>ʈ<br><hanla></hanla>知</td><td></td><hanla></hanla><td>k ~ q<br><hanla></hanla>见</td><hanla></hanla><td>ʔ<br><hanla></hanla>影</td></tr><tr><td class="kaiti">次清</td><hanla></hanla><td>pʰ<br><hanla></hanla>滂</td><hanla></hanla><td>tʰ<br><hanla></hanla>透</td><hanla></hanla><td>ʈʰ<br><hanla></hanla>彻</td><td></td><hanla></hanla><td>kʰ ~ qʰ<br><hanla></hanla>溪</td><td></td></tr><tr><td class="kaiti">全浊</td><hanla></hanla><td>b<br><hanla></hanla>並</td><hanla></hanla><td>d<br><hanla></hanla>定</td><hanla></hanla><td>ɖ<br><hanla></hanla>澄</td><td></td><hanla></hanla><td>ɡ ~ ɢ<br><hanla></hanla>群</td><td class="grey-cell"></td></tr><tr><td>鼻音</td><td class="kaiti">次浊</td><hanla></hanla><td>m<br><hanla></hanla>明</td><hanla></hanla><td>n<br><hanla></hanla>泥</td><hanla></hanla><td>ɳ<br><hanla></hanla>娘</td><hanla></hanla><td>ɲ<br><hanla></hanla>日</td><hanla></hanla><td>ŋ ~ ɴ<br><hanla></hanla>疑</td><td class="grey-cell"></td></tr><tr><td></td><td></td><td class="kaiti">轻唇</td><td class="kaiti">齿头</td><td colspan="2" class="kaiti">正齿</td><td colspan="2" class="kaiti">喉</td></tr><tr><td rowspan="3">塞擦音</td><td class="kaiti">全清</td><td class="preset-grey">“p͡ɸ”<br>非</td><hanla></hanla><td>t͡s<br><hanla></hanla>精</td><hanla></hanla><td>t͡ʂ<br><hanla></hanla>庄<span class="preset-grey">照</span></td><hanla></hanla><td>t͡ɕ<br><hanla></hanla>章<span class="preset-grey">←</span></td><td></td><td></td></tr><tr><td class="kaiti">次清</td><td class="preset-grey">“p͡ɸʰ”<br>敷</td><hanla></hanla><td>t͡sʰ<br><hanla></hanla>清</td><hanla></hanla><td>t͡ʂʰ<br><hanla></hanla>初<span class="preset-grey">穿</span></td><hanla></hanla><td>t͡ɕʰ<br><hanla></hanla>昌<span class="preset-grey">←</span></td><td></td><td></td></tr><tr><td class="kaiti">全浊</td><td class="preset-grey">“b͡β”<br>奉</td><hanla></hanla><td>d͡z<br><hanla></hanla>从</td><hanla></hanla><td>d͡ʐ<br><hanla></hanla>崇<span class="preset-grey">床</span></td><hanla></hanla><td>d͡ʑ<br><hanla></hanla>常<span class="preset-grey">←</span></td><td></td><td class="grey-cell"></td></tr><tr><td rowspan="2">擦音</td><td class="kaiti">全清</td><td></td><hanla></hanla><td>s<br><hanla></hanla>心</td><hanla></hanla><td>ʂ<br><hanla></hanla>生<span class="preset-grey">审</span></td><hanla></hanla><td>ɕ<br><hanla></hanla>书<span class="preset-grey">←</span></td><td colspan="2">h ~ χ<br><hanla></hanla>晓</td></tr><tr><td class="kaiti">全浊</td><td></td><hanla></hanla><td>z<br><hanla></hanla>邪</td><hanla></hanla><td>ʐ<br><hanla></hanla>俟<span class="preset-grey">(禅)</span></td><td>ʑ<br><hanla></hanla>船<span class="preset-grey">←</span></td><td colspan="2">ɦ ~ ʁ<br><hanla></hanla>匣</td></tr><tr><td></td><td></td><td class="kaiti">轻唇</td><td colspan="2" class="kaiti">半舌</td><td colspan="3" class="kaiti">喉</td></tr><tr><td>近音</td><td class="kaiti">次浊</td><td class="preset-grey">“β̞<span class="non-breaking">̃<span class="cn-quot"><span class="full-width-char">”</span></span></span><br>微</td><hanla></hanla><td colspan="2">l<br><hanla></hanla>来</td><hanla></hanla><td>j<br><hanla></hanla>以<span class="preset-grey">喻</span></td><td colspan="2">∅ (j̈)<br>云<span class="preset-grey">←</span></td></tr></tbody></table>
 
