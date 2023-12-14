@@ -2,9 +2,9 @@ MiddleChinesePhonology | 中古汉语语音
 
 CLC: H11
 
-Linguists sometimes refer to the system of the Qieyun as **Early Middle Chinese** and the variant revealed by the rime tables as **Late Middle Chinese**.
+Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Middle Chinese** and the variant revealed by the rime tables （韵图） as **Late Middle Chinese**.
 
-**⚠️注意：由于学习顺序，部分内容直接使用了 polyhedron 前辈的古韵罗马字，其他内容亦可能包含过时观点。正在补课，当前倾向于「切韵拼音」及「切韵通俗拟音」（但 ɨ ʉ ɛ æ 好难发准）。**
+**⚠️注意：由于学习顺序，部分内容直接使用了 polyhedron 前辈的古韵罗马字，其他内容亦可能包含过时观点。正在补课，当前倾向于「切韵拼音」及与此拼音相接近的拟音**
 
 - [polyhedron 本人对古韵罗马字及切韵拼音的评价 - 知乎](https://www.zhihu.com/question/372828311/answer/2441585425)
 
@@ -22,7 +22,7 @@ Linguists sometimes refer to the system of the Qieyun as **Early Middle Chinese*
 - [切韵音- Knowpia百科](https://www.knowpia.cn/pages/%E5%88%87%E9%9F%B5%E9%9F%B3)
 - [摄_(声韵学)- Knowpia百科](https://www.knowpia.cn/pages/%E6%94%9D_(%E8%81%B2%E9%9F%BB%E5%AD%B8))
 - [等呼- Knowpia百科](https://www.knowpia.cn/pages/%E7%AD%89%E5%91%BC)
-- [unt 切韵朗读音：早期中古汉语的一种可读实现](https://zhuanlan.zhihu.com/p/58227457)
+- （作废）[unt 切韵朗读音：早期中古汉语的一种可读实现](https://zhuanlan.zhihu.com/p/58227457)
     - [unt个人博客此文链接](https://phesoca.com/aws/281/)
 - [广韵校本上.pdf - mdict](https://mdx.mdict.org/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%B7%A5%E5%85%B7%E4%B9%A6/%E5%8F%A4%E9%9F%B3%E9%9F%B5%E8%AF%AD%E6%B3%95%E7%AD%89/%E5%B9%BF%E9%9F%B5%E6%A0%A1%E6%9C%AC%20%E4%B8%8A.pdf)
 - [广韵校本下册.pdf - mdict](https://mdx.mdict.org/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%B7%A5%E5%85%B7%E4%B9%A6/%E5%8F%A4%E9%9F%B3%E9%9F%B5%E8%AF%AD%E6%B3%95%E7%AD%89/%E5%B9%BF%E9%9F%B5%E6%A0%A1%E6%9C%AC%E4%B8%8B%E5%86%8C.pdf)
@@ -33,6 +33,11 @@ Linguists sometimes refer to the system of the Qieyun as **Early Middle Chinese*
 - [【汉语音韵学笔记】束娄东切韵拟音V8 - msoeg的文章 - 知乎](https://zhuanlan.zhihu.com/p/145409852)
 - [中古擬音 - 雪齋的文章 - 知乎 （看评论区讨论）](https://zhuanlan.zhihu.com/p/560047021)
 - [切韵拟音L、切韵通俗拟音 - 绯索卡 · Phesoca](https://phesoca.com/aws/337/)
+- 赵元任的《通字方案》 https://zh.wikipedia.org/zh-hans/%E9%80%9A%E5%AD%97%E6%96%B9%E6%A1%88
+    - 施氏食狮史 shi zhii zhic sri srii
+    - 基于中古汉语做简化，以求方便地兼顾现代众方言，包括利用吴语的声母、官话的介音和韵腹、粤语的韵尾。。。真是很多音韵爱好者都会做的事吧
+    - 有空做个推导方案？如果他严格基于中古汉语的话
+- 发现个有意思的人 Tangent Constructed Chinese https://tcchinese.tumblr.com/ 2014年就开始发东西了
 
 字音的构造：（韵典网）
 
@@ -750,7 +755,7 @@ eo → ə, ɨo → ɨə, 前不接 y、ʉ 且后接 j、n、t 的 o → uo, 后�
 - [ə] 及拼音 o: eo → ə, ɨo → ɨə；o → ə，（但后接 ŋ、k 时为 o，前不接 y、ʉ 且后接 j、n、t 的 o → uo）
 - （[ɑ] 是 a 在音节尾的或后接 ŋ、k 的变体，但不构成对立，我觉得无论 a 还是 ɑ，能与 [æ] 区分即可）
 
-# 一些中古音助记
+# 一些音韵辨音助记
 
 ## 尖团音
 
