@@ -36,7 +36,11 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
 - 赵元任的《通字方案》 https://zh.wikipedia.org/zh-hans/%E9%80%9A%E5%AD%97%E6%96%B9%E6%A1%88
     - 施氏食狮史 shi zhii zhic sri srii
     - 基于中古汉语做简化，以求方便地兼顾现代众方言，包括利用吴语的声母、官话的介音和韵腹、粤语的韵尾。。。真是很多音韵爱好者都会做的事吧
+    - https://github.com/lotem/zime/blob/master/zime-data/tungdzih/tungdzih-keywords.txt
+    - https://github.com/baopaau/rime-tungdzih
     - 有空做个推导方案？如果他严格基于中古汉语的话
+        - 这里已经给出每个小韵对应的通字了，基于改之即可！ https://github.com/baopaau/rime-tungdzih/blob/master/tungdzih-siaoyunn.txt
+        - 要是有个自动从小韵生成推导方案的程序就好了——不过推导思路总会有不一样的。
 - 发现个有意思的人 Tangent Constructed Chinese https://tcchinese.tumblr.com/ 2014年就开始发东西了
 
 字音的构造：（韵典网）
