@@ -1,4 +1,4 @@
-MiddleChinesePhonology | 中古汉语语音
+MiddleChinesePhonology | 中古汉语语音 trung koq hanh ngyoq ngyoq qyim
 
 CLC: H11
 
@@ -12,8 +12,9 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
 
 参考链接
 
+- [切韵拼音 - 绯索卡 · Phesoca](https://phesoca.com/tupa/)
+    - 新活旧整：切韵拼音16摄图//开倒车（ https://zhuanlan.zhihu.com/p/483856847?utm_psn=1717859410859380736
 - [韵典网](https://ytenx.org/)
-- [用户:Polyhedron/中古汉语拼音](https://zh.wikipedia.org/wiki/User:Polyhedron/%E4%B8%AD%E5%8F%A4%E6%BC%A2%E8%AA%9E%E6%8B%BC%E9%9F%B3)
 - [廣韻中的重紐與重紐歸類問題 - BYVoid](https://byvoid.com/zht/blog/kuangx-yonh-dryung-nriux/)
     - > 總結一下重紐的定義，重紐現象就是「在脣牙喉音，支脂祭眞仙宵侵鹽，八個韻系下的小韻中，通過反切系聯歸一類，卻列爲兩個不同的小韻的現象」，這種現象在韻圖上面的反映就是兩個小韻分別列在了同一聲韻的三等和四等位置上。
 - poem: 广韵字音表（20170209，poem版）
@@ -22,13 +23,10 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
 - [切韵音- Knowpia百科](https://www.knowpia.cn/pages/%E5%88%87%E9%9F%B5%E9%9F%B3)
 - [摄_(声韵学)- Knowpia百科](https://www.knowpia.cn/pages/%E6%94%9D_(%E8%81%B2%E9%9F%BB%E5%AD%B8))
 - [等呼- Knowpia百科](https://www.knowpia.cn/pages/%E7%AD%89%E5%91%BC)
-- （作废）[unt 切韵朗读音：早期中古汉语的一种可读实现](https://zhuanlan.zhihu.com/p/58227457)
-    - [unt个人博客此文链接](https://phesoca.com/aws/281/)
 - [广韵校本上.pdf - mdict](https://mdx.mdict.org/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%B7%A5%E5%85%B7%E4%B9%A6/%E5%8F%A4%E9%9F%B3%E9%9F%B5%E8%AF%AD%E6%B3%95%E7%AD%89/%E5%B9%BF%E9%9F%B5%E6%A0%A1%E6%9C%AC%20%E4%B8%8A.pdf)
 - [广韵校本下册.pdf - mdict](https://mdx.mdict.org/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%B7%A5%E5%85%B7%E4%B9%A6/%E5%8F%A4%E9%9F%B3%E9%9F%B5%E8%AF%AD%E6%B3%95%E7%AD%89/%E5%B9%BF%E9%9F%B5%E6%A0%A1%E6%9C%AC%E4%B8%8B%E5%86%8C.pdf)
 - [泽存堂本广韵・《宋本广韵》（中国书店1982年据张氏泽存堂本影印）.pdf](https://downloads.freemdict.com/%E5%B0%9A%E6%9C%AA%E6%95%B4%E7%90%86/%E9%9B%86%E5%90%88/%E6%96%87%E5%AD%97%E8%AF%8D%E5%85%B8/%E5%AD%97%EF%BC%8C%E8%AF%8D%EF%BC%8C%E5%8F%A5%EF%BC%8C%E7%AF%87%E5%B7%A5%E5%85%B7%E4%B9%A6/1%E3%80%81%E5%AD%97/%E3%80%8A%E5%AE%8B%E6%9C%AC%E5%B9%BF%E9%9F%B5%E3%80%8B%EF%BC%88%E4%B8%AD%E5%9B%BD%E4%B9%A6%E5%BA%971982%E5%B9%B4%E6%8D%AE%E5%BC%A0%E6%B0%8F%E6%B3%BD%E5%AD%98%E5%A0%82%E6%9C%AC%E5%BD%B1%E5%8D%B0%EF%BC%89.pdf)
 - [AWs-309 切韵拟音J - 绯索卡 · Phesoca](https://phesoca.com/aws/309/)
-- [切韵拼音 - 绯索卡 · Phesoca](https://phesoca.com/tupa/)
 - [切韵拟音 L 预览（UntPhesoca的想法 - 知乎）](https://www.zhihu.com/pin/1547712591362981888)
 - [【汉语音韵学笔记】束娄东切韵拟音V8 - msoeg的文章 - 知乎](https://zhuanlan.zhihu.com/p/145409852)
 - [中古擬音 - 雪齋的文章 - 知乎 （看评论区讨论）](https://zhuanlan.zhihu.com/p/560047021)
@@ -42,6 +40,9 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
         - 这里已经给出每个小韵对应的通字了，基于改之即可！ https://github.com/baopaau/rime-tungdzih/blob/master/tungdzih-siaoyunn.txt
         - 要是有个自动从小韵生成推导方案的程序就好了——不过推导思路总会有不一样的。
 - 发现个有意思的人 Tangent Constructed Chinese https://tcchinese.tumblr.com/ 2014年就开始发东西了
+- （弃用）[用户:Polyhedron/中古汉语拼音](https://zh.wikipedia.org/wiki/User:Polyhedron/%E4%B8%AD%E5%8F%A4%E6%BC%A2%E8%AA%9E%E6%8B%BC%E9%9F%B3)
+- （弃用）[unt 切韵朗读音：早期中古汉语的一种可读实现](https://zhuanlan.zhihu.com/p/58227457)
+    - [unt个人博客此文链接](https://phesoca.com/aws/281/)
 
 字音的构造：（韵典网）
 
@@ -57,11 +58,11 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
         - 大部分都不常用啊……在字音表里注明广州话普通话读音的也就这么12个：靈齡囹鈴苓伶泠玲聆零翎羚。四舍五入就是使用中古音的话非生僻字里同音字最多就12个的水平。完美。
         - 包含字数第二多的小韵是嗁de，60个；再往后，禄luk47，同dung45，逾jyo45，猷ju45，雳lek45，刘liu44，𧚍giu44，第十位は聊leu42，第十一位は唐dang40，第十二位は煩byan38
 
-# 声母
+# 声母 sjiaeng mouq
 
 ## 声母表
 
-由王旭整理自 polyhedron 的《中古汉语语音教程》。（ https://wenku.baidu.com/view/404793e5af45b307e87197f1.html ）外加我的习惯拟音，基于中古汉语拼音的形状及潘悟云的拟音（只有匣母不同于潘悟云拟音）。（ https://www.knowpia.cn/pages/%E5%88%87%E9%9F%B5%E9%9F%B3 ）
+改编参考 https://wenku.baidu.com/view/404793e5af45b307e87197f1.html   https://www.knowpia.cn/pages/%E5%88%87%E9%9F%B5%E9%9F%B3 
 
 38个声母使用。不同于唐末宋代「三十六字母」。
 
@@ -71,48 +72,48 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
   <td>全清</td><td>全浊</td>
 </tr>   <tr>
   <td            >唇音</td> <td>帮组</td> 
-  <td>帮p */p/</td><td>滂ph */pʰ/</td><td>並b */b/</td><td>明m */m/</td> 
+  <td>幫（pang）p */p/</td><td>滂（phang）ph */pʰ/</td><td>並（bengq）b */b/</td><td>明（myaeng）m */m/</td> 
   <td>   </td><td>   </td>
 </tr>   <tr>
   <td rowspan="3">舌音</td> <td>（舌头音）端组</td> 
-  <td>端t */t/</td><td>透th */tʰ/</td><td>定d */d/</td><td>泥n */n/</td> 
+  <td>端（twan）t */t/</td><td>透（thouh）th */tʰ/</td><td>定（dengh）d */d/</td><td>泥（nej）n */n/</td> 
   <td>   </td><td>   </td>
 </tr>    <tr>
                             <td>（舌上音）知组</td> 
-  <td>知tr */ʈ/</td><td>彻thr */ʈʰ/</td><td>澄dr */ɖ/</td><td>娘nr */ɳ/</td> 
+  <td>知（trie）tr */ʈ/</td><td>徹（trhiet）thr */ʈʰ/</td><td>澄（draeng）dr */ɖ/</td><td>娘（nryang）nr */ɳ/</td> 
   <td>   </td><td>   </td>
 </tr>    <tr>
                             <td>（半舌音）    </td> 
-  <td>    </td><td>     </td><td>    </td><td>来l */l/</td> 
+  <td>    </td><td>     </td><td>    </td><td>來（leoj）l */l/</td> 
   <td>   </td><td>   </td>
 </tr>    <tr>
   <td rowspan="3">齿音</td> <td>精组（齿头音）</td> 
-  <td>精c */ts/</td><td>清ch */tsʰ/</td><td>从z */dz/</td><td>  </td> 
-  <td>心s */s/</td><td>邪zs */z/</td>
+  <td>精（tsiaeng）ts */ts/</td><td>清（tshiaeng）tsh */tsʰ/</td><td>從（dzuong）dz */dz/</td><td>  </td> 
+  <td>心（sim）s */s/</td><td>邪（ziae）z */z/</td>
 </tr>    <tr>
-                            <td>庄组（正齿音庄组）</td> 
-  <td>庄cr */tʂ/</td><td>初chr */tʂʰ/</td><td>崇zr */dʐ/</td><td>  </td> 
-  <td>生sr */ʂ/</td><td>俟zsr */ʐ/</td>
+                            <td>莊组（正齿音庄组）</td> 
+  <td>莊（tsryang）tsr */tʂ/</td><td>初（tsrhyo）tsrh */tʂʰ/</td><td>崇（dzrung）dzr */dʐ/</td><td>  </td> 
+  <td>生（sryaeng）sr */ʂ/</td><td>俟（zryq）zr */ʐ/</td>
 </tr>      <tr>
                             <td>章组（正齿音章组。日母为半齿音）</td> 
-  <td>章cj */tɕ/</td><td>昌chj */tɕʰ/</td><td>常zj */dʑ/</td><td>日nj */ȵ/</td> 
-  <td>书sj */ɕ/</td><td>船zsj */ʑ/</td>
+  <td>章（tjyang）tj */tɕ/</td><td>昌（tjhyang）tjh */tɕʰ/</td><td>常（djyang）dj */dʑ/</td><td>日（njit）nj */ȵ/</td> 
+  <td>書（sjyo）sj */ɕ/</td><td>船（zjwien）zj */ʑ/</td>
 </tr>    <tr>
-  <td            >牙音</td> <td>见组</td> 
-  <td>见k */k/</td><td>溪kh */kʰ/</td><td>群g */g/</td><td>疑ng */ŋ/</td> 
+  <td            >牙音</td> <td>見组</td> 
+  <td>見（kenh）k */k/</td><td>溪（khej）kh */kʰ/</td><td>羣（gun）g */g/</td><td>疑（ngy）ng */ŋ/</td> 
   <td>   </td><td>   </td>
 </tr>        <tr>
   <td rowspan="2">喉音</td> <td>    </td> 
-  <td>影q */ʔ/</td><td>    </td><td>   </td><td>   </td> 
-  <td>晓h */h/</td><td>匣gh */ɣ/</td>
+  <td>影（qyaengq）q */ʔ/</td><td>    </td><td>   </td><td>   </td> 
+  <td>曉（hewq）h */x/</td><td>匣（ghaep）gh */ʁ/</td>
 </tr>      <tr>
                             <td>    </td> 
-  <td>   </td><td>   </td><td>   </td><td>云0 */ɦ/，以j */j/</td> 
+  <td>   </td><td>   </td><td>   </td><td>云（un）（不标） */ɦ或无/，以（jyq）j */j/</td> 
   <td>   </td><td>   </td>
 </tr>
 </table>
 
-## 中古汉语声母的等呼
+## 声母可搭配的等呼
 
 中古汉语除了韵母分为不同等呼外，声母也有等呼属性，决定了声母只能和某些特定等呼的韵母相拼。这一定程度上反映了声母在上古汉语中的历史痕迹。
 
@@ -146,6 +147,7 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
 - 照二归精：庄初床山/知澈澄娘 & 精清从心（zcs）
 - 匣母（/gh/） & 群母（/g/）
 - 匣母（/gh/） & 云母（/ɦ/） & 以母（/j/）
+- 匣母只拼非三等，所以擬成小舌音 ʁ 很恰當咯
 
 原理：
 
@@ -181,7 +183,44 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
 
 一般说是或许是 ʔ。但类似于普通话的零声母？因为普通话的 tian-an-men 也不能连读（当然一部分原因是鼻音韵尾不发完）
 
-# 韵母
+# 韵母 unh mouq
+
+## 韵目用字及其韵母整理
+
+一个韵目可能有多种等、呼、重纽的形式。整理以熟悉韵目用字
+
+在此保留「摄」，知法犯法🤪毕竟也是常用术语，一并熟悉
+
+舉平以賅上去入
+
+韻目 unh muk
+
+| 韻目 unh muk / 攝 sjiep | 切拼 | 備註 | 普 | 廣 | 滬
+-|-|-|-|-|-
+_果攝_ | kwaq | | guo3 | gwo2(gu2) | ku5
+歌一 (w)a 歌三 ya/ua | ka | 一合三開三合又叫戈韻 | ge1 | go1 | ku1
+（戈） | kwa | 歌韻的一部分的又名 | ge1 | gwo1 | ku1
+_假攝_ | kaeq | | jia3 | gaa2 | cia5, _ka5_
+麻二 (w)ae 麻三 iae | mae |  | ma2 | maa4 | mo6 
+_遇攝_ | nguoh | | yu4 | jyu6 | yu6
+模 o | mo | 一 | mo2, mu2 | mou4 | mu6, mo6
+魚 yo | ngyo | 三C | yu2 | jyu4 | yu6, _ng6_
+虞 uo | nguo | 三C | yu2 | jyu4 | yu6, niu6
+_蟹攝_ | gheeq | | xie4 | haai5 | ha5
+_止攝_ | tjyq | | zhi3 | zi2 | tsy5
+_效攝_ | ghaewh | | xiao4 | haau6 | 
+_流攝_ | lu | | liu2 | lau4 | lieu6
+_咸攝_ | gheem | | xian2 | haam4 | ghe6
+_深攝_ | sjim | | shen1 | sam1 | sen1
+_山攝_ | sreen | | shan1 | saan1 | se1
+_臻攝_ | tsryin | | zhen1 | zeon1 | tsen1
+_曾攝_ | tseong | | zeng1 | zang1 | tsen1
+_梗攝_ | kaengq | | geng3 | gang2(gwaang2) | kan5
+_宕攝_ | dangh | | dang4 | dong6 | daon6
+_江攝_ | koeung | | jiang1 | gong1 | cian1, _kaon1_
+_通攝_ | thoung | | tong1 | tung1 | thon1
+
+## 以前从维基复制来的科普，留作批判
 
 > 摄，又称韵摄，是唐字声韵学上，将韵的归类方式，尤其指中古音《广韵》十六摄。凡声韵学讲的摄，通常即为十六摄之一。
 > 
@@ -676,6 +715,14 @@ https://zhuanlan.zhihu.com/p/478751152
 - tsrhyaengh 初開三庚去: 㵾
 
 # 拟音
+
+## 個人基於切韻拼音的湊合擬音
+
+- 小舌化聲母基本只在 ou 前強調，而且可能實現爲帶一個小 ʁ
+- 二等韻腹 -e 實現爲捲舌化元音，參照普通話、菏澤話 盤兒 盆兒 猴兒
+- y 一般讀 ɯ，在 ae 前被捲舌同化出 ɹ（unt擬音L亦有，msoeg擬音亦類似），在 i 前亦出現 ɹ 或化爲 i˞ （因爲覺得跨越前後太難念。。。而且同前，見於 unt 與 msoeg 擬音）
+- o 有時念成 ə，只要注意和 eo 對立的情況
+- n ng 找機會讀鼻化元音
 
 ## 【已过时】unt 切韵朗读音
 
