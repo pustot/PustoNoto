@@ -9,6 +9,7 @@ Taking notes of knowledge, especially those learned and utilized only occasional
 
 - kejk 计科目录 [Enhavo-Informadiko](./000-Enhavo-Informadiko.md)
 - ngyo 语言及语言学 [400-Lingvo-LeguMin](./400-Lingvo/README.md)
+    - 中古漢語 [trung koq hanh ngyoq](./400-Lingvo/400-zh-ltc-中漢-MezaĈinaFonologio.md)
     - 诸语基础 [BazojDeLingvoj](./400-Lingvo/407.1-諸基-BazojDeLingvoj.md)
     - 主学语言的词表 [407.1-KernVortoj/KernVortojKernLing](./400-Lingvo/407.1-KernVortoj/KernVortojKernLing.csv)
 - dihl 地理 [Geografio](./910-Geografio.md)

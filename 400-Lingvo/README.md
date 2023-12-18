@@ -1,6 +1,6 @@
 # Kolekto | 收藏夹
 
-- [zh-ltc](./400-zh-ltc-MezaĈinaFonologio.md)
+- [zh-ltc 中古漢語](./400-zh-ltc-中漢-MezaĈinaFonologio.md)
 - [eo](./400-eo-冀-Esperanto.md)
 - [ja](./400-ja-日-Japana.md)
 - [ko](./400-ko-韓-Korean.md)
