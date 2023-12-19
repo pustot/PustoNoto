@@ -239,31 +239,78 @@ _果攝_ | kwaq | | guo3 | gwo2(gu2) | ku5
 _假攝_ | kaeq | | jia3 | gaa2 | cia5, _ka5_
 麻二 (w)ae 麻三 iae | mae |  | ma2 | maa4 | mo6 
 _遇攝_ | nguoh | | yu4 | jyu6 | yu6
-模 o | mo | 一 | mo2, mu2 | mou4 | mu6, mo6
 魚 yo | ngyo | 三C | yu2 | jyu4 | yu6, _ng6_
 虞 uo | nguo | 三C | yu2 | jyu4 | yu6, niu6
+模 o | mo | 一 | mo2, mu2 | mou4 | mu6, mo6
 _蟹攝_ | gheeq | | xie4 | haai5 | ha5
-泰 (w)aj | thajh | 一 | tai4 | taai3 | tha5
-夬 (w)aej | kwaejh | 二 | guai4 | gwaai3 | 
 齊 (w)ej | dzej | 四 | qi2 | cai4 | zhi6
 祭 (w)iej/yej/uej | tsiejh | 三AB | ji4 | zai3 | ci5
+泰 (w)aj | thajh | 一 | tai4 | taai3 | tha5
 佳 (w)ee | kee | 二 | jia1 | gaai1 | cia1, cia5
 皆 (w)eej | keej | 二 | jie1 | gaai1 | cia1
-咍 eoj | heoj | 一 | hai1 | hoi1(haai1) | 
+夬 (w)aej | kwaejh | 二 | guai4 | gwaai3 | 
 灰 oj | hoj | 一 | hui1 | fui1 | hue1
+咍 eoj | heoj | 一 | hai1 | hoi1(haai1) | 
 廢 yoj/uoj | puojh | 三C？ | fei4 | fai3 | fi5
 _止攝_ | tjyq | | zhi3 | zi2 | tsy5
+支 (w)ie/ye/ue | tjie |三AB| zhi1 | zi1 | tsy1
+脂 (w)i/yi/ui | tji |三AB| zhi1 | zi1 | tsy1
+之 y | tjy |三C开| zhi1 | zi1 | tsy5
+微 yj/uj | muj |三C| wei1 | mei4 | vi6
 _效攝_ | ghaewh | | xiao4 | haau6 | 
+蕭 ew |sew|四|xiao1|siu1|shiau1
+宵 iew/yew |siew|三AB|xiao1|xiu1|shiau1
+肴 aew |ghaew|二|yao2|ngaau4|yau6
+豪 aw |ghaw|一|hao2|hou4|ghau6
 _流攝_ | lu | | liu2 | lau4 | lieu6
+尤 u |u|三C|you2|jau4|yeu6
+侯 ou |ghou|一|hou2,hou4|hau4|gheu6
+幽 iw/yiw |qiw|三AB|you1|jau1|ieu1
 _咸攝_ | gheem | | xian2 | haam4 | ghe6
+覃 om | dom |一|tan2|taam4|de6
+談 am | dam |一|tan2|taam4|de5
+鹽 iem/yem | jiem |三AB|yan2|jim4|yi6
+添 em | them |四|tian1|tim1|thi1
+咸 eem | gheem |二|xian2|haam4|ghe6
+銜 aem | ghaem |二|xian2|haam4(ham4)|ghe6, nge6
+嚴凡 yom/uom | ngyom |三C(嚴凡聯繫緊密？)|yan2|jim4|ni6
+(凡)| buom |(嚴凡聯繫緊密？)|fan2|faan4|ve6
 _深攝_ | sjim | | shen1 | sam1 | sen1
+侵 im/yim | tshim |三AB|qin1|cam1|chin1
 _山攝_ | sreen | | shan1 | saan1 | se1
+寒 (w)an | ghan |一(合口為桓？)|han2|hon4|ghoe6
+(桓)| ghwan ||huan2|wun4|woe6
+刪 (w)aen | sraen |二|shan1|saan1|se1
+山 (w)een | sreen |二|shan1|saan1|se1
+先 (w)en | sen |四|xian1|sin1|shi1
+仙 (w)ien/yen/uen | sien |三AB|xian1|sin1|shi1
 _臻攝_ | tsryin | | zhen1 | zeon1 | tsen1
+真臻 (w)in/yin/uin |tjin|三AB(真諄臻聯繫緊密？)|zhen1|zan1|tsen1
+(諄)|tjwin|(真諄臻聯繫緊密？)|zhun1|zeon1|tsen1
+(臻)|tsryin|(真諄臻聯繫緊密？)|zhen1|zeon1|tsen1
+文 un |mun|三C合|wen2|man4|ven6
+欣 yn |hyn|三C開(欣又叫殷？)|xin1|jan1|shin5
+((殷))|qyn|(欣又叫殷？似乎是切韻本用殷)|yin1|jan1|in1
+元 yon/uon |nguon|三C|yuan2|jyun4|yoe6, _nioe5_
+魂 on |ghon|一|hun2|wan4|wen6
+痕 eon |gheon|一|hen2|han4|ghen6
 _曾攝_ | tseong | | zeng1 | zang1 | tsen1
+蒸B ying/uing 蒸C yng |tjyng|三B 三C|zheng1|zing1|tsen1
+登 (w)eong |teong|一|deng1|dang1|ten1
 _梗攝_ | kaengq | | geng3 | gang2(gwaang2) | kan5
+庚二 (w)aeng 清庚三 (w)iaeng/yaeng/uaeng |kaeng|二 三AB (清庚三聯繫緊密？)|geng1|gang1|kan1
+耕 (w)eeng |keeng|二|geng1|gaang1(gang1)|ken1
+(清)|tshiaeng|(清庚三聯繫緊密？)|qing1|cing1(ceng1)|chin1
+青 (w)eng |tsheng|四|qing1|cing1(ceng1)|chin1
 _宕攝_ | dangh | | dang4 | dong6 | daon6
+陽 yang/uang |jyang|三C|yang2|joeng4|yan6
+唐 (w)ang |dang|一|tang2|tong4|daon6
 _江攝_ | koeung | | jiang1 | gong1 | cian1, _kaon1_
+江 oeung |koeung|二|jiang1 | gong1 | cian1, _kaon1_
 _通攝_ | thoung | | tong1 | tung1 | thon1
+東一 oung 東三 ung |toung|一 三C|dong1|dung1|ton1
+冬 ong |tong|一|dong1|dung1|ton1
+鍾 uong |tjuong|三C|zhong1|zung1|tson1
 
 ## 以前从维基复制来的科普，留作批判
 
