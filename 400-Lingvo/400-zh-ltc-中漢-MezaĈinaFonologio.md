@@ -1,4 +1,4 @@
-MiddleChinesePhonology | 中古汉语语音 trung koq hanh ngyoq ngyoq qyim
+MiddleChinesePhonology | 中古汉语语音 trung koq hanh ngyoq ngyoq qyim kaewh driaeng
 
 CLC: H11
 
@@ -32,7 +32,7 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
 - [中古擬音 - 雪齋的文章 - 知乎 （看评论区讨论）](https://zhuanlan.zhihu.com/p/560047021)
 - [切韵拟音L、切韵通俗拟音 - 绯索卡 · Phesoca](https://phesoca.com/aws/337/)
 - 赵元任的《通字方案》 https://zh.wikipedia.org/zh-hans/%E9%80%9A%E5%AD%97%E6%96%B9%E6%A1%88
-    - 施氏食狮史 shi zhii zhic sri srii
+    - 施氏食狮史 shi zhii zhic sri srii (tupa: sjie djieq zjyk sryi sryq)
     - 基于中古汉语做简化，以求方便地兼顾现代众方言，包括利用吴语的声母、官话的介音和韵腹、粤语的韵尾。。。真是很多音韵爱好者都会做的事吧
     - https://github.com/lotem/zime/blob/master/zime-data/tungdzih/tungdzih-keywords.txt
     - https://github.com/baopaau/rime-tungdzih
@@ -56,7 +56,7 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
 - `小韵` 则是声母韵母都相同的字，《广韵》26194字共有小韵3874个。
     - 查询到其中同音字最多，即包含字数最多的小韵是「靈（廣韻第九百三十九小韻）（leng）」，87个，同音字如下：*靈霛𩆈𩆜舲齡麢𦏰囹鴒䉁蛉鈴霝醽苓櫺柃𩆚伶泠瓴𧕅拎刢𧆺𤣘𤫲玲𦉢𩖊㾉聆竛𠄖蘦軨䡼笭零孁令𪕌灵𩟃𩵀龗翎閝鹷䴇昤駖𧖜𩆮蕶酃詅彾䯍呤跉狑𤣤爧冷怜𠱠𦫊𢺰澪鏻𥤞秢䕘獜岭魿𣬹𩚹紷䉹砱阾羚姈㸳*
         - 大部分都不常用啊……在字音表里注明广州话普通话读音的也就这么12个：靈齡囹鈴苓伶泠玲聆零翎羚。四舍五入就是使用中古音的话非生僻字里同音字最多就12个的水平。完美。
-        - 包含字数第二多的小韵是嗁de，60个；再往后，禄luk47，同dung45，逾jyo45，猷ju45，雳lek45，刘liu44，𧚍giu44，第十位は聊leu42，第十一位は唐dang40，第十二位は煩byan38
+        - 包含字数第二多的小韵是嗁dej，60个；再往后，禄louk47，同doung45，逾juo45，猷ju45，雳lek45，刘lu44，𧚍gu44，第十位は聊lew42，第十一位は唐dang40，第十二位は煩buon38
 - `聲母` 有38個（不分小舌化聲母）。
 - `韻目` 《廣韻》共有206部（206韻目），一個韻目裏可能有數個等、呼、重紐不同的韻母。
     - 舉平以賅上去入則有61個韻目（數韻典網的行數不分重紐），合理歸併比如按tupa則有55個
@@ -116,7 +116,7 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
   <td>   </td><td>   </td>
 </tr>    <tr>
                             <td>（舌上音）知组</td> 
-  <td>知（trie）tr */ʈ/</td><td>徹（trhiet）thr */ʈʰ/</td><td>澄（draeng）dr */ɖ/</td><td>娘（nryang）nr */ɳ/</td> 
+  <td>知（trie）tr */ʈ/</td><td>徹（trhiet）trh */ʈʰ/</td><td>澄（draeng）dr */ɖ/</td><td>娘（nryang）nr */ɳ/</td> 
   <td>   </td><td>   </td>
 </tr>    <tr>
                             <td>（半舌音）    </td> 
@@ -359,10 +359,6 @@ _通攝_ | thoung | | tong1 | tung1 | thon1
 ## 韵母表
 
 [韻母及反切下字一览 - 韵典](https://ytenx.org/kyonh/yonh)
-
-注：很多韵有开合口两种，只列开口
-
-通摄（东ung、冬uung）、江摄（江rung）、止摄（支ie、脂ii、之i、微ioi）、遇摄（鱼io、模o虞yo）、蟹摄（齐e、泰ad夬rad祭ied、佳re、灰uai、咍ai皆rai废iad）、臻摄（痕on真in、谆yn、臻in、文yon、欣ion、魂uon）、山摄（元ian、桓uan、删ran、寒an山ren仙ien先en）、效摄（豪au肴rau宵ieu萧eu）、果摄（歌a、戈ia）、假摄（麻ra）、宕摄（唐ang阳iang）、梗摄（耕reng、庚rang清ieng青eng、庚三ieng）、曾摄（登ong蒸ing、职yk）、流摄（尤iu侯u、幽y）、深摄（侵im）、咸摄（覃om咸rem盐iem添em、谈am衔ram严iam、凡yam）
 
 广韵 206 韵
 
@@ -687,7 +683,7 @@ $\space$  |          |9泰      |
         - 塞音、塞擦音：平送仄不送（并、定、澄、常、崇、从、群）
         - 擦音：直接变清音（俟、邪、匣）
     - 重唇音（bpm）一部分变轻唇（ffw）
-    - 知庄章（tr,cr,cj）合并（zhchsh），庄组少部分变平舌；日母nj卷舌，止摄开口er，但娘母没有卷舌，而是与泥母合并
+    - 知庄章（tr,tsr,tj）合并（zhchsh），庄组少部分变平舌；日母nj卷舌，止摄开口er，但娘母没有卷舌，而是与泥母合并
     - 见系（gkh）细音腭化（团音），尖（精组（zcs））团合流
     - 零声母（影疑云以，以及明母之轻唇）合并，按洪细重组（0yw）
     - 常崇船俟邪，这几个全浊声母，由于擦音塞擦音混同，很多字变化不规则
@@ -1011,7 +1007,7 @@ eo → ə, ɨo → ɨə, 前不接 y、ʉ 且后接 j、n、t 的 o → uo, 后�
 
 -m尾，
 
-- 普通話-n尾字聲符凡：品稟凡風氾乏𡕢朕曇覃恬冘貪炎臽詹忝南男冉染壬念侵心兓三彡參（㐱聲符-n）宋斬毚尖暹韱蘸芟尋罙甚占針㚒閃今（矜king）金贛函欠弇甘敢監咸僉兼喦广淫奄音猒林臨
+- 普通話-n尾字聲符凡：品稟凡風氾乏𡕢朕曇覃恬冘貪炎臽詹忝南男冉染壬念侵心兓三彡參（㐱聲符-n）宋斬毚尖暹韱蘸芟尋罙甚占針㚒閃今（矜kyng）金贛函欠弇甘敢監咸僉兼喦广淫奄音猒林臨
 
 -p尾，
 
