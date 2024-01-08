@@ -3,29 +3,31 @@ Table of content on Computer Science and related technologies.
 
 # 索引
 
-收录：优先考虑软件开发就职及履职实际需求。
+收录：优先考虑软件开发求职及履职实际需求，其次NLP相关。
 
-分类：在实际需要的基础上，参考 CCS [2012 version](https://www.acm.org/publications/class-2012) （ACM电脑分类系统， ACM Computing Classification System，CCS），且尽量扁平
+分类：在实际需要的基础上，参考 CCS [2012 version](https://www.acm.org/publications/class-2012) （ACM电脑分类系统，ACM Computing Classification System，CCS）、CSRankings，且尽量扁平
 
 - Computer Fundamentals | 基本理论
-    - [005.73-DataStructure](./005.73-DataStructure.md) 数结算法
-    - [004.2-CompOrgNArch](./004.2-CompOrgNArch.md)
-    - [005.43-OperatingSystem](./005.43-OperatingSystem.md) 操系
-    - [004.6-ComputerNetwork](./004.6-ComputerNetwork.md) 计网
-    - [005.74-DataBase](./005.74-DataBase.md) 数据库
-    - [005.453-Compilation](./005.453-Compilation.md) 编译
+    - [005.73-數結-DatumstrukturoKAlgo](./005.73-數結-DatumstrukturoKAlgo.md) 数结算法
+    - [004.2-計組-KompOrgKArk](./004.2-計組-KompOrgKArk.md)
+    - [005.43-操系-Operaciumo](./005.43-操系-Operaciumo.md) 操系
+    - [004.6-計網-KomputilaReto](./004.6-計網-KomputilaReto.md) 计网
+    - [005.74-數庫-Datumbazo](./005.74-數庫-Datumbazo.md) 数据库
+    - [005.453-編譯-Tradukilo](./005.453-編譯-Tradukilo.md) 编译
 - Software Development | 软开
     - 设计与理论
-        - [005.1-SoftwareEng](./005.1-SoftwareEng.md) 软工
+        - [005.1-軟工-ProgramaraInĝenierarto](./005.1-軟工-ProgramaraInĝenierarto.md) 软工
         - [005.12-DesignPattern](./005.12-DesignPattern.md) 设计模式
         - [005.1-ProgramDesign](./005.1-ProgramDesign.md) 程序设计，含面向对象
-        - [004.36-DistributedSys](./004.36-DistributedSys.md) 分布式
+        - [004.36-分布-DisaSistemo](./004.36-分布-DisaSistemo.md) 分布式
         - [004.3-Concurrency](./004.3-Concurrency.md) 并发
     - 语言（或框架），后端或通用
         - [005.133-AllLangCompare](./005.133-AllLangCompare.md)
         - [005.133-C++](./005.133-C++.md)
-        - [005.133-Java](./005.133-Java.md)
         - [005.133-Python](./005.133-Python.md)
+        - [005.133-Java](./005.133-Java.md)
+        - [005.133-JavaScript](./005.133-JavaScript.md)
+        - [005.133-TypeScript](./005.133-TypeScript.md)
         - [005.133-C#](./005.133-C#.md)
         - [005.133-Go](./005.133-Go.md)
         - [005.133-Rust](./005.133-Rust.md)
@@ -34,11 +36,9 @@ Table of content on Computer Science and related technologies.
         - [005.133-Perl](./005.133-Perl.md)
         - [005.133-Ruby](./005.133-Ruby.md)
         - [005.133-Kotlin](./005.133-Kotlin.md)
-    - 语言（或框架），前端
+    - 框架，前端
         - [005.133-HTML](./005.133-HTML.md)
         - [005.133-CSS](./005.133-CSS.md)
-        - [005.133-JavaScript](./005.133-JavaScript.md)
-        - [005.133-TypeScript](./005.133-TypeScript.md)
         - [005.133-React](./005.133-React.md)
         - [005.133-Vue](./005.133-Vue.md)
         - [005.133-Angular](./005.133-Angular.md)
@@ -48,17 +48,17 @@ Table of content on Computer Science and related technologies.
         - [005.3-Git](./005.3-Git.md)
         - [005.43-Linux](./005.43-Linux.md)
     - 技术，前端 [006.76-FrontEndTech](./006.76-FrontEndTech.md)
-    - 测试与运维
+    - 测试与运维（几大部门开发、测试、运维；DevOps实践等） | Development, QA, Operations; DevOps
         - QA & Testing [005.14-Testing](./005.14-Testing.md)
             - (e.g. QA Eng, Test Eng, Software Developer in Test)
         - DevOps & Infrastructure [005.1-DevOps](./005.1-DevOps.md) 运开
             - (e.g. DevOps Eng, Platform Eng, Site Reliability Eng)
 - Künstliche Intelligenz | 人工智能
-    - [006.3-AITools.md](./006.3-AITools.md)
-    - [006.3-DataScience](./006.3-DataScience.md)
-    - [006.31-MachineLearning](./006.31-MachineLearning.md)
-    - [006.32-DeepLearning](./006.32-DeepLearning.md)
-    - [006.35-NLP](./006.35-NLP.md)
+    - [006.3-智具-AIIloj](./006.3-智具-AIIloj.md)
+    - [006.3-數科-DatumScienco](./006.3-數科-DatumScienco.md)
+    - [006.31-機學-Maŝinlernado](./006.31-機學-Maŝinlernado.md)
+    - [006.32-深學-ProfundaLernado](./006.32-深學-ProfundaLernado.md)
+    - [006.35-計語-NLP-NaturLingvaPrilaborado](./006.35-計語-NLP-NaturLingvaPrilaborado.md)
     - [006.35-TextTech](./006.35-TextTech.md)
 - Blockchain | 区块链
     - [005-Blockchain](./005-Blockchain.md)
@@ -66,11 +66,11 @@ Table of content on Computer Science and related technologies.
 - Informationssicherheit | 信安
     - [005.82-Cryptography](./005.82-Cryptography.md)
 - Math of CS | 计科通用数学
-    - [004.015-DiscreteMath](./004.015-DiscreteMath.md)
+    - [004.015-離數-DiskretaMatematiko](./004.015-離數-DiskretaMatematiko.md)
     - [510-MathOverview](./510-MathOverview.md)
     - [510-ElementaryMath](./510-ElementaryMath.md)
-    - [512.5-LinAlg](./512.5-LinAlg.md)
-    - [519-ProbStat](./519-ProbStat.md)
+    - [512.5-線代-LinearaAlgebro](./512.5-線代-LinearaAlgebro.md)
+    - [519-概統-ProbablecoKStatistiko](./519-概統-ProbablecoKStatistiko.md)
     - [519.5-SPSS](./519.5-SPSS.md)
     - [515-MathAnalysis](./515-MathAnalysis.md)
 

@@ -7,11 +7,13 @@ Taking notes of knowledge, especially those learned and utilized only occasional
 
 # Kolekto | 收藏夹
 
-- kejk 计科目录 [Enhavo-Informadiko](./000-Enhavo-Informadiko.md)
+- kejk 计科目录 [計目-Enhavo-Informadiko](./000-計目-Enhavo-Informadiko.md)
+    - 計語 Computerlinguistik [006.35-計語-NLP-NaturLingvaPrilaborado](./006.35-計語-NLP-NaturLingvaPrilaborado.md)
 - ngyo 语言及语言学 [400-Lingvo-LeguMin](./400-Lingvo/README.md)
     - 中古漢語 [trung koq hanh ngyoq](./400-Lingvo/400-zh-ltc-中漢-MezaĈinaFonologio.md)
     - 诸语基础 [BazojDeLingvoj](./400-Lingvo/407.1-諸基-BazojDeLingvoj.md)
     - 主学语言的词表 [407.1-KernVortoj/KernVortojKernLing](./400-Lingvo/407.1-KernVortoj/KernVortojKernLing.csv)
+    - [de](./400-de-德-Germana.md)
 - dihl 地理 [Geografio](./910-Geografio.md)
     - 旅行 [Vojagxado](./910-Vojaĝado.md)
 
