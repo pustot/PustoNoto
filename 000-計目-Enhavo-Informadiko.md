@@ -8,24 +8,25 @@ Table of content on Computer Science and related technologies.
 分类：在实际需要的基础上，参考 CCS [2012 version](https://www.acm.org/publications/class-2012) （ACM电脑分类系统，ACM Computing Classification System，CCS）、CSRankings，且尽量扁平
 
 - Computer Fundamentals | 基本理论
-    - [005.73-數結-DatumstrukturoKAlgo](./005.73-數結-DatumstrukturoKAlgo.md) 数结算法
-    - [004.2-計組-KompOrgKArk](./004.2-計組-KompOrgKArk.md)
-    - [005.43-操系-Operaciumo](./005.43-操系-Operaciumo.md) 操系
-    - [004.6-計網-KomputilaReto](./004.6-計網-KomputilaReto.md) 计网
-    - [005.74-數庫-Datumbazo](./005.74-數庫-Datumbazo.md) 数据库
-    - [005.453-編譯-Tradukilo](./005.453-編譯-Tradukilo.md) 编译
+    - prgdsn [005.1-程設-ProgramoDesegno](./005.1-程設-ProgramoDesegno.md) 程序设计，含面向对象。（UCB CS61A）
+    - dtsalg [005.73-構算-DatumstrukturoKAlgo](./005.73-構算-DatumstrukturoKAlgo.md) 数结算法（UCB CS61B）
+    - cmporg [004.2-計組-KompOrgKArk](./004.2-計組-KompOrgKArk.md)（UCB CS61C，CMU 15-213 CSAPP）
+    - oprsys [005.43-操系-Operaciumo](./005.43-操系-Operaciumo.md) 操系（MIT 6.828➡️MIT 6.S081）
+    - cmpnet [004.6-計網-KomputilaReto](./004.6-計網-KomputilaReto.md) 计网（Stanford CS144，MIT 6.829）
+    - datbas [005.74-數庫-Datumbazo](./005.74-數庫-Datumbazo.md) 数据库（CMU 15-445，MIT 6.830）
+    - compil [005.453-編譯-Tradukilo](./005.453-編譯-Tradukilo.md) 编译
 - Software Development | 软开
     - 设计与理论
-        - [005.1-軟工-ProgramaraInĝenierarto](./005.1-軟工-ProgramaraInĝenierarto.md) 软工
-        - [005.12-DesignPattern](./005.12-DesignPattern.md) 设计模式
-        - [005.1-ProgramDesign](./005.1-ProgramDesign.md) 程序设计，含面向对象
-        - [004.36-分布-DisaSistemo](./004.36-分布-DisaSistemo.md) 分布式
-        - [004.3-Concurrency](./004.3-Concurrency.md) 并发
+        - sfteng [005.1-軟工-ProgramaraInĝenierarto](./005.1-軟工-ProgramaraInĝenierarto.md) 软工（UCB CS169，MIT 6.031）
+        - dsnptn [005.12-DesignPattern](./005.12-DesignPattern.md) 设计模式
+        - dstsys [004.36-分布-DisaSistemo](./004.36-分布-DisaSistemo.md) 分布式（MIT 6.824➡️MIT 6.5840）
+        - concur [004.3-Concurrency](./004.3-Concurrency.md) 并发
+        - （Web開發是否單開一筆記？ Stanford CS142）
     - 语言（或框架），后端或通用
         - [005.133-AllLangCompare](./005.133-AllLangCompare.md)
-        - [005.133-C++](./005.133-C++.md)
-        - [005.133-Python](./005.133-Python.md)
-        - [005.133-Java](./005.133-Java.md)
+        - lancpp [005.133-C++](./005.133-C++.md)
+        - lanpyt [005.133-Python](./005.133-Python.md)
+        - lanjav [005.133-Java](./005.133-Java.md)
         - [005.133-JavaScript](./005.133-JavaScript.md)
         - [005.133-TypeScript](./005.133-TypeScript.md)
         - [005.133-C#](./005.133-C#.md)
@@ -54,17 +55,12 @@ Table of content on Computer Science and related technologies.
         - DevOps & Infrastructure [005.1-DevOps](./005.1-DevOps.md) 运开
             - (e.g. DevOps Eng, Platform Eng, Site Reliability Eng)
 - Künstliche Intelligenz | 人工智能
-    - [006.3-智具-AIIloj](./006.3-智具-AIIloj.md)
-    - [006.3-數科-DatumScienco](./006.3-數科-DatumScienco.md)
+    - cmplng [006.35-計語-NLP-NaturLingvaPrilaborado](./006.35-計語-NLP-NaturLingvaPrilaborado.md) （Stanford CS224N）
     - [006.31-機學-Maŝinlernado](./006.31-機學-Maŝinlernado.md)
     - [006.32-深學-ProfundaLernado](./006.32-深學-ProfundaLernado.md)
-    - [006.35-計語-NLP-NaturLingvaPrilaborado](./006.35-計語-NLP-NaturLingvaPrilaborado.md)
+    - [006.3-智具-AIIloj](./006.3-智具-AIIloj.md)
+    - [006.3-數據-DatumScienco](./006.3-數據-DatumScienco.md) （UCB Data100）
     - [006.35-TextTech](./006.35-TextTech.md)
-- Blockchain | 区块链
-    - [005-Blockchain](./005-Blockchain.md)
-    - [005.133-Solidity](./005.133-Solidity.md)
-- Informationssicherheit | 信安
-    - [005.82-Cryptography](./005.82-Cryptography.md)
 - Math of CS | 计科通用数学
     - [004.015-離數-DiskretaMatematiko](./004.015-離數-DiskretaMatematiko.md)
     - [510-MathOverview](./510-MathOverview.md)
@@ -73,6 +69,11 @@ Table of content on Computer Science and related technologies.
     - [519-概統-ProbablecoKStatistiko](./519-概統-ProbablecoKStatistiko.md)
     - [519.5-SPSS](./519.5-SPSS.md)
     - [515-MathAnalysis](./515-MathAnalysis.md)
+- Blockchain | 区块链
+    - [005-Blockchain](./005-Blockchain.md)
+    - [005.133-Solidity](./005.133-Solidity.md)
+- Informationssicherheit | 信安
+    - [005.82-Cryptography](./005.82-Cryptography.md)
 
 # Useful learning resources
 

@@ -8,14 +8,25 @@ Taking notes of knowledge, especially those learned and utilized only occasional
 # Kolekto | 收藏夹
 
 - kejk 计科目录 [計目-Enhavo-Informadiko](./000-計目-Enhavo-Informadiko.md)
-    - 計語 Computerlinguistik [006.35-計語-NLP-NaturLingvaPrilaborado](./006.35-計語-NLP-NaturLingvaPrilaborado.md)
+    - NLP & AI
+        - 計語 Computerlinguistik [006.35-計語-NLP-NaturLingvaPrilaborado](./006.35-計語-NLP-NaturLingvaPrilaborado.md)
+        - [006.31-機學-Maŝinlernado](./006.31-機學-Maŝinlernado.md)
+    - 基础 & 开发
+        - 數構算法 [005.73-構算-DatumstrukturoKAlgo](./005.73-構算-DatumstrukturoKAlgo.md)
+        - OS [005.43-操系-Operaciumo](./005.43-操系-Operaciumo.md)
+        - Net [004.6-計網-KomputilaReto](./004.6-計網-KomputilaReto.md)
+        - DB [005.74-數庫-Datumbazo](./005.74-數庫-Datumbazo.md)
+        - Dist [004.36-分布-DisaSistemo](./004.36-分布-DisaSistemo.md)
+        - 軟工 [005.1-軟工-ProgramaraInĝenierarto](./005.1-軟工-ProgramaraInĝenierarto.md)
+        - [005.12-DesignPattern](./005.12-DesignPattern.md)
+        - [005.133-C++](./005.133-C++.md)
 - ngyo 语言及语言学 [400-Lingvo-LeguMin](./400-Lingvo/README.md)
     - 中古漢語 [trung koq hanh ngyoq](./400-Lingvo/400-zh-ltc-中漢-MezaĈinaFonologio.md)
     - 诸语基础 [BazojDeLingvoj](./400-Lingvo/407.1-諸基-BazojDeLingvoj.md)
     - 主学语言的词表 [407.1-KernVortoj/KernVortojKernLing](./400-Lingvo/407.1-KernVortoj/KernVortojKernLing.csv)
     - [de](./400-de-德-Germana.md)
 - dihl 地理 [Geografio](./910-Geografio.md)
-    - 旅行 [Vojagxado](./910-Vojaĝado.md)
+    - 旅行 [Vojagxado](./910-旅行-Vojaĝado.md)
 
 # 一些传统
 
