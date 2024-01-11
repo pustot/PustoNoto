@@ -20,14 +20,22 @@ Indogermanisch - Germanisch - Westgermanisch - Hochdeutsch - Standardhochdeutsch
     - wiki
         - > There are a few settings where speaking Standard German is demanded or polite, e.g., in education (but not during breaks in school lessons, where the teachers will speak in Swiss German with students), in multilingual parliaments (the federal parliaments and a few cantonal and municipal ones), in the main news broadcast or in the presence of non-Alemannic speakers. This situation has been called a "medial diglossia", since the spoken language is mainly the dialect, whereas the written language is mainly (the Swiss variety of) Standard German.
         - This **"medial diglossia"** very like hong kong
+- `swg` 施瓦本语 Schwäbisch：Indogermanische Sprachfamilie Germanische Sprachen - Westgermanische Sprachen - Deutsche Sprache - Oberdeutsche Sprache - Alemannisch - Schwäbisch
 
 # 词汇
 
-《德语词汇联想与速记》
+Diethard Lübke - Lernwortschatz Deutsch 《德语词汇联想与速记》
 
 > 据我的经验之谈，只要能把这本单词学完直接就能考过B1！！！抱着啃就完事儿~
 > 
 > https://www.zhihu.com/question/20074082/answer/2662107229
+>
+> 也有说可以b2的：https://www.zhihu.com/question/20074082/answer/3077585333
+>
+> 但是归伶昌说不能b2，因为没有抽象词汇：https://www.zhihu.com/question/35796251/answer/64514426 
+>
+> 备战德福的话，背一些里面的基本词汇、校园词汇和科技词汇是还不错的，那些食物啊，花花草草就免了。
+> 
 
 # 语料学习
 
