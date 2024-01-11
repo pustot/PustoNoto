@@ -24,7 +24,7 @@ Taking notes of knowledge, especially those learned and utilized only occasional
     - 中古漢語 [trung koq hanh ngyoq](./400-Lingvo/400-zh-ltc-中漢-MezaĈinaFonologio.md)
     - 诸语基础 [BazojDeLingvoj](./400-Lingvo/407.1-諸基-BazojDeLingvoj.md)
     - 主学语言的词表 [407.1-KernVortoj/KernVortojKernLing](./400-Lingvo/407.1-KernVortoj/KernVortojKernLing.csv)
-    - [de](./400-de-德-Germana.md)
+    - [de](./400-Lingvo/400-de-德-Germana.md)
 - dihl 地理 [Geografio](./910-Geografio.md)
     - 旅行 [Vojagxado](./910-旅行-Vojaĝado.md)
 
