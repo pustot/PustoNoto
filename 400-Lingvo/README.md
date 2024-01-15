@@ -1,14 +1,21 @@
 # Kolekto | 收藏夹
 
 - [zh-ltc 中古漢語](./400-zh-ltc-中漢-MezaĈinaFonologio.md)
-- [eo](./400-eo-冀-Esperanto.md)
-- [ja](./400-ja-日-Japana.md)
-- [ko](./400-ko-韓-Korean.md)
-- [vi](./400-vi-越-Vjetnama.md)
-- [de](./400-de-德-Germana.md)
-- [fr](./400-fr-法-Franca.md)
+- [zh-hza菏](./400-zh-cmn-zgyu-菏-Heze.md)
+- [zh-yue粤](./400-zh-yue-粵-Kantona.md)
+- [en-Rooting.md](./400-en-Rooting.md)
+- [ja日](./400-ja-日-Japana.md)
+- [de德](./400-de-德-Germana.md)
+- [ko韩](./400-ko-韓-Korean.md)
+- [fr法](./400-fr-法-Franca.md)
+- [eo世](./400-eo-冀-Esperanto.md)
 - [BazojDeLingvoj 诸语基](./407.1-諸基-BazojDeLingvoj.md)
 - [KernVortojKernLing.csv 要语基词](./407.1-KernVortoj/KernVortojKernLing.csv)
+- [vi](./400-vi-越-Vjetnama.md)
+- [es](./400-es-Hispana.md)
+- [nl](./400-nl-Dutch.md)
+- [zh-wuu](./400-zh-wuu-吳-Wu.md)
+- [zh-shp](./400-zh-cmn-xghu-Shiping.md)
 
 # nexus
 
