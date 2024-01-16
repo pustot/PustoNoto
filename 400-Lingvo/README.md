@@ -12,10 +12,10 @@
 - [BazojDeLingvoj 诸语基](./407.1-諸基-BazojDeLingvoj.md)
 - [KernVortojKernLing.csv 要语基词](./407.1-KernVortoj/KernVortojKernLing.csv)
 - [vi](./400-vi-越-Vjetnama.md)
-- [es](./400-es-Hispana.md)
-- [nl](./400-nl-Dutch.md)
+- [es](./400-es-西-Hispana.md)
+- [nl](./400-nl-荷-Dutch.md)
 - [zh-wuu](./400-zh-wuu-吳-Wu.md)
-- [zh-shp](./400-zh-cmn-xghu-Shiping.md)
+- [zh-sph](./400-zh-cmn-xghu-石-Shiping.md)
 
 # nexus
 
@@ -24,14 +24,13 @@
     - 维基百科引用之
         - https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers
         - https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers
-    - [Chinese](https://www.ethnologue.com/subgroups/chinese) （看一下语言分类标准，汉语收录16种，与 ISO 639-3 一致（去掉三种古语））
+    - [Chinese on Ethnologue](https://www.ethnologue.com/language/zho/) （看一下语言分类标准，汉语收录16种，与 ISO 639-3 一致（去掉三种古语的话）（编号也是按着那一套来的嘛）） 以及 https://www.ethnologue.com/subgroup/837/ （多了一种，`dng`东干语）
 - World Atlas of Language Structures (WALS) https://wals.info/
 
 # 多邻国
 
-- 可以集中看所有单词（没有释义）、知识讲解、个人数据、全站对比： https://duome.eu/PustoT
-    - 当前所学语言进展：https://duome.eu/PustoT/progress
-- 所有单词（没有释义）：[List of Vocabularies for Language Courses of Duolingo](https://forum.duolingo.com/comment/31074292)
+- （似乎失效）可以集中看所有单词（没有释义）、知识讲解、个人数据、全站对比： https://duome.eu/PustoT   https://duome.eu/PustoT/progress
+- ~~（已失效）所有单词（没有释义）：[List of Vocabularies for Language Courses of Duolingo](https://forum.duolingo.com/comment/31074292)~~
 
 # 特殊字符备用
 

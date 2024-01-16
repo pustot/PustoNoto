@@ -33,10 +33,10 @@ Taking notes of knowledge, especially those learned and utilized only occasional
     - [BazojDeLingvoj 诸语基](./400-Lingvo/407.1-諸基-BazojDeLingvoj.md)
     - [KernVortojKernLing.csv 要语基词](./400-Lingvo/407.1-KernVortoj/KernVortojKernLing.csv)
     - [vi](./400-Lingvo/400-vi-越-Vjetnama.md)
-    - [es](./400-Lingvo/400-es-Hispana.md)
-    - [nl](./400-Lingvo/400-nl-Dutch.md)
+    - [es](./400-Lingvo/400-es-西-Hispana.md)
+    - [nl](./400-Lingvo/400-nl-荷-Dutch.md)
     - [zh-wuu](./400-Lingvo/400-zh-wuu-吳-Wu.md)
-    - [zh-shp](./400-Lingvo/400-zh-cmn-xghu-Shiping.md)
+    - [zh-sph](./400-Lingvo/400-zh-cmn-xghu-石-Shiping.md)
 - dihl 地理 [Geografio](./910-Geografio.md)
     - 旅行 [Vojagxado](./910-旅行-Vojaĝado.md)
 
@@ -243,6 +243,8 @@ https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 
 https://en.wikipedia.org/wiki/List_of_ISO_639-3_codes
+
+为方便，为常用汉语变体添加 ISO 693-3 未使用的三位编号：`hza`菏泽话（同菏泽机场），`sph`石屏话（shp被	Shipibo-Conibo（施丕博-科尼博）占用，spg被Sian，spi被Saponi，spn被Sanapaná），昆明话暂用`kmg`（kmg被Kâte，knm被Kanamarí，kun被Kunama，kmh被Kalam，kma被Konni，kua被Kuanyama。。。以后再找没占用的吧）
 
 - 400 Language
     - 400 Language
