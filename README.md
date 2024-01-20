@@ -11,6 +11,8 @@ Taking notes of knowledge, especially those learned and utilized only occasional
     - NLP & AI
         - 計語 Computerlinguistik [006.35-計語-NLP-NaturLingvaPrilaborado](./006.35-計語-NLP-NaturLingvaPrilaborado.md)
         - [006.31-機學-Maŝinlernado](./006.31-機學-Maŝinlernado.md)
+        - [006.3-數據-DatumScienco](./006.3-數據-DatumScienco.md) （UCB Data100）
+        - [006.3-智具-AIIloj](./006.3-智具-AIIloj.md)
     - 基础 & 开发
         - 數構算法 [005.73-構算-DatumstrukturoKAlgo](./005.73-構算-DatumstrukturoKAlgo.md)
         - OS [005.43-操系-Operaciumo](./005.43-操系-Operaciumo.md)

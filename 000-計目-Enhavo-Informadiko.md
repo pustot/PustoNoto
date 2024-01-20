@@ -54,7 +54,7 @@ Table of content on Computer Science and related technologies.
             - (e.g. QA Eng, Test Eng, Software Developer in Test)
         - DevOps & Infrastructure [005.1-DevOps](./005.1-DevOps.md) 运开
             - (e.g. DevOps Eng, Platform Eng, Site Reliability Eng)
-- Künstliche Intelligenz | 人工智能与数据科学
+- 计算语言学、人工智能与数据科学 | Künstliche Intelligenz
     - cmplng [006.35-計語-NLP-NaturLingvaPrilaborado](./006.35-計語-NLP-NaturLingvaPrilaborado.md) （Stanford CS224N）
     - [006.31-機學-Maŝinlernado](./006.31-機學-Maŝinlernado.md)
     - [006.32-深學-ProfundaLernado](./006.32-深學-ProfundaLernado.md)
