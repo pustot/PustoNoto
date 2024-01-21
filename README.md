@@ -26,7 +26,7 @@ Taking notes of knowledge, especially those learned and utilized only occasional
     - [zh-ltc 中古漢語](./400-Lingvo/400-zh-ltc-中漢-MezaĈinaFonologio.md)
     - [zh-hza菏](./400-Lingvo/400-zh-cmn-zgyu-菏-Heze.md)
     - [zh-yue粤](./400-Lingvo/400-zh-yue-粵-Kantona.md)
-    - [en-Rooting.md](./400-Lingvo/400-en-Rooting.md)
+    - [en英](./400-Lingvo/400-en-Angla.md)
     - [ja日](./400-Lingvo/400-ja-日-Japana.md)
     - [de德](./400-Lingvo/400-de-德-Germana.md)
     - [ko韩](./400-Lingvo/400-ko-韓-Korean.md)
