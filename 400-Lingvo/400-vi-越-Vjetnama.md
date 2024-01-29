@@ -2,6 +2,12 @@ Vietnamese | 越南语
 
 CLC: H44
 
+# 想法
+
+- 汉字词：汉字词众多，很适合顺便研究自己的母语。
+- 教学方法：与汉语的结构相近，都是孤立语，单音节词为主，尽管修饰语在后，但不影响大局，学习方法与教学方法都可以大范围类比汉语。
+    - 我估计，越语也是掌握两三千「字」就驾轻就熟了，而且其中一大把都直接从汉字对应过去。
+
 # 文字
 
 ## 汉喃文 | Hán Nôm
@@ -9,6 +15,15 @@ CLC: H44
 https://chunom.org/
 
 http://www.nomfoundation.org/nom-tools/Nom-Lookup-Tool?uiLang=en
+
+## 国语字（罗马字）
+
+输入以及数字化常用 Telex 方案。
+
+- 双写：凸尖帽 â ê ô 分别为 aa ee oo；đ 为 dd
+- 加w：短音符 ă 以及触角符 ơ ư 分别为 aw ow uw/w
+- 声调fsrxj分别是：阳平（钝 huyền）f，阴上（问 hỏi）r，阳上（波浪 ngã）x，阴去入（锐 sắc）s，阳去入（下点 nặng）j
+    - 简记：钝 fall 锐 sharp/sheng，r形似问，j形似在下部有结构，x形似嘎裂声
 
 # 音系
 
