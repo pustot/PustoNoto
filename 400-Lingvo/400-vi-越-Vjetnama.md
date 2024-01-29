@@ -29,6 +29,8 @@ http://www.nomfoundation.org/nom-tools/Nom-Lookup-Tool?uiLang=en
 
 （默认河内音）
 
+Maigo 大佬的越南语韵母体系梳理 https://zhuanlan.zhihu.com/p/40292236
+
 ## 简记特殊
 
 - d、gi、r均为/z/，
