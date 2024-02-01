@@ -75,6 +75,10 @@ nặng 重声 | （阳去、阳入）；浊去、全浊上、〈浊入〉 | 21�
     - ngã nặng 二者有中断，你看附标一个拐来拐去一个就重点，易记
     - hỏi 附标这么长这么独特（其他语言没有吧），记住它是唯一的曲折调就好
 
+# 词汇学习
+
+anki没找到从基础开始的词表。自己从维基百科字（音节）频表构建了： https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Vietnamese_syllables
+
 # Phrasebook
 
 quoc | han nom | IPA (Hà Nội) | note

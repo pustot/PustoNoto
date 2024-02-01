@@ -10,7 +10,7 @@ Table of content on Computer Science and related technologies.
 - Computer Fundamentals | 基本理论
     - prgdsn [005.1-程設-ProgramoDesegno](./005.1-程設-ProgramoDesegno.md) 程序设计，含面向对象。（UCB CS61A）
     - dtsalg [005.73-構算-DatumstrukturoKAlgo](./005.73-構算-DatumstrukturoKAlgo.md) 数结算法（UCB CS61B）
-    - cmporg [004.2-計組-KompOrgKArk](./004.2-計組-KompOrgKArk.md)（UCB CS61C，CMU 15-213 CSAPP）
+    - cmparc [004.2-計組-KompOrgKArk](./004.2-計組-KompOrgKArk.md)（UCB CS61C，CMU 15-213 CSAPP）
     - oprsys [005.43-操系-Operaciumo](./005.43-操系-Operaciumo.md) 操系（MIT 6.828➡️MIT 6.S081）
     - cmpnet [004.6-計網-KomputilaReto](./004.6-計網-KomputilaReto.md) 计网（Stanford CS144，MIT 6.829）
     - datbas [005.74-數庫-Datumbazo](./005.74-數庫-Datumbazo.md) 数据库（CMU 15-445，MIT 6.830）
