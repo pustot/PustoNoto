@@ -79,6 +79,7 @@ Table of content on Computer Science and related technologies.
 
 - Ready-to-read tutorials | 教程本身:
     - Multiple areas:
+        - [huihut/interview](https://github.com/huihut/interview) C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息
         - [小林coding](https://xiaolincoding.com/) 小林，包含图解网络、图解系统、图解 MySQL、图解 Redis，外加一些其他学习建议
         - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) java 操系 网络 数结 数据库 搜索引擎 开发工具 系统设计 分布式 高性能 高可用
         - [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) java 数据库 操系 网络 以及其他一些学习资源的聚合
