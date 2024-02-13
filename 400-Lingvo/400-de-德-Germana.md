@@ -37,6 +37,17 @@ Diethard Lübke - Lernwortschatz Deutsch 《德语词汇联想与速记》
 > 备战德福的话，背一些里面的基本词汇、校园词汇和科技词汇是还不错的，那些食物啊，花花草草就免了。
 > 
 
+## 构词：前缀们（副、介、纯前缀）
+
+这些的意思好难背，随机弄点比较和总结
+
+- an = ad？（主要指类似仿制词者）
+    - Anlage = attachment
+- er = re?
+    - erkennen = recognize
+- ver = dis?
+    - verteilen = distribute
+
 # 语料学习
 
 ## 文学、名言
