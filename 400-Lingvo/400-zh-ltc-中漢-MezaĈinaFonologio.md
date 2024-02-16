@@ -15,6 +15,7 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
 - [切韵拼音 - 绯索卡 · Phesoca](https://phesoca.com/tupa/)
     - 新活旧整：切韵拼音16摄图//开倒车（ https://zhuanlan.zhihu.com/p/483856847?utm_psn=1717859410859380736
 - [韵典网](https://ytenx.org/)
+- 古音小镜 https://kaom.net/
 - [廣韻中的重紐與重紐歸類問題 - BYVoid](https://byvoid.com/zht/blog/kuangx-yonh-dryung-nriux/)
     - > 總結一下重紐的定義，重紐現象就是「在脣牙喉音，支脂祭眞仙宵侵鹽，八個韻系下的小韻中，通過反切系聯歸一類，卻列爲兩個不同的小韻的現象」，這種現象在韻圖上面的反映就是兩個小韻分別列在了同一聲韻的三等和四等位置上。
 - poem: 广韵字音表（20170209，poem版）
