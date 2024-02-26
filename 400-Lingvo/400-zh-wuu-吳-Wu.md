@@ -6,6 +6,13 @@ CLC: H173
 
 [苏州话标注嗰词汇培训](https://wykjdata.oss-cn-beijing.aliyuncs.com/test/2020/08/0813/%E8%AF%8D%E6%B1%87%E5%9F%B9%E8%AE%AD01.mp4)
 
+资源
+
+- 沪语自媒体
+    - 海胆-曹宇立 https://space.bilibili.com/1873857180
+    - 老香菇讲上海 https://space.bilibili.com/395157667
+        - 不知道为啥蛮容易听懂的，可能用词和发音的问题
+
 # 語音
 
 ## 拼音同輸入法
