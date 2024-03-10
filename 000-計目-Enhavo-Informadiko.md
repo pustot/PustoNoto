@@ -18,12 +18,12 @@ Table of content on Computer Science and related technologies.
 - Software Development | 软开
     - 设计与理论
         - sfteng [005.1-軟工-ProgramaraInĝenierarto](./005.1-軟工-ProgramaraInĝenierarto.md) 软工（UCB CS169，MIT 6.031）
-        - dsnptn [005.12-DesignPattern](./005.12-DesignPattern.md) 设计模式
+        - dsnptn [005.12-設模-DesignPattern](./005.12-設模-DesignPattern.md) 设计模式
         - dstsys [004.36-分布-DisaSistemo](./004.36-分布-DisaSistemo.md) 分布式（MIT 6.824➡️MIT 6.5840）
-        - concur [004.3-Concurrency](./004.3-Concurrency.md) 并发
+        - concur [004.3-並發-Konkurencado](./004.3-並發-Konkurencado.md) 并发
         - （Web開發是否單開一筆記？ Stanford CS142）
     - 语言（或框架），后端或通用
-        - [005.133-AllLangCompare](./005.133-AllLangCompare.md)
+        - [005.133-0-語比-KomparoDLingvoj](./005.133-0-語比-KomparoDLingvoj.md)
         - lancpp [005.133-C++](./005.133-C++.md)
         - lanpyt [005.133-Python](./005.133-Python.md)
         - lanjav [005.133-Java](./005.133-Java.md)
@@ -37,22 +37,22 @@ Table of content on Computer Science and related technologies.
         - [005.133-Perl](./005.133-Perl.md)
         - [005.133-Ruby](./005.133-Ruby.md)
         - [005.133-Kotlin](./005.133-Kotlin.md)
+    - 技术，后端
+        - [005.276-AWS](./005.276-AWS.md)
+        - [005.3-容器-Docker](./005.3-容器-Docker.md)
+        - [005.3-版管-Git](./005.3-版管-Git.md)
+        - [005.43-Linux](./005.43-Linux.md)
     - 框架，前端
         - [005.133-HTML](./005.133-HTML.md)
         - [005.133-CSS](./005.133-CSS.md)
         - [005.133-React](./005.133-React.md)
         - [005.133-Vue](./005.133-Vue.md)
         - [005.133-Angular](./005.133-Angular.md)
-    - 技术，后端
-        - [005.276-AWS](./005.276-AWS.md)
-        - [005.3-Docker](./005.3-Docker.md)
-        - [005.3-Git](./005.3-Git.md)
-        - [005.43-Linux](./005.43-Linux.md)
-    - 技术，前端 [006.76-FrontEndTech](./006.76-FrontEndTech.md)
+    - 技术，前端 [006.76-前端-FrontEndTech](./006.76-前端-FrontEndTech.md)
     - 测试与运维（几大部门开发、测试、运维；DevOps实践等） | Development, QA, Operations; DevOps
-        - QA & Testing [005.14-Testing](./005.14-Testing.md)
+        - QA & Testing [005.14-測試-Testing](./005.14-測試-Testing.md)
             - (e.g. QA Eng, Test Eng, Software Developer in Test)
-        - DevOps & Infrastructure [005.1-DevOps](./005.1-DevOps.md) 运开
+        - DevOps & Infrastructure [005.1-運開-DevOps](./005.1-運開-DevOps.md) 运开
             - (e.g. DevOps Eng, Platform Eng, Site Reliability Eng)
 - 计算语言学、人工智能与数据科学 | Künstliche Intelligenz
     - cmplng [006.35-計語-NLP-NaturLingvaPrilaborado](./006.35-計語-NLP-NaturLingvaPrilaborado.md) （Stanford CS224N）
@@ -60,20 +60,20 @@ Table of content on Computer Science and related technologies.
     - [006.32-深學-ProfundaLernado](./006.32-深學-ProfundaLernado.md)
     - [006.3-智具-AIIloj](./006.3-智具-AIIloj.md)
     - [006.3-數據-DatumScienco](./006.3-數據-DatumScienco.md) （UCB Data100）
-    - [006.35-TextTech](./006.35-TextTech.md)
+    - [006.35-TekstaTeknologio](./006.35-TekstaTeknologio.md)
 - Math of CS | 计科通用数学
     - [004.015-離數-DiskretaMatematiko](./004.015-離數-DiskretaMatematiko.md)
-    - [510-MathOverview](./510-MathOverview.md)
-    - [510-ElementaryMath](./510-ElementaryMath.md)
+    - [510-數綜-MatematikaSuperrigardo](./510-數綜-MatematikaSuperrigardo.md)
+    - [510-初數-ElementaMatematiko](./510-初數-ElementaMatematiko.md)
     - [512.5-線代-LinearaAlgebro](./512.5-線代-LinearaAlgebro.md)
     - [519-概統-ProbablecoKStatistiko](./519-概統-ProbablecoKStatistiko.md)
     - [519.5-SPSS](./519.5-SPSS.md)
-    - [515-MathAnalysis](./515-MathAnalysis.md)
+    - [515-數分-MatAnalitiko](./515-數分-MatAnalitiko.md)
 - Blockchain | 区块链
-    - [005-Blockchain](./005-Blockchain.md)
+    - [005-區鏈-Blokĉeno](./005-區鏈-Blokĉeno.md)
     - [005.133-Solidity](./005.133-Solidity.md)
 - Informationssicherheit | 信安
-    - [005.82-Cryptography](./005.82-Cryptography.md)
+    - [005.82-密碼-Kriptografio](./005.82-密碼-Kriptografio.md)
 
 # Useful learning resources
 
