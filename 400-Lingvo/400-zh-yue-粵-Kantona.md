@@ -60,6 +60,14 @@ CLC: H178
 
 有可能 eo 跟 oe 也有聽起來像的地方，如 https://jyutping.org/docs/cantonese/#22-%E9%9F%BB%E8%85%B9-eooe
 
+#### 后鼻音 ung ong ang aang 对立也要留意发准
+
+ung/uk 的韵腹其实是 ʊ/o，同普通话；ong 的韵腹则是 ɔ
+
+#### ing/ik eng/ek 对立也要留意发准
+
+ing/ik 的韵腹其实是 ɪ/e，可以理解为后鼻音所以要靠后同时靠下；eng/el 的韵腹实际是ɛ:
+
 ### 文白异读
 
 很少，好像只有ing/ik会有白读eng/ek，还有少数的ang白读aang？
@@ -114,7 +122,7 @@ rime捉蟲：
 - 入聲唔知聲調高低
 - 普擦音對粵塞擦音嘅（普 s x 對粵 c z 嘅，h 對 k 等等）
 - 清濁唔同於普通話嘅（ptkc）
-    - 概念 koi3 nim6
+    - 概念 koi3 nim6，突dat6
 - xo vs xou, xe vs. xei
 - 雜集
     - 雜集 zaap6 zaap6
