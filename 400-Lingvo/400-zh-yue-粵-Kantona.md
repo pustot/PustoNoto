@@ -11,6 +11,7 @@ CLC: H178
   - 更gang3詳細coeng4sai3嘅講解gong2gaai2
 - [Sheik](http://www.cantonese.sheik.co.uk/)
   - 喺粵語同埋國語嘅使用sai2jung6情況cing4fong3
+- 粵語（廣州音）與中古音對應關係 - Ayaka https://ayaka.shn.hk/teoi/
 
 # 個人小想法、經驗同計劃
 
@@ -18,6 +19,7 @@ CLC: H178
     - 粵語歌（尤其係好多經典老歌）
     - 網上嘅好多方言視頻（粵語真係多啲）
 - 發音
+    - 总结笼统规律，并制作app来帮助浏览及着重记忆各级常用字中的符合与不符合笼统规律的字
 - 時時查「漢字古今中外讀音查詢」呢個APP
 - 識啲規律之後多主動猜
     - 我寫咗隨機漢字同埋自選漢字嘅打字練習嘅簡單程式 https://github.com/twaqngu/pusto-kit/blob/master/PanhistoDictHan/trainer.py
@@ -58,6 +60,16 @@ CLC: H178
 
 有可能 eo 跟 oe 也有聽起來像的地方，如 https://jyutping.org/docs/cantonese/#22-%E9%9F%BB%E8%85%B9-eooe
 
+### 文白异读
+
+很少，好像只有ing/ik会有白读eng/ek，还有少数的ang白读aang？
+
+### 变调
+
+主要是有的字会读成升调？
+
+poem：《粵語的升變調》 https://zhuanlan.zhihu.com/p/19661676
+
 # 粵語嘅變體
 
 （本筆記針對廣州、香港嘅粵語，又叫廣州話，俗稱廣東話。此處談及埋其他變體）
@@ -92,6 +104,9 @@ rime捉蟲：
     - 普粵聲母對比 https://www.ilc.cuhk.edu.hk/workshop/Chinese/Cantonese/Romanization/ch2_initials/3_compare.aspx
     - 普粵韻母對比 https://www.ilc.cuhk.edu.hk/workshop/Chinese/Cantonese/Romanization/ch3_finals/3_compare.aspx
     - 普粵聲調對比 https://www.ilc.cuhk.edu.hk/workshop/Chinese/Cantonese/Romanization/ch4_tones/3_compare.aspx
+- 粤语和普通话读音可以一一对应吗? 幹间建见罐惯卷涓 https://www.zhihu.com/question/450934887/answer/2785504073
+- 粤语和普通话读音可以一一对应吗? 昊天辽远任翱翔 https://www.zhihu.com/question/450934887/answer/2773355656
+    - 参考总结 https://zhuanlan.zhihu.com/p/590448044
 
 ## 普轉粵，我認為嘅難點
 
@@ -111,6 +126,34 @@ rime捉蟲：
     - 繼承 gai3 sing4
     - 初始 co1 ci2
     - 匹配 pat1 pui3
+
+## 普轉粵，转换规则与不规则总结
+
+- 粤语分尖团、不分平翘舌（即精组字与知庄章组字合并）、有入声韵尾、有m韵尾、上声去声分阴阳。此皆最基本要点，首先单列
+- 声母
+    - 大多粤同普
+    - （以下列字数「较多」但普通话所对应并不唯一之规则）
+        - 普 k -> 粤 f/h，大致合口f开口h（但科、课f，空h）
+        - 普 h -> 粤 h/w/f
+        - 普 q -> 粤 c/k/h，其中ck很正常，h对应一部分溪母字
+    - （其他字数「较多」而特殊者）
+        - 普 r -> 粤 j
+        - 普之零声母 w，对应粤语较多 m，较少 w，其中 m 对应明母合口三等分化而来的「微母」字
+- 韵母
+    - （以下列字数「较多」但普通话所对应并不唯一之规则）
+        - 普 e ➡️ 粤 o/e
+        - 普 i（非舌尖ɿʅ） ➡️ 粤 ei/ai/ik
+        - 普 u ➡️ 粤 u/ou/yu/uk
+        - 普 yu ➡️ 粤 yu/eoi/uk
+        - 普 ai ➡️ 粤 aai/oi：笼统为咍oi泰aai；严谨说，对于蟹一开，舌齿咍oi，舌齿泰aai，牙喉oi
+        - 普 ei ➡️ 粤 ei/ui
+        - 普 ao ➡️ 粤 aau/ou：效摄，开一豪ou，开二肴aau
+        - 普 uan ➡️ 粤 yun/un （另外粤语关aan官un，谓分关（山摄删韵）官（山摄桓韵））
+        - 普 yuan ➡️ 粤 yun/un
+        - 普 ang ➡️ 粤 ong/oeng
+        - 普 eng ➡️ 粤 ang/ing：梗摄曾摄（其中普通话有的不读eng），一二等ang三四等ing
+        - 普 ing ➡️ 粤 ing/eng：（好像eng只会作为ing的白读存在）
+- 声调
 
 # 语料学习
 
