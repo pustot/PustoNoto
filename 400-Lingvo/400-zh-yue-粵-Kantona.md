@@ -180,8 +180,8 @@ rime捉蟲：
         - 匣母部分归入零声母
 - 韵母
     - 下列有唯一字数「较多」之映射：
-        - 忽略介音则普广相同：a/ia/ua➡️aa；o/uo➡️o；ie➡️e；uai➡️aai；ueng/ong/iong➡️ung；
-        - 其他：yue➡️入声yut/ok；i（舌尖ɿʅ）➡️i；er➡️i；uei➡️eoi；iao➡️iu；ou/iou➡️au；an➡️aan/aam；ian➡️im/in；en➡️an；in➡️an/am；uen➡️eon；yun➡️an；iang➡️oeng；uang➡️ong；
+        - 忽略介音则普广相同：a/ia/ua➡️aa；o/uo➡️o；ie➡️e；uai➡️aai；ueng/ong/iong➡️ung；an➡️aan/aam；
+        - 其他：yue➡️入声yut/ok；i（舌尖ɿʅ）➡️i；er➡️i；uei➡️eoi；iao➡️iu；ou/iou➡️au；ian➡️im/in；en➡️an；in➡️an/am；uen➡️eon；yun➡️an；iang➡️oeng；uang➡️ong；
     - （以下列字数「较多」但普通话所对应并不唯一之规则）
         - 普 e ➡️ 粤 o/e：果摄一等o（如歌哥）三等e（字很少，如茄）；假摄开三麻为e（如社se5遮车奢者），其余aa
         - 普 i（非舌尖ɿʅ） ➡️ 粤 ei/ai/ik：i-ei之分见元音裂化；一般，普通话读i者，止摄在广州话读ei/i，蟹摄读ai
@@ -197,6 +197,7 @@ rime捉蟲：
         - 普 ing ➡️ 粤 ing/eng：（好像eng只会作为ing的白读存在）
     - （以下韵母基本互补分布，可取巧以声母区别）
         - ui/un/ut vs eoi/eon/eot：钝音bpmf gwkww后接u、ui、ut、un，锐音dtnl zcs y后接ɵi、ɵt、ɵn；
+            - 因为锐音声母的舌位靠前吧；唇音本来就很w，牙喉音则很靠后，u很正常
             - 参考 https://www.zhihu.com/question/278263990/answer/399109671
             - 唯一对立的是见组后ui/eoi，可以把 kui 看成 kwui 来与 keoi 区分
     - （其他）
