@@ -11,9 +11,11 @@ CLC: H178
   - 更gang3詳細coeng4sai3嘅講解gong2gaai2
 - [Sheik](http://www.cantonese.sheik.co.uk/)
   - 喺粵語同埋國語嘅使用sai2jung6情況cing4fong3
-- 粵語（廣州音）與中古音對應關係 - Ayaka https://ayaka.shn.hk/teoi/
+- 粵語（廣州音）與中古音對應關係 - Ayaka [^ayaka-teoi] https://ayaka.shn.hk/teoi/
 
-# 個人小想法、經驗同計劃
+# 随想
+
+個人小想法、經驗同計劃
 
 - 興趣：
     - 粵語歌（尤其係好多經典老歌）
@@ -29,7 +31,9 @@ CLC: H178
         - 繼續用 RIME 也可，有時睇嚟彆扭
         - GBoard 嘅粵拼輸入法。穩定啲，同時默認支持嘅模糊音多啲，按住單詞仲會顯示正確讀音，但係冇聲調
 
-## My minds on why it is almost the easiest Chinese variant for Mandarin speakers to learn
+## 普通话用户入门优势
+
+My minds on why it is almost the easiest Chinese variant for Mandarin speakers to learn
 
 - 很少 文白异读
 - 没有 连读变调（只有实际使用中的少数变调）
@@ -42,9 +46,13 @@ CLC: H178
 
 ![XuTongqiang2004-PicSource-Zhihu](./pic/ZHClassifiXuTongqiang2004.jpg)
 
-## Some difficult features for me
+## 个人感受的难点
 
-### 聲調，尤其是音高之分
+Some difficult features for me
+
+### 声母
+
+#### 不分平翘但会根据韵母读出平翘之分
 
 ### 元音尤其 [ɐ]、 [ɵ]
 
@@ -68,15 +76,17 @@ ung/uk 的韵腹其实是 ʊ/o，同普通话；ong 的韵腹则是 ɔ
 
 ing/ik 的韵腹其实是 ɪ/e，可以理解为后鼻音所以要靠后同时靠下；eng/el 的韵腹实际是ɛ:
 
-### 文白异读
+### 聲調，尤其是音高之分
 
-很少，好像只有ing/ik会有白读eng/ek，还有少数的ang白读aang？
-
-### 变调
+#### 变调
 
 主要是有的字会读成升调？
 
 poem：《粵語的升變調》 https://zhuanlan.zhihu.com/p/19661676
+
+### 文白异读
+
+很少，好像只有ing/ik会有白读eng/ek，还有少数的ang白读aang？
 
 # 粵語嘅變體
 
@@ -86,7 +96,9 @@ poem：《粵語的升變調》 https://zhuanlan.zhihu.com/p/19661676
 
 香港原住民使用莞宝片的围头话，莞宝片即东莞宝安嘛，传统有划分到粤海片里面的，但跟广州话又有很大不同，所以有单独分片的
 
-# 語音
+# 现代音系
+
+难点已在「随想」一章总结，如果有闲情逸致可以把音系总结放在此处
 
 ## 拼音同輸入法
 
@@ -105,16 +117,27 @@ rime捉蟲：
 
 - 率 leot2
 
-# 廣州話同普通話嘅比較學習
+# 语音演变
+
+## 元音裂化
+
+- i-ei，y-eoi
+    - 粤语zcs后的i/y都已经裂化，但由原舌尖元音变成了新i；另外原翘舌音未裂化
+    - 以日j和原翘舌后不裂化
+- u-ou
+    - 以下不裂化：kw gw w f
+
+# 廣-普比較學習
 
 - 港中大嘅粵語拼音速遞
     - 即係對普通話嘅每種聲韻調，列出廣州話對映嘅可能，同埋每種可能嘅數量（較多、較少、甚少）（應該係統計嘅結果）
     - 普粵聲母對比 https://www.ilc.cuhk.edu.hk/workshop/Chinese/Cantonese/Romanization/ch2_initials/3_compare.aspx
     - 普粵韻母對比 https://www.ilc.cuhk.edu.hk/workshop/Chinese/Cantonese/Romanization/ch3_finals/3_compare.aspx
     - 普粵聲調對比 https://www.ilc.cuhk.edu.hk/workshop/Chinese/Cantonese/Romanization/ch4_tones/3_compare.aspx
-- 粤语和普通话读音可以一一对应吗? 幹间建见罐惯卷涓 https://www.zhihu.com/question/450934887/answer/2785504073
+- 🌟（详尽的韵母对照表，已尽量简洁）粤语和普通话读音可以一一对应吗? 幹间建见罐惯卷涓 https://www.zhihu.com/question/450934887/answer/2785504073
 - 粤语和普通话读音可以一一对应吗? 昊天辽远任翱翔 https://www.zhihu.com/question/450934887/answer/2773355656
     - 参考总结 https://zhuanlan.zhihu.com/p/590448044
+- 中古汉语与粤语学习笔记1:果摄 - Imananotomihsah https://matters.town/@EznarAtaret/13574-%E4%B8%AD%E5%8F%A4%E6%B1%89%E8%AF%AD%E4%B8%8E%E7%B2%A4%E8%AF%AD%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B01-%E6%9E%9C%E6%91%84-zdpuAxh3arnt5rbNRBZHcBPLEL6fhNmWmqmxkA1zhT8gAQfH8
 
 ## 普轉粵，我認為嘅難點
 
@@ -137,30 +160,52 @@ rime捉蟲：
 
 ## 普轉粵，转换规则与不规则总结
 
+我的想法是，1️⃣首先最基本的尖团、入声、深咸、阴阳上阴阳去这些单拎出来；2️⃣然后首先记忆对绝大多数字（港中文所说「较多」字）成立的普广一对一规则；3️⃣然后是涵盖「较多」字的一对多；4️⃣然后是其他涵盖不太多字的规则。
+打算做个app，把这些不同级别的规则用不同颜色标注，比如用一对一的声母韵母直接转换出来者，普通黑色文本，只加尖团入声等规则就能记忆的标绿，一对多的标黄，不太多字的规则标红，上面四个规则都不符合的特殊字标发光。还可以设定开关，哪些规则可以被视为已掌握、简单，剩下的规则再强调。
+
 - 粤语分尖团、不分平翘舌（即精组字与知庄章组字合并）、有入声韵尾、有m韵尾、上声去声分阴阳。此皆最基本要点，首先单列
 - 声母
     - 大多粤同普
     - （以下列字数「较多」但普通话所对应并不唯一之规则）
-        - 普 k -> 粤 f/h，大致合口f开口h（但科、课f，空h）
-        - 普 h -> 粤 h/w/f
-        - 普 q -> 粤 c/k/h，其中ck很正常，h对应一部分溪母字
+        - 普 k ➡️ 粤 f/h，大致合口f开口h（但科、课f，空h）
+        - 普 h ➡️ 粤 h/w/f
+        - 普 q ➡️ 粤 c/k/h，其中ck很正常，h对应一部分溪母字
     - （其他字数「较多」而特殊者）
-        - 普 r -> 粤 j
+        - 普 r ➡️ 粤 j
         - 普之零声母 w，对应粤语较多 m，较少 w，其中 m 对应明母合口三等分化而来的「微母」字
+    - （其他）
+        - 邪母字在普通话中与心s合流，广州话则与精清zc
+        - 常母在粤语都归s，但普通话有部分归ch
+        - 溪母部分归入h，溪母晓母部分归入f
+        - 匣母部分归入零声母
 - 韵母
+    - 下列有唯一字数「较多」之映射：
+        - 忽略介音则普广相同：a/ia/ua➡️aa；o/uo➡️o；ie➡️e；uai➡️aai；ueng/ong/iong➡️ung；
+        - 其他：yue➡️入声yut/ok；i（舌尖ɿʅ）➡️i；er➡️i；uei➡️eoi；iao➡️iu；ou/iou➡️au；an➡️aan/aam；ian➡️im/in；en➡️an；in➡️an/am；uen➡️eon；yun➡️an；iang➡️oeng；uang➡️ong；
     - （以下列字数「较多」但普通话所对应并不唯一之规则）
-        - 普 e ➡️ 粤 o/e
-        - 普 i（非舌尖ɿʅ） ➡️ 粤 ei/ai/ik
-        - 普 u ➡️ 粤 u/ou/yu/uk
-        - 普 yu ➡️ 粤 yu/eoi/uk
+        - 普 e ➡️ 粤 o/e：果摄一等o（如歌哥）三等e（字很少，如茄）；假摄开三麻为e（如社se5遮车奢者），其余aa
+        - 普 i（非舌尖ɿʅ） ➡️ 粤 ei/ai/ik：i-ei之分见元音裂化；一般，普通话读i者，止摄在广州话读ei/i，蟹摄读ai
+        - 普 u ➡️ 粤 u/ou/yu/uk：（遇摄）u-ou之分见元音裂化；（著名的《悯农》梗）
+        - 普 yu ➡️ 粤 yu/eoi/uk：（遇摄）yu-eoi之分见元音裂化；
         - 普 ai ➡️ 粤 aai/oi：笼统为咍oi泰aai；严谨说，对于蟹一开，舌齿咍oi，舌齿泰aai，牙喉oi
-        - 普 ei ➡️ 粤 ei/ui
+        - 普 ei ➡️ 粤 ei/ui：ui来自蟹摄之 泰咍之唇音（如贝bui3倍bui5） 及 泰灰合口牙喉（如绘kui2杯bui1灰fui1）；ei来自止摄
         - 普 ao ➡️ 粤 aau/ou：效摄，开一豪ou，开二肴aau
         - 普 uan ➡️ 粤 yun/un （另外粤语关aan官un，谓分关（山摄删韵）官（山摄桓韵））
         - 普 yuan ➡️ 粤 yun/un
-        - 普 ang ➡️ 粤 ong/oeng
+        - 普 ang ➡️ 粤 ong/oeng：江摄宕摄多ong，其中江摄舌齿音与宕摄开三阳之舌齿（除庄组）与牙喉为oeng。另外比较通摄ung
         - 普 eng ➡️ 粤 ang/ing：梗摄曾摄（其中普通话有的不读eng），一二等ang三四等ing
         - 普 ing ➡️ 粤 ing/eng：（好像eng只会作为ing的白读存在）
+    - （以下韵母基本互补分布，可取巧以声母区别）
+        - ui/un/ut vs eoi/eon/eot：钝音bpmf gwkww后接u、ui、ut、un，锐音dtnl zcs y后接ɵi、ɵt、ɵn；
+            - 参考 https://www.zhihu.com/question/278263990/answer/399109671
+            - 唯一对立的是见组后ui/eoi，可以把 kui 看成 kwui 来与 keoi 区分
+    - （其他）
+        - 通摄帮组在普通话变为eng，而广州话中凡通摄皆ung
+        - 魂韵在帮组声母下，在广州话中演变为un；在精组声母下，则演变为ün，这与桓韵一致。
+        - 普通话的寒山齐/ian/和先天齐/ien/合流。
+        - 普通话的监咸齐/iam/和廉纤齐/iem/合流。
+        - 普通话的寒山合和桓欢合合流。
+        - 效摄的韵部在普通话中合流，而在广州话中只有萧宵合流。
 - 声调
 
 # 语料学习
@@ -502,3 +547,11 @@ taa1 ci5 ze5 jyut6 ji4 jing4 jin4 si6 bat1 hoi1 hau2
 tai4 kam4 duk6 zau3 duk6 zau3 zoek6/ ming4 jyut6 bun3 ji2 sam1 cau1
 我的牵挂 我的渴望 直至以后
 ngo5 dik1 hin1 gwaa3 ngo5 dik1 hot3 mong6 zik6 zi3 ji5 hau6
+
+
+
+
+
+# 封底
+
+[^ayaka-teoi]: https://ayaka.shn.hk/teoi/
