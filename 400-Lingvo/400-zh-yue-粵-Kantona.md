@@ -2,6 +2,7 @@ CLC: H178
 
 主要感兴趣的方言：粤语-广府片（粤海片）。
 
+- 我嘅幫助用普通話學廣州話嘅App： https://mancan.pustot.com/
 - [粵語拼音輸入方案 jyut6jyu5 ping3jam1 syu1jap6 fong1on3](https://github.com/rime/rime-cantonese)
 - [粵拼.org](https://jyutping.org/)
 - [Cantonese - Wiki](https://en.wikipedia.org/wiki/Cantonese)
@@ -22,14 +23,18 @@ CLC: H178
     - 網上嘅好多方言視頻（粵語真係多啲）
 - 發音
     - 总结笼统规律，并制作app来帮助浏览及着重记忆各级常用字中的符合与不符合笼统规律的字
+        - 原來我早規畫過咁做！可以觀察同練習喺 https://mancan.pustot.com/
 - 時時查「漢字古今中外讀音查詢」呢個APP
+    - （同我嘅Web App https://hanpoly.pustot.com/ ）
 - 識啲規律之後多主動猜
     - 我寫咗隨機漢字同埋自選漢字嘅打字練習嘅簡單程式 https://github.com/twaqngu/pusto-kit/blob/master/PanhistoDictHan/trainer.py
+    - 我嘅幫助用普通話學廣州話嘅App，幫你知每個漢字符合哪些規則、咩部分唔合規則，重點記憶！比起各個輸入驗證嘅方案更可以睇到大批量嘅字里有咩要留意，故係重要嘅補充： https://mancan.pustot.com/
 - 正式用粵拼打字
-    - 電腦我用 RIME 嘅 rime-cantonese。支持普通話反查，防止新手好容易卡住、絕望
+    - 電腦我用 RIME 嘅 rime-cantonese。支持普通話反查，防止新手好容易卡住、絕望；都支持顯示正確聲調，進一步幫學習
     - 手機我比較緊呢兩種
         - 繼續用 RIME 也可，有時睇嚟彆扭
         - GBoard 嘅粵拼輸入法。穩定啲，同時默認支持嘅模糊音多啲，按住單詞仲會顯示正確讀音，但係冇聲調
+        - iOS/Mac 自帶嘅輸入法勉強用啦
 
 ## 普通话用户入门优势
 
@@ -112,6 +117,7 @@ poem：《粵語的升變調》 https://zhuanlan.zhihu.com/p/19661676
 - 手機
     - 仲使用 RIME
     - GBoard
+- Mac/iOS 嘅粵拼輸入法唔支持普通話反查同顯示具體聲調，故其學習目的不如 RIME（Mac係 鼠鬚管）
 
 rime捉蟲：
 
@@ -129,6 +135,7 @@ rime捉蟲：
 
 # 廣-普比較學習
 
+- 我嘅幫助用普通話學廣州話嘅App： https://mancan.pustot.com/
 - 港中大嘅粵語拼音速遞
     - 即係對普通話嘅每種聲韻調，列出廣州話對映嘅可能，同埋每種可能嘅數量（較多、較少、甚少）（應該係統計嘅結果）
     - 普粵聲母對比 https://www.ilc.cuhk.edu.hk/workshop/Chinese/Cantonese/Romanization/ch2_initials/3_compare.aspx
@@ -161,7 +168,10 @@ rime捉蟲：
 ## 普轉粵，转换规则与不规则总结
 
 我的想法是，1️⃣首先最基本的尖团、入声、深咸、阴阳上阴阳去这些单拎出来；2️⃣然后首先记忆对绝大多数字（港中文所说「较多」字）成立的普广一对一规则；3️⃣然后是涵盖「较多」字的一对多；4️⃣然后是其他涵盖不太多字的规则。
+
 打算做个app，把这些不同级别的规则用不同颜色标注，比如用一对一的声母韵母直接转换出来者，普通黑色文本，只加尖团入声等规则就能记忆的标绿，一对多的标黄，不太多字的规则标红，上面四个规则都不符合的特殊字标发光。还可以设定开关，哪些规则可以被视为已掌握、简单，剩下的规则再强调。
+
+大概分成直推不直推两档足矣，剩下的字各有各的规则或不规则？
 
 - 粤语分尖团、不分平翘舌（即精组字与知庄章组字合并）、有入声韵尾、有m韵尾、上声去声分阴阳。此皆最基本要点，首先单列
 - 声母
@@ -178,6 +188,7 @@ rime捉蟲：
         - 常母在粤语都归s，但普通话有部分归ch
         - 溪母部分归入h，溪母晓母部分归入f
         - 匣母部分归入零声母
+        - 疑母字在广州话里洪音保留细音脱落
 - 韵母
     - 下列有唯一字数「较多」之映射：
         - 忽略介音则普广相同：a/ia/ua➡️aa；o/uo➡️o；ie➡️e；uai➡️aai；ueng/ong/iong➡️ung；an➡️aan/aam；
