@@ -14,6 +14,12 @@ CLC: H178
   - 喺粵語同埋國語嘅使用sai2jung6情況cing4fong3
 - 粵語（廣州音）與中古音對應關係 - Ayaka [^ayaka-teoi] https://ayaka.shn.hk/teoi/
 
+资源
+
+- 粤语自媒体
+    - 道德战士皇家添 https://space.bilibili.com/345187811
+        - 不知道为啥蛮容易听懂的，可能用词和发音的问题
+
 # 随想
 
 個人小想法、經驗同計劃
@@ -164,6 +170,7 @@ rime捉蟲：
     - 繼承 gai3 sing4
     - 初始 co1 ci2
     - 匹配 pat1 pui3
+    - 入聲點揾規律？： 卻keok3，
 
 ## 普轉粵，转换规则与不规则总结
 
