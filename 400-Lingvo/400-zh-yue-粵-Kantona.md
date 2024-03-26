@@ -2,23 +2,27 @@ CLC: H178
 
 主要感兴趣的方言：粤语-广府片（粤海片）。
 
-- 我嘅幫助用普通話學廣州話嘅App： https://mancan.pustot.com/
-- [粵語拼音輸入方案 jyut6jyu5 ping3jam1 syu1jap6 fong1on3](https://github.com/rime/rime-cantonese)
-- [粵拼.org](https://jyutping.org/)
-- [Cantonese - Wiki](https://en.wikipedia.org/wiki/Cantonese)
-- [Written Cantonese - Wiki](https://en.wikipedia.org/wiki/Written_Cantonese)
-  - 仲有粵語同標準biu1zeon2漢語hon3jyu5嘅比較bei2gaau3表格biu2gaak3
-- [Cantonese grammar - Wiki](https://en.wikipedia.org/wiki/Cantonese_grammar)
-  - 更gang3詳細coeng4sai3嘅講解gong2gaai2
-- [Sheik](http://www.cantonese.sheik.co.uk/)
-  - 喺粵語同埋國語嘅使用sai2jung6情況cing4fong3
-- 粵語（廣州音）與中古音對應關係 - Ayaka [^ayaka-teoi] https://ayaka.shn.hk/teoi/
-
 资源
 
+- 學習平臺
+    - 我嘅幫助用普通話學廣州話嘅App： https://mancan.pustot.com/
+- 課本資源
+    - 中大《港式粵語速遞》（有課文） https://www.ilc.cuhk.edu.hk/workshop/Chinese/Cantonese/CantoneseExpress/selfLearn.aspx
 - 粤语自媒体
     - 道德战士皇家添 https://space.bilibili.com/345187811
         - 不知道为啥蛮容易听懂的，可能用词和发音的问题
+- 其他知識介紹
+    - [Cantonese - Wiki](https://en.wikipedia.org/wiki/Cantonese)
+    - [Written Cantonese - Wiki](https://en.wikipedia.org/wiki/Written_Cantonese)
+      - 仲有粵語同標準biu1zeon2漢語hon3jyu5嘅比較bei2gaau3表格biu2gaak3
+    - [Cantonese grammar - Wiki](https://en.wikipedia.org/wiki/Cantonese_grammar)
+      - 更gang3詳細coeng4sai3嘅講解gong2gaai2
+    - [Sheik](http://www.cantonese.sheik.co.uk/)
+      - 喺粵語同埋國語嘅使用sai2jung6情況cing4fong3
+    - 粵語（廣州音）與中古音對應關係 - Ayaka [^ayaka-teoi] https://ayaka.shn.hk/teoi/
+    - 粵拼
+        - [粵語拼音輸入方案 jyut6jyu5 ping3jam1 syu1jap6 fong1on3](https://github.com/rime/rime-cantonese)
+        - [粵拼.org](https://jyutping.org/)
 
 # 随想
 
