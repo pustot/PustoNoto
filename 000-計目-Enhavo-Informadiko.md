@@ -85,6 +85,7 @@ Table of content on Computer Science and related technologies.
         - [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) java 数据库 操系 网络 以及其他一些学习资源的聚合
         - [febobo/web-interview](https://github.com/febobo/web-interview) 前端很多领域， vue react js ts Node 等，即 vue3jc.cn 网站
         - [Spring Boot面试题（掘金网站上 小杰要吃蛋 整理的一系列面试题）](https://juejin.cn/post/6844904125709156359) 开头是一系列面试题的索引，java各方向为主
+        - 清华大学计算机系课程攻略 https://github.com/PKUanonym/REKCARC-TSC-UHT
 - Collection of online courses | 网课收集:
     - [CS自学指南 csdiy.wiki](https://csdiy.wiki/) 作者北大信科，整理CS很多领域的自学课程以及其自学经验，[Github pkuflyingpig](https://github.com/pkuflyingpig/cs-self-learning/)
 - 资料收集
