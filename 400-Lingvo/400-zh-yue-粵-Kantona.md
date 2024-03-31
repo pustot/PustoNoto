@@ -125,9 +125,13 @@ poem：《粵語的升變調》 https://zhuanlan.zhihu.com/p/19661676
     - RIME 平台嘅「粵語拼音」，下載編碼 `cantonese`
         - 支持普通話反查！顯示（hin2si6）聲調！並默認（mak6jing6）支持eo-oe互轉
 - 手機
-    - 仲使用 RIME
-    - GBoard
-- Mac/iOS 嘅粵拼輸入法唔支持普通話反查同顯示具體聲調，故其學習目的不如 RIME（Mac係 鼠鬚管）
+    - iOS
+        - 呢个好！ https://apps.apple.com/app/id1509367629 Jyutping - Cantonese Keyboard
+            - 有我核心需求：繁简转换、普通话反查、切拉丁
+    - Android
+        - 仲使用 RIME
+        - GBoard
+- Mac/iOS 自带嘅粵拼輸入法唔支持普通話反查同顯示具體聲調，故其學習目的不如 RIME（Mac係 鼠鬚管）
 
 rime捉蟲：
 
