@@ -24,9 +24,9 @@ Table of content on Computer Science and related technologies.
         - （Web開發是否單開一筆記？ Stanford CS142）
     - 语言（或框架），后端或通用
         - [005.133-0-語比-KomparoDLingvoj](./005.133-0-語比-KomparoDLingvoj.md)
-        - lancpp [005.133-C++](./005.133-C++.md)
-        - lanpyt [005.133-Python](./005.133-Python.md)
         - lanjav [005.133-Java](./005.133-Java.md)
+        - lanpyt [005.133-Python](./005.133-Python.md)
+        - lancpp [005.133-C++](./005.133-C++.md)
         - [005.133-JavaScript](./005.133-JavaScript.md)
         - [005.133-TypeScript](./005.133-TypeScript.md)
         - [005.133-C#](./005.133-C#.md)

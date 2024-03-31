@@ -21,6 +21,7 @@ Taking notes of knowledge, especially those learned and utilized only occasional
         - Dist [004.36-分布-DisaSistemo](./004.36-分布-DisaSistemo.md)
         - 軟工 [005.1-軟工-ProgramaraInĝenierarto](./005.1-軟工-ProgramaraInĝenierarto.md)
         - [005.12-設模-DesignPattern](./005.12-設模-DesignPattern.md)
+        - [005.133-Java](./005.133-Java.md)
         - [005.133-C++](./005.133-C++.md)
 - ngyo 语言及语言学 [400-Lingvo-LeguMin](./400-Lingvo/README.md)
     - [zh-ltc 中古漢語](./400-Lingvo/400-zh-ltc-中漢-MezaĈinaFonologio.md)
