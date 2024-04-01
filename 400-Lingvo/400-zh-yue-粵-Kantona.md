@@ -127,7 +127,7 @@ poem：《粵語的升變調》 https://zhuanlan.zhihu.com/p/19661676
 - 手機
     - iOS
         - 呢个好！ https://apps.apple.com/app/id1509367629 Jyutping - Cantonese Keyboard
-            - 有我核心需求：繁简转换、普通话反查、切拉丁
+            - 有我核心需求：普通话反查粤语、显示候选词拼音（尤其是声调）、一键切繁简（并让简体常驻）、一键切拉丁
     - Android
         - 仲使用 RIME
         - GBoard
