@@ -11,6 +11,8 @@ CLC: H178
 - 粤语自媒体
     - 道德战士皇家添 https://space.bilibili.com/345187811
         - 不知道为啥蛮容易听懂的，可能用词和发音的问题
+    - 粤声士 https://space.bilibili.com/583604060
+        - 有粤文字幕，粤语搞笑短篇配音，每日更新很多
 - 其他知識介紹
     - [Cantonese - Wiki](https://en.wikipedia.org/wiki/Cantonese)
     - [Written Cantonese - Wiki](https://en.wikipedia.org/wiki/Written_Cantonese)
@@ -241,6 +243,7 @@ rime捉蟲：
 
 - 下个版本睇我昆（𧥺）到嗰班友仔一仆一碌
     - （懂哥 20230917 vid 06:08）
+- 總有一款啱你心水
 
 ## 歌曲
 
