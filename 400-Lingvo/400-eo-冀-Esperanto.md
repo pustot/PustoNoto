@@ -79,6 +79,7 @@ Mi volas lerni paroli Esperanton.
     - 而且好多其他词素本身并不短，偏偏省这些很重要嘅语素嘅长度？
     - 也导致转汉字时看着不如日文里汉字+假名那种舒服
 - 尝试自制 https://github.com/pustot/world-building/blob/main/Hanroma-lingua-demo.md
+    - https://studling.pustot.com/#/hanrom
 
 # 相关的运动、思潮、价值观
 
