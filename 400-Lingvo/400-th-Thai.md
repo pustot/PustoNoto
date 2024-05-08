@@ -206,7 +206,9 @@ Name	|Symbol	|IPA		|RTGS
 
 ## 声调与声调符号
 
-泰语有五个声调，标准泰语的详细音高曲线如下图[^wiki-th]
+泰语有五个声调：高（45）、中（33）、低（21）、降（41）、升（214）
+
+标准泰语的详细音高曲线如下图[^wiki-th]
 
 ![泰语声调](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Thai_tones.svg/500px-Thai_tones.svg.png)
 
