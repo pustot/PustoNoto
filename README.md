@@ -5,7 +5,7 @@ Prendi notojn pri scioj, speciale tiuj lernitaj kaj uzataj nur okaze, sed signif
 笔记，尤其记录重要但不常学用的知识，尽量简明有序。
 Taking notes of knowledge, especially those learned and utilized only occasionally but significant, as concise and logical as possible.
 
-笔记宜记全面框架而不宜详细，多则叵忆，且AI足助学其详（常见领域适用；音韵、方言等冷门领域AI尚不了解）
+笔记宜记全面框架而不宜详细，多则叵忆，且AI足助学其详（常见领域适用；音韵、方言等冷门领域AI尚不了解）（给AI输入课件甚至课本改善具体领域知识（但愿））
 
 # Kolekto | 收藏夹
 
