@@ -8,6 +8,7 @@ CLC: H178
     - 我嘅幫助用普通話學廣州話嘅App： https://mancan.pustot.com/
 - 課本資源
     - 中大《港式粵語速遞》（有課文） https://www.ilc.cuhk.edu.hk/workshop/Chinese/Cantonese/CantoneseExpress/selfLearn.aspx
+    - 中大《粵語網路課堂》 https://www.ilc.cuhk.edu.hk/workshop/Chinese/Cantonese/OnlineTutorial/courseListB.aspx
 - 粤语自媒体
     - 道德战士皇家添 https://space.bilibili.com/345187811
         - 不知道为啥蛮容易听懂的，可能用词和发音的问题
