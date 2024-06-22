@@ -1137,6 +1137,88 @@ ngo5 baa2 ze5 can4 nin4 fung1 leoi5/lau1
 
 sung3 zang6 nei5 gaai2 zau3
 
+### 陈奕迅 - 不如不见 bat1 jyu4 bat1 gin3
+
+头沾湿 无可避免
+
+tau4 zim1 sap1 mou4 ho2 bei6 min5
+
+伦敦总依恋雨点
+
+leon4 deon1 zung2 ji1 lyun2 jyu5 dim2
+
+乘早机 忍耐着 呵欠
+
+sing4 zou2 gei1 jan2 noi6 zoek6/ ho1 him3
+
+完全为见你一面
+
+jyun4 cyun4 wai46 gin3 nei5 jat1 min6
+
+🎹️
+
+寻得到 尘封小店
+
+cam4 dak1 dou3 can4 fung1 siu2 dim3
+
+回不到 相恋那天
+
+wui4 bat1 dou3 soeng13 lyun2 naa5 tin1
+
+灵气大概早被污染
+
+ling4 hei3 daai6 koi3 zou2 bei6/ wu1 jim5
+
+谁为了生活不变
+
+seoi4 wai46 liu5 sang1/saang1 wut6 bat1 bin3
+
+🎹️【副歌始】
+
+越渴望见面然后发现
+
+jyut6 hot3 mong6 gin3 min6 jin4 hau6 faat3 jin6
+
+中间隔着那十年
+
+zung1 gaan13 gaak3 zoek6/ naa5 sap6 nin4
+
+我想见的笑脸 只有怀念
+
+ngo5 soeng2 gin3 dik1 siu3 lim5 zi2 jau5 waai4 nim6
+
+不懂 怎去再聊天
+
+bat1 dung2 zam2 heoi3 zoi3 liu4 tin1
+
+🎹️
+
+像我在往日还未抽烟
+
+zoeng6 ngo5 zoi6 wong5 jat6 waan4 mei6 cau1 jin1
+
+不知你怎么变迁
+
+bat1 zi1 nei5 zam2 mo1 bin3 cin1
+
+似等了一百年 忽尔明白
+
+ci5 dang2 liu5 jat1 baak3 nin4 fat1 ji5 ming4 baak6
+
+即使再见面 成熟地表演
+
+zik1 si2 zoi3 gin3 min6 sing4 suk6 dei6 biu2 jin2
+
+不如不见
+
+bat1 jyu4 bat1 gin3
+
+🎹️【副歌终】
+
+【第二段*1】
+
+【副歌*1】
+
 ### 陈奕迅 - K歌之王 K go1 zi1 wong4
 
 我唱得不够动人你别皱眉
