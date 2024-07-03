@@ -6,6 +6,9 @@ CLC: H176
 
 资源
 
+- 薪典 https://www.syndict.com/index.htm
+- https://hakkadict.moe.edu.tw/home/
+- 中州韻輸入法漢語方言拼音方案全集 https://laubonghaudoi.github.io/Chinese_Rime/
 - 学习强国 语音可以用客家话播报（合成，但比粤语版更自然）
 - hakkatv 官网 https://www.hakkatv.org.tw/
     - 直播，可直接看到节目 https://www.hakkatv.org.tw/live
