@@ -1251,6 +1251,8 @@ CLC: K108
     - 明成祖永乐八年秋，1410年黄河泛滥。这一年秋，河堤决口，坏开封旧城，致使1.4万户人口罹难，淹没农田7500余顷，到十二月又坏城200余丈
 - 1445
     - 1445年（正统十年），复置曹州于古乘氏县址（今菏泽城）。（1368年（洪武元年），因水患曹州徙治安陵镇（今菏泽市大黄集乡安陵集），次年再徙治盘石镇（今曹县城址）。1371年（洪武四年），降曹州为曹县。）
+- 1446
+    - 朝鲜世宗颁布《训民正音》将谚文公之于世
 - 1449
     - 1449（明正统十四年），八月，土木堡之变
         - 明英宗朱祁镇，宦官王振。瓦剌首领也先。
@@ -1648,6 +1650,8 @@ CLC: K108
         - 第一任总理埃德蒙·巴顿宣称“人类平等的原则只适用于英国人之间，英国人跟中国人之间则不遵循这条原则。”
         - “为了保证澳洲一直不受低等人种的污染和劣化，我将采取任何必要的措施。”（共和联邦议会纪录，1901年9月12日，4845页）工会和它操持的政党澳大利亚工党是白澳政策的主要促动者。克里斯·沃森（时任工党领袖）宣称，“我反对将有色种人与白人混杂的──当然我承认它跟工业化有关──主要由于种族污染的可能性。”
         - “澳洲的统一将毫无意义，如果不是用在一个统一的种族上。一个统一的种族不仅意味着它的成员可以相互混杂、通婚、相互交流而不招致退化，还意味着相信同一个观念……”（阿尔弗雷德·狄金，共和联邦议会纪录，1901年9月12日，4807页）（同时亦有其他种族政策针对澳洲原住民。对中国移民的敌视可从“黄祸”一词中反映，而这种态度在澳洲最为明显。1901年的澳大利亚人口为三百七十万，跟亚洲相差很远，所以有人“担心”中国移民的涌入会“吞没”欧裔澳人。联邦政府担心难以控制的移民潮流会大幅度降低工资水平，这不是无稽之谈：许多雇主公开声称他们会那样做。这种情绪在亨利·劳森（澳大利亚著名诗人）1906年写的一首诗“to be amused”中反映。
+            - > The unity of Australia is nothing, if that does not imply a united race. A united race means not only that its members can intermix, intermarry and associate without degradation on either side, but implies one inspired by the same ideas, and an aspiration towards the same ideals, of a people possessing the same general cast of character, tone of thought - the same constitutional training and traditions - a people qualified to live under this Constitution - the broadest and the most liberal perhaps the world has yet seen reduced to writing - a people qualified to use without abusing it, and to develop themselves under it to the full height and extent of their capacity.
+            - > -- https://historichansard.net/hofreps/1901/19010912_REPS_1_4_c1/#debate-6
         - 总理埃德蒙·巴顿在1901年国会辩论中声称，“我不认为人类平等的原则包括种族平等。种族间是没有平等的，只有根本上的不平等。那些种族同我们白种人相比是较低劣的……”
 - 1903
     - 第二次英国侵藏战争（1903年－1904年）
