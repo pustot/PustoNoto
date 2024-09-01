@@ -9,6 +9,7 @@ Taking notes of knowledge, especially those learned and utilized only occasional
 
 # Kolekto | 收藏夹
 
+- [老子-道德经](./100-老子-道德經.md) 
 - kejk 计科目录 [計目-Enhavo-Informadiko](./000-計目-Enhavo-Informadiko.md)
     - NLP & AI
         - 計語 Computerlinguistik [006.35-計語-NLP-NaturLingvaPrilaborado](./006.35-計語-NLP-NaturLingvaPrilaborado.md)
