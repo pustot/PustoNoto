@@ -449,8 +449,12 @@ Number		|Thai		|Written	|RTGS			|IPA
 
 到了近代，泰语像其他几乎任何语言一样，输入了大量来自西方语言的词汇，最初的影响来自葡萄牙语，但影响最强的终归还是英语。
 
+# 词语簿 vort-fraz-libro
 
-
+th | roma(按读音，如Paiboon)/roma(我自己按其拼写试拆解？) | IPA | 意思
+-|-|-|-
+จีน | jiin | /t͡ɕiːn˧/ | 中国
+สาธารณรัฐประชาชนจีน | sǎa-taa-rá-ná-rát bprà-chaa-chon jiin | / saː˩˩˦.tʰaː˧.ra˦˥.na˦˥.rat̚˦˥ pra˨˩.t͡ɕʰaː˧.t͡ɕʰon˧/  | 中华人民共和国（共和国+人民+中国）
 
 # 参考文献
 

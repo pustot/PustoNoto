@@ -7,6 +7,7 @@ CLC: H44
 - 汉字词：汉字词众多，很适合顺便研究自己的母语。
 - 教学方法：与汉语的结构相近，都是孤立语，单音节词为主，尽管修饰语在后，但不影响大局，学习方法与教学方法都可以大范围类比汉语。
     - 我估计，越语也是掌握两三千「字」就驾轻就熟了，而且其中一大把都直接从汉字对应过去。
+- 口音：吾优先学北部口音，河内话，因为是首都而且离国内近
 
 # 文字
 
@@ -79,10 +80,11 @@ nặng 重声 | （阳去、阳入）；浊去、全浊上、〈浊入〉 | 21�
 
 anki没找到从基础开始的词表。自己从维基百科字（音节）频表构建了： https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Vietnamese_syllables
 
-# Phrasebook
+# 词语簿 vort-fraz-libro
 
 quoc | han nom | IPA (Hà Nội) | note
 -|-|-|-
+Trung Quốc | 中國 | [t͡ɕʊwŋ͡m˧˧ kuək̚˧˦]
 thất bại là mẹ thành công | 失敗羅媄成功 | tʰət̚˧˦ ʔɓaːj˧˨ʔ laː˨˩ mɛ˧˨ʔ tʰajŋ̟˨˩ kəwŋ͡m˧˧ | you guess. 鳗星 guy taught it to bro Xia
 Hà Nội | 河內 | [hàː nôjˀ] |
 Đà Nẵng | 沱㶞 hoặc 陀㶞 | [ʔɗaː˨˩ naŋ˦ˀ˥] | 岘港
