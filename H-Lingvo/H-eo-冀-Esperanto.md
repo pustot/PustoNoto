@@ -142,6 +142,11 @@ https://esperanto12.net/zh/tabelvortoj/
     - -ado：表示动作的过程，加于动词后，与之相对的是动词直接加 -o 往往表示具体这个动作或其结果，如 esploro esplorado；但一些抽象动词的 -ado 与 -o 基本是同义词，例如 lerno lernado
         - 类比欧语：相当于动名词，如 learning
         - 而且也可以是动词，如 alkutimigadi
+    - -aĵo 乄 -ilo
+        - -aĵo 「~物」「~物（mono）」是一个具体事物，或者由动作产生的物体
+            - 例如：manĝaĵo - 食物；trinkaĵo - 飲み物；konstruaĵo - 建筑物；novaĵo - 新闻；
+        - -ilo 「~具」「~zeug」是服务于这个动作的工具
+            - 例如：ludilo - 玩具；aviadilo - 飞机 Flugzeug；transportilo - 运输工具；veturilo - 车辆、交通工具（≠aŭto 或 aŭtomobilo）；laborilo - 工具（或者直接用 ilo 指代更广泛的工具） Werkzeug；kuirilo - 厨具；
     - -igi 乄 -iĝi
         - `-igi`：「-化」「使……」，使动，常用于形容词或不及物动词（使他们及物）
             - 类比欧语：有一些相当于 `-ize`，如 utiligi - utilize，finigi - finalize
@@ -158,7 +163,7 @@ https://esperanto12.net/zh/tabelvortoj/
     - al- 乄 el-：应来自拉丁语 ad- ex-，具体含义需要逐渐适应，或类比欧词
         - 例（al- = ad-）：alkutimigadi = continuously accustomize
         - 例（el- = ex-）：eliri = exit
-    - ek- 乄 el-：世界语之 ek- 实为「开始」「……起来」「突然开始」之意。而el- 才是「出」「从……出来」「从某处」之意 
+    - ek- 乄 el-：世界语之 ek- 实为「开始」「……起来」「突然开始」之意。而el- 才是「出」「从……出来」「从某处」之意
 - § 易解词缀
     - -ejo 「处」「所」表示词干之地点
         - 例如 lernejo 学校
@@ -178,3 +183,5 @@ Unuiĝintaj Nacioj | 联合国（字面：已成为一体的国家们）
 klera | 受教育的，有文化的，来自法语 éclairé
 evoluo 乄 evoluigo | 发展/进化 乄 开发/推动发展（不加ig后缀表示自发，加ig后缀表示使动，亦即外力/认为推动促使）
 Esplorado kaj Evoluigo | 研发，研究与开发，R&D（Research & Development）。其中 esplorado 乄 esploro，esploro 侧重具体的行为或结果，esplorado 侧重动态的过程（类似于动名词）；evoluigo侧重外力认为开发，evoluo侧重自发发展
+kelka | 既可以表示「少量、数个」也可以表示「一些」。想突出少，可以用 nur kelka、malmulta。
+novaĵo | news / something new 新闻、新消息
