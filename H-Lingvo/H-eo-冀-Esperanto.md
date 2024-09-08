@@ -48,6 +48,8 @@ Mi volas lerni paroli Esperanton.
 
 # 个人为何对它有兴趣 Kial mi interesiĝas pri ĝi?
 
+（时常厌烦，不欲有新语，或欲优化取代之；然终因其既有体、势，常复寻来）
+
 最基本的要点：**中立**、**活力**。
 中立衍生出国际、平等、公正（同时有绝大多数国际辅助语言都有的简单、规律），活力决定了它足可堪一用，在诸多中立的国际辅助语言中可以选择它。
 
@@ -139,6 +141,7 @@ https://esperanto12.net/zh/tabelvortoj/
 - § 疑难词缀
     - -ado：表示动作的过程，加于动词后，与之相对的是动词直接加 -o 往往表示具体这个动作或其结果，如 esploro esplorado；但一些抽象动词的 -ado 与 -o 基本是同义词，例如 lerno lernado
         - 类比欧语：相当于动名词，如 learning
+        - 而且也可以是动词，如 alkutimigadi
     - -igi 乄 -iĝi
         - `-igi`：「-化」「使……」，使动，常用于形容词或不及物动词（使他们及物）
             - 类比欧语：有一些相当于 `-ize`，如 utiligi - utilize，finigi - finalize
@@ -152,6 +155,10 @@ https://esperanto12.net/zh/tabelvortoj/
                 - 而且帽子亦表示动词终结、不再加宾语；
                 - 而且可理解为反身动词，记作汉语之「己」字（但是需要是这个字腭化后的发音，例如普通话）；
                 - 且也可以用于名词、形容词相当于比使动又多了一层，例如 unuigi 是使X成为一体，而 unuiĝi 是X自己成为一体，相当于把 igi 加了一层反身，把宾语变成主语，因此比 igi 多一层，因此加了个帽子
+    - al- 乄 el-：应来自拉丁语 ad- ex-，具体含义需要逐渐适应，或类比欧词
+        - 例（al- = ad-）：alkutimigadi = continuously accustomize
+        - 例（el- = ex-）：eliri = exit
+    - ek- 乄 el-：世界语之 ek- 实为「开始」「……起来」「突然开始」之意。而el- 才是「出」「从……出来」「从某处」之意 
 - § 易解词缀
     - -ejo 「处」「所」表示词干之地点
         - 例如 lernejo 学校
