@@ -171,7 +171,9 @@ https://esperanto12.net/zh/tabelvortoj/
     - al- 乄 el-：应来自拉丁语 ad- ex-，具体含义需要逐渐适应，或类比欧词
         - 例（al- = ad-）：alkutimigadi = continuously accustomize
         - 例（el- = ex-）：eliri = exit
-    - ek- 乄 el-：世界语之 ek- 实为「开始」「……起来」「突然开始」之意。而el- 才是「出」「从……出来」「从某处」之意
+    - ek- 乄 el- 乄 eks-：世界语之 ek- 实为「开始」「……起来」「突然开始」之意。而el- 才是「出」「从……出来」「从某处」之意
+        - 而 eks- 是前任、过去的之意，如 eksprezidanto
+        - 故从拉丁语 ex- 开头词汇派生来的世界语词，若不仿制而是整体借入，则会用 es- 而不是 eks- 或 ek- 开头。例如 esplori 「研究、调查」来自拉丁语 explorare
 - § 易解词缀
     - -ejo 「处」「所」表示词干之地点
         - 例如 lernejo 学校
