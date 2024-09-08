@@ -22,17 +22,29 @@
 
 Mi volas lerni paroli Esperanton.
 
-- Globse 詞典之 eo https://glosbe.com/eo/zh
-- 世界语12课，最重要的500个词以及一些语法（使用 Zagreba metodo） https://esperanto12.net/zh/
-- https://lernu.net/
-- https://londonaesperantoklubo.com/other-courses.html
-- 汉语拼音转写 https://eo.wikipedia.org/wiki/Pinjino
-- 全国世界语协会 https://www.chinaesperantoligo.com.cn/
-    - 双语文章如 https://www.chinaesperantoligo.com.cn/230821/
-- esperantujo，提供给世界语者的个人主页 https://esperantujo.directory/
-- [世界语汉字化词表 - E站o - 知乎](https://zhuanlan.zhihu.com/p/349645051)
-- [uea facila 的简单词表](https://uea.facila.org/vortlisto/#listo)
-- [Komputeko - 有计算机领域的世界语与英德法荷等语言对照](https://komputeko.net/) 相关页面还可以看到更多有意思的项目。
+- § 阅读材料&协会组织类
+    - 全国世界语协会 https://www.chinaesperantoligo.com.cn/
+        - 双语文章如 （建议点击主页-协会动态以找 https://www.chinaesperantoligo.com.cn/novajho ）
+            - https://www.chinaesperantoligo.com.cn/230821/ 意大利都灵第108届国际世界语大会决议 2023-08-21
+            - https://www.chinaesperantoligo.com.cn/20240726/ 2024年世界语日：为了一个所有语言平等、没有语言歧视的世界 2024-07-26
+    - 微信公众号：
+        - 「中国报道世界语新闻」目前每天更新，常有中世双语文本
+            - 外国网友都在打听一只中国猴子 2024-0822 https://mp.weixin.qq.com/s/c5c-dAEBGsr2fNsrffaPEA
+    - UEA Facila 简单词汇文章 https://uea.facila.org/
+    - 世界语协会 https://uea.org/
+    - 绿网（论坛） https://reto.cn/
+    - esperantujo，提供给世界语者的个人主页 https://esperantujo.directory/
+    - Esperanto Por UN https://esperantoporun.org/eo/hejmo/
+    - https://londonaesperantoklubo.com/other-courses.html
+- § 教程类
+    - 世界语12课，最重要的500个词以及一些语法（使用 Zagreba metodo） https://esperanto12.net/zh/
+    - https://lernu.net/
+- § 工具查询类
+    - Globse 詞典之 eo https://glosbe.com/eo/zh
+    - 汉语拼音转写 https://eo.wikipedia.org/wiki/Pinjino
+    - [世界语汉字化词表 - E站o - 知乎](https://zhuanlan.zhihu.com/p/349645051)
+    - [uea facila 的简单词表](https://uea.facila.org/vortlisto/#listo)
+    - [Komputeko - 有计算机领域的世界语与英德法荷等语言对照](https://komputeko.net/) 相关页面还可以看到更多有意思的项目。
 
 # 个人为何对它有兴趣 Kial mi interesiĝas pri ĝi?
 
@@ -76,6 +88,7 @@ Mi volas lerni paroli Esperanton.
     - 特别系被动分词用 -it -at -ot，真系好难从词语中分辨出来；
     - 仲有啲表解词，两个意思粘合喺一个词里；
     - 仲有好多前缀后缀如 -ar- -eg-，让人多用时间反应
+        - 而且很多词缀的意思并不很直观，是很细微的区分，过于严格，例如 esploro 与 esplorado（两者在英语都是 research），例如 evoluo 与 evoluigo（两者在英语都是 development），让人很容易用错，事实上英语、汉语都没在使用如此细微的区分，区分太细微未必符合自然语言的习惯
     - 而且好多其他词素本身并不短，偏偏省这些很重要嘅语素嘅长度？
     - 也导致转汉字时看着不如日文里汉字+假名那种舒服
 - 尝试自制 https://github.com/pustot/world-building/blob/main/Hanroma-lingua-demo.md
@@ -119,3 +132,42 @@ https://esperanto12.net/zh/tabelvortoj/
 - -al 为了x，为什么（联想al就是to，为什么、porque 也像这个逻辑）
 - -am x时，时间（）
 - -om x样的数量，x么多（联想不了了）
+- 表解词 + ajn 表示 无论xxx（-ever），例如 kia ajn 无论何种。来自德语 irgendein
+
+# 常见词缀 & 我的理解
+
+- § 疑难词缀
+    - -ado：表示动作的过程，加于动词后，与之相对的是动词直接加 -o 往往表示具体这个动作或其结果，如 esploro esplorado；但一些抽象动词的 -ado 与 -o 基本是同义词，例如 lerno lernado
+        - 类比欧语：相当于动名词，如 learning
+    - -igi 乄 -iĝi
+        - `-igi`：「-化」「使……」，使动，常用于形容词或不及物动词（使他们及物）
+            - 类比欧语：有一些相当于 `-ize`，如 utiligi - utilize，finigi - finalize
+            - 区分记忆：使动用法比中动态更加常见于世界，故使用不戴帽子的 igi 表示，同时类比拉丁语 agere
+        - `-iĝi`：「成」「に成ru」，类似中动态或反身动词，常用于及物动词（或名词形容词），表示（及物动词）自发发生（而不是侧重于被动发生）
+            - 类比欧语：
+                - 英语之被动语态不加施事者。例如 La fenestro rompiĝis. - The window broke. / The window was broken.
+                - 德语之反身动词。例如 La pordo malfermiĝis. - Die Tür öffnete sich.
+            - 区分记忆：
+                - 中动/反身不如使动用法常见，故使用戴帽子的 iĝi 表示；
+                - 而且帽子亦表示动词终结、不再加宾语；
+                - 而且可理解为反身动词，记作汉语之「己」字（但是需要是这个字腭化后的发音，例如普通话）；
+                - 且也可以用于名词、形容词相当于比使动又多了一层，例如 unuigi 是使X成为一体，而 unuiĝi 是X自己成为一体，相当于把 igi 加了一层反身，把宾语变成主语，因此比 igi 多一层，因此加了个帽子
+- § 易解词缀
+    - -ejo 「处」「所」表示词干之地点
+        - 例如 lernejo 学校
+        - 来自德语 -ei，例如 Bäcker - Bäckerei
+
+# 词语簿 vort-fraz-libro
+
+eo | zh&备注
+-|-
+Ĉinio | 中国
+ĉina | 中国的；汉语（la Ĉina lingvo 之省）
+paroli 乄 diri | 讲（一门语言，speak） 乄 说（话、内容，say）
+Azio | 亚洲
+Esperanto | 世界语
+Esperantujo | 世界语社群，（抽象的）世界语世界
+Unuiĝintaj Nacioj | 联合国（字面：已成为一体的国家们）
+klera | 受教育的，有文化的，来自法语 éclairé
+evoluo 乄 evoluigo | 发展/进化 乄 开发/推动发展（不加ig后缀表示自发，加ig后缀表示使动，亦即外力/认为推动促使）
+Esplorado kaj Evoluigo | 研发，研究与开发，R&D（Research & Development）。其中 esplorado 乄 esploro，esploro 侧重具体的行为或结果，esplorado 侧重动态的过程（类似于动名词）；evoluigo侧重外力认为开发，evoluo侧重自发发展
