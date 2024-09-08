@@ -27,9 +27,12 @@ Mi volas lerni paroli Esperanton.
         - 双语文章如 （建议点击主页-协会动态以找 https://www.chinaesperantoligo.com.cn/novajho ）
             - https://www.chinaesperantoligo.com.cn/230821/ 意大利都灵第108届国际世界语大会决议 2023-08-21
             - https://www.chinaesperantoligo.com.cn/20240726/ 2024年世界语日：为了一个所有语言平等、没有语言歧视的世界 2024-07-26
+        - 有意思的汉语文章
+            - https://www.chinaesperantoligo.com.cn/20231009/ 我们在波兹南学习世界语 2023-10-09
     - 微信公众号：
         - 「中国报道世界语新闻」目前每天更新，常有中世双语文本
             - 外国网友都在打听一只中国猴子 2024-0822 https://mp.weixin.qq.com/s/c5c-dAEBGsr2fNsrffaPEA
+        - 《走遍世界》世界语微信班 2021、2023年开过，不知道啥时候开第三期
     - UEA Facila 简单词汇文章 https://uea.facila.org/
     - 世界语协会 https://uea.org/
     - 绿网（论坛） https://reto.cn/
@@ -39,8 +42,12 @@ Mi volas lerni paroli Esperanton.
 - § 教程类
     - 世界语12课，最重要的500个词以及一些语法（使用 Zagreba metodo） https://esperanto12.net/zh/
     - https://lernu.net/
+    - 教材推荐之《现代世界语》第一册、第二册
+    - 教材推荐之《走遍世界》
 - § 工具查询类
     - Globse 詞典之 eo https://glosbe.com/eo/zh
+    - 此表推荐 世界语基本词根词频排序版（有汉语翻译），可见于此页 https://www.chinaesperantoligo.com.cn/vortarogramatiko/
+        - 当前链接 http://www.chinaesperantoligo.com.cn/qfy-content/uploads/2022/06/43e2f8ffe43639c542ab0f6c208688b5.pdf
     - 汉语拼音转写 https://eo.wikipedia.org/wiki/Pinjino
     - [世界语汉字化词表 - E站o - 知乎](https://zhuanlan.zhihu.com/p/349645051)
     - [uea facila 的简单词表](https://uea.facila.org/vortlisto/#listo)
@@ -160,6 +167,7 @@ https://esperanto12.net/zh/tabelvortoj/
                 - 而且帽子亦表示动词终结、不再加宾语；
                 - 而且可理解为反身动词，记作汉语之「己」字（但是需要是这个字腭化后的发音，例如普通话）；
                 - 且也可以用于名词、形容词相当于比使动又多了一层，例如 unuigi 是使X成为一体，而 unuiĝi 是X自己成为一体，相当于把 igi 加了一层反身，把宾语变成主语，因此比 igi 多一层，因此加了个帽子
+            - 不及物但是可以跟主格的补语：如 fariĝi 意为「成为」，成为了什么呢，是用主格补语的形式说明的。例如 Post 1923 (kaj la presigo de la dramo R.U.R. ('Rosumaj Universalaj Robotoj')), robotoj kiel pensivaj "homaj" maŝinoj fariĝis ĉefa temo de la fantazia (fikcia) literaturo.
     - al- 乄 el-：应来自拉丁语 ad- ex-，具体含义需要逐渐适应，或类比欧词
         - 例（al- = ad-）：alkutimigadi = continuously accustomize
         - 例（el- = ex-）：eliri = exit
@@ -185,3 +193,5 @@ evoluo 乄 evoluigo | 发展/进化 乄 开发/推动发展（不加ig后缀表�
 Esplorado kaj Evoluigo | 研发，研究与开发，R&D（Research & Development）。其中 esplorado 乄 esploro，esploro 侧重具体的行为或结果，esplorado 侧重动态的过程（类似于动名词）；evoluigo侧重外力认为开发，evoluo侧重自发发展
 kelka | 既可以表示「少量、数个」也可以表示「一些」。想突出少，可以用 nur kelka、malmulta。
 novaĵo | news / something new 新闻、新消息
+prilabori | 处理、加工、详细研究。= pri（关于） + labori。联想 verarbeiten/bearbeiten, to work on
+artefarita intelekto | 人工智能。

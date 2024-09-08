@@ -11,9 +11,9 @@ Taking notes of knowledge, especially those learned and utilized only occasional
 
 - [老子-道德经](./B2-23.1-老子-道德經.md) 
 - kkhn 机器人（与自动驾驶） [TP2-4-機人-Robotik](./TP2-4-機人-Robotik.md)
-    - [机械与力学 TH-000-機械-Maŝinarto](./TH-000-機械-Maŝinarto.md)
+    - [机械与力学 TH-000-機械-MekanikaInĝenierarto](./TH-000-機械-MekanikaInĝenierarto.md)
     - 电子
-    - [控制 TP1-3-自控-Regado](./TP1-3-自控-Regado.md)
+    - [控制 TP1-3-自控-Kibernetiko](./TP1-3-自控-Kibernetiko.md)
     - [计算机 TP3-000-計目-Enhavo-Informadiko](./TP3-000-計目-Enhavo-Informadiko.md)
         - 软件系统开发综合 [TP3-12JA-Java](./TP3-12JA-Java.md)
     - 人工智能(見計算機)
