@@ -197,3 +197,5 @@ kelka | 既可以表示「少量、数个」也可以表示「一些」。想突
 novaĵo | news / something new 新闻、新消息
 prilabori | 处理、加工、详细研究。= pri（关于） + labori。联想 verarbeiten/bearbeiten, to work on
 artefarita intelekto | 人工智能。
+necesejo | WC
+sperto | experience (这词跟 expert 同源。。。)

@@ -67,11 +67,13 @@ bo| ？？？
 nos| ？？？
 iii| ？？？
 hni| ？？？
+my| ？？？
 twh| ？？？
 tdd| ？？？
 khb| ？？？
 za| ？？？
 th| ？？？
+lo| ？？？
 hmn| ？？？
 km| ？？？
 mn| ？？？

@@ -12,7 +12,7 @@
 - [vi越](./H-vi-越-Vjetnama.md)
 - [es](./H-es-西-Hispana.md)
 - [BazojDeLingvoj 诸语基](./H0-9-諸基-BazojDeLingvoj.md)
-- [KernVortojKernLing.csv 要语基词](./H0-9-KernVortoj/KernVortojKernLing.csv)
+- [KernVortojKernLing.csv 要语基词](./H0-9-Kernoj/KernVortojKernLing.csv)
 - [nl](./H-nl-荷-Dutch.md)
 - [zh-wuu](./H-zh-wuu-吳-Wu.md)
 - [zh-sph](./H-zh-cmn-xghu-石-Shiping.md)
