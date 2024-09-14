@@ -77,4 +77,22 @@ ru | - Ты говоришь по-русски? - Я не говорю по-ру
 ms | - Bolehkah anda bercakap Bahasa Melayu? - Saya tidak bercakap Bahasa Melayu.
 la | - Loquere linguam Latinam? - Non loquor linguam Latinam.
 
+# § 初见介绍
+
+zh | - 你是中国人吗？ - 对，我是中国人。 - 不是，我不是中国人。
+-|-
+eo | - Ĉu vi estas ĉino? - Jes, mi estas ĉino. - Ne, mi ne estas ĉino.
+
+zh | - 你来自哪里？ - 我来自中国北京。
+-|-
+eo | - De kie vi venas? - Mi venas el Pekino, Ĉinio.
+
+zh | - 你在这里做什么？ - 你是来这旅游的吗？
+-|-
+eo | - Kion vi faras ĉi tie? - Ĉu vi venis ĉi tien por vojaĝi?
+
+zh | - 请问您叫什么名字？/请问您贵姓？ - 我叫张三。 - 张三先生，幸会幸会。
+-|-
+eo | - Kio estas via nomo? / Ĉu mi povas scii vian nomon? - Mia nomo estas Zhang San. - Sinjoro Zhang San, tre agrable renkonti vin.
+
 # § 语言兴趣
