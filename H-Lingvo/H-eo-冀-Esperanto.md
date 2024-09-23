@@ -1,4 +1,6 @@
 
+Esperanto 在中文常称为「世界语」，这个词就像很多翻译词那样并不精确却又约定俗成。与大众交流时，为防自大之嫌，可改称原名 Esperanto 并附注世界语，例如「Esperanto（通称「世界语」）」
+
 個人相關項目：世界語漢字化（訓讀）項目 esperanto-kun-legado https://github.com/twaqngu/esperanto-kun-legado
 
 - 本文裏的漢字化世界語使用該項目的代碼生成
@@ -23,6 +25,27 @@
 Mi volas lerni paroli Esperanton.
 
 - § 阅读材料&协会组织类
+    - News in Esperanto 汇总了世界语的新闻网站 https://esperanto.net/en/news-in-esperanto/
+    - 新闻 中国国际广播 https://esperanto.cri.cn/
+    - 新闻 El Popola Chinio 《中国报道》 http://www.espero.com.cn/
+        - 向世界介绍中国。1950年创刊。
+    - 中国网 世界语 http://esperanto.china.org.cn/
+    - Le Monde diplomatique - Esperanto 《外交世界》世界语版 https://eo.mondediplo.com/
+        - 网站排版真的很好看。。。更新内容也多。法国该报纸有多语，此为其世界语版，视角或偏法国，可以当做在中国外但又在英语话语体系之外的一个视角
+        - 这家报纸许多文章的法英西等版本要订阅才能看，但世界语免费。而且被翻译成世界语的文章确实也不少（但每月还是没几篇）。可以看出来它确实很支持世界语，以及其对左翼、社会正义的倾向
+        - Alia artefarita intelekto eblas https://eo.mondediplo.com/2024/08/article3215.html
+    - Neniam milito inter ni http://neniammilitointerni.over-blog.com/
+        - 主要关于战争与和平
+    - Libera Folio https://www.liberafolio.org/
+        - 主要是关于世界语本身、世界语运动的新闻
+    - UEA Facila 简单词汇文章 https://uea.facila.org/
+        - 相比前几家新闻网站，这个更新太慢。规定使用简单词
+    - La Balta Ondo https://sezonoj.ru/
+    - Pola Retradio 波兰新闻 https://pola-retradio.org/novajoj-2/
+    - Global Voices 世界语版 https://eo.globalvoices.org/
+    - Gazetaraj Komunikoj de UEA https://uea.org/aktuale/komunikoj
+    - 世界语协会 https://uea.org/
+    - 枣庄学院-世界语博物馆 世界语版 https://e-muzeo.uzz.edu.cn/en/
     - 全国世界语协会 https://www.chinaesperantoligo.com.cn/
         - 双语文章如 （建议点击主页-协会动态以找 https://www.chinaesperantoligo.com.cn/novajho ）
             - https://www.chinaesperantoligo.com.cn/230821/ 意大利都灵第108届国际世界语大会决议 2023-08-21
@@ -33,8 +56,6 @@ Mi volas lerni paroli Esperanton.
         - 「中国报道世界语新闻」目前每天更新，常有中世双语文本
             - 外国网友都在打听一只中国猴子 2024-0822 https://mp.weixin.qq.com/s/c5c-dAEBGsr2fNsrffaPEA
         - 《走遍世界》世界语微信班 2021、2023年开过，不知道啥时候开第三期
-    - UEA Facila 简单词汇文章 https://uea.facila.org/
-    - 世界语协会 https://uea.org/
     - 绿网（论坛） https://reto.cn/
     - esperantujo，提供给世界语者的个人主页 https://esperantujo.directory/
     - Esperanto Por UN https://esperantoporun.org/eo/hejmo/
@@ -102,6 +123,23 @@ Mi volas lerni paroli Esperanton.
     - 也导致转汉字时看着不如日文里汉字+假名那种舒服
 - 尝试自制 https://github.com/pustot/world-building/blob/main/Hanroma-lingua-demo.md
     - https://studling.pustot.com/#/hanrom
+        - 自制这种语言，词表还要一一从罗曼语族找，不如下边这种照搬世界语的方案哦
+    - 请看柴门霍夫自己的改造方案（Reformprojekto de Zamenhof），可以体会很多公认的点： https://eo.wikipedia.org/wiki/Reformprojekto_de_Zamenhof
+        - 世界语变种 https://zh.wikipedia.org/zh-hans/%E4%B8%96%E7%95%8C%E8%AF%AD%E5%8F%98%E7%A7%8D
+        - 伊多语（Ido）
+    - 亦可把世界语优化为仅保留词根、采用中文语法，适当添加语法虚词。 analiz-a Esperanto / Analiz-Esper-Lingv. 这种东西，AI是能看懂的，因此也有私人使用之实用性。。。
+        - Gramatik de chin jam sufich uz kiel universal lingv. Pro ghi, chi-ti ig-pli-bon Esperanto cert hav sam a kapabl.
+        - 就算不完全用这种简化，我也要减少使用语法上的奇技淫巧。创造一种在Esperanto框架内但语法足够简单的形式，最好去掉词缀就是一个可以理解的分析语。
+        - 已经：jam （过去时，或者现汉的完整体，好像文言文不用，也没影响；德语法语口语喜欢混用过去与完成，也没影响）。已 jam 未 mal-jam
+        - 将来：iros （英语 gonna，汉语「将要去」，法语用aller构成最近将来时）或 faros
+        - 被动：est V-at，或者单一个 est，或者从汉语借个 be 吧，英语正好也叫 be
+        - 现在进行：en，或者 en V-ant，或者不加东西，反正世界语也是一般现在时和进行体混用
+        - 复数：plura 或者 pluraj 或者 plur，由于汉语不使用复数，故此复数标记应该不需要常用
+        - 宾格：用现汉的方式，固定主谓宾，话题提前时也不致引起歧义
+        - 保留 a 这个词缀对应「的」，包括领属与形容词这两个用法，毕竟世界语也这样用（mia / bona）
+        - 祈使，用 bonvolu / bonvol 类似中文之「请」，也可如英、德无单独祈使形式。其否定式，汉语「别」，可用 ne faru，同英语 don't
+        - 条件式，亦如汉语不使用单独形式，有 se 引导从句就够了。
+        - 可考虑引入汉语及东亚诸语的语气词，参照新加坡英语里，它们真的好用
 
 # 相关的运动、思潮、价值观
 
@@ -156,7 +194,7 @@ https://esperanto12.net/zh/tabelvortoj/
             - 例如：ludilo - 玩具；aviadilo - 飞机 Flugzeug；transportilo - 运输工具；veturilo - 车辆、交通工具（≠aŭto 或 aŭtomobilo）；laborilo - 工具（或者直接用 ilo 指代更广泛的工具） Werkzeug；kuirilo - 厨具；
     - -igi 乄 -iĝi
         - `-igi`：「-化」「使……」，使动，常用于形容词或不及物动词（使他们及物）
-            - 类比欧语：有一些相当于 `-ize`，如 utiligi - utilize，finigi - finalize
+            - 类比欧语：有一些相当于 `-ize` 或 `-fy`，如 utiligi - utilize，finigi - finalize, klarigi - clarify
             - 区分记忆：使动用法比中动态更加常见于世界，故使用不戴帽子的 igi 表示，同时类比拉丁语 agere
         - `-iĝi`：「成」「に成ru」，类似中动态或反身动词，常用于及物动词（或名词形容词），表示（及物动词）自发发生（而不是侧重于被动发生）
             - 类比欧语：
