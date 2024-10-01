@@ -12,6 +12,8 @@
 - [vi越](./H-vi-越-Vjetnama.md)
 - [es](./H-es-西-Hispana.md)
 - [BazojDeLingvoj 诸语基](./H0-9-諸基-BazojDeLingvoj.md)
+- 诸语基课本 [Tekstaro](./H0-9-Kernoj/Tekstaro.md)
+    - 网页版便于筛选具体语言 https://studling.pustot.com/#/multi/tekstaro
 - [KernVortojKernLing.csv 要语基词](./H0-9-Kernoj/KernVortojKernLing.csv)
 - [nl](./H-nl-荷-Dutch.md)
 - [zh-wuu](./H-zh-wuu-吳-Wu.md)

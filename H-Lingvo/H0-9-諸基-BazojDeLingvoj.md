@@ -7,6 +7,9 @@ Dewey 407.1
 
 ※　◢
 
+- 诸语基课本 [Tekstaro](./H0-9-Kernoj/Tekstaro.md)
+    - 网页版便于筛选具体语言 https://studling.pustot.com/#/multi/tekstaro
+
 # § 设计
 
 ## 语言目录

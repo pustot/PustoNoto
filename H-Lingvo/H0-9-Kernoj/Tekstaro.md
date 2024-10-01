@@ -1,11 +1,15 @@
 
+网页版便于筛选具体语言 [https://studling.pustot.com/#/multi/tekstaro](https://studling.pustot.com/#/multi/tekstaro)
+
+GitHub 源代码 [https://github.com/pustot/PustoNoto/blob/master/H-Lingvo/H0-9-Kernoj/Tekstaro.md](https://github.com/pustot/PustoNoto/blob/master/H-Lingvo/H0-9-Kernoj/Tekstaro.md)
 
 # § 文字与拼读提示
 
 zh | 表意文字/意音文字，故请参考拼音。
 -|-
 en | 英语拼读很不一致，请多查阅音标，熟悉这套体系后才能猜出大概。
-eo | Esperanto（通称世界语）拼读一致！一字一音，把字母表学一遍即会拼写。重音固定在倒数第二音节。（小提示：清辅音有人会读成不送气，建议不熟练浊音的中国人把清音读成送气。）
+ja | 其中汉字是表意文字，假名是表示音节的表音文字且拼读一致，列出所有假名的表叫五十音图，掌握每个单独的假名（即音节）即可拼读所有日文。唯一的例外是平假名は、へ作为格助词时读wa、e。（这种规律性是因为二战后日本使用了“现代假名遣”，不再使用“历史假名遣”）
+eo | Esperanto（通称世界语）拼读一致！一字一音，把字母表学一遍即会拼读。重音固定在倒数第二音节。（小提示：清辅音有人会读成不送气，建议不熟练浊音的中国人把清音读成送气。）
 da | 拼读关系复杂，我还没学太懂。g：很多时候词中词尾的g不发音/软音。t：词尾常不发音，尤其是-et结尾。元音在各词各位置发音不唯一，如a可以发 /a/，/ɑː/，/æ/ 。还有一些字母组合有 stumm (无声的) 字母。还有stød现象，类似于声带紧闭音，会让某些音突然中断或变得短促。
 
 # § 问候寒暄
