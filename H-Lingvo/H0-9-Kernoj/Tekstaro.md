@@ -1,10 +1,19 @@
 
+
+# § 文字与拼读提示
+
+zh | 表意文字/意音文字，故请参考拼音。
+-|-
+en | 英语拼读很不一致，请多查阅音标，熟悉这套体系后才能猜出大概。
+eo | Esperanto（通称世界语）拼读一致！一字一音，把字母表学一遍即会拼写。重音固定在倒数第二音节。（小提示：清辅音有人会读成不送气，建议不熟练浊音的中国人把清音读成送气。）
+da | 拼读关系复杂，我还没学太懂。g：很多时候词中词尾的g不发音/软音。t：词尾常不发音，尤其是-et结尾。元音在各词各位置发音不唯一，如a可以发 /a/，/ɑː/，/æ/ 。还有一些字母组合有 stumm (无声的) 字母。还有stød现象，类似于声带紧闭音，会让某些音突然中断或变得短促。
+
 # § 问候寒暄
 
 zh | - 你好。 - 再见。
 -|-
 ja | - こんにちは。 - さようなら。
-de | - Hallo. - Auf Wiedersehen.
+de | - Hallo. / Guten Tag. - Auf Wiedersehen. / Tschüss.
 ko | - 안녕하세요. - 안녕히 가세요.
 eo | - Saluton. - Ĝis revido.
 fr | - Bonjour. - Au revoir.
@@ -14,10 +23,11 @@ nl | - Hallo - Tot ziens
 sv | - Hej - Hejdå
 pt | - Olá - Adeus
 it | - Ciao - Arrivederci
-ar | مرحبا /mar.ħa.ban/, (pausa) /mar.ħa.baː/ السلام عليكم (assalāmu ʿalaykum)  - وداعا /wa.daː.ʕan/ مع السلامة (maʿa assalāma)
+ar | - مرحبا /mar.ħa.ban/, (pausa) /mar.ħa.baː/ السلام عليكم (assalāmu ʿalaykum) /as.sa.laː.mu ʕa.laj.kum/  - وداعا /wa.daː.ʕan/ مع السلامة (maʿa assalāma)
 ru | - Привет - До свидания
 ms | - Hello - Selamat tinggal
 la | - Salve - Vale
+da | - Hej. / Goddag. - Farvel ※音标：第一句 - /hɑj/ [hɑ̈j] 或 /ɡoˈdaːˀɣ/ [ɡ̊ɔ̽ˈd̥æˀ] 第二句 - /fɑːˈvɛl/, [fɑ̈ːˈʋel]
 
 zh | - 谢谢你。 - 不客气。
 -|-
@@ -36,6 +46,7 @@ ar | - شكرا /ʃuk.ran/ - عفوا /ʕaf.wan/
 ru | - Спасибо - Пожалуйста
 ms | - Terima kasih - Sama-sama
 la | - Gratias tibi ago - Nihil est
+da | - Tak. - Selv tak / Velbekomme.  ※音标：第一句 - /tak/, /ˈtɑɡ/, [ˈtˢɑɡ̊], [ˈtsʰɑ̈k] 第二句 - 
 
 zh | - 对不起。 - 没关系。
 -|-
@@ -54,11 +65,13 @@ ar | -  آسف /ʔaː.sif/ (男性)/آسفة (āsifa) (女性) - لا بأس (l�
 ru | - Извините - Всё в порядке
 ms | - Maaf - Tidak apa-apa
 la | - Ignosce - Nihil refert
+da | - Undskyld. / - Det gør ikke noget. ※音标：第一句 - /ˈonˌsɡylˀ/ [ˈɔ̽nˌskylˀ] 第二句 - 
 
-zh | - 不好意思，请问你会讲英语吗？ - 不好意思，可以再重复一遍吗？/什么？
+zh | - 不好意思，请问你会讲汉语或英语（或世界语）吗？ - 不好意思，可以再重复一遍吗？/什么？
 -|-
-en | - Excuse me, can you speak English? - Excuse me, could you repeat that? / Pardon? / What?
-eo | - Pardonu, ĉu vi povas paroli la anglan? - Pardonu, ĉu vi povas ripeti? / Pardonu? / Kio?
+en | - Excuse me, can you speak Chinese or English (or Esperanto)? - Excuse me, could you repeat that? / Pardon? / What?
+eo | - Pardonu, ĉu vi povas paroli la ĉinan aŭ la anglan (aŭ Esperanton)? - Pardonu, ĉu vi povas ripeti? / Pardonu? / Kio?
+da | - Undskyld, taler du kinesisk eller engelsk (eller esperanto)? - Undskyld, kan du gentage det? / Undskyld? / Hvad? ※音标：第一句 - /ˈonˌsɡylˀ/ [ˈɔ̽nˌskylˀ] /taːlər/ [ˈtˢæːlɐ] [ˈd̥u] [ˈkʰinɛsisɡ̊] /ˈɛlər/ [ˈelɐ] /ˈɛŋˀəlsɡ/ [ˈeŋˀəlsɡ̊] () 第二句 -
 
 zh | - 你会说普通话/汉语吗？ - 我不会说普通话/汉语。
 -|-
