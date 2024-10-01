@@ -15,7 +15,9 @@ Taking notes of knowledge, especially those learned and utilized only occasional
     - 电子
     - [控制 TP1-3-自控-Kibernetiko](./TP1-3-自控-Kibernetiko.md)
     - [计算机 TP3-000-計目-Enhavo-Informadiko](./TP3-000-計目-Enhavo-Informadiko.md)
-        - 软件系统开发综合 [TP3-12JA-Java](./TP3-12JA-Java.md)
+        - [TP3-12C++-C++](./TP3-12C++-C++.md)
+        - [TP3-12PY-Python](./TP3-12PY-Python.md)
+        - [TP3-12JA-Java](./TP3-12JA-Java.md) （含 软件系统开发综合）
     - 人工智能(見計算機)
 - ngyo 语言及语言学 [H-Lingvo-LeguMin](./H-Lingvo/README.md)
     - [zh-ltc 中古漢語](./H-Lingvo/H-zh-ltc-中漢-MezaĈinaFonologio.md)
@@ -48,8 +50,9 @@ Taking notes of knowledge, especially those learned and utilized only occasional
         - Dist [TP3-38.8-分布-分布-DisaSistemo](./TP3-38.8-分布-DisaSistemo.md)
         - 軟工 [TP3-11.5-軟工-ProgramaraInĝenierarto](./TP3-11.5-軟工-ProgramaraInĝenierarto.md)
         - [TP3-11-設模-DesignPattern](./TP3-11-設模-DesignPattern.md)
-        - [TP3-12JA-Java](./TP3-12JA-Java.md)
         - [TP3-12C++-C++](./TP3-12C++-C++.md)
+        - [TP3-12PY-Python](./TP3-12PY-Python.md)
+        - [TP3-12JA-Java](./TP3-12JA-Java.md)
 - dihl 地理 [K9--地理-Geografio](./K9-地理-Geografio.md)
     - 旅行 [K9-19-旅行-Vojaĝado](./K9-19-旅行-Vojaĝado.md)
 - [K1-08-史表-MondaHistorioKalendaro](./K1-08-史表-MondaHistorioKalendaro.md)
