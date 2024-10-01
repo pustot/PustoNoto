@@ -20,7 +20,7 @@ Dewey 407.1
 
 有些特别拿不准使用哪种变体的，先标记上
 
-语言的选择,部分参考了其他多语者的选择,以及各个视角观察的语言使用人数，见 [400-Lingvo/407.1-PoliglotLernado.md](./407.1-PoliglotLernado.md)
+语言的选择,部分参考了其他多语者的选择,以及各个视角观察的语言使用人数，见 [H-Lingvo/H0-9-多語-PoliglotLernado.md](./H0-9-多語-PoliglotLernado.md)
 
 暂定72个，把共享同一个 ISO 693-3 代码（cmn、nan）的去掉（减四）为68个。
 
@@ -215,10 +215,10 @@ ceb| ？？？
 
 ### 单词模块（子文件夹）
 
-- [407.1-CoreWords](./407.1-CoreWords/)
-- [407.1-CoreWords-README](./407.1-CoreWords/README.md)
-- [407.1-CoreWords-EnList.md](./407.1-CoreWords/CoreWordsEnList.md)
-- [407.1-CoreWords-Multilang.csv](./407.1-CoreWords/CoreWordsMultilang.csv)
+- [H0-9-Kernoj](./H0-9-Kernoj/)
+- [H0-9-Kernoj-README](./H0-9-Kernoj/README.md)
+- [H0-9-Kernoj-EnList.md](./H0-9-Kernoj/KernVortojENList.md)
+- [H0-9-Kernoj-Multilang.csv](./H0-9-Kernoj/KernVortojMultiLing.csv)
 
 Tumblr 上这个人发的这两贴
 
