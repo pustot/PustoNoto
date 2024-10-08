@@ -3,6 +3,86 @@
 
 GitHub 源代码 [https://github.com/pustot/PustoNoto/blob/master/H-Lingvo/H0-9-Kernoj/Tekstaro.md](https://github.com/pustot/PustoNoto/blob/master/H-Lingvo/H0-9-Kernoj/Tekstaro.md)
 
+# § 语言/方言列表
+
+
+zh|文
+-|-
+cmn-pth| 普
+cmn-hza| 菏
+cmn-sph| 石
+wuu| 滬
+yue| 廣
+nan-xmn| 廈
+hak| 梅
+en| 英
+ja| 日
+de| 德
+ko| 韓
+eo| 世
+fr| 法
+vi| 越
+es| 西
+cmn-kmg| 昆
+nan-swa| 潮
+nl| 荷
+sv| 瑞
+pt| 葡
+it| 意
+ar| 阿
+ru| 俄
+ms| 馬
+la| 拉
+gan| 昌
+hsn| 長
+cdo| 福
+cjy| 太
+bfs| ？？？
+bo| ？？？
+nos| ？？？
+iii| ？？？
+hni| ？？？
+my| ？？？
+twh| ？？？
+tdd| ？？？
+khb| ？？？
+za| ？？？
+th| ？？？
+lo| ？？？
+hmn| ？？？
+km| ？？？
+mn| ？？？
+mnc| ？？？
+ug| ？？？
+tr| ？？？
+rm| ？？？
+ca| ？？？
+ro| ？？？
+lb| ？？？
+yi| ？？？
+af| ？？？
+no| ？？？
+da| ？？？
+is| ？？？
+ir| ？？？
+gd| ？？？
+cy| ？？？
+uk| ？？？
+pl| ？？？
+cs| ？？？
+bg| ？？？
+mk| ？？？
+fa| ？？？
+sa| ？？？
+ur| ？？？
+hi| ？？？
+bn| ？？？
+fi| ？？？
+he| ？？？
+ta| ？？？
+sw| ？？？
+ceb| ？？？
+
 # § 文字与拼读提示
 
 zh | 表意文字/意音文字，故请参考拼音。
