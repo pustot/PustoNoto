@@ -10,37 +10,48 @@ zh | 表意文字/意音文字，故请参考拼音。
 en | 英语拼读很不一致，请多查阅音标，熟悉这套体系后才能猜出大概。
 ja | 其中汉字是表意文字，假名是表示音节的表音文字且拼读一致，列出所有假名的表叫五十音图，掌握每个单独的假名（即音节）即可拼读所有日文。唯一的例外是平假名は、へ作为格助词时读wa、e。（这种规律性是因为二战后日本使用了“现代假名遣”，不再使用“历史假名遣”）
 eo | Esperanto（通称世界语）拼读一致！一字一音，把字母表学一遍即会拼读。重音固定在倒数第二音节。（小提示：清辅音有人会读成不送气，建议不熟练浊音的中国人把清音读成送气。）
+ar | 元音音位有 a i u，分别有长短。a 在大多数辅音的环境中实现为 /æ/，包括唇辅音、舌冠音（非咽化的）、声门辅音、k、j、w；在靠后的环境发为 [ɑ] 如咽化辅音、小舌音、咽辅音。
 da | 拼读关系复杂，我还没学太懂。g：很多时候词中词尾的g不发音/软音。t：词尾常不发音，尤其是-et结尾。元音在各词各位置发音不唯一，如a可以发 /a/，/ɑː/，/æ/ 。还有一些字母组合有 stumm (无声的) 字母。还有stød现象，类似于声带紧闭音，会让某些音突然中断或变得短促。
 
 # § 问候寒暄
 
 zh | - 你好。 - 再见。
 -|-
-ja | - こんにちは。 - さようなら。
+ja | - 今日（こんにち）は。 - 左様（さよう）なら。
 de | - Hallo. / Guten Tag. - Auf Wiedersehen. / Tschüss.
-ko | - 안녕하세요. - 안녕히 가세요.
+ko | - 安寧(안녕)하세요. - 安寧(안녕)히 가세요.
 eo | - Saluton. - Ĝis revido.
 fr | - Bonjour. - Au revoir.
-vi | - Xin chào (吀嘲) - Tạm biệt (暫別) / chào / bai
+vi | - 吀嘲(Xin chào) - 暫別(Tạm biệt) / chào / bai
 es | - Hola - Adiós
 nl | - Hallo - Tot ziens
 sv | - Hej - Hejdå
-pt | - Olá - Adeus
+pt | - Olá /oˈla/ - Adeus
 it | - Ciao - Arrivederci
-ar | - مرحبا /mar.ħa.ban/, (pausa) /mar.ħa.baː/ السلام عليكم (assalāmu ʿalaykum) /as.sa.laː.mu ʕa.laj.kum/  - وداعا /wa.daː.ʕan/ مع السلامة (maʿa assalāma)
+ar | - مرحبا /mar.ħa.ban/, (pausa) /mar.ħa.baː/ السلام عليكم (assalāmu ʿalaykum) /as.sa.laː.mu ʕa.laj.kum/（重音大概于倒二音节lay）  - وداعا /wa.daː.ʕan/ مع السلامة (maʿa assalāma)
 ru | - Привет - До свидания
 ms | - Hello - Selamat tinggal
 la | - Salve - Vale
+bo | - བཀྲ་ཤིས་བདེ་ལེགས (bkra shis bde legs) /ʈ͡ʂə˥˥.ɕi˥˨.te˩˨.le˥˨/
+th | - สวัสดีครับ (男性说), สวัสดีค่ะ (女性说), /sa˨˩.wat̚˨˩.diː˧/ + /kʰrap̚˦˥/ /kʰaʔ˥˩/
+km | - ជម្រាបសួរ (cumriəp suə) /cum.ˈriəp suə/ / សួស្តី (suəsdəy) /suə.ˈsɗəj/.
+mn | - ᠰᠠᠶᠢᠨ ᠪᠠᠶᠢᠨ᠎ᠠ ᠤᠤ (sayin bayin-a-uu) (сайн байна уу?) [sʰæ̝ːm pæ̝ːn‿o̙ː]
 da | - Hej. / Goddag. - Farvel ※音标：第一句 - /hɑj/ [hɑ̈j] 或 /ɡoˈdaːˀɣ/ [ɡ̊ɔ̽ˈd̥æˀ] 第二句 - /fɑːˈvɛl/, [fɑ̈ːˈʋel]
+pl | - Cześć. /ˈt͡ʂɛɕt͡ɕ/ / Dzień dobry. /ˈd͡ʑɛɲ ˈdɔbrɘ/
+fa | - سلام (salâm) [sæ.lɒ́ːm] / سلام علیکم (salâm aleikum) [sæ.lɒ́ːm ʔælej.kʰóm].
+sa | - नमस्कार (namaskāra) / नमस्ते (namaste).
+ur | - سلام علیکم  /sə.lɑːm ə.lɛː.kʊm/
+he | - שָׁלוֹם (shalóm) /ʃaˈlom/, שָׁלוֹם עָלֵיכֶם (shalóm 'aleikhém) /ʃaˈlom aleˈχɛm/
+sw | - jambo /ˈd͡ʒɑ.mbɔ/
 
 zh | - 谢谢你。 - 不客气。
 -|-
-ja | - ありがとう。 - どういたしまして。
+ja | - 有（あ）り難（がと）う。 - どう致（いた）しまして。
 de | - Danke. - Bitte.
-ko | - 감사합니다. - 천만에요.
+ko | - 感謝(감사)합니다. - 千萬(천만)에요. ※「千萬에요」罕用，常代以「没啥」类短语，如 「괜찮아요」 「아니에」 「네」
 eo | - Dankon. - Ne dankinde.
 fr | - Merci. - De rien.
-vi | - Cảm ơn (感恩) - Không có gì
+vi | - 感恩(Cảm ơn)  - Không có gì
 es | - Gracias - De nada
 nl | - Dank je - Geen probleem
 sv | - Tack - Varsågod
@@ -54,12 +65,12 @@ da | - Tak. - Selv tak / Velbekomme.  ※音标：第一句 - /tak/, /ˈtɑɡ/, 
 
 zh | - 对不起。 - 没关系。
 -|-
-ja | - ごめんなさい。 - だいじょうぶです。
+ja | - 御免（ごめん）なさい。 - 大丈夫（だいじょうぶ）です。
 de | - Entschuldigung. - Kein Problem.
-ko | - 죄송합니다. - 괜찮습니다.
+ko | - 罪悚(죄송)합니다. - 괜찮습니다.
 eo | - Pardonu. - Ne gravas.
 fr | - Pardon/Désolé. - Pas de problème.
-vi | - Xin lỗi (吀纇) - Không sao
+vi | - 吀纇(Xin lỗi)  - Không sao
 es | - Perdón - No hay problema
 nl | - Sorry - Geen probleem
 sv | - Förlåt - Det är okej
