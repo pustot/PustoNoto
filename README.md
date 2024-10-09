@@ -26,18 +26,19 @@ Taking notes of knowledge, especially those learned and utilized only occasional
     - [en英](./H-Lingvo/H-en-Angla.md)
     - [ja日](./H-Lingvo/H-ja-日-Japana.md)
     - [de德](./H-Lingvo/H-de-德-Germana.md)
-    - [ko韩](./H-Lingvo/H-ko-韓-Korean.md)
     - [eo世](./H-Lingvo/H-eo-冀-Esperanto.md)
-    - [fr法](./H-Lingvo/H-fr-法-Franca.md)
+    - [ko韩](./H-Lingvo/H-ko-韓-Korean.md)
     - [vi越](./H-Lingvo/H-vi-越-Vjetnama.md)
-    - [es西](./H-Lingvo/H-es-西-Hispana.md)
     - [诸语基 BazojDeLingvoj](./H-Lingvo/H0-9-諸基-BazojDeLingvoj.md)
     - 诸语基课本 [Tekstaro](./H-Lingvo/H0-9-Kernoj/Tekstaro.md)
         - 网页版便于筛选具体语言 https://studling.pustot.com/#/multi/tekstaro
     - [KernVortojKernLing.csv 要语基词](./H-Lingvo/H0-9-KernVortoj/KernVortojKernLing.csv)
+    - [fr法](./H-Lingvo/H-fr-法-Franca.md)
+    - [es西](./H-Lingvo/H-es-西-Hispana.md)
+    - [ru俄](./H-Lingvo/H-ru-俄-Rusa.md)
+    - [ar阿](./H-Lingvo/H-ar-阿-Araba.md)
     - [zh-wuu吳](./H-Lingvo/H-zh-wuu-吳-Wu.md)
     - [zh-sph石](./H-Lingvo/H-zh-cmn-xghu-石-Shiping.md)
-    - [nl](./H-Lingvo/H-nl-荷-Dutch.md)
 - kejk 计科目录 [TP3-000-計目-Enhavo-Informadiko](./TP3-000-計目-Enhavo-Informadiko.md)
     - NLP & AI
         - 計語 Computerlinguistik [H0-87-計語-NLP-NaturLingvaPrilaborado](./H0-87-計語-NLP-NaturLingvaPrilaborado.md)
@@ -61,7 +62,7 @@ Taking notes of knowledge, especially those learned and utilized only occasional
 
 # 一些传统
 
-La dosierindiko de ĉi tiu noto uzas la esperanton por subteni internacianeco, kaj la teksto estas miksaĵo de multaj lingvoj, ĉefe uzante la ĉinan kaj la esperanton, kun aldonaj lingvoj kiel la angla, japana, germana, kaj aliaj.
+La dosierindiko de ĉi tiu noto uzas la esperanton por subteni internacieco, kaj la teksto estas miksaĵo de multaj lingvoj, ĉefe uzante la ĉinan kaj la esperanton, kun aldonaj lingvoj kiel la angla, japana, germana, kaj aliaj.
 
 pdf个人笔记用12号红褐色华文隶书。
 

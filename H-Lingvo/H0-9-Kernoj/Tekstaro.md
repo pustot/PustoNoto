@@ -6,33 +6,40 @@ GitHub 源代码 [https://github.com/pustot/PustoNoto/blob/master/H-Lingvo/H0-9-
 # § 语言/方言列表
 
 
-zh|文
+zh| 汉（联合国6种正式语文）
 -|-
 cmn-pth| 普
 cmn-hza| 菏
 cmn-sph| 石
 wuu-sha| 滬
 yue-can| 廣
-nan-xmn| 廈
-hak-mxz| 梅
-en| 英
+en| 英（联合国6种正式语文）
 ja| 日
 de| 德
 eo| 世
 ko| 韓
 vi| 越
-fr| 法
-es| 西
-cmn-kmg| 昆
+hak-mxz| 梅
 nan-swa| 潮
-ru| 俄
-ar| 阿
+nan-xmn| 廈
+fr| 法（联合国6种正式语文）
+es| 西（联合国6种正式语文）
+ru| 俄（联合国6种正式语文）
+ar| 阿（联合国6种正式语文）
+cmn-kmg| 昆
 nl| 荷
 sv| 瑞
-pt| 葡
+pt| 葡（联合国新闻语文）
 it| 意
+la| 拉（友情支持）
 ms| 馬
-la| 拉
+sw| 斯（联合国新闻语文）
+ur| 乌尔（联合国新闻语文）
+hi| 印（联合国新闻语文）
+fa| 波斯（少地些人于世）
+pl| 波兰（少地些人于世）
+th| 泰（少地些人于世）
+tr| 土（少地些人于世）
 gan-khn| 昌
 hsn-csx| 長
 cdo-foc| 福
@@ -47,14 +54,12 @@ twh| ？？？
 tdd| ？？？
 khb| ？？？
 za| ？？？
-th| ？？？
 lo| ？？？
 hmn| ？？？
 km| ？？？
 mn| ？？？
 mnc| ？？？
 ug| ？？？
-tr| 土
 rm| ？？？
 ca| ？？？
 ro| ？？？
@@ -64,23 +69,18 @@ af| ？？？
 no| ？？？
 da| ？？？
 is| ？？？
-ir| ？？？
+ga| ？？？
 gd| ？？？
 cy| ？？？
 uk| ？？？
-pl| ？？？
 cs| ？？？
 bg| ？？？
 mk| ？？？
-fa| ？？？
 sa| ？？？
-ur| ？？？
-hi| 印
 bn| ？？？
 fi| ？？？
 he| ？？？
 ta| ？？？
-sw| 斯
 ceb| ？？？
 
 # § 文字与拼读提示
