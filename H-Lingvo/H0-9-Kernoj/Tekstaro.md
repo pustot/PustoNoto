@@ -99,67 +99,67 @@ zh | - 你好。 - 再见。
 -|-
 ja | - 今日（こんにち）は。 - 左様（さよう）なら。
 de | - Hallo. / Guten Tag. - Auf Wiedersehen. / Tschüss.
-ko | - 安寧(안녕)하세요. - 安寧(안녕)히 가세요.
 eo | - Saluton. - Ĝis revido.
-fr | - Bonjour. - Au revoir.
+ko | - 安寧(안녕)하세요. - 安寧(안녕)히 가세요.
 vi | - 吀嘲(Xin chào) - 暫別(Tạm biệt) / chào / bai
+fr | - Bonjour. - Au revoir.
 es | - Hola - Adiós
+ru | - Привет - До свидания
+ar | - مرحبا /mar.ħa.ban/, (pausa) /mar.ħa.baː/ السلام عليكم (assalāmu ʿalaykum) /as.sa.laː.mu ʕa.laj.kum/（重音大概于倒二音节lay）  - وداعا /wa.daː.ʕan/ مع السلامة (maʿa assalāma)
 nl | - Hallo - Tot ziens
 sv | - Hej - Hejdå
 pt | - Olá /oˈla/ - Adeus
 it | - Ciao - Arrivederci
-ar | - مرحبا /mar.ħa.ban/, (pausa) /mar.ħa.baː/ السلام عليكم (assalāmu ʿalaykum) /as.sa.laː.mu ʕa.laj.kum/（重音大概于倒二音节lay）  - وداعا /wa.daː.ʕan/ مع السلامة (maʿa assalāma)
-ru | - Привет - До свидания
-ms | - Hello - Selamat tinggal
 la | - Salve - Vale
-bo | - བཀྲ་ཤིས་བདེ་ལེགས (bkra shis bde legs) /ʈ͡ʂə˥˥.ɕi˥˨.te˩˨.le˥˨/
+ms | - Hello - Selamat tinggal
+sw | - jambo /ˈd͡ʒɑ.mbɔ/
+ur | - سلام علیکم  /sə.lɑːm ə.lɛː.kʊm/
+fa | - سلام (salâm) [sæ.lɒ́ːm] / سلام علیکم (salâm aleikum) [sæ.lɒ́ːm ʔælej.kʰóm].
+pl | - Cześć. /ˈt͡ʂɛɕt͡ɕ/ / Dzień dobry. /ˈd͡ʑɛɲ ˈdɔbrɘ/
 th | - สวัสดีครับ (男性说), สวัสดีค่ะ (女性说), /sa˨˩.wat̚˨˩.diː˧/ + /kʰrap̚˦˥/ /kʰaʔ˥˩/
+bo | - བཀྲ་ཤིས་བདེ་ལེགས (bkra shis bde legs) /ʈ͡ʂə˥˥.ɕi˥˨.te˩˨.le˥˨/
 km | - ជម្រាបសួរ (cumriəp suə) /cum.ˈriəp suə/ / សួស្តី (suəsdəy) /suə.ˈsɗəj/.
 mn | - ᠰᠠᠶᠢᠨ ᠪᠠᠶᠢᠨ᠎ᠠ ᠤᠤ (sayin bayin-a-uu) (сайн байна уу?) [sʰæ̝ːm pæ̝ːn‿o̙ː]
 da | - Hej. / Goddag. - Farvel ※音标：第一句 - /hɑj/ [hɑ̈j] 或 /ɡoˈdaːˀɣ/ [ɡ̊ɔ̽ˈd̥æˀ] 第二句 - /fɑːˈvɛl/, [fɑ̈ːˈʋel]
-pl | - Cześć. /ˈt͡ʂɛɕt͡ɕ/ / Dzień dobry. /ˈd͡ʑɛɲ ˈdɔbrɘ/
-fa | - سلام (salâm) [sæ.lɒ́ːm] / سلام علیکم (salâm aleikum) [sæ.lɒ́ːm ʔælej.kʰóm].
 sa | - नमस्कार (namaskāra) / नमस्ते (namaste).
-ur | - سلام علیکم  /sə.lɑːm ə.lɛː.kʊm/
 he | - שָׁלוֹם (shalóm) /ʃaˈlom/, שָׁלוֹם עָלֵיכֶם (shalóm 'aleikhém) /ʃaˈlom aleˈχɛm/
-sw | - jambo /ˈd͡ʒɑ.mbɔ/
 
 zh | - 谢谢你。 - 不客气。
 -|-
 ja | - 有（あ）り難（がと）う。 - どう致（いた）しまして。
 de | - Danke. - Bitte.
-ko | - 感謝(감사)합니다. - 千萬(천만)에요. ※「千萬에요」罕用，常代以「没啥」类短语，如 「괜찮아요」 「아니에」 「네」
 eo | - Dankon. - Ne dankinde.
-fr | - Merci. - De rien.
+ko | - 感謝(감사)합니다. - 千萬(천만)에요. ※「千萬에요」罕用，常代以「没啥」类短语，如 「괜찮아요」 「아니에」 「네」
 vi | - 感恩(Cảm ơn)  - Không có gì
+fr | - Merci. - De rien.
 es | - Gracias - De nada
+ru | - Спасибо - Пожалуйста
+ar | - شكرا /ʃuk.ran/ - عفوا /ʕaf.wan/
 nl | - Dank je - Geen probleem
 sv | - Tack - Varsågod
 pt | - Obrigado - De nada
 it | - Grazie - Prego
-ar | - شكرا /ʃuk.ran/ - عفوا /ʕaf.wan/
-ru | - Спасибо - Пожалуйста
-ms | - Terima kasih - Sama-sama
 la | - Gratias tibi ago - Nihil est
+ms | - Terima kasih - Sama-sama
 da | - Tak. - Selv tak / Velbekomme.  ※音标：第一句 - /tak/, /ˈtɑɡ/, [ˈtˢɑɡ̊], [ˈtsʰɑ̈k] 第二句 - 
 
 zh | - 对不起。 - 没关系。
 -|-
 ja | - 御免（ごめん）なさい。 - 大丈夫（だいじょうぶ）です。
 de | - Entschuldigung. - Kein Problem.
-ko | - 罪悚(죄송)합니다. - 괜찮습니다.
 eo | - Pardonu. - Ne gravas.
-fr | - Pardon/Désolé. - Pas de problème.
+ko | - 罪悚(죄송)합니다. - 괜찮습니다.
 vi | - 吀纇(Xin lỗi)  - Không sao
+fr | - Pardon/Désolé. - Pas de problème.
 es | - Perdón - No hay problema
+ru | - Извините - Всё в порядке
+ar | -  آسف /ʔaː.sif/ (男性)/آسفة (āsifa) (女性) - لا بأس (lā baʔsa)
 nl | - Sorry - Geen probleem
 sv | - Förlåt - Det är okej
 pt | - Desculpe - Não há problema
 it | - Mi scusi - Nessun problema
-ar | -  آسف /ʔaː.sif/ (男性)/آسفة (āsifa) (女性) - لا بأس (lā baʔsa)
-ru | - Извините - Всё в порядке
-ms | - Maaf - Tidak apa-apa
 la | - Ignosce - Nihil refert
+ms | - Maaf - Tidak apa-apa
 da | - Undskyld. / - Det gør ikke noget. ※音标：第一句 - /ˈonˌsɡylˀ/ [ˈɔ̽nˌskylˀ] 第二句 - 
 
 zh | - 不好意思，请问你会讲汉语或英语（或世界语）吗？ - 不好意思，可以再重复一遍吗？/什么？
@@ -173,17 +173,17 @@ zh | - 你会说普通话/汉语吗？ - 我不会说普通话/汉语。
 ja | - 日本語を話せますか？ - 日本語を話せません。
 de | - Kannst du Deutsch sprechen? - Ich kann kein Deutsch sprechen.
 eo | - Ĉu vi parolas Esperanton? - Mi ne parolas Esperanton.
-fr | - Parlez-vous français? - Je ne parle pas français.
 vi | - Bạn có nói tiếng Việt không? - Tôi không nói tiếng Việt.
+fr | - Parlez-vous français? - Je ne parle pas français.
 es | - ¿Hablas español? - No hablo español.
+ru | - Ты говоришь по-русски? - Я не говорю по-русски.
+ar | - 「 هل تتحدث العربية؟ 」/hal (tataḥaddaṯu) al.ʕa.ra.bij.ja/ - 「 لا أتحدث العربية 」/laː (ʔataḥaddaṯu) al.ʕa.ra.bij.ja/
 nl | - Spreek je Nederlands? - Ik spreek geen Nederlands.
 sv | - Kan du prata svenska? - Jag kan inte prata svenska.
 pt | - Você fala português? - Eu não falo português.
 it | - Parli italiano? - Non parlo italiano.
-ar | - 「 هل تتحدث العربية؟ 」/hal (tataḥaddaṯu) al.ʕa.ra.bij.ja/ - 「 لا أتحدث العربية 」/laː (ʔataḥaddaṯu) al.ʕa.ra.bij.ja/
-ru | - Ты говоришь по-русски? - Я не говорю по-русски.
-ms | - Bolehkah anda bercakap Bahasa Melayu? - Saya tidak bercakap Bahasa Melayu.
 la | - Loquere linguam Latinam? - Non loquor linguam Latinam.
+ms | - Bolehkah anda bercakap Bahasa Melayu? - Saya tidak bercakap Bahasa Melayu.
 
 # § 初见介绍
 
