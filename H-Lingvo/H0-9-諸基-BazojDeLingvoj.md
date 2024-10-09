@@ -668,26 +668,33 @@ tr| 先把动词不定式后缀-mAk去掉。最常用的现在时未完成体的
 石cmn| ？？？
 滬wuu| 我愛儂 (3ngu 2e 3non /ŋv̩ʷ³³  e̞⁴⁴  nʊŋ²³/)
 廣yue| 我愛你 (ngo5 oi3 nei5) / 我好鍾意你 (ngo5 hou2 zung1 ji3 nei5)
-北nan| 我愛汝 (guá ài lí) (Kaohsiung: /ɡua⁴¹⁻⁴⁴ ai²¹⁻⁴¹ li⁴¹/)
-四hak| 𠊎愛你 ngài oi ǹ / ngài oi ngì /ŋai̯¹¹ oi̯⁵⁵ n¹¹/, /ŋai̯¹¹ oi̯⁵⁵ ɲi¹¹/
 英en| I love you.
 日ja| （私はあなたを）愛しています／愛してる。
 德de| Ich liebe dich.
-韓ko| (나는 너를) 사랑해요 / 사랑해.
 世eo| mi amas vin [mi ˈamas vin]
-法fr| Je t'aime. / Je vous aime. / Je t'adore. / Je vous adore.
+韓ko| (나는 너를) 사랑해요 / 사랑해.
 越vi| Anh yêu em. (英𢞅㛪) [ʔajŋ̟˧˧ ʔiəw˧˧ ʔɛm˧˧] (note: man to woman)
-西es| (Yo) Te amo.
-昆cmn| ？？？
+梅hak| 𠊎愛你 ngài oi ǹ / ngài oi ngì /ŋai̯¹¹ oi̯⁵⁵ n¹¹/, /ŋai̯¹¹ oi̯⁵⁵ ɲi¹¹/
 潮nan| ？？？
+廈nan| 我愛汝 (guá ài lí) (Kaohsiung: /ɡua⁴¹⁻⁴⁴ ai²¹⁻⁴¹ li⁴¹/)
+法fr| Je t'aime. / Je vous aime. / Je t'adore. / Je vous adore.
+西es| (Yo) Te amo.
+俄ru| я тебя́ люблю́ [ˈja tʲɪˈbʲa lʲʊˈblʲu] / я вас люблю́ [ˈja vas lʲʊˈblʲu] (duzen vs. siezen) / я люблю тебя
+阿ar| أحبك (note: 省去附标的写法相同，读法不同； to a male: أُحِبُّكَ (ʔuḥibbuka) /ʔu.ħib.bu.ka/; to a female: أُحِبُّكِ  (ʔuḥibbuki) /ʔu.ħib.bu.ki/)
+昆cmn| ？？？
 荷nl| Ik houd van jou. / Ik hou van jou. /ɪk ˈɦɑu̯d fɑn jɑu̯/
 瑞sv| Jag älskar dig. /jɑː ɛlska dɛ̝jː/
 葡pt| (Eu) Te amo. [ˈeʊ̯ t͡ʃi ˈɐ̃.mu] / Amo-te.
 意it| (Io) Ti amo.
-阿ar| أحبك (note: 省去附标的写法相同，读法不同； to a male: أُحِبُّكَ (ʔuḥibbuka) /ʔu.ħib.bu.ka/; to a female: أُحِبُّكِ  (ʔuḥibbuki) /ʔu.ħib.bu.ki/)
-俄ru| я тебя́ люблю́ [ˈja tʲɪˈbʲa lʲʊˈblʲu] / я вас люблю́ [ˈja vas lʲʊˈblʲu] (duzen vs. siezen) / я люблю тебя
-馬ms| Saya sayang awak. / Saya cintakan awak.
 拉la| tē amō /teː ˈa.moː/, [t̪eː ˈämoː] / ego amo te
+馬ms| Saya sayang awak. / Saya cintakan awak.
+sw| ninakupenda
+ur| مجھے تمسو محبت ہے‎ (mujhe tumse mohabbat hai)
+hi| मैं तुम से प्यार करता हूँ (ma͠i tum se pyār kartā hū̃) (male speaker, polite)
+fa| عاشقتم‎ ('âšeqetam), دوستت دارم‎ (dustat dâram) [ˈduːstʰæt ˈdɒːɾæm]
+pl| kocham cię /ˈkɔ.xam t͡ɕɛ/
+th| ผมรักคุณ (pǒm rák kun) (informal, male to female) /pʰom˩˩˦.rak̚˦˥.kʰun˧/, ฉันรักคุณ (chǎn rák kun) (informal, female to male) /t͡ɕʰan˩˩˦.rak̚˦˥.kʰun˧/, ฉันรักเธอ (chǎn rák təə) (generic, colloquial), รักนะ (informal)
+tr| seni seviyorum （你-宾格后缀 爱-现在时词尾-人称词尾）
 昌gan| ？？？
 長hsn| ？？？
 福cdo| ？？？
@@ -701,13 +708,11 @@ twh| ？？？
 tdd| ？？？
 khb| ？？？
 za| gou gyaez mwngz 九其佲 /kou˨˦ kʲai˧˩ mɯŋ˧˩/ 我-爱-你
-th| ผมรักคุณ (pǒm rák kun) (informal, male to female) /pʰom˩˩˦.rak̚˦˥.kʰun˧/, ฉันรักคุณ (chǎn rák kun) (informal, female to male) /t͡ɕʰan˩˩˦.rak̚˦˥.kʰun˧/, ฉันรักเธอ (chǎn rák təə) (generic, colloquial), รักนะ (informal)
 hmn| ？？？
 km| (man to woman) បងស្រឡាញ់អូន (bɑɑng srɑlañ ʼoun) /ɓɑːŋ srɑ.ˈlaɲ ʔoun/, (woman to man) អូនស្រឡាញ់បង (ʼoun srɑlañ bɑɑng), ខ្ញុំ​ស្រលាញ់​អ្នក (khñom srɑlañ nĕək) (gender neutral)
 mn| ᠪᠢ ᠴᠢᠮ᠎ᠠ ᠳᠤ ᠬᠠᠶᠢᠷᠠᠲᠠᠢ (机转) би чамд хайртай (bi čamd xajrtaj) /pi t͡ʃʰamt χæːr.tʰæː/
 mnc| ？？？
 ug| ？？？
-tr| seni seviyorum （你-宾格后缀 爱-现在时词尾-人称词尾）
 rm| jau hai tai gument
 ca| t'estimo /təsˈti.mu/
 ro| te iubesc /tejuˈbesk/
@@ -721,14 +726,10 @@ ga| tá grá agam dhuit (是-爱- at me - on you)
 gd| tha gràdh agam dhut (literally "Love is at me to you")
 cy| 'Rwy'n dy garu di
 uk| я тебе́ коха́ю (ja tebé koxáju) (intimate), я вас коха́ю (ja vas koxáju) (formal, plural), я тебе́ люблю́ (ja tebé ljubljú), я вас люблю́ (ja vas ljubljú)
-pl| kocham cię /ˈkɔ.xam t͡ɕɛ/
 cs| ？？？
 bg| оби́чам те
 mk| те сакам (te sakam), те љубам (te ljubam) (less common)
-fa| عاشقتم‎ ('âšeqetam), دوستت دارم‎ (dustat dâram) [ˈduːstʰæt ˈdɒːɾæm]
 sa| त्वयि स्निह्यामि (tvayi snihyāmi)
-ur| مجھے تمسو محبت ہے‎ (mujhe tumse mohabbat hai)
-hi| मैं तुम से प्यार करता हूँ (ma͠i tum se pyār kartā hū̃) (male speaker, polite)
 bn| আমি তোমাকে ভালোবাসি (ami tōmake bhalōbaśi)
 fi| minä rakastan sinua / rakastan sinua
 he| (male to female) אֲנִי אוֹהֵב אוֹתָךְ‎ (aní ohév otákh), (female to male) אֲנִי אוֹהֵבֵת אוֹתְךָ‎ (aní ohévet otkhá), (male to male) אֲנִי אוֹהֵב אוֹתְךָ‎ (aní ohév otkhá), (female to female) אֲנִי אוֹהֵבֵת אוֹתָךְ‎ (aní ohévet otákh)

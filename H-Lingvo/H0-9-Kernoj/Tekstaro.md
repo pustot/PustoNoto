@@ -5,7 +5,6 @@ GitHub 源代码 [https://github.com/pustot/PustoNoto/blob/master/H-Lingvo/H0-9-
 
 # § 语言/方言列表
 
-
 zh| 汉（联合国6种正式语文）
 -|-
 cmn-pth| 普
@@ -187,6 +186,8 @@ ms | - Bolehkah anda bercakap Bahasa Melayu? - Saya tidak bercakap Bahasa Melayu
 
 # § 初见介绍
 
+知识点：是非问句、答是答否、特殊问句
+
 zh | - 你是中国人吗？ - 对，我是中国人。 - 不是，我不是中国人。
 -|-
 eo | - Ĉu vi estas ĉino? - Jes, mi estas ĉino. - Ne, mi ne estas ĉino.
@@ -204,3 +205,106 @@ zh | - 请问您叫什么名字？/请问您贵姓？ - 我叫张三。 - 张三
 eo | - Kio estas via nomo? / Ĉu mi povas scii vian nomon? - Mia nomo estas Zhang San. - Sinjoro Zhang San, tre agrable renkonti vin.
 
 # § 语言兴趣
+
+zh| 普通话我不会说，但我很感兴趣。
+-|-
+cmn-pth | 普通话我不会说，但我很感兴趣。
+cmn-hza | 菏泽话我不会说，但是我血热学（菏泽话）。
+cmn-sph | ？？？
+wuu-sha | 上海闲话吾伐会得讲，但是吾老欢喜额。
+yue-can | 廣州話我唔識講，不過我好有興趣。
+en | I don't speak English, but I'm very interested.
+ja | 日本語は話せませんが、興味があります。
+de | Deutsch kann ich nicht sprechen, aber ich habe großes Interesse.
+eo | Mi ne parolas Esperanto, sed mi tre interesiĝas.
+ko | 韓國語(한국어)는 못해요, 그런데 關心(관심)이 많아요. ※못하다 [ˈmo̞(ː)tʰa̠da̠]
+vi | Tôi chưa biết nói tiếng Việt, nhưng tôi rất quan tâm. （碎𣗓別呐㗂越，仍碎慄關心。） ※chưa [t͡ɕɨə˧˧] 表示未，không 表示不，皆可
+hak-mxz | ？？？
+nan-swa | ？？？
+nan-xmn | ？？？
+fr | Je ne parle pas français, mais je suis très intéressé(e).
+es | No hablo español, pero tengo mucho interés.
+ru | Я не говорю́ по-ру́сски, но меня́ о́чень интересу́ет.
+ar | لا أتكلم العربية، لكنني مهتم جداً   （Lā ʾatakallamu al-ʿarabiyya, lākinnī muhtamm jiddan.） ※ 不 我说 阿语，但-我 感兴趣的 很
+cmn-kmg | ？？？
+nl | Ik spreek geen Nederlands, maar ik ben erg geïnteresseerd.
+sv | Jag kan inte svenska, men jag är mycket intresserad.
+pt | Eu não falo português, mas estou muito interessado.
+it | Non parlo italiano, ma sono molto interessato.
+la | Lingua Latina non scio, sed mihi maxime delectat.
+ms | Saya tidak boleh cakap Bahasa Melayu, tetapi saya sangat berminat.
+
+zh | 我爱你。
+-|-
+cmn-pth | 我爱你。
+cmn-hza | ？？？
+cmn-sph | ？？？
+wuu-sha | 我愛儂 (3ngu 2e 3non /ŋv̩ʷ³³  e̞⁴⁴  nʊŋ²³/)
+yue-can | 我愛你 (ngo5 oi3 nei5) / 我好鍾意你 (ngo5 hou2 zung1 ji3 nei5)
+en | I love you.
+ja | （私はあなたを）愛しています／愛してる。
+de | Ich liebe dich.
+eo | mi amas vin [mi ˈamas vin]
+ko | (나는 너를) 사랑해요 / 사랑해.
+vi | Anh yêu em. (英𢞅㛪) [ʔajŋ̟˧˧ ʔiəw˧˧ ʔɛm˧˧] (note: man to woman)
+hak-mxz | 𠊎愛你 ngài oi ǹ / ngài oi ngì /ŋai̯¹¹ oi̯⁵⁵ n¹¹/, /ŋai̯¹¹ oi̯⁵⁵ ɲi¹¹/
+nan-swa | ？？？
+nan-xmn | 我愛汝 (guá ài lí) (Kaohsiung: /ɡua⁴¹⁻⁴⁴ ai²¹⁻⁴¹ li⁴¹/)
+fr | Je t'aime. / Je vous aime. / Je t'adore. / Je vous adore.
+es | (Yo) Te amo.
+ru | я тебя́ люблю́ [ˈja tʲɪˈbʲa lʲʊˈblʲu] / я вас люблю́ [ˈja vas lʲʊˈblʲu] (duzen vs. siezen) / я люблю тебя
+ar | أحبك (note: 省去附标的写法相同，读法不同； to a male: أُحِبُّكَ (ʔuḥibbuka) /ʔu.ħib.bu.ka/; to a female: أُحِبُّكِ  (ʔuḥibbuki) /ʔu.ħib.bu.ki/)
+cmn-kmg | ？？？
+nl | Ik houd van jou. / Ik hou van jou. /ɪk ˈɦɑu̯d fɑn jɑu̯/
+sv | Jag älskar dig. /jɑː ɛlska dɛ̝jː/
+pt | (Eu) Te amo. [ˈeʊ̯ t͡ʃi ˈɐ̃.mu] / Amo-te.
+it | (Io) Ti amo.
+la | tē amō /teː ˈa.moː/, [t̪eː ˈämoː] / ego amo te
+ms | Saya sayang awak. / Saya cintakan awak.
+sw | ninakupenda
+ur | مجھے تمسو محبت ہے‎ (mujhe tumse mohabbat hai)
+hi | मैं तुम से प्यार करता हूँ (ma͠i tum se pyār kartā hū̃) (male speaker, polite)
+fa | عاشقتم‎ ('âšeqetam), دوستت دارم‎ (dustat dâram) [ˈduːstʰæt ˈdɒːɾæm]
+pl | kocham cię /ˈkɔ.xam t͡ɕɛ/
+th | ผมรักคุณ (pǒm rák kun) (informal, male to female) /pʰom˩˩˦.rak̚˦˥.kʰun˧/, ฉันรักคุณ (chǎn rák kun) (informal, female to male) /t͡ɕʰan˩˩˦.rak̚˦˥.kʰun˧/, ฉันรักเธอ (chǎn rák təə) (generic, colloquial), รักนะ (informal)
+tr | seni seviyorum （你-宾格后缀 爱-现在时词尾-人称词尾）
+gan-khn | ？？？
+hsn-csx | ？？？
+cdo-foc | ？？？
+cjy-tyn | ？？？
+bfs | ？？？
+bo | ང་ཁྱེད་རང་ལ་དགའ་པོ་ཡོད་ nga 我 khyed rang 您 la (与格标记，亦用于喜欢等词) dga' po 高兴愉快的 yod 有存在 /ŋa˩˧ cʰeˀ˥˧ʐaŋ˩˦ la˩˨ ka˩˨po˥˧ jøː˩˧˨/ (nga kayrâng-la gawpo yö)
+nos | ？？？
+iii | ꉢꆎꉂ nga nex mgu /ŋa˧/ 我-你-爱 （你是 ꆏ 还是 ꆎ ？还不太懂）
+hni | ？？？
+twh | ？？？
+tdd | ？？？
+khb | ？？？
+za | gou gyaez mwngz 九其佲 /kou˨˦ kʲai˧˩ mɯŋ˧˩/ 我-爱-你
+hmn | ？？？
+km | (man to woman) បងស្រឡាញ់អូន (bɑɑng srɑlañ ʼoun) /ɓɑːŋ srɑ.ˈlaɲ ʔoun/, (woman to man) អូនស្រឡាញ់បង (ʼoun srɑlañ bɑɑng), ខ្ញុំ​ស្រលាញ់​អ្នក (khñom srɑlañ nĕək) (gender neutral)
+mn | ᠪᠢ ᠴᠢᠮ᠎ᠠ ᠳᠤ ᠬᠠᠶᠢᠷᠠᠲᠠᠢ (机转) би чамд хайртай (bi čamd xajrtaj) /pi t͡ʃʰamt χæːr.tʰæː/
+mnc | ？？？
+ug | ？？？
+rm | jau hai tai gument
+ca | t'estimo /təsˈti.mu/
+ro | te iubesc /tejuˈbesk/
+lb | ech hunn dech gär [eχ hun deχ ɡeːʀ]
+yi | איך ליבע דיך‎ (ikh libe dikh), איך האָב דיך ליב‎ (ikh hob dikh lib)
+af | ek het jou lief / ek is lief vir jou
+no | Bokmål: jeg elsker deg /jæɪ̯ ??? dæj/ / Nynorsk: eg elskar deg /ɛ̝ːɡ ??? deːɡ/
+da | jeg elsker dig [jɑ̈(j) ˈelsɡ̊ɐ ˈd̥ɑ̈(j)]
+is | ég elska þig [jɛɡ ɛlska θɪɣ]
+ga | tá grá agam dhuit (是-爱- at me - on you)
+gd | tha gràdh agam dhut (literally "Love is at me to you")
+cy | 'Rwy'n dy garu di
+uk | я тебе́ коха́ю (ja tebé koxáju) (intimate), я вас коха́ю (ja vas koxáju) (formal, plural), я тебе́ люблю́ (ja tebé ljubljú), я вас люблю́ (ja vas ljubljú)
+cs | ？？？
+bg | оби́чам те
+mk | те сакам (te sakam), те љубам (te ljubam) (less common)
+sa | त्वयि स्निह्यामि (tvayi snihyāmi)
+bn | আমি তোমাকে ভালোবাসি (ami tōmake bhalōbaśi)
+fi | minä rakastan sinua / rakastan sinua
+he | (male to female) אֲנִי אוֹהֵב אוֹתָךְ‎ (aní ohév otákh), (female to male) אֲנִי אוֹהֵבֵת אוֹתְךָ‎ (aní ohévet otkhá), (male to male) אֲנִי אוֹהֵב אוֹתְךָ‎ (aní ohév otkhá), (female to female) אֲנִי אוֹהֵבֵת אוֹתָךְ‎ (aní ohévet otákh)
+ta | நான் உன்னைக் காதலிக்கிறேன் (nāṉ uṉṉaik kātalikkiṟēṉ), நான் உன்னைக் காதலிக்கின்றேன் (nāṉ uṉṉaik kātalikkiṉṟēṉ)
+ceb | gihigugma ko ikaw
