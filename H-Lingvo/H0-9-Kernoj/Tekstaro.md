@@ -245,6 +245,19 @@ ko | - 中國(중국)이 작습니까? - 中國(중국)은 작지 않습니다.
 vi | - 中國𡮈空(Trung Quốc nhỏ không)? - 中國空𡮈(Trung Quốc không nhỏ).
 ru | - Китай маленький? - Китай не маленький.
 
+zh| 中国是一个美丽的国家，它拥有悠久的历史、灿烂的文化、繁荣的经济、便利的基建和先进的科技
+-|-
+en | China is a beautiful country with a long history, a splendid culture, a prosperous economy, convenient infrastructure, and advanced technology.
+ja | 中国は美しい国で、長い歴史、輝かしい文化、繁栄した経済、便利なインフラ、そして先進的な技術を持っています。
+de | China ist ein schönes Land mit einer langen Geschichte, einer glanzvollen Kultur, einer florierenden Wirtschaft, einer bequemen Infrastruktur und fortschrittlicher Technologie.
+eo | Ĉinio estas bela lando, kun longa historio, brila kulturo, prospera ekonomio, oportuna infrastrukturo kaj progresinta teknologio.
+ko | 중국은 아름다운 나라로, 긴 역사와 찬란한 문화, 번영하는 경제, 편리한 인프라, 그리고 첨단 기술을 보유하고 있습니다.
+vi | Trung Quốc là một quốc gia xinh đẹp, có lịch sử lâu đời, văn hóa rực rỡ, kinh tế thịnh vượng, hạ tầng tiện lợi và công nghệ tiên tiến.
+fr | La Chine est un beau pays avec une longue histoire, une culture éclatante, une économie prospère, des infrastructures pratiques et une technologie avancée.
+es | China es un país hermoso con una larga historia, una cultura brillante, una economía próspera, infraestructura conveniente y tecnología avanzada.
+ru | Китай — это красивая страна с долгой историей, яркой культурой, процветающей экономикой, удобной инфраструктурой и передовыми технологиями.
+ar | الصين دولة جميلة تتمتع بتاريخ طويل وثقافة رائعة واقتصاد مزدهر وبنية تحتية مريحة وتقنية متقدمة. (Al-Ṣīn dawlah jamīlah tatamattuʿ bi-tārīkh ṭawīl wa-thaqāfah rāʾiʿah wa-iqtiṣād muzdihr wa-bunyah taḥtiyyah murīḥah wa-taqniyah mutaqaddimah.)
+
 zh | - 你在这里做什么？ - 你是来这旅游的吗？
 -|-
 ja | - ここで何をしていますか？ - ここに旅行に来たのですか？
@@ -522,6 +535,32 @@ fr | Zéro, un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix
 es | Cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez
 ru | Ноль, один, два, три, четыре, пять, шесть, семь, восемь, девять, десять
 ar | صفر، واحد، اثنان، ثلاثة، أربعة، خمسة، ستة، سبعة، ثمانية، تسعة، عشرة   (Ṣifr, wāḥid, ʾithnān, thalāthah, ʾarbaʿah, khamsah, sittah, sabʿah, thamāniyah, tisʿah, ʿasharah)
+
+zh | 这个、那个和那个，加起来多少钱？10美元。真便宜。太贵了。
+-|-
+en | How much is this, that, and that combined? 10 dollars. That's really cheap. That's too expensive.
+ja | これとそれとあれを合わせるといくらですか？10ドルです。本当に安いです。高すぎます。
+de | Wie viel kosten dieses, jenes und das zusammen? 10 Dollar. Das ist wirklich billig. Das ist zu teuer.
+eo | Kiom kostas ĉi tiu, tiu kaj tiu entute? 10 dolaroj. Tio estas vere malmultekosta. Tio estas tro multekosta.
+ko | 이것, 그것, 그리고 저것을 합치면 얼마인가요? 10달러입니다. 정말 싸네요. 너무 비쌉니다.
+vi | Cái này, cái đó và cái kia cộng lại là bao nhiêu? 10 đô la. Thật rẻ. Quá đắt.
+fr | Combien coûtent ceci, cela et ça ensemble ? 10 dollars. C'est vraiment bon marché. C'est trop cher.
+es | ¿Cuánto cuestan este, ese y aquel en total? 10 dólares. Es realmente barato. Es demasiado caro.
+ru | Сколько стоят это, то и то вместе? 10 долларов. Это действительно дешево. Это слишком дорого.
+ar | كم سعر هذا وذلك وذلك معاً؟ 10 دولارات. إنه رخيص حقاً. إنه غالٍ جداً. (Kam siʿr hādhā wa dhālika wa dhālika maʿan? 10 dūlārāt. ʾInnahu rakhīṣun ḥaqqan. ʾInnahu ghālin jiddan.)
+
+zh | 可以扫码或者刷卡支付吗？不行，只能现金。我没有零钱了，可以找零吗？我没有现金，再见。
+-|-
+en | Can I pay by scanning the QR code or using a card? No, only cash is accepted. I don’t have any small change; can you give me change? I don’t have cash. Goodbye.
+ja | QRコードでの支払いかカード払いはできますか？いいえ、現金のみです。小銭がありませんが、お釣りをもらえますか？現金を持っていません。さようなら。
+de | Kann ich per QR-Code oder mit Karte bezahlen? Nein, nur Bargeld wird akzeptiert. Ich habe kein Kleingeld, können Sie wechseln? Ich habe kein Bargeld. Auf Wiedersehen.
+eo | Ĉu mi povas pagi per skanado de la QR-kodo aŭ per karto? Ne, nur kontanta mono estas akceptata. Mi ne havas monerojn, ĉu vi povas doni ŝanĝon? Mi ne havas kontantan monon. Ĝis revido.
+ko | QR코드로 결제하거나 카드로 결제할 수 있나요? 안 됩니다, 현금만 가능합니다. 잔돈이 없는데, 거스름돈을 받을 수 있나요? 현금이 없습니다. 안녕히 가세요.
+vi | Tôi có thể thanh toán bằng cách quét mã hoặc thẻ không? Không, chỉ chấp nhận tiền mặt. Tôi không có tiền lẻ, có thể đổi giúp tôi không? Tôi không có tiền mặt. Tạm biệt.
+fr | Puis-je payer en scannant le code QR ou avec une carte ? Non, seulement en espèces. Je n'ai pas de monnaie, pouvez-vous faire de la monnaie ? Je n'ai pas d'argent liquide. Au revoir.
+es | ¿Puedo pagar escaneando el código QR o con tarjeta? No, solo se acepta efectivo. No tengo cambio, ¿puede darme cambio? No tengo efectivo. Adiós.
+ru | Можно оплатить с помощью сканирования QR-кода или картой? Нет, принимается только наличные. У меня нет мелочи, можете дать сдачу? У меня нет наличных. До свидания.
+ar | هل يمكنني الدفع عن طريق مسح الرمز أو باستخدام البطاقة؟ لا، يتم قبول النقد فقط. ليس لدي فكة، هل يمكن أن تعطيني فكة؟ ليس لدي نقود. وداعاً. (Hal yumkinunī al-dafʿ ʿan ṭarīq masḥ al-ramz ʾaw b-istikhdām al-biṭāqah? Lā, yutamma qabūl al-naqd faqaṭ. Laysa ladayya fakah, hal yumkin ʾan tuʿṭīnī fakah? Laysa ladayya nuqūd. Wadāʿan.)
 
 # § 方向道路（介词、情态）
 
