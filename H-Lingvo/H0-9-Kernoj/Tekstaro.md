@@ -251,7 +251,7 @@ ru | - Как вас зовут? - Меня зовут Чжан Сан. - Гос
 
 # § 语言兴趣
 
-知识点：语序（主语宾语谓语，及其格）、连接（但是）
+知识点：语序（主语宾语谓语，及其格）、连接（但是）、定语从句、被动
 
 zh| （一句话展示对语言的兴趣）普通话我不会说，但我很感兴趣。
 -|-
@@ -280,6 +280,19 @@ pt | Eu não falo português, mas estou muito interessado.
 it | Non parlo italiano, ma sono molto interessato.
 la | Lingua Latina non scio, sed mihi maxime delectat.
 ms | Saya tidak boleh cakap Bahasa Melayu, tetapi saya sangat berminat.
+
+zh| （此部分用来展示定语从句，即用从句来修饰；但中文常改写为分句）我正在学习一种由扎门霍夫创造的语言，这种语言旨在促进国际理解。
+-|-
+en | I am learning a language that was created by Zamenhof, which aims to promote international understanding.
+ja | 私はザメンホフによって作られた言語を勉強していますが、その言語は国際的な理解を促進（そくしん）することを目的としています。
+de | Ich lerne eine Sprache, die von Zamenhof erschaffen wurde und die darauf abzielt, internationales Verständnis zu fördern.
+eo | Mi lernas lingvon, kiu estis kreita de Zamenhof kaj kiu celas antaŭenigi internacian komprenon.
+ko | 저는 자멘호프에 依(의)해 만들어진 言語(언어)를 배우고 있는데, 그 言語(언어)는 國際的(국제적)인 理解(이해)를 增進(증진)하는 것을 目標(목표)로 합니다. ※x에 依(의)해表示被动动词的施动者；만들어지다是만들다的被动态；것相当于こと
+vi | 碎當學𠬠言語特造𫥨𤳄Zamenhof，言語呢𥄮促𢱜事曉別國際(Tôi đang học một ngôn ngữ được tạo ra bởi Zamenhof, ngôn ngữ này nhằm thúc đẩy sự hiểu biết quốc tế.) ※được表示被动，bởi引出施动者，从句直接用动词短语而不需要关系代词。
+fr | J'apprends une langue qui a été créée par Zamenhof et qui vise à promouvoir la compréhension internationale.
+es | Estoy aprendiendo un idioma que fue creado por Zamenhof, el cual tiene como objetivo promover la comprensión internacional.
+ru | Я изучаю язык, который был создан Заменгофом и который направлен на содействие международному пониманию.
+ar | أنا أتعلم لغة أوجدها زامنهوف، والتي تهدف إلى تعزيز الفهم الدولي.  (ʾanā ʾataʿallamu lughatān ʾawjadahā Zāminhūf, wa-llatī tahdifu ʾilā taʿzīz al-fahm al-dawlī.) ※（关系代词是 التي  allatī，关系代词可被省略，如第一个从句）（我 学习 一个语言 它创造了 扎门霍夫，和它 目标是 为了 促进 理解 国际的）
 
 zh | 我爱你。
 -|-
@@ -355,3 +368,20 @@ fi | minä rakastan sinua / rakastan sinua
 he | (male to female) אֲנִי אוֹהֵב אוֹתָךְ‎ (aní ohév otákh), (female to male) אֲנִי אוֹהֵבֵת אוֹתְךָ‎ (aní ohévet otkhá), (male to male) אֲנִי אוֹהֵב אוֹתְךָ‎ (aní ohév otkhá), (female to female) אֲנִי אוֹהֵבֵת אוֹתָךְ‎ (aní ohévet otákh)
 ta | நான் உன்னைக் காதலிக்கிறேன் (nāṉ uṉṉaik kātalikkiṟēṉ), நான் உன்னைக் காதலிக்கின்றேன் (nāṉ uṉṉaik kātalikkiṉṟēṉ)
 ceb | gihigugma ko ikaw
+
+# § 时间与日期
+
+知识点：时间表达（包括时态、体貌）
+
+zh | 去年是1948年。今年是1949年。明年是1950年。
+-|-
+en | - Last year was 1948. This year is 1949. Next year will be 1950.
+ja | - 昨年（さくねん）は1948年でした。今年は1949年です。来年は1950年です。
+de | - Letztes Jahr war 1948. Dieses Jahr ist 1949. Nächstes Jahr wird 1950 sein.
+eo | - La pasinta jaro estis 1948. Ĉi tiu jaro estas 1949. La venonta jaro estos 1950.
+ko | - 작년은 1948년이었습니다. 올해는 1949년입니다. 내년은 1950년입니다.
+vi | - Năm ngoái là năm 1948. Năm nay là năm 1949. Năm sau là năm 1950.
+fr | - L'année dernière était 1948. Cette année est 1949. L'année prochaine sera 1950.
+es | - El año pasado fue 1948. Este año es 1949. El próximo año será 1950.
+ru | - Прошлый год был 1948. Этот год — 1949. Следующий год будет 1950.
+ar | - كان العام الماضي 1948. هذا العام هو 1949. العام القادم سيكون 1950.  (Kāna al-ʿām al-māḍī 1948. Hādhā al-ʿām huwa 1949. Al-ʿām al-qādim sayakūn 1950.)
