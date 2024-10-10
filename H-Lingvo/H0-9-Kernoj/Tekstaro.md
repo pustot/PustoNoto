@@ -1,3 +1,10 @@
+- [§ 语言/方言列表](#-语言方言列表)
+- [§ 文字与拼读提示](#-文字与拼读提示)
+- [§ 问候寒暄（你好、不会讲）](#-问候寒暄你好不会讲)
+- [§ 初见介绍（是不是、什么、属性）](#-初见介绍是不是什么属性)
+- [§ 语言兴趣（主宾、定语从句、被动）](#-语言兴趣主宾定语从句被动)
+- [§ 时间日期（时态、体貌）](#-时间日期时态体貌)
+- [§ 基本交易（数量、连词）](#-基本交易数量连词)
 
 网页版便于筛选具体语言 [https://studling.pustot.com/#/multi/tekstaro](https://studling.pustot.com/#/multi/tekstaro)
 
@@ -98,7 +105,7 @@ ru | 非重音位置的元音要弱化。
 ar | 元音音位有 a i u，分别有长短。a 在大多数辅音的环境中实现为 /æ/，包括唇辅音、舌冠音（非咽化的）、声门辅音、k、j、w；在靠后的环境发为 [ɑ] 如咽化辅音、小舌音、咽辅音。
 da | 拼读关系复杂，我还没学太懂。g：很多时候词中词尾的g不发音/软音。t：词尾常不发音，尤其是-et结尾。元音在各词各位置发音不唯一，如a可以发 /a/，/ɑː/，/æ/ 。还有一些字母组合有 stumm (无声的) 字母。还有stød现象，类似于声带紧闭音，会让某些音突然中断或变得短促。
 
-# § 问候寒暄
+# § 问候寒暄（你好、不会讲）
 
 知识点：基本短语、否定
 
@@ -197,7 +204,7 @@ it | - Parli italiano? - Non parlo italiano.
 la | - Loquere linguam Latinam? - Non loquor linguam Latinam.
 ms | - Bolehkah anda bercakap Bahasa Melayu? - Saya tidak bercakap Bahasa Melayu.
 
-# § 初见介绍
+# § 初见介绍（是不是、什么、属性）
 
 知识点：是非问句、答是答否、特殊问句、谓语动词初见（「来自」「做」第一人称现在）、是（系动词表判定）、谓语表描述（是xx的）
 
@@ -249,7 +256,7 @@ ko | - 이름이 무엇입니까? - 제 이름은 張三(장삼)입니다. - 張
 vi | - 伴𠸜羅之(Bạn tên là gì)? - 碎𠸜羅張三(Tôi tên là Trương Tam). - 翁張三，慄欣幸得﨤(Ông Trương Tam, rất hân hạnh được gặp.)
 ru | - Как вас зовут? - Меня зовут Чжан Сан. - Господин Чжан Сан, приятно познакомиться.
 
-# § 语言兴趣
+# § 语言兴趣（主宾、定语从句、被动）
 
 知识点：语序（主语宾语谓语，及其格）、连接（但是）、定语从句、被动
 
@@ -369,7 +376,7 @@ he | (male to female) אֲנִי אוֹהֵב אוֹתָךְ‎ (aní ohév otá
 ta | நான் உன்னைக் காதலிக்கிறேன் (nāṉ uṉṉaik kātalikkiṟēṉ), நான் உன்னைக் காதலிக்கின்றேன் (nāṉ uṉṉaik kātalikkiṉṟēṉ)
 ceb | gihigugma ko ikaw
 
-# § 时间与日期
+# § 时间日期（时态、体貌）
 
 知识点：时间表达（包括时态、体貌）
 
@@ -385,3 +392,57 @@ fr | - L'année dernière était 1948. Cette année est 1949. L'année prochaine
 es | - El año pasado fue 1948. Este año es 1949. El próximo año será 1950.
 ru | - Прошлый год был 1948. Этот год — 1949. Следующий год будет 1950.
 ar | - كان العام الماضي 1948. هذا العام هو 1949. العام القادم سيكون 1950.  (Kāna al-ʿām al-māḍī 1948. Hādhā al-ʿām huwa 1949. Al-ʿām al-qādim sayakūn 1950.)
+
+zh | 你在中国待了多少年？你要在中国待几年？
+-|-
+en | How many years have you stayed in China? How many years will you stay in China?
+ja | 中国に何年いましたか？中国に何年滞在する予定ですか？
+de | Wie viele Jahre hast du in China verbracht? Wie viele Jahre wirst du in China bleiben?
+eo | Kiom da jaroj vi restis en Ĉinio? Kiom da jaroj vi restos en Ĉinio?
+ko | 중국에서 몇 년 동안 지내셨습니까? 중국에서 몇 년 동안 머물 계획입니까?
+vi | Bạn đã ở Trung Quốc bao nhiêu năm? Bạn sẽ ở Trung Quốc mấy năm?
+fr | Combien d'années avez-vous passé en Chine ? Combien d'années allez-vous rester en Chine ?
+es | ¿Cuántos años has estado en China? ¿Cuántos años vas a quedarte en China?
+ru | Сколько лет вы пробыли в Китае? Сколько лет вы собираетесь оставаться в Китае?
+ar | كم سنة قضيت في الصين؟ كم سنة ستبقى في الصين؟ (Kam sanah qaḍayta fī al-Ṣīn? Kam sanah satabqā fī al-Ṣīn?)
+
+# § 基本交易（数量、连词）
+
+zh | 我想要一个面包、两个苹果和一杯牛奶。
+-|-
+en | I would like a loaf of bread, two apples, and a glass of milk.
+ja | パンを1つとりんごを2つ、それから牛乳を1杯ください。
+de | Ich möchte ein Brot, zwei Äpfel und ein Glas Milch.
+eo | Mi volas panon, du pomojn, kaj tason da lakto.
+ko | 빵 하나와 사과 두 개, 그리고 우유 한 잔을 원합니다.
+vi | Tôi muốn một ổ bánh mì, hai quả táo và một ly sữa.
+fr | Je voudrais un pain, deux pommes et un verre de lait.
+es | Quiero un pan, dos manzanas y un vaso de leche.
+ru | Я хочу буханку хлеба, два яблока и стакан молока.
+ar | أريد خبزًا، وتفاحتين، وكوبًا من الحليب. (ʾurīdu khubzan, wa tuffāḥatayn, wa kūban min al-ḥalīb.)
+
+zh | 一个苹果多少钱？
+-|-
+en | How much is an apple?
+ja | りんご1つはいくらですか？
+de | Wie viel kostet ein Apfel?
+eo | Kiom kostas pomo?
+ko | 사과 하나는 얼마입니까?
+vi | Một quả táo giá bao nhiêu?
+fr | Combien coûte une pomme?
+es | ¿Cuánto cuesta una manzana?
+ru | Сколько стоит одно яблоко?
+ar | كم سعر تفاحة واحدة؟ (Kam siʿr tuffāḥah wāḥidah?)
+
+zh | 零、一、二、三、四、五、六、七、八、九、十
+-|-
+en | Zero, one, two, three, four, five, six, seven, eight, nine, ten
+ja | 零 (れい/ゼロ)、一 (いち)、二 (に)、三 (さん)、四 (し/よん)、五 (ご)、六 (ろく)、七 (しち/なな)、八 (はち)、九 (きゅう/く)、十 (じゅう) ※接部分量词时改用本土词汇
+de | Null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn  
+eo | Nulo, unu, du, tri, kvar, kvin, ses, sep, ok, naŭ, dek
+ko | 영 (零)、일 (一)、이 (二)、삼 (三)、사 (四)、오 (五)、육 (六)、칠 (七)、팔 (八)、구 (九)、십 (十) ※接部分量词时改用本土词汇
+vi | Không, một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười
+fr | Zéro, un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix
+es | Cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez
+ru | Ноль, один, два, три, четыре, пять, шесть, семь, восемь, девять, десять
+ar | صفر، واحد، اثنان، ثلاثة، أربعة، خمسة، ستة، سبعة، ثمانية، تسعة، عشرة   (Ṣifr, wāḥid, ʾithnān, thalāthah, ʾarbaʿah, khamsah, sittah, sabʿah, thamāniyah, tisʿah, ʿasharah)
