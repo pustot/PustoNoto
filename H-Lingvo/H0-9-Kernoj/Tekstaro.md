@@ -215,19 +215,109 @@ ms | - Bolehkah anda bercakap Bahasa Melayu? - Saya tidak bercakap Bahasa Melayu
 
 zh | - 你是中国人吗？ - 对，我是中国人。 - 不是，我不是中国人。
 -|-
+yue-can | - 你係唔係中國人？ - 係，我係中國人。 - 唔係，我唔係中國人。
+en | - Are you Chinese? - Yes, I am Chinese. - No, I am not Chinese.
 ja | - あなたは中国人ですか？ - はい、私は中国人です。 - いいえ、私は中国人ではありません。
+de | - Bist du Chinese? - Ja, ich bin Chinese. - Nein, ich bin kein Chinese.
 eo | - Ĉu vi estas ĉino? - Jes, mi estas ĉino. - Ne, mi ne estas ĉino.
 ko | - 當身(당신)은 中國人(중국인)입니까? - 네, 저는 中國人(중국인)입니다. - 아니요, 저는 中國人(중국인)이 아닙니다.
 vi | - 伴羅𠊛中國沛空(Bạn là người Trung Quốc phải không)? - 𠳐(Vâng), 碎羅𠊛中國(tôi là người Trung Quốc). - 空(Không), 碎空沛羅𠊛中國(tôi không phải là người Trung Quốc). ※沛phải意为「对」correct
+fr | - Êtes-vous chinois ? - Oui, je suis chinois. - Non, je ne suis pas chinois.
+es | - ¿Eres chino? - Sí, soy chino. - No, no soy chino.
 ru | - Вы кита́ец? - Да, я кита́ец. - Нет, я не кита́ец.
+ar | - هل أنت صيني؟ - نعم، أنا صيني. - لا، لست صينياً. (- Hal ʾanta ṣīnī? 是否 你-男性 中国人-男性 - Naʿam, ʾanā ṣīnī. 是的 我 中国人-男性 - Lā, lastu ṣīniyyan. 不 不是-第一人称 中国人-宾格)
+nl | - Ben je Chinees? - Ja, ik ben Chinees. - Nee, ik ben geen Chinees.
+sv | - Är du kines? - Ja, jag är kines. - Nej, jag är inte kines.
+pt | - Você é chinês? - Sim, eu sou chinês. - Não, eu não sou chinês.
+it | - Sei cinese? - Sì, sono cinese. - No, non sono cinese.
+la | - Esne Sinensis? - Ita, Sinensis sum. - Minime, non sum Sinensis.
+ms | - Adakah anda orang Cina? - Ya, saya orang Cina. - Tidak, saya bukan orang Cina.
+sw | - Je, wewe ni Mchina? - Ndio, mimi ni Mchina. - Hapana, mimi si Mchina.
+ur | - کیا آپ چینی ہیں؟ - جی ہاں، میں چینی ہوں۔ - نہیں، میں چینی نہیں ہوں۔   (- Kya āp chīnī hain? - Jī hān, main chīnī hoon. - Nahin, main chīnī nahin hoon.)
+hi | - क्या आप चीनी हैं? - हां, मैं चीनी हूँ। - नहीं, मैं चीनी नहीं हूँ।   (- Kya āp chīnī hain? - Hān, main chīnī hoon. - Nahin, main chīnī nahin hoon.)
+fa | - آیا شما چینی هستید؟ - بله، من چینی هستم. - نه، من چینی نیستم.   (- Āyā shomā chīnī hastīd? - Bale, man chīnī hastam. - Na, man chīnī nīstam.)
+pl | - Czy jesteś Chińczykiem? - Tak, jestem Chińczykiem. - Nie, nie jestem Chińczykiem.
+th | - คุณเป็นคนจีนหรือเปล่า? - ใช่, ฉันเป็นคนจีน. - ไม่, ฉันไม่ใช่คนจีน.   (- Khun pen khon jeen rue plao? - Chai, chan pen khon jeen. - Mai, chan mai chai khon jeen.)
+tr | - Çinli misiniz? - Evet, ben Çinliyim. - Hayır, ben Çinli değilim.
+my | - မင်းက တရုတ်လူမျိုးလား။ - ဟုတ်ကဲ့၊ ငါ တရုတ်လူမျိုးပါ။ - မဟုတ်ဘူး၊ ငါ တရုတ်လူမျိုး မဟုတ်ဘူး။   (- Min ka ta-yote lu-myo la? - Hokke, nga ta-yote lu-myo pa. - Ma-hok bu, nga ta-yote lu-myo ma-hok bu.)
+za | - Miz diuj dou yie? - Diep, ngo yie dou. - Bou diep, ngo mbou yie dou.
+lo | - ເຈົ້າເປັນຄົນຈີນບໍ? - ແມ່ນ, ຂ້ອຍເປັນຄົນຈີນ. - ບໍ່ແມ່ນ, ຂ້ອຍບໍ່ແມ່ນຄົນຈີນ.   (- Chao pen khon Chin bo? - Mæn, khoi pen khon Chin. - Bo mæn, khoi bo mæn khon Chin.)
+km | - តើអ្នកជាជនជាតិចិនមែនទេ? - បាទ/ចាស, ខ្ញុំជាជនជាតិចិន។ - ទេ, ខ្ញុំមិនមែនជាជនជាតិចិនទេ។   (- Tae neak chea chon cheat Chen men te? - Bat/cha, khnhom chea chon cheat Chen. - Te, khnhom min men chea chon cheat Chen te.) ※（“បាទ”用于男性，“ចាស”用于女性）
+rm | - Es ti in Chinais? - Gea, jau sun in Chinais. - Na, jau sun betg in Chinais.
+ca | - Ets xinès? - Sí, sóc xinès. - No, no sóc xinès.
+ro | - Ești chinez? - Da, sunt chinez. - Nu, nu sunt chinez.
+lb | - Bass du e Chines? - Jo, ech sinn e Chines. - Nee, ech sinn keen Chines.
+yi | - ביסטו אַ כינעזער? - יאָ, איך בין אַ כינעזער. - ניין, איך בין נישט אַ כינעזער.   (- Bistu a Khinez? - Yo, ikh bin a Khinez. - Nayn, ikh bin nisht a Khinez.)
+af | - Is jy 'n Sjinees? - Ja, ek is 'n Sjinees. - Nee, ek is nie 'n Sjinees nie.
+no | - Er du kineser? - Ja, jeg er kineser. - Nei, jeg er ikke kineser.
+da | - Er du kineser? - Ja, jeg er kineser. - Nej, jeg er ikke kineser.
+is | - Ert þú kínverji? - Já, ég er kínverji. - Nei, ég er ekki kínverji.
+ga | - An Sínisach tú? - Is ea, is Sínisach mé. - Ní hea, ní Sínisach mé.
+gd | - An Sìonach a th’ annad? - Tha, is Sìonach a th’ annam. - Chan eil, chan e Sìonach a th’ annam.
+cy | - Ydych chi’n Tsieineaidd? - Ydw, dw i’n Tsieineaidd. - Nac ydw, dw i ddim yn Tsieineaidd.
+uk | - Ви китаєць? - Так, я китаєць. - Ні, я не китаєць.
+cs | - Jste Číňan? - Ano, jsem Číňan. - Ne, nejsem Číňan.
+bg | - Вие китаец ли сте? - Да, аз съм китаец. - Не, аз не съм китаец.
+mk | - Дали си Кинез? - Да, јас сум Кинез. - Не, јас не сум Кинез.
+sa | - भवान् चीनदेशीयः किम्? - आम्, अहं चीनदेशीयः। - न, अहं न चीनदेशीयः।   (- Bhavān Chīnadeśīyaḥ kim? - Ām, ahaṁ Chīnadeśīyaḥ. - Na, ahaṁ na Chīnadeśīyaḥ.)
+bn | - আপনি কি চীনা? - হ্যাঁ, আমি চীনা। - না, আমি চীনা নই।   (- Āpni ki Chīnā? - Hyā, āmi Chīnā. - Nā, āmi Chīnā noi.)
+fi | - Oletko kiinalainen? - Kyllä, olen kiinalainen. - Ei, en ole kiinalainen.
+he | - האם אתה סיני? - כן, אני סיני. - לא, אני לא סיני.   (- Ha'im ata Sini? - Ken, ani Sini. - Lo, ani lo Sini.)
+ta | - நீங்கள் சீனரா? - ஆம், நான் சீனன். - இல்லை, நான் சீனன் அல்ல.   (- Nīṅkaḷ cīṉarā? - Ām, nāṉ cīṉaṉ. - Illai, nāṉ cīṉaṉ alla.)
+ceb | - Tsino ka ba? - Oo, Tsino ako. - Dili, dili ko Tsino.
 
 zh | - 你来自哪里？ - 我来自中国北京。
 -|-
+yue-can | - 你喺邊度嚟㗎？ - 我喺中國北京嚟嘅。
+en | - Where are you from? - I am from Beijing, China.
 ja | - どこから来ましたか？ - 私は中国の北京から来ました。
+de | - Woher kommst du? - Ich komme aus Peking, China.
 eo | - De kie vi venas? - Mi venas el Pekino, Ĉinio.
 ko | - 어디에서 왔습니까? - 저는 中國(중국) 北京(북경)에서 왔습니다.
 vi | - 伴𦤾自兜(Bạn đến từ đâu)? - 碎𦤾自北京，中國(Tôi đến từ Bắc Kinh, Trung Quốc).
-ru | - Откуда вы приехали? - Я приехал из Пекина, Китай.
+fr | - D'où venez-vous ? - Je viens de Pékin, en Chine.
+es | - ¿De dónde eres? - Soy de Pekín, China.
+ru | - Отку́да вы прие́хали? - Я прие́хал из Пеки́на, Кита́й.
+ar | - من أين أنت؟ - أنا من بكين، الصين. (- Min ʾayna ʾanta? 从 哪里 你-男性 - ʾAnā min Bākīn, al-Ṣīn. 我 从 北京 中国)
+nl | - Waar kom je vandaan? - Ik kom uit Peking, China.
+sv | - Var kommer du ifrån? - Jag kommer från Peking, Kina.
+pt | - De onde você é? - Eu sou de Pequim, China.
+it | - Da dove vieni? - Vengo da Pechino, Cina.
+la | - Unde venis? - Ex Pechino, Sina venio.
+ms | - Dari mana asal anda? - Saya dari Beijing, China.
+sw | - Unatoka wapi? - Ninatoka Beijing, China.
+ur | - آپ کہاں سے ہیں؟ - میں چین کے بیجنگ سے ہوں۔   (- Āp kahān se hain? - Main chīn ke Bējing se hoon.)
+hi | - आप कहाँ से हैं? - मैं चीन के बीजिंग से हूँ।   (- Āp kahān se hain? - Main chīn ke Bījing se hoon.)
+fa | - از کجا هستید؟ - من از پکن، چین هستم.   (- Az kojā hastīd? - Man az Pekan, Chīn hastam.)
+pl | - Skąd pochodzisz? - Pochodzę z Pekinu, Chiny.
+th | - คุณมาจากไหน? - ฉันมาจากปักกิ่ง, จีน.   (- Khun ma jak nai? - Chan ma jak Pakkhing, Jeen.)
+tr | - Nerelisiniz? - Ben Pekin, Çin'denim.
+my | - မင်းဘယ်မှာနေထိုင်တာလဲ။ - ငါ တရုတ်နိုင်ငံ၊ ပီကင်းကနေ လာတယ်။   (- Min beh hma ne-htine ta-le? - Nga ta-yote nai-ngan, Beijing ka-ne la-de.)
+za | - Banh daenz ngai? - Ngo raeuz Baekjing.
+lo | - ເຈົ້າມາຈາກໃສ? - ຂ້ອຍມາຈາກ ປັກກິ່ງ, ຈີນ.   (- Chao ma chak sai? - Khoi ma chak Pakking, Chin.)
+km | - អ្នកមកពីណា? - ខ្ញុំមកពីទីក្រុងប៉េកាំង ប្រទេសចិន។   (- Neak mok pi na? - Khnhom mok pi ti krong Pakang, proteh Chen.)
+rm | - Danunder es ti? - Jau vegn da Beijing, China.
+ca | - D’on ets? - Sóc de Pequín, Xina.
+ro | - De unde ești? - Sunt din Beijing, China.
+lb | - Vu wou kënns du? - Ech kommen aus Peking, China.
+yi | - פון וואו קומסטו? - איך קומען פֿון פּעקינג, כינע.   (- Fun vu kumstu? - Ikh kumen fun Peking, Khine.)
+af | - Waar kom jy vandaan? - Ek kom van Beijing, China.
+no | - Hvor kommer du fra? - Jeg kommer fra Beijing, Kina.
+da | - Hvor kommer du fra? - Jeg kommer fra Beijing, Kina.
+is | - Hvaðan kemur þú? - Ég kem frá Peking, Kína.
+ga | - Cá as duit? - Is as Béal Feirste mé, an tSín.
+gd | - Cò às a tha thu? - Tha mi à Peacainn, Sìona.
+cy | - O ble dych chi’n dod? - Dw i’n dod o Beijing, Tsieina.
+uk | - Звідки ви? - Я з Пекіна, Китай.
+cs | - Odkud jste? - Jsem z Pekingu, Čína.
+bg | - Откъде сте? - Аз съм от Пекин, Китай.
+mk | - Од каде си? - Јас сум од Пекинг, Кина.
+sa | - कस्मिन् स्थलेभ्यः आगच्छसि? - अहं बीजिङ्गतः आगच्छामि।   (- Kasmin sthalebhyaḥ āgacchasi? - Ahaṁ Bījingataḥ āgacchāmi.)
+bn | - আপনি কোথা থেকে এসেছেন? - আমি চীনের বেইজিং থেকে এসেছি।   (- Āpni kothā thēkē ēsēchēn? - Āmi Chīner Bēijing thēkē ēsēchi.)
+fi | - Mistä olet kotoisin? - Olen kotoisin Pekingistä, Kiinasta.
+he | - מאיפה אתה? - אני מבייג’ין, סין.   (- Me'eifo ata? - Ani mi-Beijing, Sin.)
+ta | - நீங்கள் எங்கிருந்து வந்தீர்கள்? - நான் சீனாவின் பீஜிங் நகரில் இருந்து வந்தேன்.   (- Nīṅkaḷ eṅkiruntu vantīrkaḷ? - Nāṉ cīṉāviṉ Bījing nakaril iruntu vantēṉ.)
+ceb | - Asa ka gikan? - Gikan ko sa Beijing, Tsina.
 
 zh | - 中国大吗？ - 中国很大。
 -|-
@@ -503,8 +593,8 @@ en | I would like a loaf of bread, two apples, and a glass of milk.
 ja | パンを1つとりんごを2つ、それから牛乳を1杯ください。
 de | Ich möchte ein Brot, zwei Äpfel und ein Glas Milch.
 eo | Mi volas panon, du pomojn, kaj tason da lakto.
-ko | 빵 하나와 사과 두 개, 그리고 우유 한 잔을 원합니다.
-vi | Tôi muốn một ổ bánh mì, hai quả táo và một ly sữa.
+ko | 빵 하나와 沙果(사과) 두 個(개), 그리고 牛乳(우유) 한 盞(잔)을 願(원)합니다.
+vi | 碎㦖𠬠隖餅麵(Tôi muốn một ổ bánh mì), 𠄩果棗吧𠬠璃𣷱(hai quả táo và một ly sữa).
 fr | Je voudrais un pain, deux pommes et un verre de lait.
 es | Quiero un pan, dos manzanas y un vaso de leche.
 ru | Я хочу буханку хлеба, два яблока и стакан молока.
@@ -516,8 +606,8 @@ en | How much is an apple?
 ja | りんご1つはいくらですか？
 de | Wie viel kostet ein Apfel?
 eo | Kiom kostas pomo?
-ko | 사과 하나는 얼마입니까?
-vi | Một quả táo giá bao nhiêu?
+ko | 沙果(사과) 하나는 얼마입니까?
+vi | 𠬠果棗價包饒(Một quả táo giá bao nhiêu)?   ※包饒bao nhiêu=bao(“how”) + nhiều(“many; much”)，饒为其之异汉越音
 fr | Combien coûte une pomme?
 es | ¿Cuánto cuesta una manzana?
 ru | Сколько стоит одно яблоко?
