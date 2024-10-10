@@ -1,10 +1,15 @@
+（目前网站使用HashRouter导致页内定位anchor失效，此目录暂不可用）
+
 - [§ 语言/方言列表](#-语言方言列表)
 - [§ 文字与拼读提示](#-文字与拼读提示)
-- [§ 问候寒暄（你好、不会讲）](#-问候寒暄你好不会讲)
-- [§ 初见介绍（是不是、什么、属性）](#-初见介绍是不是什么属性)
-- [§ 语言兴趣（主宾、定语从句、被动）](#-语言兴趣主宾定语从句被动)
+- [§ 问候寒暄（你好、不懂）](#-问候寒暄你好不懂)
+- [§ 初见介绍（疑问、属性）](#-初见介绍疑问属性)
+- [§ 语言兴趣（主宾、定从）](#-语言兴趣主宾定从)
+- [§ 亲友家庭（代词、存在）](#-亲友家庭代词存在)
 - [§ 时间日期（时态、体貌）](#-时间日期时态体貌)
 - [§ 基本交易（数量、连词）](#-基本交易数量连词)
+- [§ 方向道路（介词、情态）](#-方向道路介词情态)
+- [§ 天气公告（引用、条件）](#-天气公告引用条件)
 
 网页版便于筛选具体语言 [https://studling.pustot.com/#/multi/tekstaro](https://studling.pustot.com/#/multi/tekstaro)
 
@@ -105,7 +110,7 @@ ru | 非重音位置的元音要弱化。
 ar | 元音音位有 a i u，分别有长短。a 在大多数辅音的环境中实现为 /æ/，包括唇辅音、舌冠音（非咽化的）、声门辅音、k、j、w；在靠后的环境发为 [ɑ] 如咽化辅音、小舌音、咽辅音。
 da | 拼读关系复杂，我还没学太懂。g：很多时候词中词尾的g不发音/软音。t：词尾常不发音，尤其是-et结尾。元音在各词各位置发音不唯一，如a可以发 /a/，/ɑː/，/æ/ 。还有一些字母组合有 stumm (无声的) 字母。还有stød现象，类似于声带紧闭音，会让某些音突然中断或变得短促。
 
-# § 问候寒暄（你好、不会讲）
+# § 问候寒暄（你好、不懂）
 
 知识点：基本短语、否定
 
@@ -204,7 +209,7 @@ it | - Parli italiano? - Non parlo italiano.
 la | - Loquere linguam Latinam? - Non loquor linguam Latinam.
 ms | - Bolehkah anda bercakap Bahasa Melayu? - Saya tidak bercakap Bahasa Melayu.
 
-# § 初见介绍（是不是、什么、属性）
+# § 初见介绍（疑问、属性）
 
 知识点：是非问句、答是答否、特殊问句、谓语动词初见（「来自」「做」第一人称现在）、是（系动词表判定）、谓语表描述（是xx的）
 
@@ -256,9 +261,9 @@ ko | - 이름이 무엇입니까? - 제 이름은 張三(장삼)입니다. - 張
 vi | - 伴𠸜羅之(Bạn tên là gì)? - 碎𠸜羅張三(Tôi tên là Trương Tam). - 翁張三，慄欣幸得﨤(Ông Trương Tam, rất hân hạnh được gặp.)
 ru | - Как вас зовут? - Меня зовут Чжан Сан. - Господин Чжан Сан, приятно познакомиться.
 
-# § 语言兴趣（主宾、定语从句、被动）
+# § 语言兴趣（主宾、定从）
 
-知识点：语序（主语宾语谓语，及其格）、连接（但是）、定语从句、被动
+知识点：语序（主语宾语谓语，及其格）、连接（但是）、喜欢动词+动作宾语（不定式）、定语从句、被动
 
 zh| （一句话展示对语言的兴趣）普通话我不会说，但我很感兴趣。
 -|-
@@ -288,6 +293,19 @@ it | Non parlo italiano, ma sono molto interessato.
 la | Lingua Latina non scio, sed mihi maxime delectat.
 ms | Saya tidak boleh cakap Bahasa Melayu, tetapi saya sangat berminat.
 
+zh| 我喜欢学习和研究语言。
+-|-
+en | I like studying and researching languages.
+ja | 私は言語の学習と研究が好きです。
+de | Ich mag es, Sprachen zu lernen und zu erforschen.
+eo | Mi ŝatas lerni kaj esplori lingvojn.
+ko | 저는 언어를 공부하고 연구하는 것을 좋아합니다.
+vi | Tôi thích học và nghiên cứu ngôn ngữ.
+fr | J'aime étudier et rechercher les langues.
+es | Me gusta estudiar e investigar los idiomas.
+ru | Я люблю изучать и исследовать языки.
+ar | أحب دراسة اللغات وبحثها. (ʾuḥibbu dirāsat al-lughāt wa-baḥthuhā.)
+
 zh| （此部分用来展示定语从句，即用从句来修饰；但中文常改写为分句）我正在学习一种由扎门霍夫创造的语言，这种语言旨在促进国际理解。
 -|-
 en | I am learning a language that was created by Zamenhof, which aims to promote international understanding.
@@ -300,6 +318,49 @@ fr | J'apprends une langue qui a été créée par Zamenhof et qui vise à promo
 es | Estoy aprendiendo un idioma que fue creado por Zamenhof, el cual tiene como objetivo promover la comprensión internacional.
 ru | Я изучаю язык, который был создан Заменгофом и который направлен на содействие международному пониманию.
 ar | أنا أتعلم لغة أوجدها زامنهوف، والتي تهدف إلى تعزيز الفهم الدولي.  (ʾanā ʾataʿallamu lughatān ʾawjadahā Zāminhūf, wa-llatī tahdifu ʾilā taʿzīz al-fahm al-dawlī.) ※（关系代词是 التي  allatī，关系代词可被省略，如第一个从句）（我 学习 一个语言 它创造了 扎门霍夫，和它 目标是 为了 促进 理解 国际的）
+
+# § 亲友家庭（代词、存在）
+
+知识点：代词、存在
+
+zh | 你是我的好朋友。我们是好朋友。
+-|-
+en | You are my good friend. We are good friends.
+ja | あなたは私の親友です。私たちは親友です。
+de | Du bist mein guter Freund. Wir sind gute Freunde.
+eo | Vi estas mia bona amiko. Ni estas bonaj amikoj.
+ko | 너는 나의 좋은 친구이다. 우리는 좋은 친구이다.
+vi | Bạn là người bạn tốt của tôi. Chúng ta là bạn tốt.
+fr | Tu es mon bon ami. Nous sommes de bons amis.
+es | Eres mi buen amigo. Somos buenos amigos.
+ru | Ты мой хороший друг. Мы хорошие друзья.
+ar | أنت صديقي الجيد. نحن أصدقاء جيدون. ('Anta ṣadīqī al-jayyid. Naḥnu ʾaṣdiqāʾ jayidūn.)
+
+zh | 我是你爸爸。你是我儿子。妳是我女儿。他也是我儿子。她也是我女儿。牠是我的宠物。它是我的剑。俺们是老年人。你们是年轻人。咱们是一家人。他们是外国人。
+-|-
+en | I am your father. You are my son. You (female) are my daughter. He is also my son. She is also my daughter. It (animal) is my pet. It (object) is my sword. We are elderly people. You are young people. We are a family. They are foreigners.
+ja | 私はあなたのお父さんです。あなたは私の息子です。あなた（女性）は私の娘です。彼も私の息子です。彼女も私の娘です。それ（動物）は私のペットです。それ（物）は私の剣です。私たちは高齢者です。あなたたちは若者です。私たちは家族です。彼らは外国人です。
+de | Ich bin dein Vater. Du bist mein Sohn. Du (weiblich) bist meine Tochter. Er ist auch mein Sohn. Sie ist auch meine Tochter. Es (Tier) ist mein Haustier. Es (Objekt) ist mein Schwert. Wir sind alte Leute. Ihr seid junge Leute. Wir sind eine Familie. Sie sind Ausländer.
+eo | Mi estas via patro. Vi estas mia filo. Vi (ina) estas mia filino. Li estas ankaŭ mia filo. Ŝi estas ankaŭ mia filino. Ĝi (besteto) estas mia dorlotbesto. Ĝi (objekto) estas mia glavo. Ni estas maljunuloj. Vi estas junuloj. Ni estas unu familio. Ili estas eksterlandanoj.
+ko | 나는 너의 아버지이다. 너는 내 아들이다. 너(여자)는 내 딸이다. 그는 내 아들이기도 하다. 그녀는 내 딸이기도 하다. 그것(동물)은 내 애완동물이다. 그것(물건)은 내 칼이다. 우리는 노인이다. 너희는 젊은이다. 우리는 한 가족이다. 그들은 외국인이다.
+vi | Tôi là cha của bạn. Bạn là con trai của tôi. Bạn (nữ) là con gái của tôi. Anh ấy cũng là con trai của tôi. Cô ấy cũng là con gái của tôi. Nó (con vật) là thú cưng của tôi. Nó (vật thể) là thanh kiếm của tôi. Chúng tôi là người già. Các bạn là người trẻ. Chúng ta là một gia đình. Họ là người nước ngoài.
+fr | Je suis ton père. Tu es mon fils. Tu (femelle) es ma fille. Il est aussi mon fils. Elle est aussi ma fille. Il (animal) est mon animal de compagnie. Il (objet) est mon épée. Nous sommes des personnes âgées. Vous êtes des jeunes. Nous sommes une famille. Ils sont des étrangers.
+es | Yo soy tu padre. Tú eres mi hijo. Tú (mujer) eres mi hija. Él también es mi hijo. Ella también es mi hija. Es (animal) es mi mascota. Es (objeto) es mi espada. Nosotros somos personas mayores. Ustedes son jóvenes. Nosotros somos una familia. Ellos son extranjeros.
+ru | Я твой отец. Ты мой сын. Ты (женщина) моя дочь. Он тоже мой сын. Она тоже моя дочь. Оно (животное) — моё домашнее животное. Оно (предмет) — мой меч. Мы старики. Вы молодые люди. Мы одна семья. Они иностранцы.
+ar | أنا أبوك. أنت ابني. أنتِ ابنتي. هو أيضًا ابني. هي أيضًا ابنتي. هو (حيوان) حيواني الأليف. هو (شيء) سيفي. نحن كبار السن. أنتم الشباب. نحن عائلة واحدة. هم أجانب. (ʾanā ʾabūk. ʾanta ʾibnī. ʾanti ʾibnatī. huwa ʾayḍan ʾibnī. hiya ʾayḍan ʾibnatī. huwa (ḥayawān) ḥaywānī al-ʾalīf. huwa (shayʾ) sayfī. naḥnu kibār al-sinn. ʾantum al-shabāb. naḥnu ʿāʾilah wāḥidah. hum ʾajānb.)
+
+zh | 我家里有三口人。屋里现在只有一个人。
+-|-
+en | There are three people in my family. There is only one person in the room right now.
+ja | 私の家族は3人です。部屋には今、一人しかいません。
+de | In meiner Familie gibt es drei Personen. Im Zimmer ist jetzt nur eine Person.
+eo | En mia familio estas tri homoj. En la ĉambro estas nur unu persono nun.
+ko | 우리 가족은 세 명입니다. 방 안에 지금 한 사람만 있습니다.
+vi | Gia đình tôi có ba người. Bây giờ trong phòng chỉ có một người.
+fr | Il y a trois personnes dans ma famille. Il n'y a qu'une seule personne dans la pièce en ce moment.
+es | En mi familia hay tres personas. En la habitación solo hay una persona ahora.
+ru | В моей семье три человека. В комнате сейчас только один человек.
+ar | في عائلتي ثلاثة أشخاص. (Fī ʿāʾilatī thalāthat ʾashkhāṣ.) في الغرفة يوجد شخص واحد فقط الآن. (Fī al-ghurfah yūjad shakhs wāḥid faqaṭ al-ʾān.)
 
 zh | 我爱你。
 -|-
@@ -393,6 +454,19 @@ es | - El año pasado fue 1948. Este año es 1949. El próximo año será 1950.
 ru | - Прошлый год был 1948. Этот год — 1949. Следующий год будет 1950.
 ar | - كان العام الماضي 1948. هذا العام هو 1949. العام القادم سيكون 1950.  (Kāna al-ʿām al-māḍī 1948. Hādhā al-ʿām huwa 1949. Al-ʿām al-qādim sayakūn 1950.)
 
+zh | 昨天我喝了牛奶。现在我正在喝酒。明天我要喝茶。
+-|-
+en | Yesterday I drank milk. Now I am drinking alcohol. Tomorrow I will drink tea.
+ja | 昨日、私は牛乳を飲みました。今、お酒を飲んでいます。明日、私はお茶を飲むつもりです。
+de | Gestern habe ich Milch getrunken. Jetzt trinke ich Alkohol. Morgen werde ich Tee trinken.
+eo | Hieraŭ mi trinkis lakton. Nun mi trinkas alkoholon. Morgaŭ mi trinkos teon.
+ko | 어제 나는 우유를 마셨다. 지금 나는 술을 마시고 있다. 내일 나는 차를 마실 것이다.
+vi | Hôm qua tôi đã uống sữa. Bây giờ tôi đang uống rượu. Ngày mai tôi sẽ uống trà.
+fr | Hier, j'ai bu du lait. Maintenant, je bois de l'alcool. Demain, je boirai du thé.
+es | Ayer bebí leche. Ahora estoy bebiendo alcohol. Mañana beberé té.
+ru | Вчера я пил молоко. Сейчас я пью алкоголь. Завтра я буду пить чай.
+ar | أمس شربت حليباً. الآن أنا أشرب الخمر. غداً سأشرب الشاي. ('Ams sharibtu ḥalīban. Al-ʾān ʾanā ʾashrabu al-khamr. Ghadan saʾashrabu al-shāy.)
+
 zh | 你在中国待了多少年？你要在中国待几年？
 -|-
 en | How many years have you stayed in China? How many years will you stay in China?
@@ -407,6 +481,8 @@ ru | Сколько лет вы пробыли в Китае? Сколько л�
 ar | كم سنة قضيت في الصين؟ كم سنة ستبقى في الصين؟ (Kam sanah qaḍayta fī al-Ṣīn? Kam sanah satabqā fī al-Ṣīn?)
 
 # § 基本交易（数量、连词）
+
+知识点：数量、连词
 
 zh | 我想要一个面包、两个苹果和一杯牛奶。
 -|-
@@ -446,3 +522,76 @@ fr | Zéro, un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix
 es | Cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez
 ru | Ноль, один, два, три, четыре, пять, шесть, семь, восемь, девять, десять
 ar | صفر، واحد، اثنان، ثلاثة، أربعة، خمسة، ستة، سبعة، ثمانية، تسعة، عشرة   (Ṣifr, wāḥid, ʾithnān, thalāthah, ʾarbaʿah, khamsah, sittah, sabʿah, thamāniyah, tisʿah, ʿasharah)
+
+# § 方向道路（介词、情态）
+
+知识点：介词、情态
+
+zh | 请问火车站怎么走？走到前面这个路口，左转，再直行走过两个路口就到了。
+-|-
+en | Excuse me, how do I get to the train station? Go to the intersection ahead, turn left, and then go straight for two more intersections, and you'll arrive.
+ja | すみません、駅へはどう行けばいいですか？前の交差点まで行って、左に曲がって、それからまっすぐ進んで二つ目の交差点を過ぎると到着です。
+de | Entschuldigung, wie komme ich zum Bahnhof? Gehen Sie bis zur Kreuzung dort vorne, biegen Sie links ab, und gehen Sie dann geradeaus über zwei weitere Kreuzungen, dann sind Sie da.
+eo | Pardonu, kiel mi atingos la trajnstacion? Iru ĝis la vojkruciĝo antaŭe, turnu maldekstren, kaj poste iru rekten tra du pliaj vojkruciĝoj, kaj vi alvenos.
+ko | 실례합니다, 기차역까지 어떻게 가나요? 앞의 교차로까지 가서 왼쪽으로 도세요, 그리고 두 개의 교차로를 지나서 직진하면 도착합니다.
+vi | Xin lỗi, làm thế nào để đến ga tàu? Đi đến ngã tư phía trước, rẽ trái, sau đó đi thẳng qua hai ngã tư nữa là đến.
+fr | Excusez-moi, comment puis-je aller à la gare ? Allez jusqu'à l'intersection devant, tournez à gauche, puis continuez tout droit en passant deux autres intersections, et vous y serez.
+es | Disculpe, ¿cómo llego a la estación de tren? Vaya hasta la intersección adelante, gire a la izquierda, y luego siga recto pasando dos intersecciones más, y llegará.
+ru | Извините, как пройти к вокзалу? Идите до перекрёстка впереди, поверните налево, затем идите прямо через два перекрёстка, и вы окажетесь на месте.
+ar | عفواً، كيف أصل إلى محطة القطار؟ اذهب إلى التقاطع أمامك، ثم انعطف يساراً، وبعد ذلك سر على طول الطريق عبر تقاطعين آخرين وستصل. (ʿAfwan, kayfa ʾaṣilu ʾilā maḥaṭṭat al-qiṭār? Idhhab ʾilā al-taqāṭuʿ ʾamāmak, thumma ʾinʿaṭif yasāran, wa baʿda dhālika sir ʿalā ṭūl al-ṭarīq ʿabra taqāṭuʿayn ʾākharyayn wa sataṣilu.)
+
+zh | 你可以坐地铁去那里，一站路就到了。在地铁上必须戴口罩，不允许饮食。
+-|-
+en | You can take the subway to get there; it's just one stop away. You must wear a mask on the subway, and eating or drinking is not allowed.
+ja | そこへは地下鉄で行けます。1駅で着きます。地下鉄ではマスクの着用が必要で、飲食は禁止されています。
+de | Du kannst mit der U-Bahn dorthin fahren; es ist nur eine Station entfernt. In der U-Bahn muss man eine Maske tragen, und Essen oder Trinken ist nicht erlaubt.
+eo | Vi povas preni la metroon por atingi tien; estas nur unu haltejo for. En la metroo oni devas porti maskon, kaj manĝi aŭ trinki ne estas permesate.
+ko | 거기는 지하철을 타고 갈 수 있습니다. 한 정거장만 가면 도착합니다. 지하철에서는 마스크를 착용해야 하며, 음식 섭취가 금지되어 있습니다.
+vi | Bạn có thể đi tàu điện ngầm đến đó, chỉ mất một trạm. Trên tàu điện ngầm, phải đeo khẩu trang và không được ăn uống.
+fr | Vous pouvez prendre le métro pour y aller ; c'est seulement à un arrêt. Dans le métro, le port du masque est obligatoire et il est interdit de manger ou de boire.
+es | Puedes ir allí en metro; es solo una parada. En el metro, es obligatorio usar mascarilla y no se permite comer ni beber.
+ru | Вы можете добраться туда на метро, это всего одна остановка. В метро необходимо носить маску, а есть и пить запрещено.
+ar | يمكنك الذهاب إلى هناك بالمترو، إنها مجرد محطة واحدة. في المترو، يجب ارتداء الكمامة، ولا يُسمح بالأكل أو الشرب. (Yumkinuka al-dhahāb ʾilā hunāka bil-mitrū, ʾinnahā mujarrad maḥaṭṭah wāḥidah. Fī al-mitrū, yajibu irtidāʾ al-kamāmah, wa lā yusmaḥ bil-ʾakl ʾaw al-shurb.)
+
+zh | 前、后、左、右。上、下。东、西、南、北。
+-|-
+en | Front, back, left, right. Up, down. East, west, south, north.
+ja | 前 (まえ)、後 (うしろ)、左 (ひだり)、右 (みぎ)。上 (うえ)、下 (した)。東 (ひがし)、西 (にし)、南 (みなみ)、北 (きた)。
+de | Vorne, hinten, links, rechts. Oben, unten. Osten, Westen, Süden, Norden.
+eo | Antaŭe, malantaŭe, maldekstre, dekstre. Supre, malsupre. Oriento, okcidento, sudo, nordo.
+ko | 앞, 뒤, 왼쪽, 오른쪽. 위, 아래. 동, 서, 남, 북.
+vi | Trước, sau, trái, phải. Trên, dưới. Đông, tây, nam, bắc.
+fr | Devant, derrière, gauche, droite. En haut, en bas. Est, ouest, sud, nord.
+es | Delante, detrás, izquierda, derecha. Arriba, abajo. Este, oeste, sur, norte.
+ru | Впереди, сзади, слева, справа. Вверх, вниз. Восток, запад, юг, север.
+ar | أمام، خلف، يسار، يمين. أعلى، أسفل. شرق، غرب، جنوب، شمال. (ʾAmām, khalfa, yasār, yamīn. ʾAʿlā, ʾasfal. Sharq, gharb, janūb, shamāl.)
+
+# § 天气公告（引用、条件）
+
+知识点：引用（间接、直接）、条件
+
+zh | 天气预报说明天有雨。如果明天不下雨，我们就去爬山。
+-|-
+en | The weather forecast says it will rain tomorrow. If it doesn't rain tomorrow, we'll go hiking.
+ja | 天気予報では明日は雨が降るそうです。もし明日雨が降らなければ、私たちは登山に行きます。
+de | Der Wetterbericht sagt, dass es morgen regnen wird. Wenn es morgen nicht regnet, werden wir wandern gehen.
+eo | La veterprognozo diras, ke morgaŭ pluvis. Se morgaŭ ne pluvas, ni iros grimpi la monton.
+ko | 일기예보에 따르면 내일 비가 올 거라고 합니다. 만약 내일 비가 오지 않으면, 우리는 등산을 갈 것입니다.
+vi | Dự báo thời tiết nói rằng ngày mai sẽ có mưa. Nếu ngày mai không mưa, chúng ta sẽ đi leo núi.
+fr | La météo annonce de la pluie pour demain. S'il ne pleut pas demain, nous irons faire de la randonnée.
+es | El pronóstico del tiempo dice que lloverá mañana. Si no llueve mañana, iremos a hacer senderismo.
+ru | Прогноз погоды говорит, что завтра будет дождь. Если завтра не будет дождя, мы пойдем в горы.
+ar | تقول النشرة الجوية إن غداً سيكون هناك مطر. إذا لم تمطر غداً، سنذهب لتسلق الجبال.
+
+zh | （译自Esperanto）- 我不断地对自己重复，当我长大后，我一定会消除这种罪恶。 - 我不断地对自己重复：“当我长大后，我一定会消除这种恶习。”
+-|-
+en | - I kept repeating to myself that when I grow up, I will definitely get rid of this evil. - I kept repeating to myself, "When I grow up, I will definitely get rid of this evil."
+ja | - 私は大人になったら必ずこの悪を取り除くと自分に繰り返し言い聞かせていました。 - 私は自分に繰り返し言い聞かせていました：「大人になったら、必ずこの悪を取り除く。」
+de | - Ich wiederholte mir immer wieder, dass ich, wenn ich erwachsen bin, dieses Übel unbedingt beseitigen werde. - Ich wiederholte mir immer wieder: „Wenn ich erwachsen bin, werde ich dieses Übel unbedingt beseitigen.“
+eo | - Mi ripetadis al mi, ke kiam mi estos grandaĝa, mi nepre forigos tiun ĉi malbonon. - Mi ripetadis al mi: “Kiam mi estos grandaĝa, mi nepre forigos tiun ĉi malbonon.”
+ko | - 나는 내가 어른이 되면 반드시 이 악을 없앨 것이라고 계속 반복해서 말했습니다. - 나는 나 자신에게 반복해서 말했습니다: "내가 어른이 되면 반드시 이 악을 없앨 것이다."
+vi | - Tôi cứ lặp đi lặp lại với bản thân rằng khi tôi lớn lên, tôi chắc chắn sẽ loại bỏ điều xấu này. - Tôi cứ lặp đi lặp lại với bản thân rằng: “Khi tôi lớn lên, tôi chắc chắn sẽ loại bỏ điều xấu này.”
+fr | - Je me répétais sans cesse que, lorsque je serai adulte, je me débarrasserai certainement de ce mal. - Je me répétais sans cesse : « Lorsque je serai adulte, je me débarrasserai certainement de ce mal. »
+es | - Me repetía a mí mismo que, cuando sea mayor, definitivamente eliminaré este mal. - Me repetía a mí mismo: “Cuando sea mayor, definitivamente eliminaré este mal.”
+ru | - Я повторял себе, что, когда я вырасту, я обязательно избавлюсь от этого зла. - Я повторял себе: «Когда я вырасту, я обязательно избавлюсь от этого зла.»
+ar | - كنت أكرر لنفسي أنه عندما أكبر، سأزيل هذا الشر بالتأكيد. (Kuntu ʾukarriru linafsī ʾannah ʿindamā ʾakbaru, saʾazīlu hādhā al-sharr biltakīd.) - كنت أكرر لنفسي: "عندما أكبر، سأزيل هذا الشر بالتأكيد." (Kuntu ʾukarriru linafsī: "ʿIndamā ʾakbaru, saʾazīlu hādhā al-sharr biltakīd.")
