@@ -225,7 +225,7 @@ zh | - 你来自哪里？ - 我来自中国北京。
 -|-
 ja | - どこから来ましたか？ - 私は中国の北京から来ました。
 eo | - De kie vi venas? - Mi venas el Pekino, Ĉinio.
-ko | - 어디에서 왔습니까? - 저는 中國(중국) 베이징에서 왔습니다.
+ko | - 어디에서 왔습니까? - 저는 中國(중국) 北京(북경)에서 왔습니다.
 vi | - 伴𦤾自兜(Bạn đến từ đâu)? - 碎𦤾自北京，中國(Tôi đến từ Bắc Kinh, Trung Quốc).
 ru | - Откуда вы приехали? - Я приехал из Пекина, Китай.
 
@@ -251,8 +251,8 @@ en | China is a beautiful country with a long history, a splendid culture, a pro
 ja | 中国は美しい国で、長い歴史、輝かしい文化、繁栄した経済、便利なインフラ、そして先進的な技術を持っています。
 de | China ist ein schönes Land mit einer langen Geschichte, einer glanzvollen Kultur, einer florierenden Wirtschaft, einer bequemen Infrastruktur und fortschrittlicher Technologie.
 eo | Ĉinio estas bela lando, kun longa historio, brila kulturo, prospera ekonomio, oportuna infrastrukturo kaj progresinta teknologio.
-ko | 중국은 아름다운 나라로, 긴 역사와 찬란한 문화, 번영하는 경제, 편리한 인프라, 그리고 첨단 기술을 보유하고 있습니다.
-vi | Trung Quốc là một quốc gia xinh đẹp, có lịch sử lâu đời, văn hóa rực rỡ, kinh tế thịnh vượng, hạ tầng tiện lợi và công nghệ tiên tiến.
+ko | 中國(중국)은 아름다운 나라로, 긴 歷史(역사)와 燦爛(찬란)한 文化(문화), 繁榮(번영)하는 經濟(경제), 便利(편리)한 인프라, 그리고 尖端(첨단) 技術(기술)을 保有(보유)하고 있습니다.
+vi | 中國羅𠬠國家𦎡𢢲，固歷史𥹰𠁀，文化𤊧𠒦，經濟盛旺，下層便利吧工藝先進。(Trung Quốc là một quốc gia xinh đẹp, có lịch sử lâu đời, văn hóa rực rỡ, kinh tế thịnh vượng, hạ tầng tiện lợi và công nghệ tiên tiến.)   ※异汉越音：𦎡-清，𠁀-代
 fr | La Chine est un beau pays avec une longue histoire, une culture éclatante, une économie prospère, des infrastructures pratiques et une technologie avancée.
 es | China es un país hermoso con una larga historia, una cultura brillante, una economía próspera, infraestructura conveniente y tecnología avanzada.
 ru | Китай — это красивая страна с долгой историей, яркой культурой, процветающей экономикой, удобной инфраструктурой и передовыми технологиями.
@@ -312,8 +312,8 @@ en | I like studying and researching languages.
 ja | 私は言語の学習と研究が好きです。
 de | Ich mag es, Sprachen zu lernen und zu erforschen.
 eo | Mi ŝatas lerni kaj esplori lingvojn.
-ko | 저는 언어를 공부하고 연구하는 것을 좋아합니다.
-vi | Tôi thích học và nghiên cứu ngôn ngữ.
+ko | 저는 言語(언어)를 工夫(공부)하고 硏究(연구)하는 것을 좋아합니다.
+vi | 碎適學吧研究言語(Tôi thích học và nghiên cứu ngôn ngữ).  ※nghiên cứu
 fr | J'aime étudier et rechercher les langues.
 es | Me gusta estudiar e investigar los idiomas.
 ru | Я люблю изучать и исследовать языки.
@@ -342,8 +342,8 @@ en | You are my good friend. We are good friends.
 ja | あなたは私の親友です。私たちは親友です。
 de | Du bist mein guter Freund. Wir sind gute Freunde.
 eo | Vi estas mia bona amiko. Ni estas bonaj amikoj.
-ko | 너는 나의 좋은 친구이다. 우리는 좋은 친구이다.
-vi | Bạn là người bạn tốt của tôi. Chúng ta là bạn tốt.
+ko | 너는 나의 좋은 親舊(친구)이다. 우리는 좋은 親舊(친구)이다.
+vi | 伴羅𠊛伴卒𧵑碎(Bạn là người bạn tốt của tôi). 眾些羅伴卒(Chúng ta là bạn tốt).
 fr | Tu es mon bon ami. Nous sommes de bons amis.
 es | Eres mi buen amigo. Somos buenos amigos.
 ru | Ты мой хороший друг. Мы хорошие друзья.
