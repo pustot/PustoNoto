@@ -137,7 +137,7 @@ ja | - 有（あ）り難（がと）う。 - どう致（いた）しまして�
 de | - Danke. - Bitte.
 eo | - Dankon. - Ne dankinde.
 ko | - 感謝(감사)합니다. - 千萬(천만)에요. ※「千萬에요」罕用，常代以「没啥」类短语，如 「괜찮아요」 「아니에」 「네」
-vi | - 感恩(Cảm ơn)  - Không có gì
+vi | - 感恩(Cảm ơn)  - 空𣎏之(Không có gì)
 fr | - Merci. - De rien.
 es | - Gracias - De nada
 ru | - Спасибо - Пожалуйста
@@ -156,7 +156,7 @@ ja | - 御免（ごめん）なさい。 - 大丈夫（だいじょうぶ）で�
 de | - Entschuldigung. - Kein Problem.
 eo | - Pardonu. - Ne gravas.
 ko | - 罪悚(죄송)합니다. - 괜찮습니다.
-vi | - 吀纇(Xin lỗi)  - Không sao
+vi | - 吀纇(Xin lỗi)  - 空牢(Không sao)
 fr | - Pardon/Désolé. - Pas de problème.
 es | - Perdón - No hay problema
 ru | - Извините - Всё в порядке
@@ -172,7 +172,11 @@ da | - Undskyld. / - Det gør ikke noget. ※音标：第一句 - /ˈonˌsɡylˀ
 zh | - 不好意思，请问你会讲汉语或英语（或世界语）吗？ - 不好意思，可以再重复一遍吗？/什么？
 -|-
 en | - Excuse me, can you speak Chinese or English (or Esperanto)? - Excuse me, could you repeat that? / Pardon? / What?
+ja | - すみません、中国語か英語（またはエスペラント語）を話せますか？ - すみません、もう一度繰り返していただけますか？ / 何ですか？
 eo | - Pardonu, ĉu vi povas paroli la ĉinan aŭ la anglan (aŭ Esperanton)? - Pardonu, ĉu vi povas ripeti? / Pardonu? / Kio?
+ko | - 失禮(실례)합니다, 中國語(중국어)나 英語(영어) (또는 에스페란토)를 할 수 있습니까? - 罪悚(죄송)한데, 다시 한 番(번) 말씀해 주시겠어요? / 뭐라고요?
+vi | - 吀纇，伴𣎏體呐㗂中或㗂英（或㗂國際語）空？(Xin lỗi, bạn có thể nói tiếng Trung hoặc tiếng Anh (hoặc tiếng Quốc tế ngữ) không?) -  吀纇，伴𣎏體𧿑吏𠬠吝𠯆空？(Xin lỗi, bạn có thể nhắc lại một lần nữa không?) / 吀纇(Xin lỗi?)?
+ru | - Извините, вы говорите по-китайски или по-английски (или на эсперанто)? - Извините, можете повторить еще раз? / Что?
 da | - Undskyld, taler du kinesisk eller engelsk (eller esperanto)? - Undskyld, kan du gentage det? / Undskyld? / Hvad? ※音标：第一句 - /ˈonˌsɡylˀ/ [ˈɔ̽nˌskylˀ] /taːlər/ [ˈtˢæːlɐ] [ˈd̥u] [ˈkʰinɛsisɡ̊] /ˈɛlər/ [ˈelɐ] /ˈɛŋˀəlsɡ/ [ˈeŋˀəlsɡ̊] () 第二句 -
 
 zh | - 你会说普通话/汉语吗？ - 我不会说普通话/汉语。
@@ -180,7 +184,8 @@ zh | - 你会说普通话/汉语吗？ - 我不会说普通话/汉语。
 ja | - 日本語を話せますか？ - 日本語を話せません。
 de | - Kannst du Deutsch sprechen? - Ich kann kein Deutsch sprechen.
 eo | - Ĉu vi parolas Esperanton? - Mi ne parolas Esperanton.
-vi | - Bạn có nói tiếng Việt không? - Tôi không nói tiếng Việt.
+ko | - 當身(당신)은 韓國語(한국어)를 할 手(수) 있습니까? - 저는 韓國語(한국어)를 못 합니다.
+vi | - 伴𣎏呐㗂越空(Bạn có nói tiếng Việt không)? - 碎空呐㗂越(Tôi không nói tiếng Việt).
 fr | - Parlez-vous français? - Je ne parle pas français.
 es | - ¿Hablas español? - No hablo español.
 ru | - Ты говоришь по-русски? - Я не говорю по-русски.
@@ -201,23 +206,23 @@ zh | - 你是中国人吗？ - 对，我是中国人。 - 不是，我不是中�
 ja | - あなたは中国人ですか？ - はい、私は中国人です。 - いいえ、私は中国人ではありません。
 eo | - Ĉu vi estas ĉino? - Jes, mi estas ĉino. - Ne, mi ne estas ĉino.
 ko | - 當身(당신)은 中國人(중국인)입니까? - 네, 저는 中國人(중국인)입니다. - 아니요, 저는 中國人(중국인)이 아닙니다.
-vi | - Bạn là người Trung Quốc phải không? - Vâng, tôi là người Trung Quốc. - Không, tôi không phải là người Trung Quốc. ※phải意为「对」correct
+vi | - 伴羅𠊛中國沛空(Bạn là người Trung Quốc phải không)? - 𠳐(Vâng), 碎羅𠊛中國(tôi là người Trung Quốc). - 空(Không), 碎空沛羅𠊛中國(tôi không phải là người Trung Quốc). ※沛phải意为「对」correct
 ru | - Вы кита́ец? - Да, я кита́ец. - Нет, я не кита́ец.
 
 zh | - 你来自哪里？ - 我来自中国北京。
 -|-
 ja | - どこから来ましたか？ - 私は中国の北京から来ました。
 eo | - De kie vi venas? - Mi venas el Pekino, Ĉinio.
-ko | - 어디에서 왔습니까? - 저는 중국 베이징에서 왔습니다.
-vi | - Bạn đến từ đâu? - Tôi đến từ Bắc Kinh, Trung Quốc.
+ko | - 어디에서 왔습니까? - 저는 中國(중국) 베이징에서 왔습니다.
+vi | - 伴𦤾自兜(Bạn đến từ đâu)? - 碎𦤾自北京，中國(Tôi đến từ Bắc Kinh, Trung Quốc).
 ru | - Откуда вы приехали? - Я приехал из Пекина, Китай.
 
 zh | - 中国大吗？ - 中国很大。
 -|-
 ja | - 中国は大きいですか？ - 中国は大きいです。
 eo | - Ĉu Ĉinio estas granda? - Ĉinio estas granda.
-ko | - 중국이 큽니까? - 중국은 큽니다.
-vi | - Trung Quốc có lớn không? - Trung Quốc rất lớn.
+ko | - 中國(중국)이 큽니까? - 中國(중국)은 큽니다.
+vi | - 中國固𡘯空(Trung Quốc có lớn không)? - 中國慄𡘯(Trung Quốc rất lớn).
 ru | - Китай большой? - Китай большой.
 
 zh | - 中国小吗？ - 中国并不小。
@@ -232,16 +237,16 @@ zh | - 你在这里做什么？ - 你是来这旅游的吗？
 -|-
 ja | - ここで何をしていますか？ - ここに旅行に来たのですか？
 eo | - Kion vi faras ĉi tie? - Ĉu vi venis ĉi tien por vojaĝi?
-ko | - 여기서 무엇을 하고 있습니까? - 여행하러 오셨습니까?
-vi | - Bạn đang làm gì ở đây? - Bạn đến đây để du lịch phải không?
+ko | - 여기서 무엇을 하고 있습니까? - 旅行(여행)하러 오셨습니까? ※-셨-来自시+었，即敬语的过去时
+vi | - 伴當爫之於低(Bạn đang làm gì ở đây)? - 伴𦤾低底遊歷沛空(Bạn đến đây để du lịch phải không)?
 ru | - Что вы здесь делаете? - Вы приехали сюда как турист?
 
 zh | - 请问您叫什么名字？/请问您贵姓？ - 我叫张三。 - 张三先生，幸会幸会。
 -|-
 ja | - お名前は何ですか？ - 私は張三と申します。 - 張三さん、お会いできて光栄です。
 eo | - Kio estas via nomo? / Ĉu mi povas scii vian nomon? - Mia nomo estas Zhang San. - Sinjoro Zhang San, tre agrable renkonti vin.
-ko | - 이름이 무엇입니까? - 제 이름은 장삼입니다. - 장삼 씨, 만나서 반갑습니다.
-vi | - Bạn tên là gì? - Tôi tên là Trương Tam. - Ông Trương Tam, rất hân hạnh được gặp.
+ko | - 이름이 무엇입니까? - 제 이름은 張三(장삼)입니다. - 張三(장삼) 씨, 만나서 반갑습니다.
+vi | - 伴𠸜羅之(Bạn tên là gì)? - 碎𠸜羅張三(Tôi tên là Trương Tam). - 翁張三，慄欣幸得﨤(Ông Trương Tam, rất hân hạnh được gặp.)
 ru | - Как вас зовут? - Меня зовут Чжан Сан. - Господин Чжан Сан, приятно познакомиться.
 
 # § 语言兴趣
@@ -260,7 +265,7 @@ ja | 日本語は話せませんが、興味があります。
 de | Deutsch kann ich nicht sprechen, aber ich habe großes Interesse.
 eo | Mi ne parolas Esperanto, sed mi tre interesiĝas.
 ko | 韓國語(한국어)는 못해요, 그런데 關心(관심)이 많아요. ※못하다 [ˈmo̞(ː)tʰa̠da̠]
-vi | Tôi chưa biết nói tiếng Việt, nhưng tôi rất quan tâm. （碎𣗓別呐㗂越，仍碎慄關心。） ※chưa [t͡ɕɨə˧˧] 表示未，không 表示不，皆可
+vi | 碎𣗓別呐㗂越，仍碎慄關心。(Tôi chưa biết nói tiếng Việt, nhưng tôi rất quan tâm.) ※chưa [t͡ɕɨə˧˧] 表示未，không 表示不，皆可
 hak-mxz | ？？？
 nan-swa | ？？？
 nan-xmn | ？？？
@@ -288,7 +293,7 @@ ja | （私はあなたを）愛しています／愛してる。
 de | Ich liebe dich.
 eo | mi amas vin [mi ˈamas vin]
 ko | (나는 너를) 사랑해요 / 사랑해.
-vi | Anh yêu em. (英𢞅㛪) [ʔajŋ̟˧˧ ʔiəw˧˧ ʔɛm˧˧] (note: man to woman)
+vi | 英𢞅㛪(Anh yêu em). [ʔajŋ̟˧˧ ʔiəw˧˧ ʔɛm˧˧] (note: man to woman)
 hak-mxz | 𠊎愛你 ngài oi ǹ / ngài oi ngì /ŋai̯¹¹ oi̯⁵⁵ n¹¹/, /ŋai̯¹¹ oi̯⁵⁵ ɲi¹¹/
 nan-swa | ？？？
 nan-xmn | 我愛汝 (guá ài lí) (Kaohsiung: /ɡua⁴¹⁻⁴⁴ ai²¹⁻⁴¹ li⁴¹/)
