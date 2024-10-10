@@ -40,6 +40,17 @@ Dewey 006.32
         - BERT（基于变换器的双向编码器表示技术，Bidirectional Encoder Representations from Transformers）
         - GPT（生成型预训练变换模型，Generative Pre-trained Transformer）
             - BERT 双向，GPT 单向，所以笼统来讲可能 BERT 更偏向理解，GPT 更偏向生成。emm 毕竟 ChatGPT 的生成本领的确这么强
+- 基础模型、大语言模型LMM领域（基于以上的知识）
+    - 预训练
+    - 微调
+        - 具体技术
+            - 参数高效微调（Parameter-Efficient Fine-Tuning, PEFT）
+                - 其中一种典型的 PEFT 方法是 **LoRA（Low-Rank Adaptation）**。加了矩阵A和B作用于模型里每个Transformer但是秩低于原权重W，故不像预训练时消耗大
+                    - 核心思想是：虽然原始权重矩阵的秩较高，但是其实际有效的调整可以用低秩矩阵来近似表示。
+                    - 秩，类似于类似于矩阵所能描述的维度
+            - 提示微调（Prompt Tuning）
+            - 指令微调（Instruction Tuning）
+            - 基于人类反馈的强化学习（Reinforcement Learning from Human Feedback, RLHF）
 
 # 以下 là 目录 de la 深度学习专项课程 Deep Learning Specialization
 

@@ -10,7 +10,7 @@ Taking notes of knowledge, especially those learned and utilized only occasional
 # Kolekto | 收藏夹
 
 - [老子-道德经](./B2-23.1-老子-道德經.md) 
-- kkhn 机器人（与自动驾驶） [TP2-4-機人-Robotik](./TP2-4-機人-Robotik.md)
+- kkhn 机械研究与机器人（与自动驾驶） [TP2-4-機人-Robotik](./TP2-4-機人-Robotik.md)
     - [机械与力学 TH-000-機械-MekanikaInĝenierarto](./TH-000-機械-MekanikaInĝenierarto.md)
     - 电子
     - [控制 TP1-3-自控-Kibernetiko](./TP1-3-自控-Kibernetiko.md)
@@ -19,6 +19,13 @@ Taking notes of knowledge, especially those learned and utilized only occasional
         - [TP3-12PY-Python](./TP3-12PY-Python.md)
         - [TP3-12JA-Java](./TP3-12JA-Java.md) （含 软件系统开发综合）
     - 人工智能(見計算機)
+        - 大部入深学笔记本。 [TP1-81-深學-ProfundaLernado.md](./TP1-81-深學-ProfundaLernado.md)
+        - 传统方法入机学。 [TP1-81-機學-Maŝinlernado](./TP1-81-機學-Maŝinlernado.md)
+        - [H0-87-計語-NLP-NaturLingvaPrilaborado](./H0-87-計語-NLP-NaturLingvaPrilaborado.md)
+        - [TP2-74-數據-DatumScienco](./TP2-74-數據-DatumScienco.md)
+        - [TP1-8-智具-AIIloj](./TP1-8-智具-AIIloj.md)
+    - 数学
+        - [O1-51.2-線代-LinearaAlgebro.md](./O1-51.2-線代-LinearaAlgebro.md)
 - ngyo 语言及语言学 [H-Lingvo-LeguMin](./H-Lingvo/README.md)
     - [zh-ltc 中古漢語](./H-Lingvo/H-zh-ltc-中漢-MezaĈinaFonologio.md)
     - [zh-hza菏](./H-Lingvo/H-zh-cmn-zgyu-菏-Heze.md)
