@@ -108,6 +108,7 @@ fr | 拼读很一致：拼写一般对应固定的发音，掌握辅音、元音
 es | 拼读很一致，但：浊辅音在一些位置需要弱化（擦化为[β] [ð] [ɣ]，如bdg在元音间，b在辅音后）；s不会像英语一样浊化，但西班牙一些地区发其为[θ]，c+e/i、z约等于s。
 ru | 非重音位置的元音要弱化。
 ar | 元音音位有 a i u，分别有长短。a 在大多数辅音的环境中实现为 /æ/，包括唇辅音、舌冠音（非咽化的）、声门辅音、k、j、w；在靠后的环境发为 [ɑ] 如咽化辅音、小舌音、咽辅音。
+tr | 与一般拉丁字母不同或最好看一眼的主要如下：c /dʒ/ （就这个c槽点最多） ç /tʃ/ j /ʒ/ ö /œ/ r /ɾ/ ş /ʃ/ ü /y/ y /j/ e /e/ o /ɔ/；另注意区分 İ i /i/ I ı /ɯ/；ğ （直到晚近，其发音仍为 /ɣ/；随后，其弱化，于是产生代偿的元音延长等现代表现；古代曾是 g 出现在元音间时的同位音）大多表示前一元音之延长，但若前后皆元音，皆前元音则读/j/，其他不发音。ptkç 送气量比较大。k g 常腭化为 /c/ /ɟ/。词内有元音和谐，其中双路元音和谐为 e a 前后之分，简记为A；四路元音和谐为 i ü ı u 前后圆平唇之分，简记为 I，即 ie üö ıa uo 这四组，可简记以普通话 夜 月 阿 窝，你看普通话也很元音和谐。词尾辅音后跟元音开头的词尾时浊化；单音节词除外。
 da | 拼读关系复杂，我还没学太懂。g：很多时候词中词尾的g不发音/软音。t：词尾常不发音，尤其是-et结尾。元音在各词各位置发音不唯一，如a可以发 /a/，/ɑː/，/æ/ 。还有一些字母组合有 stumm (无声的) 字母。还有stød现象，类似于声带紧闭音，会让某些音突然中断或变得短促。
 
 # § 问候寒暄（你好、不懂）
@@ -131,17 +132,19 @@ pt | - Olá /oˈla/ - Adeus
 it | - Ciao - Arrivederci
 la | - Salve - Vale
 ms | - Hello - Selamat tinggal
-sw | - jambo /ˈd͡ʒɑ.mbɔ/
-ur | - سلام علیکم  /sə.lɑːm ə.lɛː.kʊm/
-fa | - سلام (salâm) [sæ.lɒ́ːm] / سلام علیکم (salâm aleikum) [sæ.lɒ́ːm ʔælej.kʰóm].
-pl | - Cześć. /ˈt͡ʂɛɕt͡ɕ/ / Dzień dobry. /ˈd͡ʑɛɲ ˈdɔbrɘ/
-th | - สวัสดีครับ (男性说), สวัสดีค่ะ (女性说), /sa˨˩.wat̚˨˩.diː˧/ + /kʰrap̚˦˥/ /kʰaʔ˥˩/
-bo | - བཀྲ་ཤིས་བདེ་ལེགས (bkra shis bde legs) /ʈ͡ʂə˥˥.ɕi˥˨.te˩˨.le˥˨/
+sw | - jambo /ˈd͡ʒɑ.mbɔ/ - kwaheri
+ur | - سلام علیکم  /sə.lɑːm ə.lɛː.kʊm/ - خُدا حافِظ (xudā hāfiz)
+hi | - नमस्ते (namaste) - नमस्ते (namaste)
+fa | - سلام (salâm) [sæ.lɒ́ːm] / سلام علیکم (salâm aleikum) [sæ.lɒ́ːm ʔælej.kʰóm]. - خُداحافِظ (xodâhâfez)
+pl | - Cześć. /ˈt͡ʂɛɕt͡ɕ/ / Dzień dobry. /ˈd͡ʑɛɲ ˈdɔbrɘ/ - żegnaj
+th | - สวัสดีครับ (男性说), สวัสดีค่ะ (女性说), /sa˨˩.wat̚˨˩.diː˧/ + /kʰrap̚˦˥/ /kʰaʔ˥˩/ - สวัสดี (sà-wàt-dii) / ลาก่อน (laa-gɔ̀ɔn)
+tr | - merhaba / selam - (person staying) güle güle, (person leaving) hoşça kal
+bo | - བཀྲ་ཤིས་བདེ་ལེགས (bkra shis bde legs) /ʈ͡ʂə˥˥.ɕi˥˨.te˩˨.le˥˨/ - ག་ལེ་ཕེབས (ga le phebs) (by the one staying), ག་ལེ་ཞུགས (ga le zhugs) (by the one going)
 km | - ជម្រាបសួរ (cumriəp suə) /cum.ˈriəp suə/ / សួស្តី (suəsdəy) /suə.ˈsɗəj/.
 mn | - ᠰᠠᠶᠢᠨ ᠪᠠᠶᠢᠨ᠎ᠠ ᠤᠤ (sayin bayin-a-uu) (сайн байна уу?) [sʰæ̝ːm pæ̝ːn‿o̙ː]
 da | - Hej. / Goddag. - Farvel ※音标：第一句 - /hɑj/ [hɑ̈j] 或 /ɡoˈdaːˀɣ/ [ɡ̊ɔ̽ˈd̥æˀ] 第二句 - /fɑːˈvɛl/, [fɑ̈ːˈʋel]
 sa | - नमस्कार (namaskāra) / नमस्ते (namaste).
-he | - שָׁלוֹם (shalóm) /ʃaˈlom/, שָׁלוֹם עָלֵיכֶם (shalóm 'aleikhém) /ʃaˈlom aleˈχɛm/
+he | - שָׁלוֹם (shalóm) /ʃaˈlom/, שָׁלוֹם עָלֵיכֶם (shalóm 'aleikhém) /ʃaˈlom aleˈχɛm/  - לְהִתְרָאוֹת (l'hitra'ót) / שָׁלוֹם  (shalóm) (more general than goodbye)
 
 zh | - 谢谢你。 - 不客气。
 -|-
@@ -160,6 +163,11 @@ pt | - Obrigado - De nada
 it | - Grazie - Prego
 la | - Gratias tibi ago - Nihil est
 ms | - Terima kasih - Sama-sama
+tr | - sağ olun (formal) / sağ ol (informal) / teşekkür ederim / teşekkürler / mersi 
+bo | - ཐུགས་རྗེ་ཆེ (thugs rje che)
+za | - dwgrengz mwngz loz (literally “you worked hard”)
+mn | - ᠪᠠᠶᠠᠷᠯᠠᠯᠤᠭ᠎ᠠ (bayarlalug-a, баярлалаа) / ᠭᠢᠯᠠᠶᠢᠯ᠎ᠠ (gilayil-a, гялайлаа)
+ug | - رەھمەت (rehmet), ھەشقاللا (heshqalla) 
 da | - Tak. - Selv tak / Velbekomme.  ※音标：第一句 - /tak/, /ˈtɑɡ/, [ˈtˢɑɡ̊], [ˈtsʰɑ̈k] 第二句 - 
 
 zh | - 对不起。 - 没关系。
