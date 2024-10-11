@@ -7,9 +7,9 @@
 - [§ 语言兴趣（主宾、定从）](#-语言兴趣主宾定从)
 - [§ 亲友家庭（代词、存在）](#-亲友家庭代词存在)
 - [§ 时间日期（时态、体貌）](#-时间日期时态体貌)
-- [§ 基本交易（数量、连词）](#-基本交易数量连词)
-- [§ 方向道路（介词、情态）](#-方向道路介词情态)
-- [§ 天气公告（引用、条件）](#-天气公告引用条件)
+- [§ 交易物品（数量、连词、比较）](#-交易物品数量连词比较)
+- [§ 方向道路（介词、情态、被使）](#-方向道路介词情态被使)
+- [§ 活动天气（引用、连句）](#-活动天气引用连句)
 
 网页版便于筛选具体语言 [https://studling.pustot.com/#/multi/tekstaro](https://studling.pustot.com/#/multi/tekstaro)
 
@@ -108,7 +108,7 @@ fr | 拼读很一致：拼写一般对应固定的发音，掌握辅音、元音
 es | 拼读很一致，但：浊辅音在一些位置需要弱化（擦化为[β] [ð] [ɣ]，如bdg在元音间，b在辅音后）；s不会像英语一样浊化，但西班牙一些地区发其为[θ]，c+e/i、z约等于s。
 ru | 非重音位置的元音要弱化。
 ar | 元音音位有 a i u，分别有长短。a 在大多数辅音的环境中实现为 /æ/，包括唇辅音、舌冠音（非咽化的）、声门辅音、k、j、w；在靠后的环境发为 [ɑ] 如咽化辅音、小舌音、咽辅音。
-tr | 与一般拉丁字母不同或最好看一眼的主要如下：c /dʒ/ （就这个c槽点最多） ç /tʃ/ j /ʒ/ ö /œ/ r /ɾ/ ş /ʃ/ ü /y/ y /j/ e /e/ o /ɔ/；另注意区分 İ i /i/ I ı /ɯ/；ğ （直到晚近，其发音仍为 /ɣ/；随后，其弱化，于是产生代偿的元音延长等现代表现；古代曾是 g 出现在元音间时的同位音）大多表示前一元音之延长，但若前后皆元音，皆前元音则读/j/，其他不发音。ptkç 送气量比较大。k g 常腭化为 /c/ /ɟ/。词内有元音和谐，其中双路元音和谐为 e a 前后之分，简记为A；四路元音和谐为 i ü ı u 前后圆平唇之分，简记为 I，即 ie üö ıa uo 这四组，可简记以普通话 夜 月 阿 窝，你看普通话也很元音和谐。词尾辅音后跟元音开头的词尾时浊化；单音节词除外。
+tr | 与一般拉丁字母不同或最好看一眼的主要如下：c /dʒ/ （就这个c槽点最多） ç /tʃ/ j /ʒ/ ö /œ/ r /ɾ/ ş /ʃ/ ü /y/ y /j/ e /e/ o /o/；另注意区分 İ i /i/ I ı /ɯ/；ğ （直到晚近，其发音仍为 /ɣ/；随后，其弱化，于是产生代偿的元音延长等现代表现；古代曾是 g 出现在元音间时的同位音）大多表示前一元音之延长，但若前后皆元音，皆前元音则读/j/，其他不发音。ptkç 送气量比较大。k g 常腭化为 /c/ /ɟ/。词内有元音和谐，其中双路元音和谐为 e a 前后之分，简记为A；四路元音和谐为 i ü ı u 前后圆平唇之分，简记为 I，即 ie üö ıa uo 这四组，可简记以普通话 夜 月 阿 窝，你看普通话也很元音和谐。词尾辅音后跟元音开头的词尾时浊化；单音节词除外。
 da | 拼读关系复杂，我还没学太懂。g：很多时候词中词尾的g不发音/软音。t：词尾常不发音，尤其是-et结尾。元音在各词各位置发音不唯一，如a可以发 /a/，/ɑː/，/æ/ 。还有一些字母组合有 stumm (无声的) 字母。还有stød现象，类似于声带紧闭音，会让某些音突然中断或变得短促。
 
 # § 问候寒暄（你好、不懂）
@@ -199,23 +199,24 @@ vi | - 吀纇，伴𣎏體呐㗂中或㗂英（或㗂國際語）空？(Xin lỗ
 ru | - Извини́те, вы говори́те по-кита́йски и́ли по-англи́йски (или на эсперанто)? - Извини́те, можете повторить еще раз? / Что?
 da | - Undskyld, taler du kinesisk eller engelsk (eller esperanto)? - Undskyld, kan du gentage det? / Undskyld? / Hvad? ※音标：第一句 - /ˈonˌsɡylˀ/ [ˈɔ̽nˌskylˀ] /taːlər/ [ˈtˢæːlɐ] [ˈd̥u] [ˈkʰinɛsisɡ̊] /ˈɛlər/ [ˈelɐ] /ˈɛŋˀəlsɡ/ [ˈeŋˀəlsɡ̊] () 第二句 -
 
-zh | - 你会说普通话/汉语吗？ - 我不会说普通话/汉语。
+zh | （替换为目标语） - 你会说普通话/汉语吗？ - 我不会说普通话/汉语。 - 我只会说一点点普通话/汉语。
 -|-
-ja | - 日本語を話せますか？ - 日本語を話せません。
-de | - Kannst du Deutsch sprechen? - Ich kann kein Deutsch sprechen.
-eo | - Ĉu vi parolas Esperanton? - Mi ne parolas Esperanton.
-ko | - 當身(당신)은 韓國語(한국어)를 할 手(수) 있습니까? - 저는 韓國語(한국어)를 못 합니다.
-vi | - 伴𣎏呐㗂越空(Bạn có nói tiếng Việt không)? - 碎空呐㗂越(Tôi không nói tiếng Việt).
-fr | - Parlez-vous français? - Je ne parle pas français.
-es | - ¿Hablas español? - No hablo español.
-ru | - Ты говори́шь по-ру́сски? - Я не говорю́ по-ру́сски.
-ar | - 「 هل تتحدث العربية؟ 」/hal (tataḥaddaṯu) al.ʕa.ra.bij.ja/ - 「 لا أتحدث العربية 」/laː (ʔataḥaddaṯu) al.ʕa.ra.bij.ja/
-nl | - Spreek je Nederlands? - Ik spreek geen Nederlands.
-sv | - Kan du prata svenska? - Jag kan inte prata svenska.
-pt | - Você fala português? - Eu não falo português.
-it | - Parli italiano? - Non parlo italiano.
-la | - Loquere linguam Latinam? - Non loquor linguam Latinam.
-ms | - Bolehkah anda bercakap Bahasa Melayu? - Saya tidak bercakap Bahasa Melayu.
+en | - Can you speak English? - I don't speak English. - I can only speak a little bit of English.
+ja | - 日本語を話せますか？ - 日本語を話せません。 - 私は日本語を少ししか話せません。
+de | - Kannst du Deutsch sprechen? - Ich kann kein Deutsch sprechen. - Ich kann nur ein bisschen Deutsch sprechen.
+eo | - Ĉu vi parolas Esperanton? - Mi ne parolas Esperanton. - Mi povas nur iomete paroli Esperanton.
+ko | - 當身(당신)은 韓國語(한국어)를 할 手(수) 있습니까? - 저는 韓國語(한국어)를 못 합니다. - 저는 韓國語(한국어)를 조금밖에 못 합니다.  ※조금：一点点。밖：之外。
+vi | - 伴𣎏呐㗂越空(Bạn có nói tiếng Việt không)? - 碎空呐㗂越(Tôi không nói tiếng Việt). - 碎只呐得𠬠𡭧㗂越(Tôi chỉ nói được một chút tiếng Việt).
+fr | - Parlez-vous français? - Je ne parle pas français. - Je ne parle qu'un tout petit peu le français
+es | - ¿Hablas español? - No hablo español. - Solo puedo hablar un poquito de español.
+ru | - Ты говори́шь по-ру́сски? - Я не говорю́ по-ру́сски. - Я говорю только немного по-русски.
+ar | - 「 هل تتحدث العربية؟ 」/hal (tataḥaddaṯu) al.ʕa.ra.bij.ja/ - 「 لا أتحدث العربية 」/laː (ʔataḥaddaṯu) al.ʕa.ra.bij.ja/ - أنا أتحدث فقط قليلاً من العربية. (ʾAnā ʾataḥaddathu faqaṭ qalīlan min al-ʿarabīyah.)
+nl | - Spreek je Nederlands? - Ik spreek geen Nederlands. - Ik spreek maar een beetje Nederlands.
+sv | - Kan du prata svenska? - Jag kan inte prata svenska. - Jag kan bara tala lite svenska.
+pt | - Você fala português? - Eu não falo português. - Eu só falo um pouco de português.
+it | - Parli italiano? - Non parlo italiano. - Parlo solo un po' di italiano.
+la | - Loquere linguam Latinam? - Non loquor linguam Latinam. - Modo paulum Latine loquor.
+ms | - Bolehkah anda bercakap Bahasa Melayu? - Saya tidak bercakap Bahasa Melayu. - Saya hanya boleh bercakap sedikit Bahasa Melayu.
 
 # § 初见介绍（疑问、属性）
 
@@ -374,7 +375,7 @@ ru | - Как вас зовут? - Меня зовут Чжан Сан. - Гос
 
 # § 语言兴趣（主宾、定从）
 
-知识点：语序（主语宾语谓语，及其格）、连接（但是）、喜欢动词+动作宾语（不定式）、定语从句、被动
+知识点：语序（主语宾语谓语，及其格）、连接（但是）、喜欢动词+动作宾语（不定式）、定语从句、（稍微带点）被动
 
 zh| （一句话展示对语言的兴趣）普通话我不会说，但我很感兴趣。
 -|-
@@ -591,9 +592,41 @@ es | ¿Cuántos años has estado en China? ¿Cuántos años vas a quedarte en Ch
 ru | Сколько лет вы пробыли в Китае? Сколько лет вы собираетесь оставаться в Китае?
 ar | كم سنة قضيت في الصين؟ كم سنة ستبقى في الصين؟ (Kam sanah qaḍayta fī al-Ṣīn? Kam sanah satabqā fī al-Ṣīn?)
 
-# § 基本交易（数量、连词）
+完成体/时、进行体
 
-知识点：数量、连词
+zh | 我已经把实验完成了，正在完善论文。
+-|-
+en | I have already completed the experiment and am currently refining the paper.
+ja | 私は実験をすでに終えて、今は論文を修正しています。
+de | Ich habe das Experiment bereits abgeschlossen und bearbeite gerade die Arbeit weiter.
+eo | Mi jam finis la eksperimenton kaj nun plibonigas la artikolon.
+ko | 저는 이미 실험을 완료했고, 지금 논문을 수정하고 있습니다.
+vi | Tôi đã hoàn thành xong thí nghiệm và hiện đang chỉnh sửa luận văn.
+fr | J'ai déjà terminé l'expérience et je suis en train de peaufiner le mémoire.
+es | Ya he terminado el experimento y estoy mejorando el artículo.
+ru | Я уже завершил эксперимент и сейчас дорабатываю статью.  ※前句使用了完整体，后句使用了非完整体
+ar | لقد أكملت التجربة بالفعل، وأنا الآن أقوم بتحسين البحث. (Laqad ʾakmaltu al-tajrībah bil-fiʿl, wa-ʾanā al-ʾān ʾaqūmu bi-taḥsīn al-baḥth.)
+
+完整体、非完整体（如何展示？）
+
+zh | 约翰昨天读了那本书；他正在读的时候，邮递员来了。
+-|-
+en | John read that book yesterday; while he was reading it, the postman came.
+ja | ジョンは昨日その本を読みました。彼が読んでいる間に、郵便配達員が来ました。
+de | John las gestern dieses Buch; während er es las, kam der Postbote.
+eo | Johano legis tiun libron hieraŭ; dum li legis ĝin, la poŝtisto venis.
+ko | 존은 어제 그 책을 읽었습니다. 그가 읽고 있는 동안에 우체부가 왔습니다.
+vi | John đã đọc cuốn sách đó hôm qua; trong khi anh ấy đang đọc, người đưa thư đã đến.
+fr | John a lu ce livre hier ; pendant qu'il le lisait, le facteur est arrivé.
+es | John leyó ese libro ayer; mientras lo estaba leyendo, llegó el cartero.
+ru | Джон прочитал эту книгу вчера; пока он её читал, пришёл почтальон.   ※前句прочитал使用了完整体，后句читал使用了非完整体
+ar | قرأ جون هذا الكتاب بالأمس؛ بينما كان يقرأه، جاء ساعي البريد. (Qaraʾa Jūn hādhā al-kitāb bilʾams; baynamā kāna yaqraʾuhu, jāʾa sāʿī al-barīd.)
+
+# § 交易物品（数量、连词、比较）
+
+知识点：数量、连词（和、或、既不也不）、指示代词、形容词的比较级和最高级和相同相似
+
+和、数量、量词
 
 zh | 我想要一个面包、两个苹果和一杯牛奶。
 -|-
@@ -608,18 +641,20 @@ es | Quiero un pan, dos manzanas y un vaso de leche.
 ru | Я хочу буханку хлеба, два яблока и стакан молока.
 ar | أريد خبزًا، وتفاحتين، وكوبًا من الحليب. (ʾurīdu khubzan, wa tuffāḥatayn, wa kūban min al-ḥalīb.)
 
-zh | 一个苹果多少钱？
+既不也不、或
+
+zh | 我既不想要黄油，也不想要奶酪。我只想要果酱或酸奶。
 -|-
-en | How much is an apple?
-ja | りんご1つはいくらですか？
-de | Wie viel kostet ein Apfel?
-eo | Kiom kostas pomo?
-ko | 沙果(사과) 하나는 얼마입니까?
-vi | 𠬠果棗價包饒(Một quả táo giá bao nhiêu)?   ※包饒bao nhiêu=bao(“how”) + nhiều(“many; much”)，饒为其之异汉越音
-fr | Combien coûte une pomme?
-es | ¿Cuánto cuesta una manzana?
-ru | Сколько стоит одно яблоко?
-ar | كم سعر تفاحة واحدة؟ (Kam siʿr tuffāḥah wāḥidah?)
+en | I want neither butter nor cheese. I only want jam or yogurt.
+ja | 私はバターもチーズも欲しくありません。ジャムかヨーグルトだけが欲しいです。
+de | Ich möchte weder Butter noch Käse. Ich möchte nur Marmelade oder Joghurt.
+eo | Mi volas nek buteron nek fromaĝon. Mi nur volas konfitaĵon aŭ jogurton.
+ko | 저는 버터도 치즈도 원하지 않습니다. 저는 잼이나 요거트만 원합니다.
+vi | Tôi không muốn bơ cũng không muốn phô mai. Tôi chỉ muốn mứt hoặc sữa chua.
+fr | Je ne veux ni beurre ni fromage. Je veux seulement de la confiture ou du yaourt.
+es | No quiero ni mantequilla ni queso. Solo quiero mermelada o yogur.
+ru | Я не хочу ни масла, ни сыра. Я хочу только варенье или йогурт.
+ar | لا أريد لا زبدة ولا جبنة. أريد فقط مربى أو زبادي. (Lā ʾurīdu lā zubdah wa-lā jubnah. ʾUrīdu faqaṭ murabbā ʾaw zabādī.)
 
 zh | 零、一、二、三、四、五、六、七、八、九、十
 -|-
@@ -633,6 +668,62 @@ fr | Zéro, un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix
 es | Cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez
 ru | Ноль, один, два, три, четыре, пять, шесть, семь, восемь, девять, десять
 ar | صفر، واحد، اثنان، ثلاثة، أربعة، خمسة، ستة، سبعة، ثمانية، تسعة، عشرة   (Ṣifr, wāḥid, ʾithnān, thalāthah, ʾarbaʿah, khamsah, sittah, sabʿah, thamāniyah, tisʿah, ʿasharah)
+
+zh | 少量西瓜。几个芒果。一些苹果。很多草莓。
+-|-
+en | A few watermelons. Several mangos. Some apples. Many strawberries.
+ja | 少しのスイカ。いくつかのマンゴー。いくつかのリンゴ。たくさんのイチゴ。
+de | Wenige Wassermelonen. Mehrere Mangos. Einige Äpfel. Viele Erdbeeren.
+eo | Kelke da akvomelonoj. Pluraj mangoj. Iom da pomoj. Multaj fragoj.
+ko | 적은 수박. 몇 개의 망고. 약간의 사과. 많은 딸기.
+vi | Một ít dưa hấu. Vài quả xoài. Một số táo. Nhiều dâu tây.
+fr | Peu de pastèques. Plusieurs mangues. Quelques pommes. Beaucoup de fraises.
+es | Pocas sandías. Varios mangos. Algunas manzanas. Muchas fresas.
+ru | Мало арбузов. Несколько манго. Несколько яблок. Много клубники.
+ar | كمية قليلة من البطيخ. عدة حبات مانجو. بعض التفاح. الكثير من الفراولة. (Kammiyya qalīla min al-baṭīkh. ʿIddat ḥabāt mānjū. Baʿḍ al-tuffāḥ. Al-kathīr min al-farāwila.)
+
+指示代词作为代词（这，这个东西）
+
+zh | 这个是什么？这个是一支笔。那个是什么？那个是一本书。
+-|-
+en | What is this? This is a pen. What is that? That is a book.
+ja | これは何ですか？これはペンです。あれは何ですか？あれは本です。
+de | Was ist das? Das ist ein Stift. Was ist das dort? Das ist ein Buch.
+eo | Kio estas ĉi tio? Ĉi tio estas plumo. Kio estas tio? Tio estas libro.
+ko | 이것은 무엇입니까? 이것은 펜입니다. 저것은 무엇입니까? 저것은 책입니다.
+vi | Đây là cái gì? Đây là một cái bút. Kia là cái gì? Kia là một quyển sách.
+fr | Qu'est-ce que c'est ? Ceci est un stylo. Qu'est-ce que c'est là-bas ? C'est un livre.
+es | ¿Qué es esto? Esto es un bolígrafo. ¿Qué es aquello? Aquello es un libro.
+ru | Что это? Это ручка. А то что? То - книга.
+ar | ما هذا؟ هذا قلم. ما ذلك؟ ذلك كتاب. (Mā hādhā? Hādhā qalam. Mā dhālika? Dhālika kitāb.)
+
+指示代词作为同位语（这个xx）
+
+zh | 这支笔是红色的。那本书是关于语言的。
+-|-
+en | This pen is red. That book is about languages.
+ja | このペンは赤いです。その本は言語についての本です。
+de | Dieser Stift ist rot. Das Buch handelt von Sprachen.
+eo | Ĉi tiu plumo estas ruĝa. Tiu libro temas pri lingvoj.
+ko | 이 펜은 빨간색입니다. 그 책은 언어에 관한 것입니다.
+vi | Cây bút này màu đỏ. Cuốn sách đó nói về ngôn ngữ.
+fr | Ce stylo est rouge. Ce livre est sur les langues.
+es | Este bolígrafo es rojo. Ese libro es sobre los idiomas.
+ru | Эта ручка красная. Та книга о языках.
+ar | هذا القلم أحمر. ذلك الكتاب عن اللغات. (Hādhā al-qalam ʾaḥmar. Dhālika al-kitāb ʿan al-lughāt.)
+
+zh | 一个苹果多少钱？
+-|-
+en | How much is an apple?
+ja | りんご1つはいくらですか？
+de | Wie viel kostet ein Apfel?
+eo | Kiom kostas pomo?
+ko | 沙果(사과) 하나는 얼마입니까?
+vi | 𠬠果棗價包饒(Một quả táo giá bao nhiêu)?   ※包饒bao nhiêu=bao(“how”) + nhiều(“many; much”)，饒为其之异汉越音
+fr | Combien coûte une pomme?
+es | ¿Cuánto cuesta una manzana?
+ru | Сколько стоит одно яблоко?
+ar | كم سعر تفاحة واحدة؟ (Kam siʿr tuffāḥah wāḥidah?)
 
 zh | 这个、那个和那个，加起来多少钱？10美元。真便宜。太贵了。
 -|-
@@ -660,9 +751,39 @@ es | ¿Puedo pagar escaneando el código QR o con tarjeta? No, solo se acepta ef
 ru | Можно оплатить с помощью сканирования QR-кода или картой? Нет, принимается только наличные. У меня нет мелочи, можете дать сдачу? У меня нет наличных. До свидания.
 ar | هل يمكنني الدفع عن طريق مسح الرمز أو باستخدام البطاقة؟ لا، يتم قبول النقد فقط. ليس لدي فكة، هل يمكن أن تعطيني فكة؟ ليس لدي نقود. وداعاً. (Hal yumkinunī al-dafʿ ʿan ṭarīq masḥ al-ramz ʾaw b-istikhdām al-biṭāqah? Lā, yutamma qabūl al-naqd faqaṭ. Laysa ladayya fakah, hal yumkin ʾan tuʿṭīnī fakah? Laysa ladayya nuqūd. Wadāʿan.)
 
-# § 方向道路（介词、情态）
+比较级、最高级、同级
 
-知识点：介词、情态
+zh | 我更年轻。我比你（更）年轻。我最年轻。我们一样年轻。我们差不多年轻。
+-|-
+en | I am younger. I am younger than you. I am the youngest. We are equally young. We are almost the same age.
+ja | 私はもっと若いです。私はあなたより若いです。私は一番若いです。私たちは同じくらい若いです。私たちはほぼ同じくらい若いです。
+de | Ich bin jünger. Ich bin jünger als du. Ich bin am jüngsten. Wir sind gleich jung. Wir sind fast gleich jung.
+eo | Mi estas pli juna. Mi estas pli juna ol vi. Mi estas la plej juna. Ni estas egale junaj. Ni estas preskaŭ same junaj.
+ko | 나는 더 젊다. 나는 너보다 젊다. 나는 가장 젊다. 우리는 똑같이 젊다. 우리는 거의 같은 나이다.
+vi | Tôi trẻ hơn. Tôi trẻ hơn bạn. Tôi trẻ nhất. Chúng tôi đều trẻ như nhau. Chúng tôi gần như trẻ như nhau.
+fr | Je suis plus jeune. Je suis plus jeune que toi. Je suis le plus jeune. Nous sommes aussi jeunes. Nous sommes presque aussi jeunes.
+es | Soy más joven. Soy más joven que tú. Soy el más joven. Somos igualmente jóvenes. Somos casi igualmente jóvenes.
+ru | Я моложе. Я моложе тебя. Я самый молодой. Мы одинаково молоды. Мы почти одинаково молоды.
+ar | أنا أصغر سناً. أنا أصغر منك. أنا الأصغر سناً. نحن في نفس العمر. نحن تقريباً في نفس العمر. (ʾAnā ʾaṣghar sinnān. ʾAnā ʾaṣghar minka. ʾAnā al-ʾaṣghar sinnān. Naḥnu fī nafs al-ʿumr. Naḥnu taqrīban fī nafs al-ʿumr.)
+
+比较的程度
+
+zh | 这本书更新一点点。这本书更新一些。这本书比那本书新得多。这本书不比那本书新。
+-|-
+en | This book is a little bit newer. This book is somewhat newer. This book is much newer than that one. This book is not newer than that one.
+ja | この本は少し新しいです。この本はやや新しいです。この本はあの本よりずっと新しいです。この本はあの本より新しくありません。
+de | Dieses Buch ist ein bisschen neuer. Dieses Buch ist etwas neuer. Dieses Buch ist viel neuer als das andere. Dieses Buch ist nicht neuer als das andere.
+eo | Ĉi tiu libro estas iomete pli nova. Ĉi tiu libro estas iom pli nova. Ĉi tiu libro estas multe pli nova ol tiu. Ĉi tiu libro ne estas pli nova ol tiu.
+ko | 이 책은 조금 더 새롭다. 이 책은 약간 더 새롭다. 이 책은 저 책보다 훨씬 새롭다. 이 책은 저 책보다 새롭지 않다.
+vi | Cuốn sách này mới hơn một chút. Cuốn sách này mới hơn một ít. Cuốn sách này mới hơn nhiều so với cuốn kia. Cuốn sách này không mới hơn cuốn kia.
+fr | Ce livre est un peu plus récent. Ce livre est quelque peu plus récent. Ce livre est bien plus récent que celui-là. Ce livre n'est pas plus récent que celui-là.
+es | Este libro es un poco más nuevo. Este libro es algo más nuevo. Este libro es mucho más nuevo que ese. Este libro no es más nuevo que ese.
+ru | Эта книга немного новее. Эта книга несколько новее. Эта книга намного новее, чем та. Эта книга не новее, чем та.
+ar | هذا الكتاب أحدث قليلاً. هذا الكتاب أحدث بعض الشيء. هذا الكتاب أحدث بكثير من ذلك. هذا الكتاب ليس أحدث من ذلك. (Hādhā al-kitāb ʾaḥdath qalīlan. Hādhā al-kitāb ʾaḥdath baʿḍ al-shayʾ. Hādhā al-kitāb ʾaḥdath bikathīr min dhālika. Hādhā al-kitāb laysa ʾaḥdath min dhālika.)
+
+# § 方向道路（介词、情态、被使）
+
+知识点：介词、情态（可以、必须、不许、想要、需要、应该）、被动态和使动态
 
 zh | 请问火车站怎么走？走到前面这个路口，左转，再直行走过两个路口就到了。
 -|-
@@ -703,9 +824,39 @@ es | Delante, detrás, izquierda, derecha. Arriba, abajo. Este, oeste, sur, nort
 ru | Впереди, сзади, слева, справа. Вверх, вниз. Восток, запад, юг, север.
 ar | أمام، خلف، يسار، يمين. أعلى، أسفل. شرق، غرب، جنوب، شمال. (ʾAmām, khalfa, yasār, yamīn. ʾAʿlā, ʾasfal. Sharq, gharb, janūb, shamāl.)
 
-# § 天气公告（引用、条件）
+想要、应该、需要
 
-知识点：引用（间接、直接）、条件
+zh | - 你好，我想去上海玩，我需要一张票。 - 你应该提前买票。
+-|-
+en | - Hello, I would like to go to Shanghai for a trip, and I need a ticket. - You should buy the ticket in advance.
+ja | - こんにちは、上海に旅行に行きたいのですが、チケットが必要です。 - チケットは前もって買うべきです。
+de | - Hallo, ich möchte nach Shanghai reisen und brauche ein Ticket. - Du solltest das Ticket im Voraus kaufen.
+eo | - Saluton, mi volas veturi al Ŝanhajo por ekskurso, kaj mi bezonas bileton. - Vi devus aĉeti la bileton anticipe.
+ko | - 안녕하세요, 상하이에 여행 가고 싶어요, 표가 필요해요. - 표는 미리 사는 게 좋습니다.
+vi | - Xin chào, tôi muốn đi du lịch đến Thượng Hải và cần một vé. - Bạn nên mua vé trước.
+fr | - Bonjour, je voudrais aller à Shanghai pour un voyage, et j'ai besoin d'un billet. - Vous devriez acheter le billet à l'avance.
+es | - Hola, me gustaría ir a Shanghái de viaje y necesito un boleto. - Deberías comprar el boleto con anticipación.
+ru | - Здравствуйте, я хочу поехать в Шанхай, мне нужен билет. - Вам следует купить билет заранее.
+ar | - مرحبًا، أريد الذهاب إلى شنغهاي للسياحة، وأحتاج إلى تذكرة. - ينبغي عليك شراء التذكرة مسبقًا. (Marḥabān, ʾurīdu al-dhahāb ʾilā Shànghǎi li-s-siyāḥah, wa-ʾaḥtāju ʾilā tadhkirah. Yanbaghī ʿalayka shiraʾ al-tadhkirah musbaqan.)
+
+被动态和使动态
+
+zh | 他的车在美国被人砸了。我让他开我的车。
+-|-
+en | His car was smashed by someone in the United States. I let him drive my car.
+ja | 彼の車はアメリカで誰かに壊されました。私は彼に私の車を運転させました。
+de | Sein Auto wurde in den USA von jemandem zerschlagen. Ich ließ ihn mein Auto fahren.
+eo | Lia aŭto estis rompita de iu en Usono. Mi lasis lin veturi mian aŭton.
+ko | 그의 차는 미국에서 누군가에 의해 부서졌습니다. 나는 그에게 내 차를 운전하게 했습니다.
+vi | Xe của anh ấy đã bị ai đó đập phá ở Mỹ. Tôi cho anh ấy lái xe của tôi.
+fr | Sa voiture a été cassée par quelqu'un aux États-Unis. Je lui ai permis de conduire ma voiture.
+es | Su coche fue destrozado por alguien en Estados Unidos. Yo le dejé conducir mi coche.
+ru | Его машина была разбита кем-то в США. Я позволил ему водить мою машину.
+ar | تم تحطيم سيارته من قبل شخص ما في الولايات المتحدة. سمحت له بقيادة سيارتي. (Tammat taḥṭīm sayyāratihi min qibal shaḵṣ mā fī al-Wilāyāt al-Muttaḥidah. Samaḥtu lahu bi-qiyādat sayyāratī.)
+
+# § 活动天气（引用、连句）
+
+知识点：引用（间接、直接）、连句（条件、并列、那么、转折、原因）
 
 zh | 天气预报说明天有雨。如果明天不下雨，我们就去爬山。
 -|-
@@ -720,7 +871,7 @@ es | El pronóstico del tiempo dice que lloverá mañana. Si no llueve mañana, 
 ru | Прогноз погоды говорит, что завтра будет дождь. Если завтра не будет дождя, мы пойдем в горы.
 ar | تقول النشرة الجوية إن غداً سيكون هناك مطر. إذا لم تمطر غداً، سنذهب لتسلق الجبال.
 
-zh | （译自Esperanto）- 我不断地对自己重复，当我长大后，我一定会消除这种罪恶。 - 我不断地对自己重复：“当我长大后，我一定会消除这种恶习。”
+zh | （译自Esperanto）- 我不断地对自己重复，当我长大后，我一定会消除这种罪恶。 - 我不断地对自己重复：“当我长大后，我一定会消除这种罪恶。”
 -|-
 en | - I kept repeating to myself that when I grow up, I will definitely get rid of this evil. - I kept repeating to myself, "When I grow up, I will definitely get rid of this evil."
 ja | - 私は大人になったら必ずこの悪を取り除くと自分に繰り返し言い聞かせていました。 - 私は自分に繰り返し言い聞かせていました：「大人になったら、必ずこの悪を取り除く。」
@@ -732,3 +883,48 @@ fr | - Je me répétais sans cesse que, lorsque je serai adulte, je me débarras
 es | - Me repetía a mí mismo que, cuando sea mayor, definitivamente eliminaré este mal. - Me repetía a mí mismo: “Cuando sea mayor, definitivamente eliminaré este mal.”
 ru | - Я повторял себе, что, когда я вырасту, я обязательно избавлюсь от этого зла. - Я повторял себе: «Когда я вырасту, я обязательно избавлюсь от этого зла.»
 ar | - كنت أكرر لنفسي أنه عندما أكبر، سأزيل هذا الشر بالتأكيد. (Kuntu ʾukarriru linafsī ʾannah ʿindamā ʾakbaru, saʾazīlu hādhā al-sharr biltakīd.) - كنت أكرر لنفسي: "عندما أكبر، سأزيل هذا الشر بالتأكيد." (Kuntu ʾukarriru linafsī: "ʿIndamā ʾakbaru, saʾazīlu hādhā al-sharr biltakīd.")
+
+并列、那么
+
+zh | 我喜欢跑步，我爱人喜欢跳舞。那么你喜欢什么运动呢？
+-|-
+en | I like running, and my spouse likes dancing. So, what sport do you like?
+ja | 私は走るのが好きで、妻（夫）は踊るのが好きです。それでは、あなたはどんなスポーツが好きですか？
+de | Ich mag Laufen, und mein Ehepartner tanzt gerne. Also, welchen Sport magst du?
+eo | Mi ŝatas kuri, kaj mia edz(in)o ŝatas danci. Do, kian sporton vi ŝatas?
+ko | 나는 달리기를 좋아하고, 내 배우자는 춤을 좋아해요. 그러면 당신은 어떤 운동을 좋아합니까?
+vi | Tôi thích chạy bộ, và vợ/chồng tôi thích nhảy múa. Vậy bạn thích môn thể thao nào?
+fr | J'aime courir, et mon conjoint aime danser. Alors, quel sport aimez-vous ?
+es | Me gusta correr, y a mi cónyuge le gusta bailar. Entonces, ¿qué deporte te gusta?
+ru | Я люблю бегать, а мой супруг/супруга любит танцевать. Тогда, какой спорт тебе нравится?
+ar | أنا أحب الجري، وزوجي/زوجتي يحب الرقص. إذن، ما الرياضة التي تحبها؟ (ʾAnā ʾuḥibbu al-jari, wa-zawjī/zawjatī yuḥibbu al-raqṣ. ʾIdhan, mā al-riyāḍah allatī tuḥibbuhā?)
+
+转折、原因（名词短语类）
+
+zh | 由于地理条件不同，广东很潮湿，但中原却很干燥。
+-|-
+en | Because of different geographical conditions, Guangdong is very humid, but the Central Plains are very dry.
+ja | 地理的条件が異なるため、広東はとても湿気がありますが、中原は非常に乾燥しています。
+de | Wegen unterschiedlicher geografischer Bedingungen ist Guangdong sehr feucht, aber die Zentralebene ist sehr trocken.
+eo | Pro malsamaj geografiaj kondiĉoj, Guangdong estas tre humida, sed la Centra Ebenaĵo estas tre seka.
+ko | 지리적 조건이 다르기 때문에 광둥은 매우 습하지만, 중원은 매우 건조합니다.
+vi | Vì điều kiện địa lý khác nhau, nên Quảng Đông rất ẩm ướt, nhưng Trung Nguyên lại rất khô hanh.
+fr | En raison des conditions géographiques différentes, le Guangdong est très humide, mais les Plaines centrales sont très sèches.
+es | Debido a las diferentes condiciones geográficas, Guangdong es muy húmedo, pero las llanuras centrales son muy secas.
+ru | Из-за различных географических условий Гуандунь очень влажный, но Центральная равнина очень сухая.
+ar | بسبب اختلاف الظروف الجغرافية، فإن غوانغدونغ رطبة جدًا، لكن المناطق الوسطى جافة جدًا. (Bisabab ikhtilāf al-ẓurūf al-jughrafīyah, fa-inna Ghuāngdūng raṭibah jiddan, lākinn al-manāṭiq al-wusṭā jāffah jiddan.)
+
+原因（句子类）、并列
+
+zh | 因为英国多风多雨，寒冷时间长，昼夜时长变化又大，所以很多人不喜欢英国的气候。
+-|-
+en | Because the UK is often windy and rainy, has long cold periods, and experiences significant changes in daylight hours, many people do not like the UK's climate.
+ja | イギリスは風が強くて雨が多く、寒い時期が長く、昼夜の長さの変化が大きいため、多くの人がイギリスの気候を好まないです。
+de | Weil es im Vereinigten Königreich oft windig und regnerisch ist, die kalten Zeiten lang sind und die Tageslänge stark variiert, mögen viele Menschen das Klima dort nicht.
+eo | Ĉar en Britio estas ofte venta kaj pluva, kun longaj malvarmaj periodoj kaj grandaj ŝanĝoj en la daŭro de la tago kaj nokto, multaj homoj ne ŝatas la klimaton de Britio.
+ko | 영국은 바람이 많이 불고 비가 자주 내리며, 추운 기간이 길고, 낮과 밤의 길이 변화가 크기 때문에, 많은 사람들이 영국의 기후를 좋아하지 않습니다.
+vi | Vì Vương quốc Anh thường có gió và mưa nhiều, thời gian lạnh kéo dài và sự thay đổi độ dài ngày đêm lớn, nên nhiều người không thích khí hậu của Anh.
+fr | Parce que le Royaume-Uni est souvent venteux et pluvieux, que les périodes froides sont longues et que les variations de la durée du jour et de la nuit sont importantes, beaucoup de gens n'aiment pas le climat britannique.
+es | Debido a que el Reino Unido es frecuentemente ventoso y lluvioso, tiene períodos fríos prolongados y experimenta grandes cambios en la duración del día y la noche, a muchas personas no les gusta el clima del Reino Unido.
+ru | Из-за того, что в Великобритании часто ветрено и дождливо, длительные холодные периоды, и большие изменения в продолжительности дня и ночи, многим людям не нравится климат Великобритании.
+ar | لأن المملكة المتحدة غالبًا ما تكون عاصفة وماطرة، وفترات البرودة طويلة، وتغيرات طول النهار والليل كبيرة، فإن الكثير من الناس لا يحبون مناخ المملكة المتحدة. (Liʾanna al-Mamlakah al-Muttaḥidah ghāliban mā takūnu ʿāṣifah wa māṭirah, wa fatarāt al-burūdah ṭawīlah, wa taghayyurāt ṭūl al-nahār wa al-layl kabīrah, fa-ʾinna al-kathīr min al-nās lā yuḥibbūna manākh al-Mamlakah al-Muttaḥidah.)
