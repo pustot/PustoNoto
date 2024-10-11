@@ -15,6 +15,8 @@
 
 GitHub 源代码 [https://github.com/pustot/PustoNoto/blob/master/H-Lingvo/H0-9-Kernoj/Tekstaro.md](https://github.com/pustot/PustoNoto/blob/master/H-Lingvo/H0-9-Kernoj/Tekstaro.md)
 
+统一使用简约两栏模式，备注使用符号 📝 ※
+
 TODO:
 
 - 情态：愿意、可能
@@ -155,7 +157,7 @@ tr | - merhaba / selam - (person staying) güle güle, (person leaving) hoşça 
 bo | - བཀྲ་ཤིས་བདེ་ལེགས (bkra shis bde legs) /ʈ͡ʂə˥˥.ɕi˥˨.te˩˨.le˥˨/ - ག་ལེ་ཕེབས (ga le phebs) (by the one staying), ག་ལེ་ཞུགས (ga le zhugs) (by the one going)
 km | - ជម្រាបសួរ (cumriəp suə) /cum.ˈriəp suə/ / សួស្តី (suəsdəy) /suə.ˈsɗəj/.
 mn | - ᠰᠠᠶᠢᠨ ᠪᠠᠶᠢᠨ᠎ᠠ ᠤᠤ (sayin bayin-a-uu) (сайн байна уу?) [sʰæ̝ːm pæ̝ːn‿o̙ː]
-da | - Hej. / Goddag. - Farvel ※音标：第一句 - /hɑj/ [hɑ̈j] 或 /ɡoˈdaːˀɣ/ [ɡ̊ɔ̽ˈd̥æˀ] 第二句 - /fɑːˈvɛl/, [fɑ̈ːˈʋel]
+da | - Hej. / Goddag. - Farvel 📝音标：第一句 - /hɑj/ [hɑ̈j] 或 /ɡoˈdaːˀɣ/ [ɡ̊ɔ̽ˈd̥æˀ] 第二句 - /fɑːˈvɛl/, [fɑ̈ːˈʋel]
 sa | - नमस्कार (namaskāra) / नमस्ते (namaste).
 he | - שָׁלוֹם (shalóm) /ʃaˈlom/, שָׁלוֹם עָלֵיכֶם (shalóm 'aleikhém) /ʃaˈlom aleˈχɛm/  - לְהִתְרָאוֹת (l'hitra'ót) / שָׁלוֹם  (shalóm) (more general than goodbye)
 
@@ -164,7 +166,7 @@ zh | - 谢谢你。 - 不客气。
 ja | - 有（あ）り難（がと）う。 - どう致（いた）しまして。
 de | - Danke. - Bitte.
 eo | - Dankon. - Ne dankinde.
-ko | - 感謝(감사)합니다. - 千萬(천만)에요. ※「千萬에요」罕用，常代以「没啥」类短语，如 「괜찮아요」 「아니에」 「네」
+ko | - 感謝(감사)합니다. - 千萬(천만)에요. 📝「千萬에요」罕用，常代以「没啥」类短语，如 「괜찮아요」 「아니에」 「네」
 vi | - 感恩(Cảm ơn)  - 空𣎏之(Không có gì)
 fr | - Merci. - De rien.
 es | - Gracias - De nada
@@ -181,7 +183,7 @@ bo | - ཐུགས་རྗེ་ཆེ (thugs rje che)
 za | - dwgrengz mwngz loz (literally “you worked hard”)
 mn | - ᠪᠠᠶᠠᠷᠯᠠᠯᠤᠭ᠎ᠠ (bayarlalug-a, баярлалаа) / ᠭᠢᠯᠠᠶᠢᠯ᠎ᠠ (gilayil-a, гялайлаа)
 ug | - رەھمەت (rehmet), ھەشقاللا (heshqalla) 
-da | - Tak. - Selv tak / Velbekomme.  ※音标：第一句 - /tak/, /ˈtɑɡ/, [ˈtˢɑɡ̊], [ˈtsʰɑ̈k] 第二句 - 
+da | - Tak. - Selv tak / Velbekomme.  📝音标：第一句 - /tak/, /ˈtɑɡ/, [ˈtˢɑɡ̊], [ˈtsʰɑ̈k] 第二句 - 
 
 zh | - 对不起。 - 没关系。
 -|-
@@ -200,7 +202,7 @@ pt | - Desculpe - Não há problema
 it | - Mi scusi - Nessun problema
 la | - Ignosce - Nihil refert
 ms | - Maaf - Tidak apa-apa
-da | - Undskyld. / - Det gør ikke noget. ※音标：第一句 - /ˈonˌsɡylˀ/ [ˈɔ̽nˌskylˀ] 第二句 - 
+da | - Undskyld. / - Det gør ikke noget. 📝音标：第一句 - /ˈonˌsɡylˀ/ [ˈɔ̽nˌskylˀ] 第二句 - 
 
 zh | - 不好意思，请问你会讲汉语或英语（或世界语）吗？ - 不好意思，可以再重复一遍吗？/什么？
 -|-
@@ -210,7 +212,7 @@ eo | - Pardonu, ĉu vi povas paroli la ĉinan aŭ la anglan (aŭ Esperanton)? - 
 ko | - 失禮(실례)합니다, 中國語(중국어)나 英語(영어) (또는 에스페란토)를 할 수 있습니까? - 罪悚(죄송)한데, 다시 한 番(번) 말씀해 주시겠어요? / 뭐라고요?
 vi | - 吀纇，伴𣎏體呐㗂中或㗂英（或㗂國際語）空？(Xin lỗi, bạn có thể nói tiếng Trung hoặc tiếng Anh (hoặc tiếng Quốc tế ngữ) không?) -  吀纇，伴𣎏體𧿑吏𠬠吝𠯆空？(Xin lỗi, bạn có thể nhắc lại một lần nữa không?) / 吀纇(Xin lỗi?)?
 ru | - Извини́те, вы говори́те по-кита́йски и́ли по-англи́йски (или на эсперанто)? - Извини́те, можете повторить еще раз? / Что?
-da | - Undskyld, taler du kinesisk eller engelsk (eller esperanto)? - Undskyld, kan du gentage det? / Undskyld? / Hvad? ※音标：第一句 - /ˈonˌsɡylˀ/ [ˈɔ̽nˌskylˀ] /taːlər/ [ˈtˢæːlɐ] [ˈd̥u] [ˈkʰinɛsisɡ̊] /ˈɛlər/ [ˈelɐ] /ˈɛŋˀəlsɡ/ [ˈeŋˀəlsɡ̊] () 第二句 -
+da | - Undskyld, taler du kinesisk eller engelsk (eller esperanto)? - Undskyld, kan du gentage det? / Undskyld? / Hvad? 📝音标：第一句 - /ˈonˌsɡylˀ/ [ˈɔ̽nˌskylˀ] /taːlər/ [ˈtˢæːlɐ] [ˈd̥u] [ˈkʰinɛsisɡ̊] /ˈɛlər/ [ˈelɐ] /ˈɛŋˀəlsɡ/ [ˈeŋˀəlsɡ̊] () 第二句 -
 
 zh | （替换为目标语） - 你会说普通话/汉语吗？ - 我不会说普通话/汉语。 - 我只会说一点点普通话/汉语。
 -|-
@@ -218,7 +220,7 @@ en | - Can you speak English? - I don't speak English. - I can only speak a litt
 ja | - 日本語を話せますか？ - 日本語を話せません。 - 私は日本語を少ししか話せません。
 de | - Kannst du Deutsch sprechen? - Ich kann kein Deutsch sprechen. - Ich kann nur ein bisschen Deutsch sprechen.
 eo | - Ĉu vi parolas Esperanton? - Mi ne parolas Esperanton. - Mi povas nur iomete paroli Esperanton.
-ko | - 當身(당신)은 韓國語(한국어)를 할 手(수) 있습니까? - 저는 韓國語(한국어)를 못 합니다. - 저는 韓國語(한국어)를 조금밖에 못 합니다.  ※조금：一点点。밖：之外。
+ko | - 當身(당신)은 韓國語(한국어)를 할 手(수) 있습니까? - 저는 韓國語(한국어)를 못 합니다. - 저는 韓國語(한국어)를 조금밖에 못 합니다.  📝조금：一点点。밖：外面、之外（しか）。
 vi | - 伴𣎏呐㗂越空(Bạn có nói tiếng Việt không)? - 碎空呐㗂越(Tôi không nói tiếng Việt). - 碎只呐得𠬠𡭧㗂越(Tôi chỉ nói được một chút tiếng Việt).
 fr | - Parlez-vous français? - Je ne parle pas français. - Je ne parle qu'un tout petit peu le français
 es | - ¿Hablas español? - No hablo español. - Solo puedo hablar un poquito de español.
@@ -243,7 +245,7 @@ ja | - あなたは中国人ですか？ - はい、私は中国人です。 - �
 de | - Bist du Chinese? - Ja, ich bin Chinese. - Nein, ich bin kein Chinese.
 eo | - Ĉu vi estas ĉino? - Jes, mi estas ĉino. - Ne, mi ne estas ĉino.
 ko | - 當身(당신)은 中國人(중국인)입니까? - 네, 저는 中國人(중국인)입니다. - 아니요, 저는 中國人(중국인)이 아닙니다.
-vi | - 伴羅𠊛中國沛空(Bạn là người Trung Quốc phải không)? - 𠳐(Vâng), 碎羅𠊛中國(tôi là người Trung Quốc). - 空(Không), 碎空沛羅𠊛中國(tôi không phải là người Trung Quốc). ※沛phải意为「对」correct
+vi | - 伴羅𠊛中國沛空(Bạn là người Trung Quốc phải không)? - 𠳐(Vâng), 碎羅𠊛中國(tôi là người Trung Quốc). - 空(Không), 碎空沛羅𠊛中國(tôi không phải là người Trung Quốc). 📝沛phải意为「对」correct
 fr | - Êtes-vous chinois ? - Oui, je suis chinois. - Non, je ne suis pas chinois.
 es | - ¿Eres chino? - Sí, soy chino. - No, no soy chino.
 ru | - Вы кита́ец? - Да, я кита́ец. - Нет, я не кита́ец.
@@ -264,7 +266,7 @@ tr | - Çinli misiniz? - Evet, ben Çinliyim. - Hayır, ben Çinli değilim.
 my | - မင်းက တရုတ်လူမျိုးလား။ - ဟုတ်ကဲ့၊ ငါ တရုတ်လူမျိုးပါ။ - မဟုတ်ဘူး၊ ငါ တရုတ်လူမျိုး မဟုတ်ဘူး။   (- Min ka ta-yote lu-myo la? - Hokke, nga ta-yote lu-myo pa. - Ma-hok bu, nga ta-yote lu-myo ma-hok bu.)
 za | - Miz diuj dou yie? - Diep, ngo yie dou. - Bou diep, ngo mbou yie dou.
 lo | - ເຈົ້າເປັນຄົນຈີນບໍ? - ແມ່ນ, ຂ້ອຍເປັນຄົນຈີນ. - ບໍ່ແມ່ນ, ຂ້ອຍບໍ່ແມ່ນຄົນຈີນ.   (- Chao pen khon Chin bo? - Mæn, khoi pen khon Chin. - Bo mæn, khoi bo mæn khon Chin.)
-km | - តើអ្នកជាជនជាតិចិនមែនទេ? - បាទ/ចាស, ខ្ញុំជាជនជាតិចិន។ - ទេ, ខ្ញុំមិនមែនជាជនជាតិចិនទេ។   (- Tae neak chea chon cheat Chen men te? - Bat/cha, khnhom chea chon cheat Chen. - Te, khnhom min men chea chon cheat Chen te.) ※（“បាទ”用于男性，“ចាស”用于女性）
+km | - តើអ្នកជាជនជាតិចិនមែនទេ? - បាទ/ចាស, ខ្ញុំជាជនជាតិចិន។ - ទេ, ខ្ញុំមិនមែនជាជនជាតិចិនទេ។   (- Tae neak chea chon cheat Chen men te? - Bat/cha, khnhom chea chon cheat Chen. - Te, khnhom min men chea chon cheat Chen te.) 📝（“បាទ”用于男性，“ចាស”用于女性）
 rm | - Es ti in Chinais? - Gea, jau sun in Chinais. - Na, jau sun betg in Chinais.
 ca | - Ets xinès? - Sí, sóc xinès. - No, no sóc xinès.
 ro | - Ești chinez? - Da, sunt chinez. - Nu, nu sunt chinez.
@@ -364,7 +366,7 @@ ja | 中国は美しい国で、長い歴史、輝かしい文化、繁栄した
 de | China ist ein schönes Land mit einer langen Geschichte, einer glanzvollen Kultur, einer florierenden Wirtschaft, einer bequemen Infrastruktur und fortschrittlicher Technologie.
 eo | Ĉinio estas bela lando, kun longa historio, brila kulturo, prospera ekonomio, oportuna infrastrukturo kaj progresinta teknologio.
 ko | 中國(중국)은 아름다운 나라로, 긴 歷史(역사)와 燦爛(찬란)한 文化(문화), 繁榮(번영)하는 經濟(경제), 便利(편리)한 인프라, 그리고 尖端(첨단) 技術(기술)을 保有(보유)하고 있습니다.
-vi | 中國羅𠬠國家𦎡𢢲，固歷史𥹰𠁀，文化𤊧𠒦，經濟盛旺，下層便利吧工藝先進。(Trung Quốc là một quốc gia xinh đẹp, có lịch sử lâu đời, văn hóa rực rỡ, kinh tế thịnh vượng, hạ tầng tiện lợi và công nghệ tiên tiến.)   ※异汉越音：𦎡-清，𠁀-代
+vi | 中國羅𠬠國家𦎡𢢲，固歷史𥹰𠁀，文化𤊧𠒦，經濟盛旺，下層便利吧工藝先進。(Trung Quốc là một quốc gia xinh đẹp, có lịch sử lâu đời, văn hóa rực rỡ, kinh tế thịnh vượng, hạ tầng tiện lợi và công nghệ tiên tiến.)   📝异汉越音：𦎡-清，𠁀-代
 fr | La Chine est un beau pays avec une longue histoire, une culture éclatante, une économie prospère, des infrastructures pratiques et une technologie avancée.
 es | China es un país hermoso con una larga historia, una cultura brillante, una economía próspera, infraestructura conveniente y tecnología avanzada.
 ru | Китай — это красивая страна с долгой историей, яркой культурой, процветающей экономикой, удобной инфраструктурой и передовыми технологиями.
@@ -374,7 +376,7 @@ zh | - 你在这里做什么？ - 你是来这旅游的吗？
 -|-
 ja | - ここで何をしていますか？ - ここに旅行に来たのですか？
 eo | - Kion vi faras ĉi tie? - Ĉu vi venis ĉi tien por vojaĝi?
-ko | - 여기서 무엇을 하고 있습니까? - 旅行(여행)하러 오셨습니까? ※-셨-来自시+었，即敬语的过去时
+ko | - 여기서 무엇을 하고 있습니까? - 旅行(여행)하러 오셨습니까? 📝-셨-来自시+었，即敬语的过去时
 vi | - 伴當爫之於低(Bạn đang làm gì ở đây)? - 伴𦤾低底遊歷沛空(Bạn đến đây để du lịch phải không)?
 ru | - Что вы здесь делаете? - Вы приехали сюда как турист?
 
@@ -401,15 +403,15 @@ en | I don't speak English, but I'm very interested.
 ja | 日本語は話せませんが、興味があります。
 de | Deutsch kann ich nicht sprechen, aber ich habe großes Interesse.
 eo | Mi ne parolas Esperanto, sed mi tre interesiĝas.
-ko | 韓國語(한국어)는 못해요, 그런데 關心(관심)이 많아요. ※못하다 [ˈmo̞(ː)tʰa̠da̠]
-vi | 碎𣗓別呐㗂越，仍碎慄關心。(Tôi chưa biết nói tiếng Việt, nhưng tôi rất quan tâm.) ※chưa [t͡ɕɨə˧˧] 表示未，không 表示不，皆可
+ko | 韓國語(한국어)는 못해요, 그런데 關心(관심)이 많아요. 📝못하다 [ˈmo̞(ː)tʰa̠da̠]
+vi | 碎𣗓別呐㗂越，仍碎慄關心。(Tôi chưa biết nói tiếng Việt, nhưng tôi rất quan tâm.) 📝𣗓chưa [t͡ɕɨə˧˧] 表示未，空không 表示不；皆可用
 hak-mxz | ？？？
 nan-swa | ？？？
 nan-xmn | ？？？
 fr | Je ne parle pas français, mais je suis très intéressé(e).
 es | No hablo español, pero tengo mucho interés.
 ru | Я не говорю́ по-ру́сски, но меня́ о́чень интересу́ет.
-ar | لا أتكلم العربية، لكنني مهتم جداً   （Lā ʾatakallamu al-ʿarabiyya, lākinnī muhtamm jiddan.） ※ 不 我说 阿语，但-我 感兴趣的 很
+ar | لا أتكلم العربية، لكنني مهتم جداً   （Lā ʾatakallamu al-ʿarabiyya, lākinnī muhtamm jiddan.） 📝 不 我说 阿语，但-我 感兴趣的 很
 cmn-kmg | ？？？
 nl | Ik spreek geen Nederlands, maar ik ben erg geïnteresseerd.
 sv | Jag kan inte svenska, men jag är mycket intresserad.
@@ -425,7 +427,7 @@ ja | 私は言語の学習と研究が好きです。
 de | Ich mag es, Sprachen zu lernen und zu erforschen.
 eo | Mi ŝatas lerni kaj esplori lingvojn.
 ko | 저는 言語(언어)를 工夫(공부)하고 硏究(연구)하는 것을 좋아합니다.
-vi | 碎適學吧研究言語(Tôi thích học và nghiên cứu ngôn ngữ).  ※nghiên cứu
+vi | 碎適學吧研究言語(Tôi thích học và nghiên cứu ngôn ngữ). 
 fr | J'aime étudier et rechercher les langues.
 es | Me gusta estudiar e investigar los idiomas.
 ru | Я люблю изучать и исследовать языки.
@@ -437,12 +439,12 @@ en | I am learning a language that was created by Zamenhof, which aims to promot
 ja | 私はザメンホフによって作られた言語を勉強していますが、その言語は国際的な理解を促進（そくしん）することを目的としています。
 de | Ich lerne eine Sprache, die von Zamenhof erschaffen wurde und die darauf abzielt, internationales Verständnis zu fördern.
 eo | Mi lernas lingvon, kiu estis kreita de Zamenhof kaj kiu celas antaŭenigi internacian komprenon.
-ko | 저는 자멘호프에 依(의)해 만들어진 言語(언어)를 배우고 있는데, 그 言語(언어)는 國際的(국제적)인 理解(이해)를 增進(증진)하는 것을 目標(목표)로 합니다. ※x에 依(의)해表示被动动词的施动者；만들어지다是만들다的被动态；것相当于こと
-vi | 碎當學𠬠言語特造𫥨𤳄Zamenhof，言語呢𥄮促𢱜事曉別國際(Tôi đang học một ngôn ngữ được tạo ra bởi Zamenhof, ngôn ngữ này nhằm thúc đẩy sự hiểu biết quốc tế.) ※được表示被动，bởi引出施动者，从句直接用动词短语而不需要关系代词。
+ko | 저는 자멘호프에 依(의)해 만들어진 言語(언어)를 배우고 있는데, 그 言語(언어)는 國際的(국제적)인 理解(이해)를 增進(증진)하는 것을 目標(목표)로 합니다. 📝x에 依(의)해表示被动动词的施动者；만들어지다是만들다的被动态；것相当于こと
+vi | 碎當學𠬠言語特造𫥨𤳄Zamenhof，言語呢𥄮促𢱜事曉別國際(Tôi đang học một ngôn ngữ được tạo ra bởi Zamenhof, ngôn ngữ này nhằm thúc đẩy sự hiểu biết quốc tế.) 📝được表示被动，bởi引出施动者，从句直接用动词短语而不需要关系代词。
 fr | J'apprends une langue qui a été créée par Zamenhof et qui vise à promouvoir la compréhension internationale.
 es | Estoy aprendiendo un idioma que fue creado por Zamenhof, el cual tiene como objetivo promover la comprensión internacional.
 ru | Я изучаю язык, который был создан Заменгофом и который направлен на содействие международному пониманию.
-ar | أنا أتعلم لغة أوجدها زامنهوف، والتي تهدف إلى تعزيز الفهم الدولي.  (ʾanā ʾataʿallamu lughatān ʾawjadahā Zāminhūf, wa-llatī tahdifu ʾilā taʿzīz al-fahm al-dawlī.) ※（关系代词是 التي  allatī，关系代词可被省略，如第一个从句）（我 学习 一个语言 它创造了 扎门霍夫，和它 目标是 为了 促进 理解 国际的）
+ar | أنا أتعلم لغة أوجدها زامنهوف، والتي تهدف إلى تعزيز الفهم الدولي.  (ʾanā ʾataʿallamu lughatān ʾawjadahā Zāminhūf, wa-llatī tahdifu ʾilā taʿzīz al-fahm al-dawlī.) 📝（关系代词是 التي  allatī，关系代词可被省略，如第一个从句）（我 学习 一个语言 它创造了 扎门霍夫，和它 目标是 为了 促进 理解 国际的）
 
 # § 亲友家庭（代词、存在）
 
@@ -617,7 +619,7 @@ ko | 저는 이미 실험을 완료했고, 지금 논문을 수정하고 있습�
 vi | Tôi đã hoàn thành xong thí nghiệm và hiện đang chỉnh sửa luận văn.
 fr | J'ai déjà terminé l'expérience et je suis en train de peaufiner le mémoire.
 es | Ya he terminado el experimento y estoy mejorando el artículo.
-ru | Я уже завершил эксперимент и сейчас дорабатываю статью.  ※前句使用了完整体，后句使用了非完整体
+ru | Я уже завершил эксперимент и сейчас дорабатываю статью.  📝前句使用了完整体，后句使用了非完整体
 ar | لقد أكملت التجربة بالفعل، وأنا الآن أقوم بتحسين البحث. (Laqad ʾakmaltu al-tajrībah bil-fiʿl, wa-ʾanā al-ʾān ʾaqūmu bi-taḥsīn al-baḥth.)
 
 完整体、非完整体（如何展示？）
@@ -632,7 +634,7 @@ ko | 존은 어제 그 책을 읽었습니다. 그가 읽고 있는 동안에 �
 vi | John đã đọc cuốn sách đó hôm qua; trong khi anh ấy đang đọc, người đưa thư đã đến.
 fr | John a lu ce livre hier ; pendant qu'il le lisait, le facteur est arrivé.
 es | John leyó ese libro ayer; mientras lo estaba leyendo, llegó el cartero.
-ru | Джон прочитал эту книгу вчера; пока он её читал, пришёл почтальон.   ※前句прочитал使用了完整体，后句читал使用了非完整体
+ru | Джон прочитал эту книгу вчера; пока он её читал, пришёл почтальон.   📝前句прочитал使用了完整体，后句читал使用了非完整体
 ar | قرأ جون هذا الكتاب بالأمس؛ بينما كان يقرأه، جاء ساعي البريد. (Qaraʾa Jūn hādhā al-kitāb bilʾams; baynamā kāna yaqraʾuhu, jāʾa sāʿī al-barīd.)
 
 # § 交易物品（数量、连词、比较）
@@ -672,10 +674,10 @@ ar | لا أريد لا زبدة ولا جبنة. أريد فقط مربى أو 
 zh | 零、一、二、三、四、五、六、七、八、九、十
 -|-
 en | Zero, one, two, three, four, five, six, seven, eight, nine, ten
-ja | 零 (れい/ゼロ)、一 (いち)、二 (に)、三 (さん)、四 (し/よん)、五 (ご)、六 (ろく)、七 (しち/なな)、八 (はち)、九 (きゅう/く)、十 (じゅう) ※接部分量词时改用本土词汇
+ja | 零 (れい/ゼロ)、一 (いち)、二 (に)、三 (さん)、四 (し/よん)、五 (ご)、六 (ろく)、七 (しち/なな)、八 (はち)、九 (きゅう/く)、十 (じゅう) 📝接部分量词时改用本土词汇
 de | Null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn  
 eo | Nulo, unu, du, tri, kvar, kvin, ses, sep, ok, naŭ, dek
-ko | 영 (零)、일 (一)、이 (二)、삼 (三)、사 (四)、오 (五)、육 (六)、칠 (七)、팔 (八)、구 (九)、십 (十) ※接部分量词时改用本土词汇
+ko | 영 (零)、일 (一)、이 (二)、삼 (三)、사 (四)、오 (五)、육 (六)、칠 (七)、팔 (八)、구 (九)、십 (十) 📝接部分量词时改用本土词汇
 vi | Không, một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười
 fr | Zéro, un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix
 es | Cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez
@@ -732,7 +734,7 @@ ja | りんご1つはいくらですか？
 de | Wie viel kostet ein Apfel?
 eo | Kiom kostas pomo?
 ko | 沙果(사과) 하나는 얼마입니까?
-vi | 𠬠果棗價包饒(Một quả táo giá bao nhiêu)?   ※包饒bao nhiêu=bao(“how”) + nhiều(“many; much”)，饒为其之异汉越音
+vi | 𠬠果棗價包饒(Một quả táo giá bao nhiêu)?   📝包饒bao nhiêu=bao(“how”) + nhiều(“many; much”)，饒为其之异汉越音
 fr | Combien coûte une pomme?
 es | ¿Cuánto cuesta una manzana?
 ru | Сколько стоит одно яблоко?
