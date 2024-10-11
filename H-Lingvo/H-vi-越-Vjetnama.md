@@ -13,9 +13,11 @@ CLC: H44
 
 ## 汉喃文 | Hán Nôm
 
-https://chunom.org/
-
-http://www.nomfoundation.org/nom-tools/Nom-Lookup-Tool?uiLang=en
+- https://chunom.org/
+- http://www.nomfoundation.org/nom-tools/Nom-Lookup-Tool?uiLang=en
+- viki https://www.hannom-rcv.org/wi/index.php/%E5%BC%B5%E6%AD%A3
+    - 书院 https://www.hannom-rcv.org/wi/index.php/%E6%9B%B8%E9%99%A2:%E5%BC%B5%E6%AD%A3
+        - 宣言全世界𧗱人權𧵑聯合國 https://www.hannom-rcv.org/wi/index.php/%E6%9B%B8%E9%99%A2:%E5%AE%A3%E8%A8%80%E5%85%A8%E4%B8%96%E7%95%8C%F0%A7%97%B1%E4%BA%BA%E6%AC%8A%F0%A7%B5%91%E8%81%AF%E5%90%88%E5%9C%8B
 
 ## 国语字（罗马字）
 

@@ -140,7 +140,7 @@ vi | - 吀嘲(Xin chào) - 暫別(Tạm biệt) / chào / bai
 fr | - Bonjour. - Au revoir.
 es | - Hola - Adiós
 ru | - Приве́т / здра́вствуйте - До свида́ния
-ar | - مرحبا /mar.ħa.ban/, (pausa) /mar.ħa.baː/ السلام عليكم (assalāmu ʿalaykum) /as.sa.laː.mu ʕa.laj.kum/（重音大概于倒二音节lay）  - وداعا /wa.daː.ʕan/ مع السلامة (maʿa assalāma)
+ar | - السلام عليكم /as.sa.laː.mu ʕa.laj.kum/（重音约倒二音节lay） / مرحبا /mar.ħa.ban/, (若停顿) /mar.ħa.baː/  -مع السلامة (maʿa assalāma) / وداعا /wa.daː.ʕan/  📝assalaamu 3alaykum: 定冠词 al + 和平 salaam + 主格标记u用于主格（u表示定的，un表示不定的）。介词 3alaa 表示在x上或向x，后面的代词用附加代词的形式（每个代词都有对应的附加形式，随哪个介词都一样），kum是你们2antum的附加代词形式，介词与附加代词间加了个y，这个现象只要出现在词尾为长a的介词3alaa和ilaa（到）之后，并且这两个长a都是那个像y的写法；而其他介词如fii（中）min（从）bi（用凭）。📝ma3a salaamah: 介词（与，with）ma3a+定冠词+和平的宾格（介词多要求宾格）al-salaamah。意为（愿你）与和平/平安在一起（with safety）。这个ht的合字叫「ta marbuta」，是阴性名词和形容词的词尾，发音规则是如果在句尾或停顿就h，句中未停顿尤其连读时就t
 nl | - Hallo - Tot ziens
 sv | - Hej - Hejdå
 pt | - Olá /oˈla/ - Adeus
@@ -167,11 +167,11 @@ ja | - 有（あ）り難（がと）う。 - どう致（いた）しまして�
 de | - Danke. - Bitte.
 eo | - Dankon. - Ne dankinde.
 ko | - 感謝(감사)합니다. - 千萬(천만)에요. 📝「千萬에요」罕用，常代以「没啥」类短语，如 「괜찮아요」 「아니에」 「네」
-vi | - 感恩(Cảm ơn)  - 空𣎏之(Không có gì)
+vi | - 感恩(Cảm ơn)  - 空固之(Không có gì)
 fr | - Merci. - De rien.
 es | - Gracias - De nada
 ru | - Спаси́бо - Пожа́луйста
-ar | - شكرا /ʃuk.ran/ - عفوا /ʕaf.wan/
+ar | - شكرا /ʃuk.ran/ - عفوا /ʕaf.wan/ 📝shukran固定表达而词尾不会因停顿规则念为aa。它是感恩「شُكْر」一词的一种用作状语的宾格（adverbial accusative）。3fwan同理，但3afw本意是“原谅、宽恕、赦免”，不知为啥要说原谅别人的谢意，就理解为习惯吧。。。
 nl | - Dank je - Geen probleem
 sv | - Tack - Varsågod
 pt | - Obrigado - De nada
@@ -195,7 +195,7 @@ vi | - 吀纇(Xin lỗi)  - 空牢(Không sao)
 fr | - Pardon/Désolé. - Pas de problème.
 es | - Perdón - No hay problema
 ru | - Извини́те - Всё в поря́дке
-ar | -  آسف /ʔaː.sif/ (男性)/آسفة (āsifa) (女性) - لا بأس (lā baʔsa)
+ar | -  آسف /ʔaː.sif/ (男性)/آسفة (āsifa) (女性) - لا بأس (lā baʔsa) 📝ʔāsif来自动词「 أَسِفَ ʔasifa」（to regret）之主动分词形式，用作形容词，表示sorry的。📝lā baʔsa 逐字就是 no problem，其中理论上名词baʔs其宾格才是baʔsa，但在此短语中加a似乎只是为了发音简便，不是为了宾格？baʔs来自动词勇敢baʔusa，有勇气、力量、不幸、逆境等多种含义。
 nl | - Sorry - Geen probleem
 sv | - Förlåt - Det är okej
 pt | - Desculpe - Não há problema
@@ -210,7 +210,7 @@ en | - Excuse me, can you speak Chinese or English (or Esperanto)? - Excuse me, 
 ja | - すみません、中国語か英語（またはエスペラント語）を話せますか？ - すみません、もう一度繰り返していただけますか？ / 何ですか？
 eo | - Pardonu, ĉu vi povas paroli la ĉinan aŭ la anglan (aŭ Esperanton)? - Pardonu, ĉu vi povas ripeti? / Pardonu? / Kio?
 ko | - 失禮(실례)합니다, 中國語(중국어)나 英語(영어) (또는 에스페란토)를 할 수 있습니까? - 罪悚(죄송)한데, 다시 한 番(번) 말씀해 주시겠어요? / 뭐라고요?
-vi | - 吀纇，伴𣎏體呐㗂中或㗂英（或㗂國際語）空？(Xin lỗi, bạn có thể nói tiếng Trung hoặc tiếng Anh (hoặc tiếng Quốc tế ngữ) không?) -  吀纇，伴𣎏體𧿑吏𠬠吝𠯆空？(Xin lỗi, bạn có thể nhắc lại một lần nữa không?) / 吀纇(Xin lỗi?)?
+vi | - 吀纇，伴固體呐㗂中或㗂英（或㗂國際語）空？(Xin lỗi, bạn có thể nói tiếng Trung hoặc tiếng Anh (hoặc tiếng Quốc tế ngữ) không?) -  吀纇，伴固體𧿑吏𠬠吝𠯆空？(Xin lỗi, bạn có thể nhắc lại một lần nữa không?) / 吀纇(Xin lỗi?)?
 ru | - Извини́те, вы говори́те по-кита́йски и́ли по-англи́йски (или на эсперанто)? - Извини́те, можете повторить еще раз? / Что?
 da | - Undskyld, taler du kinesisk eller engelsk (eller esperanto)? - Undskyld, kan du gentage det? / Undskyld? / Hvad? 📝音标：第一句 - /ˈonˌsɡylˀ/ [ˈɔ̽nˌskylˀ] /taːlər/ [ˈtˢæːlɐ] [ˈd̥u] [ˈkʰinɛsisɡ̊] /ˈɛlər/ [ˈelɐ] /ˈɛŋˀəlsɡ/ [ˈeŋˀəlsɡ̊] () 第二句 -
 
@@ -221,11 +221,11 @@ ja | - 日本語を話せますか？ - 日本語を話せません。 - 私は�
 de | - Kannst du Deutsch sprechen? - Ich kann kein Deutsch sprechen. - Ich kann nur ein bisschen Deutsch sprechen.
 eo | - Ĉu vi parolas Esperanton? - Mi ne parolas Esperanton. - Mi povas nur iomete paroli Esperanton.
 ko | - 當身(당신)은 韓國語(한국어)를 할 手(수) 있습니까? - 저는 韓國語(한국어)를 못 합니다. - 저는 韓國語(한국어)를 조금밖에 못 합니다.  📝조금：一点点。밖：外面、之外（しか）。
-vi | - 伴𣎏呐㗂越空(Bạn có nói tiếng Việt không)? - 碎空呐㗂越(Tôi không nói tiếng Việt). - 碎只呐得𠬠𡭧㗂越(Tôi chỉ nói được một chút tiếng Việt).
+vi | - 伴固呐㗂越空(Bạn có nói tiếng Việt không)? - 碎空呐㗂越(Tôi không nói tiếng Việt). - 碎只呐得𠬠𡭧㗂越(Tôi chỉ nói được một chút tiếng Việt).
 fr | - Parlez-vous français? - Je ne parle pas français. - Je ne parle qu'un tout petit peu le français
 es | - ¿Hablas español? - No hablo español. - Solo puedo hablar un poquito de español.
 ru | - Ты говори́шь по-ру́сски? - Я не говорю́ по-ру́сски. - Я говорю только немного по-русски.
-ar | - 「 هل تتحدث العربية؟ 」/hal (tataḥaddaṯu) al.ʕa.ra.bij.ja/ - 「 لا أتحدث العربية 」/laː (ʔataḥaddaṯu) al.ʕa.ra.bij.ja/ - أنا أتحدث فقط قليلاً من العربية. (ʾAnā ʾataḥaddathu faqaṭ qalīlan min al-ʿarabīyah.)
+ar | - 「 هل تتحدث العربية؟ 」/hal (tataḥaddaṯu) al.ʕa.ra.bij.ja/ - 「 لا أتحدث العربية 」/laː (ʔataḥaddaṯu) al.ʕa.ra.bij.ja/ - أنا أتحدث فقط قليلاً من العربية. (ʾAnā ʾataḥaddathu faqaṭ qalīlan min al-ʿarabīyah.) 📝动词讲、说为「 تَحَدَّثَ (taḥaddaṯa) 」。此动词来自词根「ح د ث • (ḥ-d-ṯ)」（发生）之第五范式 Form V（第一范式是基本，“发生”；第二范式是把第二个辅音延长，表加强或反复或使役，“告诉”；第五范式是在第二范式前加ta-，表示反身，或者强调动作过程或结果，“讲、说”）。其一单非完体为「 أتحدث (ʔataḥaddaṯu)  」（一单非完体一般就是前加「 أَ 」）
 nl | - Spreek je Nederlands? - Ik spreek geen Nederlands. - Ik spreek maar een beetje Nederlands.
 sv | - Kan du prata svenska? - Jag kan inte prata svenska. - Jag kan bara tala lite svenska.
 pt | - Você fala português? - Eu não falo português. - Eu só falo um pouco de português.
@@ -440,7 +440,7 @@ ja | 私はザメンホフによって作られた言語を勉強しています
 de | Ich lerne eine Sprache, die von Zamenhof erschaffen wurde und die darauf abzielt, internationales Verständnis zu fördern.
 eo | Mi lernas lingvon, kiu estis kreita de Zamenhof kaj kiu celas antaŭenigi internacian komprenon.
 ko | 저는 자멘호프에 依(의)해 만들어진 言語(언어)를 배우고 있는데, 그 言語(언어)는 國際的(국제적)인 理解(이해)를 增進(증진)하는 것을 目標(목표)로 합니다. 📝x에 依(의)해表示被动动词的施动者；만들어지다是만들다的被动态；것相当于こと
-vi | 碎當學𠬠言語特造𫥨𤳄Zamenhof，言語呢𥄮促𢱜事曉別國際(Tôi đang học một ngôn ngữ được tạo ra bởi Zamenhof, ngôn ngữ này nhằm thúc đẩy sự hiểu biết quốc tế.) 📝được表示被动，bởi引出施动者，从句直接用动词短语而不需要关系代词。
+vi | 碎當學𠬠言語得造𫥨𤳄Zamenhof，言語呢𥄮促𢱜事曉別國際(Tôi đang học một ngôn ngữ được tạo ra bởi Zamenhof, ngôn ngữ này nhằm thúc đẩy sự hiểu biết quốc tế.) 📝được表示被动，bởi引出施动者，从句直接用动词短语而不需要关系代词。
 fr | J'apprends une langue qui a été créée par Zamenhof et qui vise à promouvoir la compréhension internationale.
 es | Estoy aprendiendo un idioma que fue creado por Zamenhof, el cual tiene como objetivo promover la comprensión internacional.
 ru | Я изучаю язык, который был создан Заменгофом и который направлен на содействие международному пониманию.
@@ -482,8 +482,8 @@ en | There are three people in my family. There is only one person in the room r
 ja | 私の家族は3人です。部屋には今、一人しかいません。
 de | In meiner Familie gibt es drei Personen. Im Zimmer ist jetzt nur eine Person.
 eo | En mia familio estas tri homoj. En la ĉambro estas nur unu persono nun.
-ko | 우리 가족은 세 명입니다. 방 안에 지금 한 사람만 있습니다.
-vi | Gia đình tôi có ba người. Bây giờ trong phòng chỉ có một người.
+ko | 우리 家族(가족)은 세 名(명)입니다. 房(방) 안에 只今(지금) 한 사람만 있습니다.
+vi | 家庭碎固𠀧𠊛(Gia đình tôi có ba người). 悲𣇞𥪝房只固𠬠𠊛(Bây giờ trong phòng chỉ có một người).
 fr | Il y a trois personnes dans ma famille. Il n'y a qu'une seule personne dans la pièce en ce moment.
 es | En mi familia hay tres personas. En la habitación solo hay una persona ahora.
 ru | В моей семье три человека. В комнате сейчас только один человек.
@@ -574,7 +574,7 @@ en | - Last year was 1948. This year is 1949. Next year will be 1950.
 ja | - 昨年（さくねん）は1948年でした。今年は1949年です。来年は1950年です。
 de | - Letztes Jahr war 1948. Dieses Jahr ist 1949. Nächstes Jahr wird 1950 sein.
 eo | - La pasinta jaro estis 1948. Ĉi tiu jaro estas 1949. La venonta jaro estos 1950.
-ko | - 작년은 1948년이었습니다. 올해는 1949년입니다. 내년은 1950년입니다.
+ko | - 昨年(작년)은 1948年(년)이었습니다. 올해는 1949年(년)입니다. 来年(내년)은 1950年(년)입니다.
 vi | - Năm ngoái là năm 1948. Năm nay là năm 1949. Năm sau là năm 1950.
 fr | - L'année dernière était 1948. Cette année est 1949. L'année prochaine sera 1950.
 es | - El año pasado fue 1948. Este año es 1949. El próximo año será 1950.
@@ -587,7 +587,7 @@ en | Yesterday I drank milk. Now I am drinking alcohol. Tomorrow I will drink te
 ja | 昨日、私は牛乳を飲みました。今、お酒を飲んでいます。明日、私はお茶を飲むつもりです。
 de | Gestern habe ich Milch getrunken. Jetzt trinke ich Alkohol. Morgen werde ich Tee trinken.
 eo | Hieraŭ mi trinkis lakton. Nun mi trinkas alkoholon. Morgaŭ mi trinkos teon.
-ko | 어제 나는 우유를 마셨다. 지금 나는 술을 마시고 있다. 내일 나는 차를 마실 것이다.
+ko | 어제 나는 牛乳(우유)를 마셨다. 只今(지금) 나는 술을 마시고 있다. 来日(내일) 나는 茶(차)를 마실 것이다.
 vi | Hôm qua tôi đã uống sữa. Bây giờ tôi đang uống rượu. Ngày mai tôi sẽ uống trà.
 fr | Hier, j'ai bu du lait. Maintenant, je bois de l'alcool. Demain, je boirai du thé.
 es | Ayer bebí leche. Ahora estoy bebiendo alcohol. Mañana beberé té.
