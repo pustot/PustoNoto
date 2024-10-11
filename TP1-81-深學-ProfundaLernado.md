@@ -8,8 +8,13 @@ Dewey 006.32
 
 - [006.35-NLP-NaturLingvaPrilaborado.md](./006.35-NLP-NaturLingvaPrilaborado.md) 基本重要突破都是基于深度学习的，尤其是大语言模型
 
-# 神经网络常用架构/模型
+# 神经网络常用神经元机制/架构/模型
 
+- 激活函数
+    - sigmoid
+    - tanh
+    - ReLU
+        - ReLU本质上就是分段函数，max(0,x)。《Nair&Hinton,ICML2010多大》证明其在深学之优势
 - 卷积
     - CNN (卷积神经网络)，通过卷积层和池化层捕获局部特征
     - ResNet （残差网络），一种 CNN 的架构，引入了残差块，有助于解决梯度消失问题
