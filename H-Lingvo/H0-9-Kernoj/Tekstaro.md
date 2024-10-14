@@ -210,7 +210,7 @@ en | - Excuse me, can you speak Chinese or English (or Esperanto)? - Excuse me, 
 ja | - すみません、中国語か英語（またはエスペラント語）を話せますか？ - すみません、もう一度繰り返していただけますか？ / 何ですか？
 eo | - Pardonu, ĉu vi povas paroli la ĉinan aŭ la anglan (aŭ Esperanton)? - Pardonu, ĉu vi povas ripeti? / Pardonu? / Kio?
 ko | - 失禮(실례)합니다, 中國語(중국어)나 英語(영어) (또는 에스페란토)를 할 수 있습니까? - 罪悚(죄송)한데, 다시 한 番(번) 말씀해 주시겠어요? / 뭐라고요?
-vi | - 吀纇，伴固體呐㗂中或㗂英（或㗂國際語）空？(Xin lỗi, bạn có thể nói tiếng Trung hoặc tiếng Anh (hoặc tiếng Quốc tế ngữ) không?) -  吀纇，伴固體𧿑吏𠬠吝𠯆空？(Xin lỗi, bạn có thể nhắc lại một lần nữa không?) / 吀纇(Xin lỗi?)?
+vi | - 吀纇，伴固體呐㗂中或㗂英（或㗂國際語）空？(Xin lỗi, bạn có thể nói tiếng Trung hoặc tiếng Anh (hoặc tiếng Quốc tế ngữ) không?) -  吀纇，伴固體𧿑吏𠬠吝𠯆空？(Xin lỗi, bạn có thể nhắc lại một lần nữa không?) / 吀纇(Xin lỗi?)? 📝「體」既有同汉语之义，亦有v.「可能」之意（仅用于合成词），「固體」可以、可能也，「空體」叵、叵能也。nhắc lại再讲一次也，其中𧿑nhắc提到也，吏lại再次也。吝lần来自「輪」之异汉越音。𠯆nữa者more也，讲多一次。
 ru | - Извини́те, вы говори́те по-кита́йски и́ли по-англи́йски (или на эсперанто)? - Извини́те, можете повторить еще раз? / Что?
 da | - Undskyld, taler du kinesisk eller engelsk (eller esperanto)? - Undskyld, kan du gentage det? / Undskyld? / Hvad? 📝音标：第一句 - /ˈonˌsɡylˀ/ [ˈɔ̽nˌskylˀ] /taːlər/ [ˈtˢæːlɐ] [ˈd̥u] [ˈkʰinɛsisɡ̊] /ˈɛlər/ [ˈelɐ] /ˈɛŋˀəlsɡ/ [ˈeŋˀəlsɡ̊] () 第二句 -
 
@@ -221,7 +221,7 @@ ja | - 日本語を話せますか？ - 日本語を話せません。 - 私は�
 de | - Kannst du Deutsch sprechen? - Ich kann kein Deutsch sprechen. - Ich kann nur ein bisschen Deutsch sprechen.
 eo | - Ĉu vi parolas Esperanton? - Mi ne parolas Esperanton. - Mi povas nur iomete paroli Esperanton.
 ko | - 當身(당신)은 韓國語(한국어)를 할 手(수) 있습니까? - 저는 韓國語(한국어)를 못 합니다. - 저는 韓國語(한국어)를 조금밖에 못 합니다.  📝조금：一点点。밖：外面、之外（しか）。
-vi | - 伴固呐㗂越空(Bạn có nói tiếng Việt không)? - 碎空呐㗂越(Tôi không nói tiếng Việt). - 碎只呐得𠬠𡭧㗂越(Tôi chỉ nói được một chút tiếng Việt).
+vi | - 伴固呐㗂越空(Bạn có nói tiếng Việt không)? - 碎空呐㗂越(Tôi không nói tiếng Việt). - 碎只呐得𠬠𡮍㗂越(Tôi chỉ nói được một chút tiếng Việt). 📝𡮍chút一点点。
 fr | - Parlez-vous français? - Je ne parle pas français. - Je ne parle qu'un tout petit peu le français
 es | - ¿Hablas español? - No hablo español. - Solo puedo hablar un poquito de español.
 ru | - Ты говори́шь по-ру́сски? - Я не говорю́ по-ру́сски. - Я говорю только немного по-русски.
@@ -245,7 +245,7 @@ ja | - あなたは中国人ですか？ - はい、私は中国人です。 - �
 de | - Bist du Chinese? - Ja, ich bin Chinese. - Nein, ich bin kein Chinese.
 eo | - Ĉu vi estas ĉino? - Jes, mi estas ĉino. - Ne, mi ne estas ĉino.
 ko | - 當身(당신)은 中國人(중국인)입니까? - 네, 저는 中國人(중국인)입니다. - 아니요, 저는 中國人(중국인)이 아닙니다.
-vi | - 伴羅𠊛中國沛空(Bạn là người Trung Quốc phải không)? - 𠳐(Vâng), 碎羅𠊛中國(tôi là người Trung Quốc). - 空(Không), 碎空沛羅𠊛中國(tôi không phải là người Trung Quốc). 📝沛phải意为「对」correct
+vi | - 伴𱺵𠊛中國沛空(Bạn là người Trung Quốc phải không)? - 𠳐(Vâng), 碎𱺵𠊛中國(tôi là người Trung Quốc). - 空(Không), 碎空沛𱺵𠊛中國(tôi không phải là người Trung Quốc). 📝沛phải意为「正确」，另有「必」义，来自汉字「被」之异汉越音
 fr | - Êtes-vous chinois ? - Oui, je suis chinois. - Non, je ne suis pas chinois.
 es | - ¿Eres chino? - Sí, soy chino. - No, no soy chino.
 ru | - Вы кита́ец? - Да, я кита́ец. - Нет, я не кита́ец.
@@ -298,7 +298,7 @@ ja | - どこから来ましたか？ - 私は中国の北京から来ました�
 de | - Woher kommst du? - Ich komme aus Peking, China.
 eo | - De kie vi venas? - Mi venas el Pekino, Ĉinio.
 ko | - 어디에서 왔습니까? - 저는 中國(중국) 北京(북경)에서 왔습니다.
-vi | - 伴𦤾自兜(Bạn đến từ đâu)? - 碎𦤾自北京，中國(Tôi đến từ Bắc Kinh, Trung Quốc).
+vi | - 伴𦤾自兜(Bạn đến từ đâu)? - 碎𦤾自北京，中國(Tôi đến từ Bắc Kinh, Trung Quốc). 📝𦤾đến「来」也，亦义「到」「到达」。兜đâu者属一系列đ-头指示词，đây此、此地，đấy那、那里，đó那、那里
 fr | - D'où venez-vous ? - Je viens de Pékin, en Chine.
 es | - ¿De dónde eres? - Soy de Pekín, China.
 ru | - Отку́да вы прие́хали? - Я прие́хал из Пеки́на, Кита́й.
@@ -348,7 +348,7 @@ zh | - 中国大吗？ - 中国很大。
 ja | - 中国は大きいですか？ - 中国は大きいです。
 eo | - Ĉu Ĉinio estas granda? - Ĉinio estas granda.
 ko | - 中國(중국)이 큽니까? - 中國(중국)은 큽니다.
-vi | - 中國固𡘯空(Trung Quốc có lớn không)? - 中國慄𡘯(Trung Quốc rất lớn).
+vi | - 中國固𡘯空(Trung Quốc có lớn không)? - 中國慄𡘯(Trung Quốc rất lớn). 📝形容词谓语不使用 to be。
 ru | - Китай большой? - Китай большой.
 
 zh | - 中国小吗？ - 中国并不小。
@@ -356,7 +356,7 @@ zh | - 中国小吗？ - 中国并不小。
 ja | - 中国は小さいですか？ - 中国は小さくありません。
 eo | - Ĉu Ĉinio estas malgranda? - Ĉinio ne estas malgranda.
 ko | - 中國(중국)이 작습니까? - 中國(중국)은 작지 않습니다.
-vi | - 中國𡮈空(Trung Quốc nhỏ không)? - 中國空𡮈(Trung Quốc không nhỏ).
+vi | - 中國𡮈空(Trung Quốc nhỏ không)? - 中國空𡮈(Trung Quốc không nhỏ). 📝có ... không的có可省略
 ru | - Китай маленький? - Китай не маленький.
 
 zh| 中国是一个美丽的国家，它拥有悠久的历史、灿烂的文化、繁荣的经济、便利的基建和先进的科技
@@ -366,7 +366,7 @@ ja | 中国は美しい国で、長い歴史、輝かしい文化、繁栄した
 de | China ist ein schönes Land mit einer langen Geschichte, einer glanzvollen Kultur, einer florierenden Wirtschaft, einer bequemen Infrastruktur und fortschrittlicher Technologie.
 eo | Ĉinio estas bela lando, kun longa historio, brila kulturo, prospera ekonomio, oportuna infrastrukturo kaj progresinta teknologio.
 ko | 中國(중국)은 아름다운 나라로, 긴 歷史(역사)와 燦爛(찬란)한 文化(문화), 繁榮(번영)하는 經濟(경제), 便利(편리)한 인프라, 그리고 尖端(첨단) 技術(기술)을 保有(보유)하고 있습니다.
-vi | 中國羅𠬠國家𦎡𢢲，固歷史𥹰𠁀，文化𤊧𠒦，經濟盛旺，下層便利吧工藝先進。(Trung Quốc là một quốc gia xinh đẹp, có lịch sử lâu đời, văn hóa rực rỡ, kinh tế thịnh vượng, hạ tầng tiện lợi và công nghệ tiên tiến.)   📝异汉越音：𦎡-清，𠁀-代
+vi | 中國𱺵𠬠國家𦎡𢢲，固歷史𥹰𠁀，文化𤊧𠒦，經濟盛旺，下層便利吧工藝先進。(Trung Quốc là một quốc gia xinh đẹp, có lịch sử lâu đời, văn hóa rực rỡ, kinh tế thịnh vượng, hạ tầng tiện lợi và công nghệ tiên tiến.)   📝异汉越音：𦎡-清，𠁀-代
 fr | La Chine est un beau pays avec une longue histoire, une culture éclatante, une économie prospère, des infrastructures pratiques et une technologie avancée.
 es | China es un país hermoso con una larga historia, una cultura brillante, una economía próspera, infraestructura conveniente y tecnología avanzada.
 ru | Китай — это красивая страна с долгой историей, яркой культурой, процветающей экономикой, удобной инфраструктурой и передовыми технологиями.
@@ -377,7 +377,7 @@ zh | - 你在这里做什么？ - 你是来这旅游的吗？
 ja | - ここで何をしていますか？ - ここに旅行に来たのですか？
 eo | - Kion vi faras ĉi tie? - Ĉu vi venis ĉi tien por vojaĝi?
 ko | - 여기서 무엇을 하고 있습니까? - 旅行(여행)하러 오셨습니까? 📝-셨-来自시+었，即敬语的过去时
-vi | - 伴當爫之於低(Bạn đang làm gì ở đây)? - 伴𦤾低底遊歷沛空(Bạn đến đây để du lịch phải không)?
+vi | - 伴當爫之於低(Bạn đang làm gì ở đây)? - 伴𦤾低底遊歷沛空(Bạn đến đây để du lịch phải không)? 📝當đang标记进行、非完整体，在也。làm与là同源，其意义联系参考汉语「为」（wei2），有「是」「做」二义
 ru | - Что вы здесь делаете? - Вы приехали сюда как турист?
 
 zh | - 请问您叫什么名字？/请问您贵姓？ - 我叫张三。 - 张三先生，幸会幸会。
@@ -385,7 +385,7 @@ zh | - 请问您叫什么名字？/请问您贵姓？ - 我叫张三。 - 张三
 ja | - お名前は何ですか？ - 私は張三と申します。 - 張三さん、お会いできて光栄です。
 eo | - Kio estas via nomo? / Ĉu mi povas scii vian nomon? - Mia nomo estas Zhang San. - Sinjoro Zhang San, tre agrable renkonti vin.
 ko | - 이름이 무엇입니까? - 제 이름은 張三(장삼)입니다. - 張三(장삼) 씨, 만나서 반갑습니다.
-vi | - 伴𠸜羅之(Bạn tên là gì)? - 碎𠸜羅張三(Tôi tên là Trương Tam). - 翁張三，慄欣幸得﨤(Ông Trương Tam, rất hân hạnh được gặp.)
+vi | - 伴𠸜𱺵之(Bạn tên là gì)? - 碎𠸜𱺵張三(Tôi tên là Trương Tam). - 翁張三，慄欣幸得﨤(Ông Trương Tam, rất hân hạnh được gặp.)
 ru | - Как вас зовут? - Меня зовут Чжан Сан. - Господин Чжан Сан, приятно познакомиться.
 
 # § 语言兴趣（主宾、定从）
@@ -404,7 +404,7 @@ ja | 日本語は話せませんが、興味があります。
 de | Deutsch kann ich nicht sprechen, aber ich habe großes Interesse.
 eo | Mi ne parolas Esperanto, sed mi tre interesiĝas.
 ko | 韓國語(한국어)는 못해요, 그런데 關心(관심)이 많아요. 📝못하다 [ˈmo̞(ː)tʰa̠da̠]
-vi | 碎𣗓別呐㗂越，仍碎慄關心。(Tôi chưa biết nói tiếng Việt, nhưng tôi rất quan tâm.) 📝𣗓chưa [t͡ɕɨə˧˧] 表示未，空không 表示不；皆可用
+vi | 碎𣗓別呐㗂越，仍碎慄關心。(Tôi chưa biết nói tiếng Việt, nhưng tôi rất quan tâm.) 📝𣗓chưa [t͡ɕɨə˧˧] 表示未，空không 表示不；皆可用。仍nhưng汉字也，延伸出「但是」义
 hak-mxz | ？？？
 nan-swa | ？？？
 nan-xmn | ？？？
@@ -427,7 +427,7 @@ ja | 私は言語の学習と研究が好きです。
 de | Ich mag es, Sprachen zu lernen und zu erforschen.
 eo | Mi ŝatas lerni kaj esplori lingvojn.
 ko | 저는 言語(언어)를 工夫(공부)하고 硏究(연구)하는 것을 좋아합니다.
-vi | 碎適學吧研究言語(Tôi thích học và nghiên cứu ngôn ngữ). 
+vi | 碎適學吧研究言語(Tôi thích học và nghiên cứu ngôn ngữ).  📝適thích汉字也，演化为喜欢义
 fr | J'aime étudier et rechercher les langues.
 es | Me gusta estudiar e investigar los idiomas.
 ru | Я люблю изучать и исследовать языки.
@@ -440,7 +440,7 @@ ja | 私はザメンホフによって作られた言語を勉強しています
 de | Ich lerne eine Sprache, die von Zamenhof erschaffen wurde und die darauf abzielt, internationales Verständnis zu fördern.
 eo | Mi lernas lingvon, kiu estis kreita de Zamenhof kaj kiu celas antaŭenigi internacian komprenon.
 ko | 저는 자멘호프에 依(의)해 만들어진 言語(언어)를 배우고 있는데, 그 言語(언어)는 國際的(국제적)인 理解(이해)를 增進(증진)하는 것을 目標(목표)로 합니다. 📝x에 依(의)해表示被动动词的施动者；만들어지다是만들다的被动态；것相当于こと
-vi | 碎當學𠬠言語得造𫥨𤳄Zamenhof，言語呢𥄮促𢱜事曉別國際(Tôi đang học một ngôn ngữ được tạo ra bởi Zamenhof, ngôn ngữ này nhằm thúc đẩy sự hiểu biết quốc tế.) 📝được表示被动，bởi引出施动者，从句直接用动词短语而不需要关系代词。
+vi | 碎當學𠬠言語得造𫥨𤳄Zamenhof，言語呢𥄮促𢱜事曉別國際(Tôi đang học một ngôn ngữ được tạo ra bởi Zamenhof, ngôn ngữ này nhằm thúc đẩy sự hiểu biết quốc tế.) 📝得được表示被动，𤳄bởi引出施动者，从句直接用动词短语而不需要关系代词。呢này好彩都使呢字。𥄮nhằm目标是、为了。𢱜đẩy推也。事sự类比日语「事（こと）」
 fr | J'apprends une langue qui a été créée par Zamenhof et qui vise à promouvoir la compréhension internationale.
 es | Estoy aprendiendo un idioma que fue creado por Zamenhof, el cual tiene como objetivo promover la comprensión internacional.
 ru | Я изучаю язык, который был создан Заменгофом и который направлен на содействие международному пониманию.
@@ -457,7 +457,7 @@ ja | あなたは私の親友です。私たちは親友です。
 de | Du bist mein guter Freund. Wir sind gute Freunde.
 eo | Vi estas mia bona amiko. Ni estas bonaj amikoj.
 ko | 너는 나의 좋은 親舊(친구)이다. 우리는 좋은 親舊(친구)이다.
-vi | 伴羅𠊛伴卒𧵑碎(Bạn là người bạn tốt của tôi). 眾些羅伴卒(Chúng ta là bạn tốt).
+vi | 伴羅𠊛伴卒𧵑碎(Bạn là người bạn tốt của tôi). 眾些羅伴卒(Chúng ta là bạn tốt). 📝卒tốt好也，与汉字卒同音故。
 fr | Tu es mon bon ami. Nous sommes de bons amis.
 es | Eres mi buen amigo. Somos buenos amigos.
 ru | Ты мой хороший друг. Мы хорошие друзья.
@@ -483,7 +483,7 @@ ja | 私の家族は3人です。部屋には今、一人しかいません。
 de | In meiner Familie gibt es drei Personen. Im Zimmer ist jetzt nur eine Person.
 eo | En mia familio estas tri homoj. En la ĉambro estas nur unu persono nun.
 ko | 우리 家族(가족)은 세 名(명)입니다. 房(방) 안에 只今(지금) 한 사람만 있습니다.
-vi | 家庭碎固𠀧𠊛(Gia đình tôi có ba người). 悲𣇞𥪝房只固𠬠𠊛(Bây giờ trong phòng chỉ có một người).
+vi | 家庭碎固𠀧𠊛(Gia đình tôi có ba người). 悲𣇞𥪝房只固𠬠𠊛(Bây giờ trong phòng chỉ có một người). 📝悲bây意为这个程度。b-系列指示代词参见bao（多少）, bấy（以那个程度、数量），𣇞giờ来自汉字「时」之异汉越音。𥪝trong意为在x里，en
 fr | Il y a trois personnes dans ma famille. Il n'y a qu'une seule personne dans la pièce en ce moment.
 es | En mi familia hay tres personas. En la habitación solo hay una persona ahora.
 ru | В моей семье три человека. В комнате сейчас только один человек.
@@ -501,14 +501,14 @@ ja | （私はあなたを）愛しています／愛してる。
 de | Ich liebe dich.
 eo | mi amas vin [mi ˈamas vin]
 ko | (나는 너를) 사랑해요 / 사랑해.
-vi | 英𢞅㛪(Anh yêu em). [ʔajŋ̟˧˧ ʔiəw˧˧ ʔɛm˧˧] (note: man to woman)
+vi | 英𢞅㛪(Anh yêu em). [ʔajŋ̟˧˧ ʔiəw˧˧ ʔɛm˧˧] (注：男对女。越语代词不分人称而分上下亲疏)
 hak-mxz | 𠊎愛你 ngài oi ǹ / ngài oi ngì /ŋai̯¹¹ oi̯⁵⁵ n¹¹/, /ŋai̯¹¹ oi̯⁵⁵ ɲi¹¹/
 nan-swa | ？？？
 nan-xmn | 我愛汝 (guá ài lí) (Kaohsiung: /ɡua⁴¹⁻⁴⁴ ai²¹⁻⁴¹ li⁴¹/)
 fr | Je t'aime. / Je vous aime. / Je t'adore. / Je vous adore.
 es | (Yo) Te amo.
-ru | я тебя́ люблю́ [ˈja tʲɪˈbʲa lʲʊˈblʲu] / я вас люблю́ [ˈja vas lʲʊˈblʲu] (duzen vs. siezen) / я люблю тебя
-ar | أحبك 📝(note: 省去附标的写法相同，读法不同； to a male: أُحِبُّكَ (ʔuḥibbuka) /ʔu.ħib.bu.ka/; to a female: أُحِبُّكِ  (ʔuḥibbuki) /ʔu.ħib.bu.ki/) 📝动词原形「 أحب  （/ʔa.ħab.ba/）」派生形态四（Form IV）（与 Habibi 同源），一称非过去时即为「ʔuḥibbu」。后面接的那个是附加代词，妳ki你ka。
+ru | я тебя́/вас люблю́ [ˈja tʲɪˈbʲa/vas lʲʊˈblʲu] (你/您之分) / я люблю тебя
+ar | أحبك 📝(note: 省去附标的写法相同，读法不同； 对女: أُحِبُّكِ  (ʔuḥibbuki) /ʔu.ħib.bu.ki/, 对男: أُحِبُّكَ (ʔuḥibbuka) /ʔu.ħib.bu.ka/; ) 📝动词原形「 أحب  （/ʔa.ħab.ba/）」派生形态四（Form IV）（与 Habibi 同源），一称非过去时即为「ʔuḥibbu」。后面接的那个是附加代词，妳ki你ka。
 cmn-kmg | ？？？
 nl | Ik houd van jou. / Ik hou van jou. /ɪk ˈɦɑu̯d fɑn jɑu̯/
 sv | Jag älskar dig. /jɑː ɛlska dɛ̝jː/
@@ -575,7 +575,7 @@ ja | - 昨年（さくねん）は1948年でした。今年は1949年です。�
 de | - Letztes Jahr war 1948. Dieses Jahr ist 1949. Nächstes Jahr wird 1950 sein.
 eo | - La pasinta jaro estis 1948. Ĉi tiu jaro estas 1949. La venonta jaro estos 1950.
 ko | - 昨年(작년)은 1948年(년)이었습니다. 올해는 1949年(년)입니다. 来年(내년)은 1950年(년)입니다.
-vi | - Năm ngoái là năm 1948. Năm nay là năm 1949. Năm sau là năm 1950.
+vi | - 𢆥外𱺵𢆥1948(Năm ngoái là năm 1948). 𢆥𠉞𱺵𢆥(Năm nay là năm 1949). 𢆥𡢐𱺵𢆥(Năm sau là năm 1950).
 fr | - L'année dernière était 1948. Cette année est 1949. L'année prochaine sera 1950.
 es | - El año pasado fue 1948. Este año es 1949. El próximo año será 1950.
 ru | - Прошлый год был 1948. Этот год — 1949. Следующий год будет 1950.
@@ -588,7 +588,7 @@ ja | 昨日、私は牛乳を飲みました。今、お酒を飲んでいます
 de | Gestern habe ich Milch getrunken. Jetzt trinke ich Alkohol. Morgen werde ich Tee trinken.
 eo | Hieraŭ mi trinkis lakton. Nun mi trinkas alkoholon. Morgaŭ mi trinkos teon.
 ko | 어제 나는 牛乳(우유)를 마셨다. 只今(지금) 나는 술을 마시고 있다. 来日(내일) 나는 茶(차)를 마실 것이다.
-vi | Hôm qua tôi đã uống sữa. Bây giờ tôi đang uống rượu. Ngày mai tôi sẽ uống trà.
+vi | 𣋚戈碎㐌㕵𣷱(Hôm qua tôi đã uống sữa). 𣊾𣇞碎當㕵𨢇(Bây giờ tôi đang uống rượu). 𣈜埋碎𠱊㕵茶(Ngày mai tôi sẽ uống trà).
 fr | Hier, j'ai bu du lait. Maintenant, je bois de l'alcool. Demain, je boirai du thé.
 es | Ayer bebí leche. Ahora estoy bebiendo alcohol. Mañana beberé té.
 ru | Вчера я пил молоко. Сейчас я пью алкоголь. Завтра я буду пить чай.
@@ -601,7 +601,7 @@ ja | 中国に何年いましたか？中国に何年滞在する予定ですか
 de | Wie viele Jahre hast du in China verbracht? Wie viele Jahre wirst du in China bleiben?
 eo | Kiom da jaroj vi restis en Ĉinio? Kiom da jaroj vi restos en Ĉinio?
 ko | 중국에서 몇 년 동안 지내셨습니까? 중국에서 몇 년 동안 머물 계획입니까?
-vi | Bạn đã ở Trung Quốc bao nhiêu năm? Bạn sẽ ở Trung Quốc mấy năm?
+vi | 伴㐌𣄒中國包饒𢆥(Bạn đã ở Trung Quốc bao nhiêu năm)? 伴𠱊𣄒中國𠇍𢆥(Bạn sẽ ở Trung Quốc mấy năm)?
 fr | Combien d'années avez-vous passé en Chine ? Combien d'années allez-vous rester en Chine ?
 es | ¿Cuántos años has estado en China? ¿Cuántos años vas a quedarte en China?
 ru | Сколько лет вы пробыли в Китае? Сколько лет вы собираетесь оставаться в Китае?
