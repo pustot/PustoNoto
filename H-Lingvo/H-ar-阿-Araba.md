@@ -82,6 +82,7 @@ Form 4 的主动分词形态 | 2aXYaZa -> muXYiZ | | | | مُسْلِم • (mus
 出圈有名词汇
 
 - Alcohol
+- coffee
 - Alchemy
 - zenith
     - nadir
