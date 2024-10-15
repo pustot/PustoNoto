@@ -2357,6 +2357,12 @@ Dewey 909
         - 2024年8月5日，柬埔寨首相洪玛奈等人出席主持奠基仪式，并表示“我们必须不惜一切代价建造这条运河”。为庆祝该工程启动，柬埔寨宣布全国带薪休假一日。
     - 2024-0820，《黑神话：悟空》游戏上线，被媒体誉为中国首款“3A游戏”
     - 2024-0917，2024年黎巴嫩无线设备爆炸事件，以色列同时引爆黎巴嫩许多人的数千部台湾公司的金阿波罗AR-92寻呼机（传呼机），造成大量平民伤亡和恐慌。后又引爆大量其他设备
+    - 2024-0925，中国 试射 洲际弹道导弹。时隔40年，在近年几大常任理事国纷纷试射失败之后。型号是1999年的东风31AG。
+        - 9月25日8时44分，中国人民解放军火箭军向太平洋相关公海海域，成功发射1发携载训练模拟弹头的洲际弹道导弹，准确落入预定海域。此次导弹发射，是年度军事训练例行性安排，符合国际法和国际惯例，不针对任何特定国家和目标。 http://www.mod.gov.cn/gfbw/qwfb/16340551.html
+            - The PLA Rocket Force launched an ICBM (intercontinental ballistic missile) carrying a dummy warhead to the high seas in the Pacific Ocean at 08:44 on September 25th, and the missile fell into expected sea areas. This test launch is a routine arrangement in our annual training plan. It is in line with international law and international practice and is not directed against any country or target.
+        - The Pentagon praised China for its transparency before a test launch of an intercontinental ballistic missile into the Pacific Ocean, a sign that military communications between the superpowers is improving.
+            - 五角大楼赞扬了中国在向太平洋试射洲际弹道导弹之前的透明度，这表明超级大国之间的军事沟通正在改善。
+        - US Hails Early Notice of China ICBM Test to Avoid Miscalculation.
     - 2024-1003，英国宣布将将查戈斯群岛（British Indian Ocean Territory）主权还给毛里求斯，英国终于将迎来日落（从 Pitcairn Islands（太平洋）日落到 Akrotiri & Dhekelia（地中海）日出），不再是日不落帝国。
         - 英国和毛里求斯政府发布一项关于查戈斯群岛主权问题的联合声明。声明中说，毛里求斯总理和英国首相当天确认，他们已就对查戈斯群岛行使主权的问题达成历史性协议。英国表示宣布将放弃查戈斯群岛的主权并移交给毛里求斯，但将保留与美国在查戈斯群岛主岛迪戈加西亚岛的军事基地。
     - 2024-1008，诺贝尔物理学奖首次颁给AI领域——神经网络。获奖者：约翰·霍普菲尔德（John Joseph Hopfield，美国）、杰弗里·辛顿（Geoffrey Everest Hinton，英、加，博士母校爱丁堡）。“在实现机器学习的人工神经网络方面的基础性发现与发明”"for foundational discoveries and inventions that enable machine learning with artificial neural networks"
