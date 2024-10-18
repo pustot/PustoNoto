@@ -64,6 +64,10 @@ Dewey 006.32
             - 提示微调（Prompt Tuning）
             - 指令微调（Instruction Tuning）
             - 基于人类反馈的强化学习（Reinforcement Learning from Human Feedback, RLHF）
+    - 检索增强生成（RAG，Retrieval-Augmented Generation）
+        - 模型通过从外部知识库或文档库中检索相关信息，将这些信息作为上下文传递给生成模型（如GPT-3.5）进行生成
+- 分布式学习架构
+    - 联邦学习（联合学习，Federated Learning）
 
 # 以下 là 目录 de la 深度学习专项课程 Deep Learning Specialization
 
