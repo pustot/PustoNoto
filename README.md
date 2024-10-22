@@ -9,7 +9,8 @@ Taking notes of knowledge, especially those learned and utilized only occasional
 
 # Kolekto | 收藏夹
 
-- [老子-道德经](./B2-23.1-老子-道德經.md) 
+- [老子-道德经](./B2-23.1-老子-道德經.md)
+- [B1-2-古哲-AntikvaFilozofio](./B1-2-古哲-AntikvaFilozofio.md)
 - kkhn 机械研究与机器人（与自动驾驶） [TP2-4-機人-Robotik](./TP2-4-機人-Robotik.md)
     - [机械与力学 TH-000-機械-MekanikaInĝenierarto](./TH-000-機械-MekanikaInĝenierarto.md)
     - 电子
