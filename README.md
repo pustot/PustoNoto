@@ -41,12 +41,7 @@ Taking notes of knowledge, especially those learned and utilized only occasional
     - 诸语基课本 [Tekstaro](./H-Lingvo/H0-9-Kernoj/Tekstaro.md)
         - 网页版便于筛选具体语言 https://studling.pustot.com/#/multi/tekstaro
     - [KernVortojKernLing.csv 要语基词](./H-Lingvo/H0-9-KernVortoj/KernVortojKernLing.csv)
-    - [fr法](./H-Lingvo/H-fr-法-Franca.md)
-    - [es西](./H-Lingvo/H-es-西-Hispana.md)
-    - [ru俄](./H-Lingvo/H-ru-俄-Rusa.md)
-    - [ar阿](./H-Lingvo/H-ar-阿-Araba.md)
-    - [zh-wuu吳](./H-Lingvo/H-zh-wuu-吳-Wu.md)
-    - [zh-sph石](./H-Lingvo/H-zh-cmn-xghu-石-Shiping.md)
+    - [fr法](./H-Lingvo/H-fr-法-Franca.md)  [es西](./H-Lingvo/H-es-西-Hispana.md)  [ru俄](./H-Lingvo/H-ru-俄-Rusa.md)  [ar阿](./H-Lingvo/H-ar-阿-Araba.md)  [zh-wuu吳](./H-Lingvo/H-zh-wuu-吳-Wu.md)  [zh-sph石](./H-Lingvo/H-zh-cmn-xghu-石-Shiping.md)
 - kejk 计科目录 [TP3-000-計目-Enhavo-Informadiko](./TP3-000-計目-Enhavo-Informadiko.md)
     - NLP & AI
         - 計語 Computerlinguistik [H0-87-計語-NLP-NaturLingvaPrilaborado](./H0-87-計語-NLP-NaturLingvaPrilaborado.md)
