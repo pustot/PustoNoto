@@ -9,25 +9,26 @@ Taking notes of knowledge, especially those learned and utilized only occasional
 
 # Kolekto | 收藏夹
 
-- [老子-道德经](./B2-23.1-老子-道德經.md)
-- [B1-2-古哲-AntikvaFilozofio](./B1-2-古哲-AntikvaFilozofio.md)
-- kkhn 机械研究与机器人（与自动驾驶） [kɿj-kʰɿì-ȵin TP2-4-機人-Robotiko](./TP2-4-機人-Robotiko.md)
-    - [机械与力学 kɿj-ʁèˤj TH-000-機械-MekanikaInĝenierarto](./TH-000-機械-MekanikaInĝenierarto.md)
-    - 电子
-    - [控制 TP1-3-自控-Kibernetiko](./TP1-3-自控-Kibernetiko.md)
-    - [计算机 TP3-000-計目-Enhavo-Informadiko](./TP3-000-計目-Enhavo-Informadiko.md)
+- [老子-道德经 dáw-tək-keŋ](./B2-23.1-老子-道德經.md)
+- [ʈiet-sɨ B1-2-古哲-AntikvaFilozofio](./B1-2-古哲-AntikvaFilozofio.md)
+- kkhn 机械研究与机器人（与自动驾驶） kɨj-ʁèˤj [kɨj-kʰɨì-ȵin TP2-4-機人-Robotiko](./TP2-4-機人-Robotiko.md)
+    - [机械与力学 kɨj-ʁèˤj TH-000-機械-MekanikaInĝenierarto](./TH-000-機械-MekanikaInĝenierarto.md)
+    - 电子 dèn-tsɨ́
+    - [控制 kʰᵒùŋ-tɕièj TP1-3-自控-Kibernetiko](./TP1-3-自控-Kibernetiko.md)
+    - [计算机 kèj-sʷàn-kɨj TP3-000-計目-Enhavo-Informadiko](./TP3-000-計目-Enhavo-Informadiko.md)
         - [TP3-12C++-C++](./TP3-12C++-C++.md)
         - [TP3-12PY-Python](./TP3-12PY-Python.md)
         - [TP3-12JA-Java](./TP3-12JA-Java.md) （含 软件系统开发综合）
-    - 人工智能(見計算機)
+    - 人工智能(見計算機) ȵin-kᵒuŋ-ʈiè-nəŋ
         - 大部入深学笔记本。 [TP1-81-深學-ProfundaLernado.md](./TP1-81-深學-ProfundaLernado.md)
         - 传统方法入机学。 [TP1-81-機學-Maŝinlernado](./TP1-81-機學-Maŝinlernado.md)
         - [H0-87-計語-NLP-NaturLingvaPrilaborado](./H0-87-計語-NLP-NaturLingvaPrilaborado.md)
         - [TP2-74-數據-DatumScienco](./TP2-74-數據-DatumScienco.md)
         - [TP1-8-智具-AIIloj](./TP1-8-智具-AIIloj.md)
-    - 数学
+    - 数学 ʂuò-ʁoˤk
         - [O1-51.2-線代-LinearaAlgebro.md](./O1-51.2-線代-LinearaAlgebro.md)
-- ngyo 语言及语言学 [H-Lingvo-LeguMin](./H-Lingvo/README.md)
+    - 材料 dzəj-lèw
+- ngyo 语言及语言学 ŋɨó-ŋɨon [H-Lingvo-LeguMin](./H-Lingvo/README.md)
     - [zh-ltc 中古漢語](./H-Lingvo/H-zh-ltc-中漢-MezaĈinaFonologio.md)
     - [zh-hza菏](./H-Lingvo/H-zh-cmn-zgyu-菏-Heze.md)
     - [zh-yue粤](./H-Lingvo/H-zh-yue-粵-Kantona.md)
@@ -42,7 +43,7 @@ Taking notes of knowledge, especially those learned and utilized only occasional
         - 网页版便于筛选具体语言 https://studling.pustot.com/#/multi/tekstaro
     - [KernVortojKernLing.csv 要语基词](./H-Lingvo/H0-9-Kernoj/KernVortojKernLing.csv)
     - [fr法](./H-Lingvo/H-fr-法-Franca.md)  [es西](./H-Lingvo/H-es-西-Hispana.md)  [ru俄](./H-Lingvo/H-ru-俄-Rusa.md)  [ar阿](./H-Lingvo/H-ar-阿-Araba.md)  [zh-wuu吳](./H-Lingvo/H-zh-wuu-吳-Wu.md)  [zh-sph石](./H-Lingvo/H-zh-cmn-xghu-石-Shiping.md)
-- kejk 计科目录 [TP3-000-計目-Enhavo-Informadiko](./TP3-000-計目-Enhavo-Informadiko.md)
+- kejk 计科目录 kèj-sʷàn-kɨj [TP3-000-計目-Enhavo-Informadiko](./TP3-000-計目-Enhavo-Informadiko.md)
     - NLP & AI
         - 計語 Computerlinguistik [H0-87-計語-NLP-NaturLingvaPrilaborado](./H0-87-計語-NLP-NaturLingvaPrilaborado.md)
         - [TP1-81-機學-Maŝinlernado](./TP1-81-機學-Maŝinlernado.md)
@@ -59,9 +60,9 @@ Taking notes of knowledge, especially those learned and utilized only occasional
         - [TP3-12C++-C++](./TP3-12C++-C++.md)
         - [TP3-12PY-Python](./TP3-12PY-Python.md)
         - [TP3-12JA-Java](./TP3-12JA-Java.md)
-- dihl 地理 [K9--地理-Geografio](./K9-地理-Geografio.md)
+- dihl 地理 dì-lɨ́ [K9--地理-Geografio](./K9-地理-Geografio.md)
     - 旅行 [K9-19-旅行-Vojaĝado](./K9-19-旅行-Vojaĝado.md)
-- [K1-08-史表-MondaHistorioKalendaro](./K1-08-史表-MondaHistorioKalendaro.md)
+- [lek-ʂɨ́ K1-08-史表-MondaHistorioKalendaro](./K1-08-史表-MondaHistorioKalendaro.md)
 
 # 一些传统
 

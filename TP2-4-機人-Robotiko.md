@@ -1,5 +1,5 @@
 
-kyi-khyih-njin | kɿj kʰɿì ȵin
+kyi-khyih-njin | kɿj kʰɨì ȵin
 
 本笔记为机器人之基础，暂包括自动驾驶、机械臂（工业机器人）等主要子学科，若体量增大再分立
 
