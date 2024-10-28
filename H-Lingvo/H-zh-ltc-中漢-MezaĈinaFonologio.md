@@ -6,18 +6,14 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
 
 **⚠️注意：由于学习顺序，部分内容直接使用了 polyhedron 前辈的古韵罗马字，其他内容亦可能包含过时观点。正在补课，当前倾向于「切韵拼音」及与此拼音相接近的拟音**
 
-- [polyhedron 本人对古韵罗马字及切韵拼音的评价 - 知乎](https://www.zhihu.com/question/372828311/answer/2441585425)
-
-> 被視爲《廣韻》中最複雜的現象的「重紐」問題至今仍是研究的熱點，目前各家研究的成果分歧很大，還在爭論當中。不過隨着研究的深入，僅僅通過考古是難再更上一層樓了。更深入的研究需要通過構擬上古漢語，並依此下推出中古漢語重紐的來源。這方面的研究被稱爲「古音學」（研究周秦古音），與研究《切韻》中古音系的「今音學」不同，上古音系的構擬還很不成熟，有待於漢藏語系之間的語言橫向比較和歷史比較語言學的進一步發展。
 
 参考链接
 
 - [切韵拼音 - 绯索卡 · Phesoca](https://phesoca.com/tupa/)
     - 新活旧整：切韵拼音16摄图//开倒车（ https://zhuanlan.zhihu.com/p/483856847?utm_psn=1717859410859380736
+    - [polyhedron 本人对古韵罗马字及切韵拼音的评价 - 知乎](https://www.zhihu.com/question/372828311/answer/2441585425)
 - [韵典网](https://ytenx.org/)
 - 古音小镜 https://kaom.net/
-- [廣韻中的重紐與重紐歸類問題 - BYVoid](https://byvoid.com/zht/blog/kuangx-yonh-dryung-nriux/)
-    - > 總結一下重紐的定義，重紐現象就是「在脣牙喉音，支脂祭眞仙宵侵鹽，八個韻系下的小韻中，通過反切系聯歸一類，卻列爲兩個不同的小韻的現象」，這種現象在韻圖上面的反映就是兩個小韻分別列在了同一聲韻的三等和四等位置上。
 - poem: 广韵字音表（20170209，poem版）
 - app 「汉字古今中外读音查询」
 - app 「韵典」
@@ -27,11 +23,15 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
 - [广韵校本上.pdf - mdict](https://mdx.mdict.org/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%B7%A5%E5%85%B7%E4%B9%A6/%E5%8F%A4%E9%9F%B3%E9%9F%B5%E8%AF%AD%E6%B3%95%E7%AD%89/%E5%B9%BF%E9%9F%B5%E6%A0%A1%E6%9C%AC%20%E4%B8%8A.pdf)
 - [广韵校本下册.pdf - mdict](https://mdx.mdict.org/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%B7%A5%E5%85%B7%E4%B9%A6/%E5%8F%A4%E9%9F%B3%E9%9F%B5%E8%AF%AD%E6%B3%95%E7%AD%89/%E5%B9%BF%E9%9F%B5%E6%A0%A1%E6%9C%AC%E4%B8%8B%E5%86%8C.pdf)
 - [泽存堂本广韵・《宋本广韵》（中国书店1982年据张氏泽存堂本影印）.pdf](https://downloads.freemdict.com/%E5%B0%9A%E6%9C%AA%E6%95%B4%E7%90%86/%E9%9B%86%E5%90%88/%E6%96%87%E5%AD%97%E8%AF%8D%E5%85%B8/%E5%AD%97%EF%BC%8C%E8%AF%8D%EF%BC%8C%E5%8F%A5%EF%BC%8C%E7%AF%87%E5%B7%A5%E5%85%B7%E4%B9%A6/1%E3%80%81%E5%AD%97/%E3%80%8A%E5%AE%8B%E6%9C%AC%E5%B9%BF%E9%9F%B5%E3%80%8B%EF%BC%88%E4%B8%AD%E5%9B%BD%E4%B9%A6%E5%BA%971982%E5%B9%B4%E6%8D%AE%E5%BC%A0%E6%B0%8F%E6%B3%BD%E5%AD%98%E5%A0%82%E6%9C%AC%E5%BD%B1%E5%8D%B0%EF%BC%89.pdf)
-- [AWs-309 切韵拟音J - 绯索卡 · Phesoca](https://phesoca.com/aws/309/)
-- [切韵拟音 L 预览（UntPhesoca的想法 - 知乎）](https://www.zhihu.com/pin/1547712591362981888)
-- [【汉语音韵学笔记】束娄东切韵拟音V8 - msoeg的文章 - 知乎](https://zhuanlan.zhihu.com/p/145409852)
-- [中古擬音 - 雪齋的文章 - 知乎 （看评论区讨论）](https://zhuanlan.zhihu.com/p/560047021)
-- [切韵拟音L、切韵通俗拟音 - 绯索卡 · Phesoca](https://phesoca.com/aws/337/)
+- 知乎大佬系列拟音
+    - [AWs-309 切韵拟音J - 绯索卡 · Phesoca](https://phesoca.com/aws/309/)
+    - [切韵拟音 L 预览（UntPhesoca的想法 - 知乎）](https://www.zhihu.com/pin/1547712591362981888)
+    - [【汉语音韵学笔记】束娄东切韵拟音V8 - msoeg的文章 - 知乎](https://zhuanlan.zhihu.com/p/145409852)
+    - [中古擬音 - 雪齋的文章 - 知乎 （看评论区讨论）](https://zhuanlan.zhihu.com/p/560047021)
+    - [切韵拟音L、切韵通俗拟音 - 绯索卡 · Phesoca](https://phesoca.com/aws/337/)
+    - （弃用）[用户:Polyhedron/中古汉语拼音](https://zh.wikipedia.org/wiki/User:Polyhedron/%E4%B8%AD%E5%8F%A4%E6%BC%A2%E8%AA%9E%E6%8B%BC%E9%9F%B3)
+    - （弃用）[unt 切韵朗读音：早期中古汉语的一种可读实现](https://zhuanlan.zhihu.com/p/58227457)
+        - [unt个人博客此文链接](https://phesoca.com/aws/281/)
 - 赵元任的《通字方案》 https://zh.wikipedia.org/zh-hans/%E9%80%9A%E5%AD%97%E6%96%B9%E6%A1%88
     - 施氏食狮史 shi zhii zhic sri srii (tupa: sjie djieq zjyk sryi sryq)
     - 基于中古汉语做简化，以求方便地兼顾现代众方言，包括利用吴语的声母、官话的介音和韵腹、粤语的韵尾。。。真是很多音韵爱好者都会做的事吧
@@ -41,9 +41,6 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
         - 这里已经给出每个小韵对应的通字了，基于改之即可！ https://github.com/baopaau/rime-tungdzih/blob/master/tungdzih-siaoyunn.txt
         - 要是有个自动从小韵生成推导方案的程序就好了——不过推导思路总会有不一样的。
 - 发现个有意思的人 Tangent Constructed Chinese https://tcchinese.tumblr.com/ 2014年就开始发东西了
-- （弃用）[用户:Polyhedron/中古汉语拼音](https://zh.wikipedia.org/wiki/User:Polyhedron/%E4%B8%AD%E5%8F%A4%E6%BC%A2%E8%AA%9E%E6%8B%BC%E9%9F%B3)
-- （弃用）[unt 切韵朗读音：早期中古汉语的一种可读实现](https://zhuanlan.zhihu.com/p/58227457)
-    - [unt个人博客此文链接](https://phesoca.com/aws/281/)
 
 字音的构造：（韵典网）
 
@@ -51,8 +48,8 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
     - 声母：五音、清浊、三十六字母
     - 介音：等呼、开合口
     - 韵腹：十六摄、内外转
-    - 韵尾：阴声韵（无韵尾，半元音iud）、阳声韵（鼻音）、入声韵（塞音）
-    - 声调：四声八调、平仄、舒促
+    - 韵尾：阴声韵（无韵尾，半元音iu）、阳声韵（鼻音）、入声韵（塞音）
+    - 声调：四声（后面演化为八调）、平仄、舒促
 - 【待学】确定声韵，需要声和韵，其中韵部不仅定以摄、等、开合、声调，还定于细微（重纽……）
 - `小韵` 则是声母韵母都相同的字，《广韵》26194字共有小韵3874个。
     - 查询到其中同音字最多，即包含字数最多的小韵是「靈（廣韻第九百三十九小韻）（leng）」，87个，同音字如下：*靈霛𩆈𩆜舲齡麢𦏰囹鴒䉁蛉鈴霝醽苓櫺柃𩆚伶泠瓴𧕅拎刢𧆺𤣘𤫲玲𦉢𩖊㾉聆竛𠄖蘦軨䡼笭零孁令𪕌灵𩟃𩵀龗翎閝鹷䴇昤駖𧖜𩆮蕶酃詅彾䯍呤跉狑𤣤爧冷怜𠱠𦫊𢺰澪鏻𥤞秢䕘獜岭魿𣬹𩚹紷䉹砱阾羚姈㸳*
@@ -65,7 +62,7 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
     - 《中原音韻》19韻。
 - `韻母` 若舉平以賅上去入，區分等呼重紐，按 tupa 共 105 個。
 
-抄維基百科的「韻書和韻圖」列表
+抄維基百科的「韻書和韻圖」列表，并扩展
 
 - 上古漢語
     - 三國
@@ -191,6 +188,13 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
 - 端组、知组、章组上古同来源
     - 所以切韵拼音 t tr tj
 - > 切韵时代庄组几乎仍然是精组的条件变体（[知乎](https://zhuanlan.zhihu.com/p/478751152)）
+    - 所以切韵拼音 ts tsr
+
+## 清浊音
+
+古全浊音即浊塞音只有吴语和一部分湘语（长益片除外）保留。
+
+其他方言，古浊音派入今清音的规律：官话与粤语都是「平送仄不送」；客家话送气；赣语较复杂，送气为主；闽语不送气为主。
 
 ## 尖团音
 
@@ -200,10 +204,17 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
 > （总结：只适用于保留中古汉语二三四等介音者，一些南方方言丢失这些介音，故不适用讨论尖团。）
 > （https://www.zhihu.com/question/28726862）
 
+## 平翘舌
 
-## 一些声母的讨论
+平舌即精组（精清从心邪），翘舌即知组（知澈澄娘）、章组（章昌常书船）、庄组（庄初崇生俟）三者大体合流，另外不同方言区的知章庄派入翘舌的规则不同
 
-### 俟母
+## 轻唇音
+
+（后文也有提到）
+
+帮组三等字的一部分（一说合口，一说后元音）后来演化为轻唇音，即唇齿音，即「非敷奉微」。今多数方言均有相应的后代 /f/ 音。
+
+## 俟母
 
 [俟母怎么来的？ - 知乎](https://www.zhihu.com/question/338035956)
 
@@ -212,7 +223,7 @@ Linguists sometimes refer to the system of the Qieyun （切韵） as **Early Mi
 - > 或许有些“俟母”已经混入崇母了，比如「事」~「吏」。
 - > 俟母就大概来自某种特殊的r吧……
 
-### 影母系咪零声母
+## 影母 是否为零声母
 
 - [中古汉语中影母是零声母更合适还是[ʔ]更合适？以母与云母是近音更合适还是擦音更合适？ - 知乎](https://www.zhihu.com/question/525942883)
 - [影母 - 维基 - 粤语](https://zh-yue.wikipedia.org/wiki/%E5%BD%B1%E6%AF%8D)
@@ -353,6 +364,13 @@ _通攝_ | thoung | | tong1 | tung1 | thon1
 
 二等来自上古汉语的 r 介音，在中古汉语里大概表现为咽化元音。（复杂问题）
 
+### 重纽
+
+> 被視爲《廣韻》中最複雜的現象的「重紐」問題至今仍是研究的熱點，目前各家研究的成果分歧很大，還在爭論當中。不過隨着研究的深入，僅僅通過考古是難再更上一層樓了。更深入的研究需要通過構擬上古漢語，並依此下推出中古漢語重紐的來源。這方面的研究被稱爲「古音學」（研究周秦古音），與研究《切韻》中古音系的「今音學」不同，上古音系的構擬還很不成熟，有待於漢藏語系之間的語言橫向比較和歷史比較語言學的進一步發展。
+
+- [廣韻中的重紐與重紐歸類問題 - BYVoid](https://byvoid.com/zht/blog/kuangx-yonh-dryung-nriux/)
+    - > 總結一下重紐的定義，重紐現象就是「在脣牙喉音，支脂祭眞仙宵侵鹽，八個韻系下的小韻中，通過反切系聯歸一類，卻列爲兩個不同的小韻的現象」，這種現象在韻圖上面的反映就是兩個小韻分別列在了同一聲韻的三等和四等位置上。
+
 ## 独韵与开合韵
 
 并不是所有韵母都有开口与合口的对立，在《切韵指掌图》里，不分开合口的韵，标明为独韵；既有开口又有合口的韵，标明为开合韵。后来的韵书把独韵分别归入开口或合口，例如把东韵归入合口，侵韵归入开口。李荣《切韵音系》认为，独韵没有u介音；后来归入合口的独韵，是因为有圆唇的主元音。他又认为开合韵的唇音字和独韵一样没有开合口的对立，可以和开口字互切，也可以和合口字互切，唇音字可以认为是开口。
@@ -429,30 +447,34 @@ $\space$    |            |去声二十废  |
 
 附表：polyhedron 中古汉语拼音版（举平声以赅上去）（刪了，因爲不使用這套拼音了，可以在維基百科上看）
 
-### 摄的小归纳
+## 摄 sjiep 的小归纳
+
+新活旧整：切韵拼音16摄图//开倒车（——知乎 https://zhuanlan.zhihu.com/p/483856847
+
+> 正如 @UntPhesoca在《切韵拼音》介绍 所言，十六摄站在更晚的时期（可能是唐代）的汉语音韵格局角度描述《切韵》音系，不能很好反映《切韵》时代的元音格局。所以本文只起参考作用。
 
 - 无韵尾：果摄、假摄、遇摄
-    - 果摄ɑ，一三
-    - 假摄a，二三
-    - 遇摄o，一三
-- 韵尾或整体i：蟹摄、止摄
-    - 蟹摄ai、e
-    - 止摄i，**三等**
-- 韵尾或整体u：效摄、流摄
-    - 效摄au、eu
-    - 流摄u，一三
+    - 果摄a([ɑ]?)，一三C
+    - 假摄ae，二三C
+    - 遇摄o，一三C
+- 韵尾或整体j：蟹摄、止摄
+    - 蟹摄aj aej ej eej eoj oj，一二三AB四
+    - 止摄i ie y yj ui uj，**三等ABC**
+- 韵尾或整体w：效摄、流摄
+    - 效摄aw aew ew，一二三AB四
+    - 流摄u ou iw，一三ABC
 - 韵尾m：咸摄、深摄
-    - 咸摄aeo
-    - 深摄i，**三等**
+    - 咸摄aeo一二三ABC四
+    - 深摄i，**三AB**
 - 韵尾n：山摄、臻摄
-    - 山摄ae
-    - 臻摄io，一三
+    - 山摄a ae e ee o，一二三ABC四
+    - 臻摄i y u o eo，一三ABC
 - 韵尾ng：宕摄、梗摄、曾摄、通摄、江摄
-    - 宕摄a，一三
-    - 梗摄ae，二三四
-    - 曾摄oi，一三
-    - 通摄u，一三
-    - 江摄u，**二等**
+    - 宕摄a，一三C
+    - 梗摄ae ee e，二三AB四
+    - 曾摄eo y i，一三BC
+    - 通摄o u ou，一三C
+    - 江摄oeu，**二等**
 
 摄的构拟：
 
