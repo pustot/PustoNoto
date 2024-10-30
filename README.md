@@ -12,12 +12,16 @@ Prendi notojn pri scioj, speciale tiuj lernitaj kaj uzataj nur okaze, sed signif
 - [ʈiet-sɨ B1-2-古哲-AntikvaFilozofio](./B1-2-古哲-AntikvaFilozofio.md)
 - kkhn 机械研究与机器人（与自动驾驶） kɨj-ʁèˤj [kɨj-kʰɨì-ȵin TP2-4-機人-Robotiko](./TP2-4-機人-Robotiko.md)
     - [机械与力学 kɨj-ʁèˤj TH-000-機械-MekanikaInĝenierarto](./TH-000-機械-MekanikaInĝenierarto.md)
+        - 理论力学、材料力学、流体力学、热力学、噪声与振动；机械原理、机械设计、机械制造
     - 电子 dèn-tsɨ́
+        - 电子电路、信号处理、嵌入式系统、传感器技术
     - [控制 kʰᵒùŋ-tɕièj TP1-3-自控-Kibernetiko](./TP1-3-自控-Kibernetiko.md)
+        - 经典控制理论、现代控制理论、机器人控制、工业自动化
     - [计算机 kèj-sʷàn-kɨj TP3-000-計目-Enhavo-Informadiko](./TP3-000-計目-Enhavo-Informadiko.md)
         - [TP3-12C++-C++](./TP3-12C++-C++.md)
         - [TP3-12PY-Python](./TP3-12PY-Python.md)
         - [TP3-12JA-Java](./TP3-12JA-Java.md) （含 软件系统开发综合）
+        - 计算机辅助设计与制造、数值仿真
     - 人工智能(見計算機) ȵin-kᵒuŋ-ʈiè-nəŋ
         - 大部入深学笔记本。 [TP1-81-深學-ProfundaLernado.md](./TP1-81-深學-ProfundaLernado.md)
         - 传统方法入机学。 [TP1-81-機學-Maŝinlernado](./TP1-81-機學-Maŝinlernado.md)
@@ -27,6 +31,8 @@ Prendi notojn pri scioj, speciale tiuj lernitaj kaj uzataj nur okaze, sed signif
     - 数学 ʂuò-ʁoˤk
         - [O1-51.2-線代-LinearaAlgebro.md](./O1-51.2-線代-LinearaAlgebro.md)
     - 材料 dzəj-lèw
+        - 金属材料、复合材料、高分子材料、纳米材料、功能材料；能源：能源转换、可再生能源、能量储存、环境控制与热管理
+        - 微纳米机械系统（MEMS/NEMS）：微机电系统（MEMS）、纳机电系统（NEMS）、生物医学机械学
 - ngyo 语言及语言学 ŋɨó-ŋɨon [H-Lingvo-LeguMin](./H-Lingvo/README.md)
     - [zh-ltc 中古漢語](./H-Lingvo/H-zh-ltc-中漢-MezaĈinaFonologio.md)
     - [zh-hza菏](./H-Lingvo/H-zh-cmn-zgyu-菏-Heze.md)
