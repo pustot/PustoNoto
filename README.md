@@ -6,7 +6,7 @@ Prendi notojn pri scioj, speciale tiuj lernitaj kaj uzataj nur okaze, sed signif
 
 笔记宜记全面框架而不宜详细，多则叵忆，且AI足助学其详（常见领域适用；音韵、方言等冷门领域AI尚不了解）（给AI输入课件甚至课本改善具体领域知识（但愿））
 
-# Kolekto | 收藏夹
+# Kolekto | 收藏夹 ɕu dzaŋ keˤp
 
 - [老子-道德经 dáw-tək-keŋ](./B2-23.1-老子-道德經.md)
 - [ʈiet-sɨ B1-2-古哲-AntikvaFilozofio](./B1-2-古哲-AntikvaFilozofio.md)
