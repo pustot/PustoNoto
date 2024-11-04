@@ -9,7 +9,7 @@ Prendi notojn pri scioj, speciale tiuj lernitaj kaj uzataj nur okaze, sed signif
 # Kolekto | 收藏夹 ɕu dzaŋ keˤp
 
 - [老子-道德经 dáw-tək-keŋ](./B2-23.1-老子-道德經.md)
-- [ʈiet-sɨ B1-2-古哲-AntikvaFilozofio](./B1-2-古哲-AntikvaFilozofio.md)
+- [ʈiet-sɨ B1-2-哲思-FilozofiaPenso](./B1-2-哲思-FilozofiaPenso.md)
 - kkhn 机械研究与机器人（与自动驾驶） kɨj-ʁèˤj [kɨj-kʰɨì-ȵin TP2-4-機人-Robotiko](./TP2-4-機人-Robotiko.md)
     - [机械与力学 kɨj-ʁèˤj TH-000-機械-MekanikaInĝenierarto](./TH-000-機械-MekanikaInĝenierarto.md)
         - 理论力学、材料力学、流体力学、热力学、噪声与振动；机械原理、机械设计、机械制造
