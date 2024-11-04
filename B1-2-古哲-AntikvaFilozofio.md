@@ -79,6 +79,10 @@
     - https://www.gutenberg.org/files/7205/7205-h/7205-h.htm
     - 《Der Schatten》
         - > „Nichts ist wahr, Alles ist erlaubt“: so sprach ich mir zu.
+- 毛泽东 《祭黄帝陵文》
+    - > 琉台不守，三韩为墟。辽海燕冀，汉奸何多！
+- 邓小平
+    - > 冷静观察，稳住阵脚，沉着应付，韬光养晦，善于守拙，决不当头，有所作为
 - 金庸 《神雕侠侣》
     - > 重剑无锋，大巧不工
 - 刘慈欣 《三体》

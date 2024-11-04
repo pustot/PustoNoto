@@ -6,25 +6,20 @@ Dewey 519.5
 
 # 常用数据来源
 
-[在哪里能找到各行业的分析研究报告？](https://www.zhihu.com/question/19766160)
-
-《中国统计年鉴》
-
-- http://www.stats.gov.cn/tjsj/ndsj/
-
-《中国劳动统计年鉴》
-
-- 知网搜相关条目，如「城镇按行业、性别分的就业人员调查周平均工作时间」
-- 2016 年： http://www.mohrss.gov.cn/2016/indexch.htm
-
-国家统计局总结报告
-
+- [在哪里能找到各行业的分析研究报告？](https://www.zhihu.com/question/19766160)
+- 《中国统计年鉴》
+    - http://www.stats.gov.cn/tjsj/ndsj/
+- 《中国劳动统计年鉴》
+    - 知网搜相关条目，如「城镇按行业、性别分的就业人员调查周平均工作时间」
+    - 2016 年： http://www.mohrss.gov.cn/2016/indexch.htm
+- 国家统计局总结报告
 - [2019年国民经济运行总体平稳 发展主要预期目标较好实现](http://www.stats.gov.cn/tjsj/zxfb/202001/t20200117_1723383.html)
+- 国家统计局 - 年度数据：  https://data.stats.gov.cn/easyquery.htm?cn=C01
+    - 人口 - 人口平均预期寿命
+    - 卫生 - 监测地区5岁以下儿童和孕产妇死亡率
+- 船讯网：按吨位筛选的航运量数据标在地图 https://www.shipxy.com/
 
-国家统计局 - 年度数据：  https://data.stats.gov.cn/easyquery.htm?cn=C01
 
-- 人口 - 人口平均预期寿命
-- 卫生 - 监测地区5岁以下儿童和孕产妇死亡率
 
 ## 数据源的推荐
 
