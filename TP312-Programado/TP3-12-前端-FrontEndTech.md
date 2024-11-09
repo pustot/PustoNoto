@@ -4,22 +4,7 @@ Dewey 006.76
 
 # 总论
 
-一部分内容较重要或较多的模块另立文件，如下：
-
-- [HTML](./005.133-HTML.md)
-- [CSS](./005.133-CSS.md)
-- [JavaScript](./005.133-JavaScript.md)
-- [TypeScript](./005.133-TypeScript.md)
-- [React](./005.133-React.md)
-- [Vue](./005.133-Vue.md)
-
-相关重要计算机科学知识：
-
-- [ComputerNetwork](./004.6-ComputerNetwork.md)
-- [OperatingSystem](./005.43-OperatingSystem.md)
-- [DesignPattern](./005.12-DesignPattern.md)
-
-其他模块放于如下章节。
+一部分内容较重要或较多的模块另立文件。
 
 学习资料：
 
