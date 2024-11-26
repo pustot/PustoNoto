@@ -55,7 +55,7 @@ Prendi notojn pri scioj, speciale tiuj lernitaj kaj uzataj nur okaze, sed signif
         - [TP2-74-数据-DatumScienco](./TP2-74-数据-DatumScienco.md) （UCB Data100）
         - [TP1-8-智具-AIIloj](./TP1-8-智具-AIIloj.md)
     - 基础 & 开发
-        - 數構算法 [TP3-01.6-构算-DatumstrukturoKAlgo](./TP3-01.6-构算-DatumstrukturoKAlgo.md)
+        - 數構算法 [TP3-01.6-构算-DatStruktrKAlgo](./TP3-01.6-构算-DatStruktrKAlgo.md)
         - OS [TP3-16-操系-Operaciumo](./TP3-16-操系-Operaciumo.md)
         - Net [TP3-93-计网-KomptlReto](./TP3-93-计网-KomptlReto.md)
         - DB [TP3-11.13-数库-Datumbazo](./TP3-11.13-数库-Datumbazo.md)
@@ -67,7 +67,7 @@ Prendi notojn pri scioj, speciale tiuj lernitaj kaj uzataj nur okaze, sed signif
         - [TP312-Programado/TP3-12JA-Java](./TP312-Programado/TP3-12JA-Java.md)
 - dihl 地理 dì-lɨ́ [K9-地理-Geografio](./K9-地理-Geografio.md)
     - 旅行 [K9-19-旅行-Vojaĝado](./K9-19-旅行-Vojaĝado.md)
-- [lek-ʂɨ́ K1-08-史表-MondaHistorioKalendaro](./K1-08-史表-MondaHistorioKalendaro.md)
+- [lek-ʂɨ́ K1-08-史表-MondHistoriKalendr](./K1-08-史表-MondHistoriKalendr.md)
 
 # 一些传统
 
