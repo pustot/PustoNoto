@@ -8,64 +8,64 @@ Prendi notojn pri scioj, speciale tiuj lernitaj kaj uzataj nur okaze, sed signif
 
 # Kolekto | 收藏夹 ɕu dzaŋ keˤp
 
-- [老子-道德经 dáw-tək-keŋ](./B2-23.1-老子-道德經.md)
+- [老子-道德经 dáw-tək-keŋ](./B2-23.1-老子-道德经.md)
 - [ʈiet-sɨ B1-2-哲思-FilozofiaPenso](./B1-2-哲思-FilozofiaPenso.md)
-- kkhn 机械研究与机器人（与自动驾驶） kɨj-ʁèˤj [kɨj-kʰɨì-ȵin TP2-4-機人-Robotiko](./TP2-4-機人-Robotiko.md)
-    - [机械与力学 kɨj-ʁèˤj TH-000-機械-MekanikaInĝenierarto](./TH-000-機械-MekanikaInĝenierarto.md)
+- kkhn 机械研究与机器人（与自动驾驶） kɨj-ʁèˤj [kɨj-kʰɨì-ȵin TP2-4-机人-Robotiko](./TP2-4-机人-Robotiko.md)
+    - [机械与力学 kɨj-ʁèˤj TH-000-机械-MekaInĝe](./TH-000-机械-MekaInĝe.md)
         - 理论力学、材料力学、流体力学、热力学、噪声与振动；机械原理、机械设计、机械制造
     - 电子 dèn-tsɨ́
         - 电子电路、信号处理、嵌入式系统、传感器技术
     - [控制 kʰᵒùŋ-tɕièj TP1-3-自控-Kibernetiko](./TP1-3-自控-Kibernetiko.md)
         - 经典控制理论、现代控制理论、机器人控制、工业自动化
-    - [计算机 kèj-sʷàn-kɨj TP3-000-計目-Enhavo-Informadiko](./TP3-000-計目-Enhavo-Informadiko.md)
+    - [计算机 kèj-sʷàn-kɨj TP3-000-计目-Enhav-Informdk](./TP3-000-计目-Enhav-Informdk.md)
         - [TP312-Programado/TP3-12C++-C++](./TP312-Programado/TP3-12C++-C++.md)
         - [TP312-Programado/TP3-12PY-Python](./TP312-Programado/TP3-12PY-Python.md)
         - [TP312-Programado/TP3-12JA-Java](./TP312-Programado/TP3-12JA-Java.md) （含 软件系统开发综合）
         - 计算机辅助设计与制造、数值仿真
     - 人工智能(見計算機) ȵin-kᵒuŋ-ʈiè-nəŋ
-        - 大部入深学笔记本。 [TP1-81-深學-ProfundaLernado.md](./TP1-81-深學-ProfundaLernado.md)
-        - 传统方法入机学。 [TP1-81-機學-Maŝinlernado](./TP1-81-機學-Maŝinlernado.md)
-        - [H0-87-計語-NLP-NaturLingvaPrilaborado](./H0-87-計語-NLP-NaturLingvaPrilaborado.md)
-        - [TP2-74-數據-DatumScienco](./TP2-74-數據-DatumScienco.md)
+        - 大部入深学笔记本。 [TP1-81-深学-ProfndLern.md](./TP1-81-深学-ProfndLern.md)
+        - 传统方法入机学。 [TP1-81-机学-Maŝinlern](./TP1-81-机学-Maŝinlern.md)
+        - [H0-87-计语-NLP-NaturLingvPrilabor](./H0-87-计语-NLP-NaturLingvPrilabor.md)
+        - [TP2-74-数据-DatumScienco](./TP2-74-数据-DatumScienco.md)
         - [TP1-8-智具-AIIloj](./TP1-8-智具-AIIloj.md)
     - 数学 ʂuò-ʁoˤk
-        - [O1-51.2-線代-LinearaAlgebro.md](./O1-51.2-線代-LinearaAlgebro.md)
+        - [O1-51.2-线代-LinearaAlgebro.md](./O1-51.2-线代-LinearaAlgebro.md)
     - 材料 dzəj-lèw
         - 金属材料、复合材料、高分子材料、纳米材料、功能材料；能源：能源转换、可再生能源、能量储存、环境控制与热管理
         - 微纳米机械系统（MEMS/NEMS）：微机电系统（MEMS）、纳机电系统（NEMS）、生物医学机械学
 - ngyo 语言及语言学 ŋɨó-ŋɨon [H-Lingvo-LeguMin](./H-Lingvo/README.md)
-    - [zh-ltc 中古漢語](./H-Lingvo/H-zh-ltc-中漢-MezaĈinaFonologio.md)
+    - [zh-ltc 中古汉语](./H-Lingvo/H-zh-ltc-中汉-MezaĈinaFonologio.md)
     - [zh-hza菏](./H-Lingvo/H-zh-cmn-zgyu-菏-Heze.md)
-    - [zh-yue粤](./H-Lingvo/H-zh-yue-粵-Kantona.md)
+    - [zh-yue粤](./H-Lingvo/H-zh-yue-粤-Kantona.md)
     - [en英](./H-Lingvo/H-en-Angla.md)
     - [ja日](./H-Lingvo/H-ja-日-Japana.md)
     - [de德](./H-Lingvo/H-de-德-Germana.md)
     - [eo世](./H-Lingvo/H-eo-冀-Esperanto.md)
-    - [ko韩](./H-Lingvo/H-ko-韓-Korean.md)
+    - [ko韩](./H-Lingvo/H-ko-韩-Korean.md)
     - [vi越](./H-Lingvo/H-vi-越-Vjetnama.md)
-    - [诸语基 BazojDeLingvoj](./H-Lingvo/H0-9-諸基-BazojDeLingvoj.md)
+    - [诸语基 BazojDeLingvoj](./H-Lingvo/H0-9-诸基-BazojDeLingvoj.md)
     - 诸语基课本 [Tekstaro](./H-Lingvo/H0-9-Kernoj/Tekstaro.md)
         - 网页版便于筛选具体语言 https://studling.pustot.com/#/multi/tekstaro
     - [KernVortojKernLing.csv 要语基词](./H-Lingvo/H0-9-Kernoj/KernVortojKernLing.csv)
-    - [fr法](./H-Lingvo/H-fr-法-Franca.md)  [es西](./H-Lingvo/H-es-西-Hispana.md)  [ru俄](./H-Lingvo/H-ru-俄-Rusa.md)  [ar阿](./H-Lingvo/H-ar-阿-Araba.md)  [zh-wuu吳](./H-Lingvo/H-zh-wuu-吳-Wu.md)  [zh-sph石](./H-Lingvo/H-zh-cmn-xghu-石-Shiping.md)
-- kejk 计科目录 kèj-sʷàn-kɨj [TP3-000-計目-Enhavo-Informadiko](./TP3-000-計目-Enhavo-Informadiko.md)
+    - [fr法](./H-Lingvo/H-fr-法-Franca.md)  [es西](./H-Lingvo/H-es-西-Hispana.md)  [ru俄](./H-Lingvo/H-ru-俄-Rusa.md)  [ar阿](./H-Lingvo/H-ar-阿-Araba.md)  [zh-wuu吴](./H-Lingvo/H-zh-wuu-吴-Wu.md)  [zh-sph石](./H-Lingvo/H-zh-cmn-xghu-石-Shiping.md)
+- kejk 计科目录 kèj-sʷàn-kɨj [TP3-000-计目-Enhav-Informdk](./TP3-000-计目-Enhav-Informdk.md)
     - NLP & AI
-        - 計語 Computerlinguistik [H0-87-計語-NLP-NaturLingvaPrilaborado](./H0-87-計語-NLP-NaturLingvaPrilaborado.md)
-        - [TP1-81-機學-Maŝinlernado](./TP1-81-機學-Maŝinlernado.md)
-        - [TP2-74-數據-DatumScienco](./TP2-74-數據-DatumScienco.md) （UCB Data100）
+        - 計語 Computerlinguistik [H0-87-计语-NLP-NaturLingvPrilabor](./H0-87-计语-NLP-NaturLingvPrilabor.md)
+        - [TP1-81-机学-Maŝinlern](./TP1-81-机学-Maŝinlern.md)
+        - [TP2-74-数据-DatumScienco](./TP2-74-数据-DatumScienco.md) （UCB Data100）
         - [TP1-8-智具-AIIloj](./TP1-8-智具-AIIloj.md)
     - 基础 & 开发
-        - 數構算法 [TP3-01.6-構算-DatumstrukturoKAlgo](./TP3-01.6-構算-DatumstrukturoKAlgo.md)
+        - 數構算法 [TP3-01.6-构算-DatumstrukturoKAlgo](./TP3-01.6-构算-DatumstrukturoKAlgo.md)
         - OS [TP3-16-操系-Operaciumo](./TP3-16-操系-Operaciumo.md)
-        - Net [TP3-93-計網-KomputilaReto](./TP3-93-計網-KomputilaReto.md)
-        - DB [TP3-11.13--數庫-Datumbazo](./TP3-11.13-數庫-Datumbazo.md)
+        - Net [TP3-93-计网-KomptlReto](./TP3-93-计网-KomptlReto.md)
+        - DB [TP3-11.13-数库-Datumbazo](./TP3-11.13-数库-Datumbazo.md)
         - Dist [TP3-38.8-分布-分布-DisaSistemo](./TP3-38.8-分布-DisaSistemo.md)
-        - 軟工 [TP3-11.5-軟工-ProgramaraInĝenierarto](./TP3-11.5-軟工-ProgramaraInĝenierarto.md)
-        - [TP3-11-設模-DesignPattern](./TP3-11-設模-DesignPattern.md)
+        - 軟工 [TP3-11.5-软工-SftwInĝe](./TP3-11.5-软工-SftwInĝe.md)
+        - [TP3-11-设模-DesignPattern](./TP3-11-设模-DesignPattern.md)
         - [TP312-Programado/TP3-12C++-C++](./TP312-Programado/TP3-12C++-C++.md)
         - [TP312-Programado/TP3-12PY-Python](./TP312-Programado/TP3-12PY-Python.md)
         - [TP312-Programado/TP3-12JA-Java](./TP312-Programado/TP3-12JA-Java.md)
-- dihl 地理 dì-lɨ́ [K9--地理-Geografio](./K9-地理-Geografio.md)
+- dihl 地理 dì-lɨ́ [K9-地理-Geografio](./K9-地理-Geografio.md)
     - 旅行 [K9-19-旅行-Vojaĝado](./K9-19-旅行-Vojaĝado.md)
 - [lek-ʂɨ́ K1-08-史表-MondaHistorioKalendaro](./K1-08-史表-MondaHistorioKalendaro.md)
 
