@@ -1,24 +1,24 @@
 # Kolekto | 收藏夹
 
-- [zh-ltc 中古汉语](./H-zh-ltc-中汉-MezaĈinaFonologio.md)
+- [zh-ltc中古汉语](./H-zh-ltc-中汉-MezaĈinaFonologio.md)
 - [zh-hza菏](./H-zh-cmn-zgyu-菏-Heze.md)
-- [zh-yue粤](./H-zh-yue-粤-Kantona.md)
 - [en英](./H-en-Angla.md)
 - [ja日](./H-ja-日-Japana.md)
 - [de德](./H-de-德-Germana.md)
 - [eo世](./H-eo-冀-Esperanto.md)
+- [ru俄](./H-ru-俄-Rusa.md)
+- [fr法](./H-fr-法-Franca.md)
 - [ko韩](./H-ko-韩-Korean.md)
 - [vi越](./H-vi-越-Vjetnama.md)
 - [BazojDeLingvoj 诸语基](./H0-9-诸基-BazojDeLingvoj.md)
 - 诸语基课本 [Tekstaro](./H0-9-Kernoj/Tekstaro.md)
     - 网页版便于筛选具体语言 https://studling.pustot.com/#/multi/tekstaro
 - [KernVortojKernLing.csv 要语基词](./H0-9-Kernoj/KernVortojKernLing.csv)
-- [fr法](./H-fr-法-Franca.md)
 - [es西](./H-es-西-Hispana.md)
-- [ru俄](./H-ru-俄-Rusa.md)
 - [ar阿](./H-ar-阿-Araba.md)
-- [zh-wuu](./H-zh-wuu-吴-Wu.md)
-- [zh-sph](./H-zh-cmn-xghu-石-Shiping.md)
+- [zh-yue粤](./H-zh-yue-粤-Kantona.md)
+- [zh-wuu吴](./H-zh-wuu-吴-Wu.md)
+- [zh-sph石](./H-zh-cmn-xghu-石-Shiping.md)
 
 # nexus
 
