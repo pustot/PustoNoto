@@ -34,20 +34,21 @@ Prendi notojn pri scioj, speciale tiuj lernitaj kaj uzataj nur okaze, sed signif
         - 金属材料、复合材料、高分子材料、纳米材料、功能材料；能源：能源转换、可再生能源、能量储存、环境控制与热管理
         - 微纳米机械系统（MEMS/NEMS）：微机电系统（MEMS）、纳机电系统（NEMS）、生物医学机械学
 - ngyo 语言及语言学 ŋɨó-ŋɨon [H-Lingvo-LeguMin](./H-Lingvo/README.md)
-    - [zh-ltc 中古汉语](./H-Lingvo/H-zh-ltc-中汉-MezaĈinaFonologio.md)
+    - [zh-ltc中古汉语](./H-Lingvo/H-zh-ltc-中汉-MezaĈinaFonologio.md)
     - [zh-hza菏](./H-Lingvo/H-zh-cmn-zgyu-菏-Heze.md)
-    - [zh-yue粤](./H-Lingvo/H-zh-yue-粤-Kantona.md)
     - [en英](./H-Lingvo/H-en-Angla.md)
     - [ja日](./H-Lingvo/H-ja-日-Japana.md)
     - [de德](./H-Lingvo/H-de-德-Germana.md)
     - [eo世](./H-Lingvo/H-eo-冀-Esperanto.md)
+    - [ru俄](./H-Lingvo/H-ru-俄-Rusa.md)  
+    - [fr法](./H-Lingvo/H-fr-法-Franca.md)  
     - [ko韩](./H-Lingvo/H-ko-韩-Korean.md)
     - [vi越](./H-Lingvo/H-vi-越-Vjetnama.md)
     - [诸语基 BazojDeLingvoj](./H-Lingvo/H0-9-诸基-BazojDeLingvoj.md)
     - 诸语基课本 [Tekstaro](./H-Lingvo/H0-9-Kernoj/Tekstaro.md)
         - 网页版便于筛选具体语言 https://studling.pustot.com/#/multi/tekstaro
     - [KernVortojKernLing.csv 要语基词](./H-Lingvo/H0-9-Kernoj/KernVortojKernLing.csv)
-    - [fr法](./H-Lingvo/H-fr-法-Franca.md)  [es西](./H-Lingvo/H-es-西-Hispana.md)  [ru俄](./H-Lingvo/H-ru-俄-Rusa.md)  [ar阿](./H-Lingvo/H-ar-阿-Araba.md)  [zh-wuu吴](./H-Lingvo/H-zh-wuu-吴-Wu.md)  [zh-sph石](./H-Lingvo/H-zh-cmn-xghu-石-Shiping.md)
+    - [es西](./H-Lingvo/H-es-西-Hispana.md)  [ar阿](./H-Lingvo/H-ar-阿-Araba.md) [zh-yue粤](./H-Lingvo/H-zh-yue-粤-Kantona.md) [zh-wuu吴](./H-Lingvo/H-zh-wuu-吴-Wu.md)  [zh-sph石](./H-Lingvo/H-zh-cmn-xghu-石-Shiping.md)
 - kejk 计科目录 kèj-sʷàn-kɨj [TP3-000-计目-Enhav-Informdk](./TP3-000-计目-Enhav-Informdk.md)
     - NLP & AI
         - 計語 Computerlinguistik [H0-87-计语-NLP-NaturLingvPrilabor](./H0-87-计语-NLP-NaturLingvPrilabor.md)
